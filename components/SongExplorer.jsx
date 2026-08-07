@@ -1,7 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+
+const STORAGE_KEY = "song-explorer-state";
 
 const ALPHABET = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ".split("");
 
@@ -52,6 +54,33 @@ export default function SongExplorer({ songs }) {
   const [tab, setTab] = useState("titles");
   const [query, setQuery] = useState("");
   const [letter, setLetter] = useState(null);
+  const [restored, setRestored] = useState(false);
+
+  // Επαναφορά της κατάστασης (tab/αναζήτηση/γράμμα) μετά από ανανέωση σελίδας,
+  // ώστε το F5 να μη σε ξαναπετάει στα "Τραγούδια" χάνοντας αυτό που έψαχνες.
+  useEffect(() => {
+    try {
+      const saved = sessionStorage.getItem(STORAGE_KEY);
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (parsed.tab) setTab(parsed.tab);
+        if (typeof parsed.query === "string") setQuery(parsed.query);
+        if (parsed.letter) setLetter(parsed.letter);
+      }
+    } catch {
+      // αγνόησε — απλώς ξεκινάμε από την προεπιλογή
+    }
+    setRestored(true);
+  }, []);
+
+  useEffect(() => {
+    if (!restored) return;
+    try {
+      sessionStorage.setItem(STORAGE_KEY, JSON.stringify({ tab, query, letter }));
+    } catch {
+      // αγνόησε (π.χ. private browsing χωρίς πρόσβαση σε storage)
+    }
+  }, [tab, query, letter, restored]);
 
   const composers = useMemo(() => uniqueNames(songs, ["composer"]), [songs]);
   const lyricists = useMemo(() => uniqueNames(songs, ["lyricist"]), [songs]);
