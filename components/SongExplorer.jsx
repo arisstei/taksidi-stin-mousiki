@@ -107,7 +107,7 @@ export default function SongExplorer({ songs }) {
       ? "Αναζήτησε στιχουργό…"
       : tab === "performers"
       ? "Αναζήτησε ερμηνευτή…"
-      : "Αναζήτησε τραγούδι, συνθέτη ή τραγουδιστή…";
+      : "Αναζήτησε τραγούδι…";
 
   const previewTitles = songs.slice(0, 4);
   const previewPerformers = performers.slice(0, 4);
@@ -221,7 +221,7 @@ export default function SongExplorer({ songs }) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={searchPlaceholder}
-          className="w-full rounded-full border border-black/15 px-5 py-3 text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
+          className="w-full truncate rounded-full border border-black/15 px-5 py-3 text-sm sm:text-base text-ink placeholder:text-ink/40 placeholder:truncate focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
         />
       </div>
 
