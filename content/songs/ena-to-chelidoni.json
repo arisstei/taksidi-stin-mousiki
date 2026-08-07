@@ -19,5 +19,17 @@
   "sources": [
     { "label": "ΤΟ ΒΗΜΑ", "url": "https://www.tovima.gr/2021/09/02/society/mikis-theodorakis-ena-to-xelidoni-tragoudisan-oi-ygeionomikoi-ekso-apo-to-ypourgeio-ygeias/" }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης",
+    "year": "1964",
+    "note": "Από το άλμπουμ «Το Άξιον Εστί».",
+    "videoUrl": "https://www.youtube.com/watch?v=8_nusCLnA-Q",
+    "videoLabel": "Γρηγόρης Μπιθικώτσης — Ένα το χελιδόνι (1964)"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true,
+    "note": "Η εκτέλεση Μπιθικώτση παραμένει η καθιερωμένη/πιο γνωστή εκδοχή."
+  },
+  "interviewVideo": null
 }

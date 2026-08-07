@@ -1,11 +1,11 @@
 {
   "slug": "aponi-zoi",
   "title": "Άπονη ζωή",
-  "composer": null,
+  "composer": "Σταύρος Ξαρχάκος",
   "lyricist": "Λευτέρης Παπαδόπουλος",
-  "year": null,
-  "performer": null,
-  "film": null,
+  "year": "1963",
+  "performer": "Γρηγόρης Μπιθικώτσης & Ρία Κούρτη",
+  "film": "«Τα κόκκινα φανάρια»",
   "status": "verified",
   "statusLabel": "Άμεσο παράθεμα του δημιουργού",
   "teaser": "Γιατί έγραφε για τη φτώχεια αντί για ρομαντικά θέματα; Η απάντηση ήταν προσωπική.",
@@ -17,7 +17,22 @@
   "quoteAttribution": "Λευτέρης Παπαδόπουλος, Athens Voice",
   "caveat": null,
   "sources": [
-    { "label": "Athens Voice", "url": "https://www.athensvoice.gr/politismos/mousiki/973649/leuteris-papadopoulos-egrapsa-gia-ti-ftoheia-giati-imoun-batiris-kai-mazi-mou-oli-i-ellada/" }
+    { "label": "Athens Voice", "url": "https://www.athensvoice.gr/politismos/mousiki/973649/leuteris-papadopoulos-egrapsa-gia-ti-ftoheia-giati-imoun-batiris-kai-mazi-mou-oli-i-ellada/" },
+    { "label": "thepoetsiloved (στοιχεία σύνθεσης & πρώτης εκτέλεσης)", "url": "https://thepoetsiloved.wordpress.com/2013/01/22/aponi-zwi-stavros-xarhakos-lefteris-papadopoulos-grigoris-bithikotsis-ria-kourti-george-zampetas-%CF%83%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82-%CE%BE%CE%B1%CF%81%CF%87%CE%AC%CE%BA%CE%BF%CF%82-%CE%BB/" }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης & Ρία Κούρτη",
+    "year": "1963",
+    "note": "Από την ταινία «Τα κόκκινα φανάρια».",
+    "videoUrl": "https://www.youtube.com/watch?v=4K8T8i2CcAU",
+    "videoLabel": "Γρηγόρης Μπιθικώτσης — Άπονη ζωή (1963)"
+  },
+  "famousPerformance": {
+    "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+    "note": "Μεταγενέστερη ερμηνεία που έγινε επίσης πολύ γνωστή στο ευρύ κοινό.",
+    "videoUrl": null,
+    "videoLabel": null
+  },
+  "interviewVideo": null
 }

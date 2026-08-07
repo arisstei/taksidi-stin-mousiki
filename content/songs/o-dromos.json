@@ -4,7 +4,7 @@
   "composer": "Μάνος Λοΐζος",
   "lyricist": "Κωστούλα Μητροπούλου",
   "year": "1974 (άλμπουμ «Τραγούδια του δρόμου»)",
-  "performer": null,
+  "performer": "Σούλα Μπιρμπίλη (πρώτη εκτέλεση, 1964)",
   "film": null,
   "status": "needs-source",
   "statusLabel": "Χρειάζεται πρωτογενής πηγή",
@@ -17,7 +17,23 @@
   "quoteAttribution": null,
   "caveat": "Δεν υπάρχει ακόμη πρωτογενές παράθεμα — μόνο δευτερογενή άρθρα.",
   "sources": [
-    { "label": "Alfavita", "url": "https://www.alfavita.gr/koinonia/298656_o-dromos-eihe-ti-diki-toy-istoria-o-axehastos-manos-loizos" }
+    { "label": "Alfavita", "url": "https://www.alfavita.gr/koinonia/298656_o-dromos-eihe-ti-diki-toy-istoria-o-axehastos-manos-loizos" },
+    { "label": "Cat Is Art — για το ποίημα/τραγούδι", "url": "https://www.catisart.gr/kostoyla-mitropoyloy-o-dromos/" },
+    { "label": "Discogs — δίσκος 1964/1965 με Σούλα Μπιρμπίλη", "url": "https://www.discogs.com/Μάνος-Λοΐζος-Κωστούλα-Μητροπούλου-Σούλα-Μπιρμπίλη-Ο-Δ/release/9464342" }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Σούλα Μπιρμπίλη",
+    "year": "1964",
+    "note": "45άρι σε ερμηνεία-μπαλάντα με φυσαρμόνικα και κιθάρα, στη Lyra — πριν το τραγούδι ενταχθεί στο άλμπουμ του Λοΐζου «Τραγούδια του δρόμου» (1974).",
+    "videoUrl": "https://www.youtube.com/watch?v=E4IjzkW2wqw",
+    "videoLabel": "Σούλα Μπιρμπίλη — Ο δρόμος (1964)"
+  },
+  "famousPerformance": {
+    "performer": "Χάρις Αλεξίου & Δήμητρα Γαλάνη",
+    "note": "Ντουέτο που καθιέρωσε το τραγούδι στο ευρύ κοινό.",
+    "videoUrl": "https://www.youtube.com/watch?v=b-wfZlddhBc",
+    "videoLabel": "Χάρις Αλεξίου & Δήμητρα Γαλάνη — Ο δρόμος (Official Audio)"
+  },
+  "interviewVideo": null
 }

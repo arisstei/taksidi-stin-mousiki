@@ -19,5 +19,17 @@
   "sources": [
     { "label": "ΤΟ ΒΗΜΑ — με το παράθεμα από τον Ταχυδρόμο 1975", "url": "https://www.tovima.gr/2025/10/21/istoriko-arxeio/dionysis-savvopoulos-otan-kykloforise-to-perivoli-tou-trelou/" }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Διονύσης Σαββόπουλος",
+    "year": "1969",
+    "note": "Ομώνυμο άλμπουμ, κυκλοφόρησε 21 Οκτωβρίου 1969.",
+    "videoUrl": "https://www.youtube.com/watch?v=3I3nTbA34Ps",
+    "videoLabel": "Το περιβόλι του τρελού — πλήρες άλμπουμ 1969 (πρώτο κομμάτι)"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true,
+    "note": "Δεν εντοπίστηκε ευρέως γνωστή διασκευή από άλλον καλλιτέχνη — η εκτέλεση του ίδιου του Σαββόπουλου παραμένει η καθιερωμένη."
+  },
+  "interviewVideo": null
 }

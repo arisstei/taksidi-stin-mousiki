@@ -28,5 +28,20 @@
     { "label": "Menshouse — πλήρης διάλογος Zonar's + βίντεο", "url": "https://menshouse.gr/mousiki/193834/ayto-to-kommati-einai-orfano-apo-patera-o-periergos-logos-poy-othise-ton-chatzidaki-n-apokiryxei-to-pio-agapito-tragoydi-toy" },
     { "label": "YouTube — βίντεο Zonar's 1993", "url": "https://www.youtube.com/watch?v=ZZsT29oXpTQ" }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Μελίνα Μερκούρη",
+    "year": "1960",
+    "note": "Στην ταινία «Ποτέ την Κυριακή» του Ζιλ Ντασέν — η σκηνή όπου η ηρωίδα νοσταλγεί τον Πειραιά.",
+    "videoUrl": "https://www.youtube.com/watch?v=DyPs49e1V3c",
+    "videoLabel": "Μελίνα Μερκούρη — Τα παιδιά του Πειραιά (σκηνή από την ταινία)"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true,
+    "note": "Η εκτέλεση της Μερκούρη παραμένει η πιο διάσημη — κέρδισε το Όσκαρ Καλύτερου Πρωτότυπου Τραγουδιού και έγινε παγκοσμίως γνωστή στα αγγλικά ως «Never on Sunday»."
+  },
+  "interviewVideo": {
+    "url": "https://www.youtube.com/watch?v=ZZsT29oXpTQ",
+    "label": "Χατζιδάκις & Μερκούρη στο Zonar's, 1993 — η τελευταία καταγεγραμμένη συνάντησή τους"
+  }
 }
