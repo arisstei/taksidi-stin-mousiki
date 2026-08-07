@@ -7,6 +7,7 @@ const ALPHABET = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ".split("");
 
 const TABS = [
   { key: "composers", label: "Συνθέτες" },
+  { key: "lyricists", label: "Στιχουργοί" },
   { key: "performers", label: "Ερμηνευτές" },
   { key: "titles", label: "Τραγούδια" },
 ];
@@ -40,13 +41,18 @@ export default function SongExplorer({ songs }) {
   const [query, setQuery] = useState("");
   const [letter, setLetter] = useState(null);
 
-  const composers = useMemo(
-    () => uniqueNames(songs, ["composer", "lyricist"]),
-    [songs]
-  );
+  const composers = useMemo(() => uniqueNames(songs, ["composer"]), [songs]);
+  const lyricists = useMemo(() => uniqueNames(songs, ["lyricist"]), [songs]);
   const performers = useMemo(() => uniqueNames(songs, ["performer"]), [songs]);
 
-  const names = tab === "composers" ? composers : tab === "performers" ? performers : null;
+  const names =
+    tab === "composers"
+      ? composers
+      : tab === "lyricists"
+      ? lyricists
+      : tab === "performers"
+      ? performers
+      : null;
 
   const availableLetters = useMemo(() => {
     const source = tab === "titles" ? songs.map((s) => s.title) : names || [];
@@ -89,14 +95,15 @@ export default function SongExplorer({ songs }) {
 
   const previewTitles = songs.slice(0, 4);
   const previewPerformers = performers.slice(0, 4);
-  const previewCreators = composers.slice(0, 4);
+  const previewComposers = composers.slice(0, 4);
+  const previewLyricists = lyricists.slice(0, 4);
 
   return (
     <div>
       <div className="max-w-3xl mx-auto text-center mb-3">
         <p className="text-xs text-ink/45">
-          Στη συλλογή: {songs.length} τραγούδια · {composers.length} συνθέτες/στιχουργοί ·{" "}
-          {performers.length} ερμηνευτές
+          Στη συλλογή: {songs.length} τραγούδια · {composers.length} συνθέτες ·{" "}
+          {lyricists.length} στιχουργοί · {performers.length} ερμηνευτές
         </p>
       </div>
 
@@ -104,7 +111,41 @@ export default function SongExplorer({ songs }) {
         <h2 className="text-center text-xs font-semibold text-ink/40 uppercase tracking-wide mb-4">
           Μια πρώτη ματιά
         </h2>
-        <div className="grid sm:grid-cols-3 gap-8">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
+          <div>
+            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
+              Συνθέτες
+            </h3>
+            <ul className="space-y-1.5">
+              {previewComposers.map((name) => (
+                <li key={name}>
+                  <button
+                    onClick={() => goToName(name)}
+                    className="text-sm text-ink/70 hover:text-brand hover:underline text-left"
+                  >
+                    {name}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
+              Στιχουργοί
+            </h3>
+            <ul className="space-y-1.5">
+              {previewLyricists.map((name) => (
+                <li key={name}>
+                  <button
+                    onClick={() => goToName(name)}
+                    className="text-sm text-ink/70 hover:text-brand hover:underline text-left"
+                  >
+                    {name}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
           <div>
             <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
               Ερμηνευτές
@@ -139,27 +180,10 @@ export default function SongExplorer({ songs }) {
               ))}
             </ul>
           </div>
-          <div>
-            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
-              Δημιουργοί
-            </h3>
-            <ul className="space-y-1.5">
-              {previewCreators.map((name) => (
-                <li key={name}>
-                  <button
-                    onClick={() => goToName(name)}
-                    className="text-sm text-ink/70 hover:text-brand hover:underline text-left"
-                  >
-                    {name}
-                  </button>
-                </li>
-              ))}
-            </ul>
-          </div>
         </div>
       </div>
 
-      <div className="flex justify-center gap-1 mb-6 max-w-md mx-auto bg-white/60 border border-black/10 rounded-full p-1">
+      <div className="flex justify-center gap-1 mb-6 max-w-lg mx-auto bg-white/60 border border-black/10 rounded-full p-1">
         {TABS.map((t) => (
           <button
             key={t.key}
