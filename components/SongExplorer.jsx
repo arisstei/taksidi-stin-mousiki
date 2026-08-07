@@ -77,9 +77,16 @@ export default function SongExplorer({ songs }) {
 
   const filteredNames = useMemo(() => {
     if (!names) return [];
-    if (!letter) return names;
-    return names.filter((n) => normalize(n).startsWith(letter));
-  }, [names, letter]);
+    let list = names;
+    if (letter) {
+      list = list.filter((n) => normalize(n).startsWith(letter));
+    }
+    if (query.trim()) {
+      const q = normalize(query.trim());
+      list = list.filter((n) => normalize(n).includes(q));
+    }
+    return list;
+  }, [names, letter, query]);
 
   function goToName(name) {
     setQuery(name);
@@ -90,8 +97,17 @@ export default function SongExplorer({ songs }) {
   function switchTab(key) {
     setTab(key);
     setLetter(null);
-    if (key !== "titles") setQuery("");
+    setQuery("");
   }
+
+  const searchPlaceholder =
+    tab === "composers"
+      ? "Αναζήτησε συνθέτη…"
+      : tab === "lyricists"
+      ? "Αναζήτησε στιχουργό…"
+      : tab === "performers"
+      ? "Αναζήτησε ερμηνευτή…"
+      : "Αναζήτησε τραγούδι, συνθέτη ή τραγουδιστή…";
 
   const previewTitles = songs.slice(0, 4);
   const previewPerformers = performers.slice(0, 4);
@@ -199,17 +215,15 @@ export default function SongExplorer({ songs }) {
         ))}
       </div>
 
-      {tab === "titles" && (
-        <div className="max-w-xl mx-auto text-center mb-6">
-          <input
-            type="text"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Αναζήτησε τραγούδι, συνθέτη ή τραγουδιστή…"
-            className="w-full rounded-full border border-black/15 px-5 py-3 text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
-          />
-        </div>
-      )}
+      <div className="max-w-xl mx-auto text-center mb-6">
+        <input
+          type="text"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder={searchPlaceholder}
+          className="w-full rounded-full border border-black/15 px-5 py-3 text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
+        />
+      </div>
 
       <div className="flex flex-wrap justify-center gap-1.5 mb-10 max-w-2xl mx-auto">
         <button
