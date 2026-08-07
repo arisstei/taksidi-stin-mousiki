@@ -109,6 +109,15 @@ export default function SongExplorer({ songs }) {
       ? "Αναζήτησε ερμηνευτή…"
       : "Αναζήτησε τραγούδι…";
 
+  const searchHint =
+    tab === "composers"
+      ? "Αναζήτηση με βάση το όνομα του συνθέτη"
+      : tab === "lyricists"
+      ? "Αναζήτηση με βάση το όνομα του στιχουργού"
+      : tab === "performers"
+      ? "Αναζήτηση με βάση το όνομα του ερμηνευτή"
+      : "Μπορείς να αναζητήσεις: τραγούδι, συνθέτη, στιχουργό ή ερμηνευτή";
+
   const previewTitles = songs.slice(0, 4);
   const previewPerformers = performers.slice(0, 4);
   const previewComposers = composers.slice(0, 4);
@@ -223,6 +232,7 @@ export default function SongExplorer({ songs }) {
           placeholder={searchPlaceholder}
           className="w-full truncate rounded-full border border-black/15 px-5 py-3 text-sm sm:text-base text-ink placeholder:text-ink/40 placeholder:truncate focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
         />
+        <p className="mt-2 text-xs text-ink/40">{searchHint}</p>
       </div>
 
       <div className="flex flex-wrap justify-center gap-1.5 mb-10 max-w-2xl mx-auto">
