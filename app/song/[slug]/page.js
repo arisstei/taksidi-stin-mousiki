@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getSongBySlug, getAllSlugs } from "@/lib/songs";
+import { SITE_URL, SITE_NAME } from "@/lib/site";
 
 function toEmbedUrl(url) {
   if (!url) return null;
@@ -67,10 +68,49 @@ export function generateStaticParams() {
 export function generateMetadata({ params }) {
   const song = getSongBySlug(params.slug);
   if (!song) return {};
+  const url = `${SITE_URL}/song/${song.slug}`;
   return {
-    title: `${song.title} — Ταξίδι στη Μουσική`,
+    title: song.title,
+    description: song.teaser,
+    alternates: { canonical: url },
+    openGraph: {
+      type: "article",
+      title: song.title,
+      description: song.teaser,
+      url,
+    },
+  };
+}
+
+function buildJsonLd(song, url) {
+  if (song.isProfile) {
+    return {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: song.title,
+      description: song.teaser,
+      url,
+      author: { "@type": "Organization", name: SITE_NAME },
+      publisher: { "@type": "Organization", name: SITE_NAME },
+    };
+  }
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "MusicComposition",
+    name: song.title,
+    url,
     description: song.teaser,
   };
+  if (song.composer) {
+    jsonLd.composer = { "@type": "Person", name: song.composer };
+  }
+  if (song.lyricist) {
+    jsonLd.lyricist = { "@type": "Person", name: song.lyricist };
+  }
+  if (song.year) {
+    jsonLd.dateCreated = String(song.year).slice(0, 4);
+  }
+  return jsonLd;
 }
 
 export default function SongPage({ params }) {
@@ -81,9 +121,16 @@ export default function SongPage({ params }) {
   const credits = [song.composer, song.lyricist]
     .filter((v, i, arr) => v && arr.indexOf(v) === i)
     .join(" / ");
+  const canonicalUrl = `${SITE_URL}/song/${song.slug}`;
+  const jsonLd = buildJsonLd(song, canonicalUrl);
 
   return (
     <article>
+      <script
+        type="application/ld+json"
+        // eslint-disable-next-line react/no-danger
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Link href="/" className="text-sm text-brand hover:underline">
         ← Όλα τα τραγούδια
       </Link>
