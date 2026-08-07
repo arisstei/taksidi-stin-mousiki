@@ -87,8 +87,78 @@ export default function SongExplorer({ songs }) {
     if (key !== "titles") setQuery("");
   }
 
+  const previewTitles = songs.slice(0, 4);
+  const previewPerformers = performers.slice(0, 4);
+  const previewCreators = composers.slice(0, 4);
+
   return (
     <div>
+      <div className="max-w-3xl mx-auto text-center mb-3">
+        <p className="text-xs text-ink/45">
+          Στη συλλογή: {songs.length} τραγούδια · {composers.length} συνθέτες/στιχουργοί ·{" "}
+          {performers.length} ερμηνευτές
+        </p>
+      </div>
+
+      <div className="max-w-3xl mx-auto mb-12">
+        <h2 className="text-center text-xs font-semibold text-ink/40 uppercase tracking-wide mb-4">
+          Μια πρώτη ματιά
+        </h2>
+        <div className="grid sm:grid-cols-3 gap-8">
+          <div>
+            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
+              Ερμηνευτές
+            </h3>
+            <ul className="space-y-1.5">
+              {previewPerformers.map((name) => (
+                <li key={name}>
+                  <button
+                    onClick={() => goToName(name)}
+                    className="text-sm text-ink/70 hover:text-brand hover:underline text-left"
+                  >
+                    {name}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
+              Τίτλοι
+            </h3>
+            <ul className="space-y-1.5">
+              {previewTitles.map((song) => (
+                <li key={song.slug}>
+                  <Link
+                    href={`/song/${song.slug}`}
+                    className="text-sm text-ink/70 hover:text-brand hover:underline"
+                  >
+                    {song.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
+              Δημιουργοί
+            </h3>
+            <ul className="space-y-1.5">
+              {previewCreators.map((name) => (
+                <li key={name}>
+                  <button
+                    onClick={() => goToName(name)}
+                    className="text-sm text-ink/70 hover:text-brand hover:underline text-left"
+                  >
+                    {name}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+
       <div className="flex justify-center gap-1 mb-6 max-w-md mx-auto bg-white/60 border border-black/10 rounded-full p-1">
         {TABS.map((t) => (
           <button
