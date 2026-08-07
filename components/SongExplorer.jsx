@@ -21,11 +21,23 @@ function normalize(str) {
     .toUpperCase();
 }
 
+// Αφαιρεί επεξηγηματικές παρενθέσεις (π.χ. "(μπουζούκι: ...)", "(πρώτη εκτέλεση, 1964)")
+// — αυτές οι λεπτομέρειες παραμένουν μέσα στο άρθρο, όχι στις λίστες ονομάτων.
+function stripAnnotations(str) {
+  if (!str) return "";
+  return str
+    .replace(/\s*\([^)]*\)/g, "")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+
 function uniqueNames(songs, fields) {
   const map = new Map();
   for (const song of songs) {
     for (const field of fields) {
-      const value = song[field];
+      const raw = song[field];
+      if (!raw) continue;
+      const value = stripAnnotations(raw);
       if (!value) continue;
       const key = normalize(value);
       if (!map.has(key)) map.set(key, value);
