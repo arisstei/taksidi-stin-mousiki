@@ -137,6 +137,33 @@ export default function SongExplorer({ songs }) {
 
   return (
     <div>
+      <div className="flex justify-center gap-1 mb-6 max-w-lg mx-auto bg-white/60 border border-black/10 rounded-full p-1">
+        {TABS.map((t) => (
+          <button
+            key={t.key}
+            onClick={() => switchTab(t.key)}
+            className={`flex-1 text-sm font-medium px-4 py-2 rounded-full transition-colors ${
+              tab === t.key
+                ? "bg-brand text-white"
+                : "text-ink/60 hover:text-ink"
+            }`}
+          >
+            {t.label}
+          </button>
+        ))}
+      </div>
+
+      <div className="max-w-xl mx-auto text-center mb-6">
+        <input
+          type="text"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder={searchPlaceholder}
+          className="w-full truncate rounded-full border border-black/15 px-5 py-3 text-sm sm:text-base text-ink placeholder:text-ink/40 placeholder:truncate focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
+        />
+        <p className="mt-2 text-xs text-ink/40">{searchHint}</p>
+      </div>
+
       <div className="max-w-3xl mx-auto text-center mb-3">
         <p className="text-xs text-ink/45">
           Στη συλλογή: {songs.length} τραγούδια · {composers.length} συνθέτες ·{" "}
@@ -146,7 +173,7 @@ export default function SongExplorer({ songs }) {
 
       <div className="max-w-3xl mx-auto mb-12">
         <h2 className="text-center text-xs font-semibold text-ink/40 uppercase tracking-wide mb-4">
-          Μια πρώτη ματιά
+          Δημοφιλέστερα Άρθρα
         </h2>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
@@ -218,33 +245,6 @@ export default function SongExplorer({ songs }) {
             </ul>
           </div>
         </div>
-      </div>
-
-      <div className="flex justify-center gap-1 mb-6 max-w-lg mx-auto bg-white/60 border border-black/10 rounded-full p-1">
-        {TABS.map((t) => (
-          <button
-            key={t.key}
-            onClick={() => switchTab(t.key)}
-            className={`flex-1 text-sm font-medium px-4 py-2 rounded-full transition-colors ${
-              tab === t.key
-                ? "bg-brand text-white"
-                : "text-ink/60 hover:text-ink"
-            }`}
-          >
-            {t.label}
-          </button>
-        ))}
-      </div>
-
-      <div className="max-w-xl mx-auto text-center mb-6">
-        <input
-          type="text"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder={searchPlaceholder}
-          className="w-full truncate rounded-full border border-black/15 px-5 py-3 text-sm sm:text-base text-ink placeholder:text-ink/40 placeholder:truncate focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
-        />
-        <p className="mt-2 text-xs text-ink/40">{searchHint}</p>
       </div>
 
       <div className="flex flex-wrap justify-center gap-1.5 mb-10 max-w-2xl mx-auto">
