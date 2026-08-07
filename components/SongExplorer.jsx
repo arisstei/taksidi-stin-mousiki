@@ -202,7 +202,7 @@ export default function SongExplorer({ songs }) {
 
       <div className="max-w-3xl mx-auto mb-12">
         <h2 className="text-center text-xs font-semibold text-ink/40 uppercase tracking-wide mb-4">
-          Δημοφιλέστερα Άρθρα
+          Δημοφιλή
         </h2>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
@@ -327,49 +327,25 @@ export default function SongExplorer({ songs }) {
           Δεν βρέθηκαν τραγούδια για αυτή την αναζήτηση.
         </p>
       ) : (
-        <section className="space-y-6">
+        <section className="max-w-2xl mx-auto divide-y divide-black/10 border-t border-b border-black/10">
           {filteredSongs.map((song) => (
             <Link
               key={song.slug}
               href={`/song/${song.slug}`}
-              className="block group border border-black/10 rounded-lg p-5 bg-white/60 hover:bg-white hover:border-brand/40 transition-colors"
+              className="flex items-baseline justify-between gap-4 py-3 px-2 hover:bg-white/60 transition-colors group"
             >
-              <div className="flex items-start justify-between gap-4">
-                <div>
-                  <h2 className="font-serif text-xl text-ink group-hover:text-brand transition-colors">
-                    {song.title}
-                  </h2>
-                  <p className="text-sm text-ink/60 mt-1">
-                    {[song.composer, song.lyricist]
-                      .filter((v, i, arr) => v && arr.indexOf(v) === i)
-                      .join(" / ")}
-                    {song.year ? ` · ${song.year}` : ""}
-                    {song.performer ? ` · ${song.performer}` : ""}
-                  </p>
-                </div>
-                <StatusBadge status={song.status} label={song.statusLabel} />
-              </div>
-              <p className="text-ink/70 mt-3 leading-relaxed">{song.teaser}</p>
+              <span className="font-serif text-lg text-ink group-hover:text-brand transition-colors">
+                {song.title}
+              </span>
+              <span className="text-sm text-ink/50 whitespace-nowrap shrink-0">
+                {[song.composer, song.lyricist]
+                  .filter((v, i, arr) => v && arr.indexOf(v) === i)
+                  .join(" - ")}
+              </span>
             </Link>
           ))}
         </section>
       )}
     </div>
-  );
-}
-
-function StatusBadge({ status, label }) {
-  const isVerified = status === "verified";
-  return (
-    <span
-      className={`shrink-0 text-xs font-medium px-2.5 py-1 rounded-full whitespace-nowrap ${
-        isVerified
-          ? "bg-green-100 text-green-800"
-          : "bg-amber-100 text-amber-800"
-      }`}
-      title={label}
-    >
-      {isVerified ? "✅ Τεκμηριωμένο" : "⚠️ Προς επιβεβαίωση"}
-    </span>
   );
 }
