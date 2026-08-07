@@ -5,6 +5,12 @@ import { useMemo, useState } from "react";
 
 const ALPHABET = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ".split("");
 
+const TABS = [
+  { key: "composers", label: "Συνθέτες" },
+  { key: "performers", label: "Ερμηνευτές" },
+  { key: "titles", label: "Τραγούδια" },
+];
+
 function normalize(str) {
   if (!str) return "";
   return str
@@ -14,16 +20,40 @@ function normalize(str) {
     .toUpperCase();
 }
 
+function uniqueNames(songs, fields) {
+  const map = new Map();
+  for (const song of songs) {
+    for (const field of fields) {
+      const value = song[field];
+      if (!value) continue;
+      const key = normalize(value);
+      if (!map.has(key)) map.set(key, value);
+    }
+  }
+  return Array.from(map.values()).sort((a, b) =>
+    normalize(a).localeCompare(normalize(b), "el")
+  );
+}
+
 export default function SongExplorer({ songs }) {
+  const [tab, setTab] = useState("titles");
   const [query, setQuery] = useState("");
   const [letter, setLetter] = useState(null);
 
-  const availableLetters = useMemo(() => {
-    const set = new Set(songs.map((s) => normalize(s.title).charAt(0)));
-    return set;
-  }, [songs]);
+  const composers = useMemo(
+    () => uniqueNames(songs, ["composer", "lyricist"]),
+    [songs]
+  );
+  const performers = useMemo(() => uniqueNames(songs, ["performer"]), [songs]);
 
-  const filtered = useMemo(() => {
+  const names = tab === "composers" ? composers : tab === "performers" ? performers : null;
+
+  const availableLetters = useMemo(() => {
+    const source = tab === "titles" ? songs.map((s) => s.title) : names || [];
+    return new Set(source.map((s) => normalize(s).charAt(0)));
+  }, [songs, names, tab]);
+
+  const filteredSongs = useMemo(() => {
     let list = songs;
     if (letter) {
       list = list.filter((s) => normalize(s.title).startsWith(letter));
@@ -39,17 +69,53 @@ export default function SongExplorer({ songs }) {
     return list;
   }, [songs, query, letter]);
 
+  const filteredNames = useMemo(() => {
+    if (!names) return [];
+    if (!letter) return names;
+    return names.filter((n) => normalize(n).startsWith(letter));
+  }, [names, letter]);
+
+  function goToName(name) {
+    setQuery(name);
+    setLetter(null);
+    setTab("titles");
+  }
+
+  function switchTab(key) {
+    setTab(key);
+    setLetter(null);
+    if (key !== "titles") setQuery("");
+  }
+
   return (
     <div>
-      <div className="max-w-xl mx-auto text-center mb-6">
-        <input
-          type="text"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Αναζήτησε τραγούδι, συνθέτη ή τραγουδιστή…"
-          className="w-full rounded-full border border-black/15 px-5 py-3 text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
-        />
+      <div className="flex justify-center gap-1 mb-6 max-w-md mx-auto bg-white/60 border border-black/10 rounded-full p-1">
+        {TABS.map((t) => (
+          <button
+            key={t.key}
+            onClick={() => switchTab(t.key)}
+            className={`flex-1 text-sm font-medium px-4 py-2 rounded-full transition-colors ${
+              tab === t.key
+                ? "bg-brand text-white"
+                : "text-ink/60 hover:text-ink"
+            }`}
+          >
+            {t.label}
+          </button>
+        ))}
       </div>
+
+      {tab === "titles" && (
+        <div className="max-w-xl mx-auto text-center mb-6">
+          <input
+            type="text"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Αναζήτησε τραγούδι, συνθέτη ή τραγουδιστή…"
+            className="w-full rounded-full border border-black/15 px-5 py-3 text-ink placeholder:text-ink/40 focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
+          />
+        </div>
+      )}
 
       <div className="flex flex-wrap justify-center gap-1.5 mb-10 max-w-2xl mx-auto">
         <button
@@ -81,13 +147,29 @@ export default function SongExplorer({ songs }) {
         })}
       </div>
 
-      {filtered.length === 0 ? (
+      {tab !== "titles" ? (
+        filteredNames.length === 0 ? (
+          <p className="text-center text-ink/50 py-10">Δεν βρέθηκαν ονόματα.</p>
+        ) : (
+          <div className="max-w-2xl mx-auto grid sm:grid-cols-2 gap-2">
+            {filteredNames.map((name) => (
+              <button
+                key={name}
+                onClick={() => goToName(name)}
+                className="text-left px-4 py-3 rounded-lg border border-black/10 bg-white/60 hover:bg-white hover:border-brand/40 transition-colors text-ink"
+              >
+                {name}
+              </button>
+            ))}
+          </div>
+        )
+      ) : filteredSongs.length === 0 ? (
         <p className="text-center text-ink/50 py-10">
           Δεν βρέθηκαν τραγούδια για αυτή την αναζήτηση.
         </p>
       ) : (
         <section className="space-y-6">
-          {filtered.map((song) => (
+          {filteredSongs.map((song) => (
             <Link
               key={song.slug}
               href={`/song/${song.slug}`}
