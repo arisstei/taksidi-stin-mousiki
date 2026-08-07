@@ -102,6 +102,12 @@ export default function SongExplorer({ songs }) {
 
   const filteredSongs = useMemo(() => {
     let list = songs;
+    // Άρθρα-προφίλ (π.χ. συνέντευξη, όχι ιστορία συγκεκριμένου τραγουδιού) δεν
+    // εμφανίζονται στη γενική περιήγηση τίτλων — μόνο όταν κάποιος ψάχνει
+    // ενεργά (π.χ. πατώντας το όνομα του/της δημιουργού).
+    if (!query.trim()) {
+      list = list.filter((s) => !s.isProfile);
+    }
     if (letter) {
       list = list.filter((s) => normalize(s.title).startsWith(letter));
     }
@@ -159,10 +165,12 @@ export default function SongExplorer({ songs }) {
       ? "Αναζήτηση με βάση το όνομα του ερμηνευτή"
       : "Μπορείς να αναζητήσεις: τραγούδι, συνθέτη, στιχουργό ή ερμηνευτή";
 
-  const previewTitles = songs.slice(0, 4);
-  const previewPerformers = performers.slice(0, 4);
-  const previewComposers = composers.slice(0, 4);
-  const previewLyricists = lyricists.slice(0, 4);
+  const PREVIEW_COUNT = 5;
+  const previewTitles = songs.filter((s) => !s.isProfile).slice(0, PREVIEW_COUNT);
+  const previewPerformers = performers.slice(0, PREVIEW_COUNT);
+  const previewComposers = composers.slice(0, PREVIEW_COUNT);
+  const previewLyricists = lyricists.slice(0, PREVIEW_COUNT);
+  const songCount = songs.filter((s) => !s.isProfile).length;
 
   return (
     <div>
@@ -195,7 +203,7 @@ export default function SongExplorer({ songs }) {
 
       <div className="max-w-3xl mx-auto text-center mb-3">
         <p className="text-xs text-ink/45">
-          Στη συλλογή: {songs.length} τραγούδια · {composers.length} συνθέτες ·{" "}
+          Στη συλλογή: {songCount} τραγούδια · {composers.length} συνθέτες ·{" "}
           {lyricists.length} στιχουργοί · {performers.length} ερμηνευτές
         </p>
       </div>
