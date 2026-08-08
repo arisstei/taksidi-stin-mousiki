@@ -159,6 +159,24 @@ export default function SongPage({ params }) {
         </span>
       </header>
 
+      {song.historicalPhoto && (
+        <div className="mb-8 border border-black/10 rounded-lg p-4 bg-gold-light/60">
+          <p className="text-ink/80 text-sm leading-relaxed italic">
+            {song.historicalPhoto.caption}
+          </p>
+          {song.historicalPhoto.sourceUrl && (
+            <a
+              href={song.historicalPhoto.sourceUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="inline-block mt-2 text-xs font-medium text-brand hover:underline"
+            >
+              {song.historicalPhoto.sourceLabel || "Δες την πηγή"} →
+            </a>
+          )}
+        </div>
+      )}
+
       <div className="prose-like space-y-5">
         {song.story.map((p, i) => (
           <p key={i} className="text-ink/85 leading-relaxed">
