@@ -7,12 +7,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ink: "#1b1b1b",
-        cream: "#faf6ee",
+        ink: "#241b16",
+        cream: "#faf5ea",
         brand: {
-          DEFAULT: "#2E5C8A",
-          dark: "#1f3f60",
-          light: "#e8eef5",
+          DEFAULT: "#8c3a3a",
+          dark: "#5e2626",
+          light: "#f3e3e0",
+        },
+        gold: {
+          DEFAULT: "#b8863c",
+          light: "#f2e6d0",
         },
       },
       fontFamily: {

@@ -29,6 +29,7 @@ export default function RootLayout({ children }) {
     <html lang="el">
       <body className="min-h-screen antialiased">
         <header className="border-b border-black/10 bg-cream/80 backdrop-blur sticky top-0 z-10">
+          <div className="h-[3px] bg-gradient-to-r from-brand via-gold to-brand" />
           <div className="mx-auto max-w-3xl px-6 py-5 flex items-center justify-between">
             <Link href="/" className="font-serif text-xl tracking-tight text-ink">
               Ταξίδι στη <span className="text-brand">Μουσική</span>

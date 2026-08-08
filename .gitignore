@@ -1,6 +1,6 @@
-*.log
-.DS_Store
-.env*.local
-.next
 node_modules
+.next
 out
+.env*.local
+.DS_Store
+*.log

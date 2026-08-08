@@ -7,6 +7,11 @@ html {
 }
 
 body {
-  background-color: #faf6ee;
-  color: #1b1b1b;
+  background-color: #faf5ea;
+  color: #241b16;
+}
+
+::selection {
+  background-color: #f3e3e0;
+  color: #5e2626;
 }
