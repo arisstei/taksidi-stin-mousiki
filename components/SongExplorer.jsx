@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { getSongThumbnail } from "@/lib/media";
 
 const STORAGE_KEY = "song-explorer-state";
 
@@ -323,7 +324,7 @@ export default function SongExplorer({ songs }) {
               <button
                 key={name}
                 onClick={() => goToName(name)}
-                className="text-left px-4 py-3 rounded-lg border border-black/10 bg-white/60 hover:bg-white hover:border-brand/40 transition-colors text-ink"
+                className="text-left px-4 py-3 rounded-lg border border-black/10 bg-white/60 hover:bg-white hover:border-brand/40 hover:shadow-sm hover:-translate-y-0.5 transition-all text-ink"
               >
                 {name}
               </button>
@@ -335,23 +336,41 @@ export default function SongExplorer({ songs }) {
           Δεν βρέθηκαν τραγούδια για αυτή την αναζήτηση.
         </p>
       ) : (
-        <section className="max-w-2xl mx-auto divide-y divide-black/10 border-t border-b border-black/10">
-          {filteredSongs.map((song) => (
-            <Link
-              key={song.slug}
-              href={`/song/${song.slug}`}
-              className="flex items-baseline justify-between gap-4 py-3 px-2 hover:bg-white/60 transition-colors group"
-            >
-              <span className="font-serif text-lg text-ink group-hover:text-brand transition-colors">
-                {song.title}
-              </span>
-              <span className="text-sm text-ink/50 whitespace-nowrap shrink-0">
-                {[song.composer, song.lyricist]
-                  .filter((v, i, arr) => v && arr.indexOf(v) === i)
-                  .join(" - ")}
-              </span>
-            </Link>
-          ))}
+        <section className="max-w-2xl mx-auto space-y-2.5">
+          {filteredSongs.map((song) => {
+            const thumb = getSongThumbnail(song);
+            return (
+              <Link
+                key={song.slug}
+                href={`/song/${song.slug}`}
+                className="flex items-center gap-4 p-2.5 rounded-lg border border-transparent hover:border-black/10 hover:bg-white hover:shadow-sm hover:-translate-y-0.5 transition-all group"
+              >
+                <div className="w-20 h-14 sm:w-24 sm:h-16 shrink-0 rounded-md overflow-hidden bg-brand-light flex items-center justify-center">
+                  {thumb ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={thumb}
+                      alt=""
+                      className="w-full h-full object-cover"
+                      loading="lazy"
+                    />
+                  ) : (
+                    <span className="text-brand/50 text-xl">♪</span>
+                  )}
+                </div>
+                <div className="min-w-0">
+                  <p className="font-serif text-lg text-ink group-hover:text-brand transition-colors truncate">
+                    {song.title}
+                  </p>
+                  <p className="text-sm text-ink/50 truncate">
+                    {[song.composer, song.lyricist]
+                      .filter((v, i, arr) => v && arr.indexOf(v) === i)
+                      .join(" - ")}
+                  </p>
+                </div>
+              </Link>
+            );
+          })}
         </section>
       )}
     </div>
