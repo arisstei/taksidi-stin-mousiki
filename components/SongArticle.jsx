@@ -99,20 +99,44 @@ export default function SongArticle({ song, lang = "el" }) {
       </header>
 
       {song.historicalPhoto && (
-        <div className="mb-8 border border-black/10 rounded-lg p-4 bg-gold-light/60">
-          <p className="text-ink/80 text-sm leading-relaxed italic">
-            {song.historicalPhoto.caption}
-          </p>
-          {song.historicalPhoto.sourceUrl && (
-            <a
-              href={song.historicalPhoto.sourceUrl}
-              target="_blank"
-              rel="noreferrer"
-              className="inline-block mt-2 text-xs font-medium text-brand hover:underline"
-            >
-              {song.historicalPhoto.sourceLabel || t.seeSource} →
-            </a>
-          )}
+        <div className="mb-10 relative overflow-hidden rounded-xl border border-gold/30 bg-gradient-to-br from-gold-light/70 via-cream to-brand-light/30 p-6 sm:p-8">
+          <div className="bg-dotted absolute inset-0 opacity-40 pointer-events-none" />
+          <div className="relative flex items-start gap-4 sm:gap-5">
+            <div className="shrink-0 w-12 h-12 rounded-full bg-white/90 border border-gold/40 flex items-center justify-center shadow-sm">
+              <svg
+                viewBox="0 0 24 24"
+                className="w-5 h-5 text-gold"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.6"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <rect x="2.5" y="6" width="19" height="14" rx="2" />
+                <path d="M8 6l1.6-2.4A1.5 1.5 0 0 1 10.85 3h2.3a1.5 1.5 0 0 1 1.25.6L15.7 6" />
+                <circle cx="12" cy="13" r="3.4" />
+              </svg>
+            </div>
+            <div className="min-w-0">
+              <p className="font-mono text-[11px] font-semibold text-gold uppercase tracking-[0.22em] mb-2">
+                {t.historicalPhotoLabel}
+              </p>
+              <p className="font-serif italic text-ink/85 leading-relaxed">
+                {song.historicalPhoto.caption}
+              </p>
+              {song.historicalPhoto.sourceUrl && (
+                <a
+                  href={song.historicalPhoto.sourceUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-1.5 mt-4 text-xs font-semibold uppercase tracking-wide px-4 py-2 rounded-full border border-gold text-gold hover:bg-gold hover:text-white transition-colors"
+                >
+                  {song.historicalPhoto.sourceLabel || t.seeSource}
+                  <span aria-hidden="true">→</span>
+                </a>
+              )}
+            </div>
+          </div>
         </div>
       )}
 
