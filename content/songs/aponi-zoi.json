@@ -17,8 +17,14 @@
   "quoteAttribution": "Λευτέρης Παπαδόπουλος, Athens Voice",
   "caveat": null,
   "sources": [
-    { "label": "Athens Voice", "url": "https://www.athensvoice.gr/politismos/mousiki/973649/leuteris-papadopoulos-egrapsa-gia-ti-ftoheia-giati-imoun-batiris-kai-mazi-mou-oli-i-ellada/" },
-    { "label": "thepoetsiloved (στοιχεία σύνθεσης & πρώτης εκτέλεσης)", "url": "https://thepoetsiloved.wordpress.com/2013/01/22/aponi-zwi-stavros-xarhakos-lefteris-papadopoulos-grigoris-bithikotsis-ria-kourti-george-zampetas-%CF%83%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82-%CE%BE%CE%B1%CF%81%CF%87%CE%AC%CE%BA%CE%BF%CF%82-%CE%BB/" }
+    {
+      "label": "Athens Voice",
+      "url": "https://www.athensvoice.gr/politismos/mousiki/973649/leuteris-papadopoulos-egrapsa-gia-ti-ftoheia-giati-imoun-batiris-kai-mazi-mou-oli-i-ellada/"
+    },
+    {
+      "label": "thepoetsiloved (στοιχεία σύνθεσης & πρώτης εκτέλεσης)",
+      "url": "https://thepoetsiloved.wordpress.com/2013/01/22/aponi-zwi-stavros-xarhakos-lefteris-papadopoulos-grigoris-bithikotsis-ria-kourti-george-zampetas-%CF%83%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82-%CE%BE%CE%B1%CF%81%CF%87%CE%AC%CE%BA%CE%BF%CF%82-%CE%BB/"
+    }
   ],
   "coverVideoUrl": null,
   "firstPerformance": {
@@ -34,5 +40,6 @@
     "videoUrl": "https://www.youtube.com/watch?v=SyKoVynxkio",
     "videoLabel": "Καζαντζίδης — Άπονη ζωή"
   },
-  "interviewVideo": null
+  "interviewVideo": null,
+  "grade": "A"
 }

@@ -15,3 +15,10 @@ body {
   background-color: #f3e3e0;
   color: #5e2626;
 }
+
+/* Διακριτικό, καθαρά CSS φόντο με στίγματα — καμία εξωτερική εικόνα,
+   δίνει "αρχειακή" υφή στην αρχική σελίδα χωρίς να βαραίνει το build. */
+.bg-dotted {
+  background-image: radial-gradient(rgba(36, 27, 22, 0.07) 1px, transparent 1px);
+  background-size: 20px 20px;
+}

@@ -18,9 +18,24 @@ module.exports = {
           DEFAULT: "#b8863c",
           light: "#f2e6d0",
         },
+        teal: {
+          DEFAULT: "#3f6d64",
+          light: "#e3ece9",
+        },
+        clay: {
+          DEFAULT: "#a15c3a",
+          light: "#f1e2d5",
+        },
       },
       fontFamily: {
         serif: ["Georgia", "'Times New Roman'", "serif"],
+        mono: [
+          "'Courier New'",
+          "Consolas",
+          "Menlo",
+          "'Liberation Mono'",
+          "monospace",
+        ],
       },
     },
   },

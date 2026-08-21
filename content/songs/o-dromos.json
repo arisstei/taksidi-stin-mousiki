@@ -17,9 +17,18 @@
   "quoteAttribution": null,
   "caveat": "Δεν υπάρχει ακόμη πρωτογενές παράθεμα — μόνο δευτερογενή άρθρα.",
   "sources": [
-    { "label": "Alfavita", "url": "https://www.alfavita.gr/koinonia/298656_o-dromos-eihe-ti-diki-toy-istoria-o-axehastos-manos-loizos" },
-    { "label": "Cat Is Art — για το ποίημα/τραγούδι", "url": "https://www.catisart.gr/kostoyla-mitropoyloy-o-dromos/" },
-    { "label": "Discogs — δίσκος 1964/1965 με Σούλα Μπιρμπίλη", "url": "https://www.discogs.com/Μάνος-Λοΐζος-Κωστούλα-Μητροπούλου-Σούλα-Μπιρμπίλη-Ο-Δ/release/9464342" }
+    {
+      "label": "Alfavita",
+      "url": "https://www.alfavita.gr/koinonia/298656_o-dromos-eihe-ti-diki-toy-istoria-o-axehastos-manos-loizos"
+    },
+    {
+      "label": "Cat Is Art — για το ποίημα/τραγούδι",
+      "url": "https://www.catisart.gr/kostoyla-mitropoyloy-o-dromos/"
+    },
+    {
+      "label": "Discogs — δίσκος 1964/1965 με Σούλα Μπιρμπίλη",
+      "url": "https://www.discogs.com/Μάνος-Λοΐζος-Κωστούλα-Μητροπούλου-Σούλα-Μπιρμπίλη-Ο-Δ/release/9464342"
+    }
   ],
   "coverVideoUrl": null,
   "firstPerformance": {
@@ -35,5 +44,6 @@
     "videoUrl": "https://www.youtube.com/watch?v=b-wfZlddhBc",
     "videoLabel": "Χάρις Αλεξίου & Δήμητρα Γαλάνη — Ο δρόμος (Official Audio)"
   },
-  "interviewVideo": null
+  "interviewVideo": null,
+  "grade": "C"
 }

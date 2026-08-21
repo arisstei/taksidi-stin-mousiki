@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getSongBySlug, getAllSlugs } from "@/lib/songs";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
+import { GradeBadge } from "@/components/GradeBadge";
+import DiamondDivider from "@/components/DiamondDivider";
 
 function toEmbedUrl(url) {
   if (!url) return null;
@@ -117,7 +119,6 @@ export default function SongPage({ params }) {
   const song = getSongBySlug(params.slug);
   if (!song) notFound();
 
-  const isVerified = song.status === "verified";
   const credits = [song.composer, song.lyricist]
     .filter((v, i, arr) => v && arr.indexOf(v) === i)
     .join(" / ");
@@ -136,7 +137,7 @@ export default function SongPage({ params }) {
       </Link>
 
       <header className="mt-4 mb-8">
-        <h1 className="font-serif text-3xl sm:text-4xl text-ink leading-tight">
+        <h1 className="font-serif font-bold uppercase tracking-tight text-3xl sm:text-4xl text-ink leading-tight">
           {song.title}
         </h1>
         <p className="text-ink/60 mt-2">
@@ -147,16 +148,10 @@ export default function SongPage({ params }) {
         {song.film && (
           <p className="text-ink/50 text-sm mt-1">Ταινία: {song.film}</p>
         )}
-        <span
-          className={`inline-block mt-4 text-xs font-medium px-2.5 py-1 rounded-full ${
-            isVerified
-              ? "bg-green-100 text-green-800"
-              : "bg-amber-100 text-amber-800"
-          }`}
-        >
-          {isVerified ? "✅ " : "⚠️ "}
-          {song.statusLabel}
-        </span>
+        <div className="mt-4">
+          <GradeBadge song={song} />
+        </div>
+        <DiamondDivider className="mt-6" />
       </header>
 
       {song.historicalPhoto && (

@@ -1,5 +1,8 @@
 import Link from "next/link";
 import { getAllSongs } from "@/lib/songs";
+import { getSongThumbnail } from "@/lib/media";
+import { GradeBadge } from "@/components/GradeBadge";
+import DiamondDivider from "@/components/DiamondDivider";
 import SongExplorer from "@/components/SongExplorer";
 import RandomSongButton from "@/components/RandomSongButton";
 
@@ -12,45 +15,67 @@ export default function HomePage() {
     realSongs.find((s) => s.slug === "mera-magiou" && s.quote) ||
     realSongs.find((s) => s.status === "verified" && s.quote) ||
     realSongs[0];
+  const featuredThumb = featured ? getSongThumbnail(featured) : null;
 
   return (
     <div>
-      <section className="mb-14 max-w-2xl mx-auto text-center">
-        <p className="text-xs font-semibold text-brand uppercase tracking-[0.2em] mb-3">
-          Πραγματικές ιστορίες, όχι θρύλοι
-        </p>
-        <h1 className="font-serif text-4xl sm:text-5xl leading-tight text-ink mb-5">
-          Κάθε τραγούδι <span className="text-brand">κρύβει</span> μια
-          ιστορία
-        </h1>
-        <p className="text-ink/70 leading-relaxed text-lg">
-          Γιατί γράφτηκε; Ποιος πόνεσε, ερωτεύτηκε ή θυμώνει πίσω από κάθε
-          στίχο; Σκάβουμε σε συνεντεύξεις, βιβλία και επίσημα αρχεία — καμία
-          φήμη δεν περνάει χωρίς απόδειξη.
-        </p>
-        <div className="mt-7">
-          <RandomSongButton slugs={allSlugs} />
+      <section className="bg-dotted -mx-4 px-4 py-10 sm:py-14 mb-14 rounded-2xl">
+        <div className="max-w-2xl mx-auto text-center">
+          <p className="font-mono text-[11px] font-semibold text-brand uppercase tracking-[0.3em] mb-4">
+            Πραγματικές ιστορίες, όχι θρύλοι
+          </p>
+          <h1 className="font-serif font-bold uppercase tracking-tight text-4xl sm:text-5xl leading-tight text-ink mb-5">
+            Κάθε τραγούδι <span className="text-brand">κρύβει</span> μια
+            ιστορία
+          </h1>
+          <DiamondDivider className="mb-5" />
+          <p className="text-ink/70 leading-relaxed text-lg">
+            Γιατί γράφτηκε; Ποιος πόνεσε, ερωτεύτηκε ή θυμώνει πίσω από κάθε
+            στίχο; Σκάβουμε σε συνεντεύξεις, βιβλία και επίσημα αρχεία — καμία
+            φήμη δεν περνάει χωρίς απόδειξη.
+          </p>
+          <div className="mt-7">
+            <RandomSongButton slugs={allSlugs} />
+          </div>
         </div>
       </section>
 
       {featured && (
-        <section className="mb-14 max-w-2xl mx-auto">
+        <section className="mb-14 max-w-3xl mx-auto">
+          <p className="text-center font-mono text-[11px] font-semibold text-gold uppercase tracking-[0.25em] mb-3">
+            ✨ Επιλεγμένο τεκμήριο
+          </p>
           <Link
             href={`/song/${featured.slug}`}
-            className="block group border border-black/10 rounded-xl p-6 sm:p-8 bg-white/70 hover:bg-white hover:border-gold/60 hover:shadow-md transition-all"
+            className="group relative flex flex-col sm:flex-row items-stretch gap-0 border border-black/10 rounded-xl overflow-hidden bg-white/70 hover:bg-white hover:border-gold/60 hover:shadow-md transition-all"
           >
-            <p className="text-xs font-semibold text-gold uppercase tracking-wide mb-3">
-              ✨ Μια ιστορία που θα σε συγκλονίσει
-            </p>
-            <p className="font-serif text-xl sm:text-2xl text-ink leading-snug italic">
-              «{featured.quote}»
-            </p>
-            <p className="text-sm text-ink/50 mt-3">
-              {featured.quoteAttribution} — από το{" "}
-              <span className="text-brand group-hover:underline">
-                {featured.title}
-              </span>
-            </p>
+            <div className="absolute top-3 right-3 z-10">
+              <GradeBadge song={featured} />
+            </div>
+            <div className="sm:w-56 shrink-0 bg-brand-light flex items-center justify-center overflow-hidden">
+              {featuredThumb ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={featuredThumb}
+                  alt=""
+                  className="w-full h-full object-cover aspect-video sm:aspect-auto"
+                  loading="lazy"
+                />
+              ) : (
+                <span className="text-brand/50 text-3xl py-10">♪</span>
+              )}
+            </div>
+            <div className="p-6 sm:p-8 flex-1">
+              <p className="font-serif text-xl sm:text-2xl text-ink leading-snug italic">
+                «{featured.quote}»
+              </p>
+              <p className="text-sm text-ink/50 mt-3">
+                {featured.quoteAttribution} — από το{" "}
+                <span className="text-brand group-hover:underline">
+                  {featured.title}
+                </span>
+              </p>
+            </div>
           </Link>
         </section>
       )}

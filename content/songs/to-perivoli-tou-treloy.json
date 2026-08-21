@@ -17,7 +17,10 @@
   "quoteAttribution": "Διονύσης Σαββόπουλος, περιοδικό «Ταχυδρόμος», 7/8/1975",
   "caveat": null,
   "sources": [
-    { "label": "ΤΟ ΒΗΜΑ — με το παράθεμα από τον Ταχυδρόμο 1975", "url": "https://www.tovima.gr/2025/10/21/istoriko-arxeio/dionysis-savvopoulos-otan-kykloforise-to-perivoli-tou-trelou/" }
+    {
+      "label": "ΤΟ ΒΗΜΑ — με το παράθεμα από τον Ταχυδρόμο 1975",
+      "url": "https://www.tovima.gr/2025/10/21/istoriko-arxeio/dionysis-savvopoulos-otan-kykloforise-to-perivoli-tou-trelou/"
+    }
   ],
   "coverVideoUrl": null,
   "firstPerformance": {
@@ -31,5 +34,6 @@
     "sameAsFirst": true,
     "note": "Δεν εντοπίστηκε ευρέως γνωστή διασκευή από άλλον καλλιτέχνη — η εκτέλεση του ίδιου του Σαββόπουλου παραμένει η καθιερωμένη."
   },
-  "interviewVideo": null
+  "interviewVideo": null,
+  "grade": "A"
 }

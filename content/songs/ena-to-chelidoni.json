@@ -17,7 +17,10 @@
   "quoteAttribution": null,
   "caveat": "Το πλαίσιο (Άξιον Εστί) είναι καλά τεκμηριωμένο, αλλά όχι ειδικά η ιστορία αυτού του τραγουδιού.",
   "sources": [
-    { "label": "ΤΟ ΒΗΜΑ", "url": "https://www.tovima.gr/2021/09/02/society/mikis-theodorakis-ena-to-xelidoni-tragoudisan-oi-ygeionomikoi-ekso-apo-to-ypourgeio-ygeias/" }
+    {
+      "label": "ΤΟ ΒΗΜΑ",
+      "url": "https://www.tovima.gr/2021/09/02/society/mikis-theodorakis-ena-to-xelidoni-tragoudisan-oi-ygeionomikoi-ekso-apo-to-ypourgeio-ygeias/"
+    }
   ],
   "coverVideoUrl": null,
   "firstPerformance": {
@@ -31,5 +34,6 @@
     "sameAsFirst": true,
     "note": "Η εκτέλεση Μπιθικώτση παραμένει η καθιερωμένη/πιο γνωστή εκδοχή."
   },
-  "interviewVideo": null
+  "interviewVideo": null,
+  "grade": "C"
 }

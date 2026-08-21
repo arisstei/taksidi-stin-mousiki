@@ -19,8 +19,15 @@
   "quoteAttribution": "Ευτυχία Παπαγιαννοπούλου, ΕΠΙΚΑΙΡΑ, 1970",
   "caveat": null,
   "sources": [
-    { "label": "LiFO (Φώντας Τρούσας) — πλήρης συνέντευξη", "url": "https://www.lifo.gr/culture/music/eytyhia-papagiannopoyloy-mia-agnosti-synenteyxi-tis-thrylikis-stihoyrgoy-apo-1970" },
-    { "label": "Σαν Σήμερα — βιογραφία", "url": "https://www.sansimera.gr/biographies/2205" }
+    {
+      "label": "LiFO (Φώντας Τρούσας) — πλήρης συνέντευξη",
+      "url": "https://www.lifo.gr/culture/music/eytyhia-papagiannopoyloy-mia-agnosti-synenteyxi-tis-thrylikis-stihoyrgoy-apo-1970"
+    },
+    {
+      "label": "Σαν Σήμερα — βιογραφία",
+      "url": "https://www.sansimera.gr/biographies/2205"
+    }
   ],
-  "coverVideoUrl": null
+  "coverVideoUrl": null,
+  "grade": "A"
 }

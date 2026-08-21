@@ -19,14 +19,38 @@
   "quoteAttribution": "Γιάννης Ρίτσος",
   "caveat": null,
   "sources": [
-    { "label": "mikisguide.gr — Το χρονικό της επανάστασης του Επιταφίου", "url": "https://mikisguide.gr/to-chroniko-tis-epanastasis-tou-epitafiou/" },
-    { "label": "ΤΟ ΒΗΜΑ — η τραγική αφορμή και η μάχη των Επιταφίων", "url": "https://www.tovima.gr/2025/05/09/istoriko-arxeio/mera-magiou-mou-misepses-i-tragiki-aformi-kai-i-maxi-ton-epitafion/" },
-    { "label": "Μικροπράγματα/LiFO — Πώς έγραψε ο Ρίτσος το μοιρολόι", "url": "https://mikropragmata.lifo.gr/zoi/pos-egrapse-o-ritsos-to-moiroloi-gia-to-thrino-tis-manas-pano-sto-apsycho-kormi-tou-giou-tis/" },
-    { "label": "Documento — Ο Μίκης, ο Επιτάφιος, ο Χατζιδάκις, η Μούσχουρη κι ο Μπιθικώτσης", "url": "https://www.documentonews.gr/article/o-mikis-o-epitafios-o-xatzidakis-i-moysxoyri-kai-o-mpithikotsis/" },
-    { "label": "Flash.gr — Επιτάφιος του Ρίτσου: το πρώτο έργο του Θεοδωράκη", "url": "https://www.flash.gr/epitafios-tou-ritsou-to-proto-ergo-tou-miki-theodoraki-829406" },
-    { "label": "Alfavita — Η φωτογραφία της μάνας του Τούση, έμπνευση για τον Επιτάφιο", "url": "https://www.alfavita.gr/koinonia/219506_i-fotografia-tis-manas-toy-dolofonimenoy-kapnergati-toysi-empneysi-gia-ton-epitafio" },
-    { "label": "Pronews — Τάσος Τούσης: ο πρώτος νεκρός του Ματωμένου Μάη (φωτό)", "url": "https://www.pronews.gr/istoria/tasos-tousis-o-protos-nekros-tou-matomenou-mai-to-1936-foto/" },
-    { "label": "Βικιπαίδεια — Τάσος Τούσης", "url": "https://el.wikipedia.org/wiki/Τάσος_Τούσης" }
+    {
+      "label": "mikisguide.gr — Το χρονικό της επανάστασης του Επιταφίου",
+      "url": "https://mikisguide.gr/to-chroniko-tis-epanastasis-tou-epitafiou/"
+    },
+    {
+      "label": "ΤΟ ΒΗΜΑ — η τραγική αφορμή και η μάχη των Επιταφίων",
+      "url": "https://www.tovima.gr/2025/05/09/istoriko-arxeio/mera-magiou-mou-misepses-i-tragiki-aformi-kai-i-maxi-ton-epitafion/"
+    },
+    {
+      "label": "Μικροπράγματα/LiFO — Πώς έγραψε ο Ρίτσος το μοιρολόι",
+      "url": "https://mikropragmata.lifo.gr/zoi/pos-egrapse-o-ritsos-to-moiroloi-gia-to-thrino-tis-manas-pano-sto-apsycho-kormi-tou-giou-tis/"
+    },
+    {
+      "label": "Documento — Ο Μίκης, ο Επιτάφιος, ο Χατζιδάκις, η Μούσχουρη κι ο Μπιθικώτσης",
+      "url": "https://www.documentonews.gr/article/o-mikis-o-epitafios-o-xatzidakis-i-moysxoyri-kai-o-mpithikotsis/"
+    },
+    {
+      "label": "Flash.gr — Επιτάφιος του Ρίτσου: το πρώτο έργο του Θεοδωράκη",
+      "url": "https://www.flash.gr/epitafios-tou-ritsou-to-proto-ergo-tou-miki-theodoraki-829406"
+    },
+    {
+      "label": "Alfavita — Η φωτογραφία της μάνας του Τούση, έμπνευση για τον Επιτάφιο",
+      "url": "https://www.alfavita.gr/koinonia/219506_i-fotografia-tis-manas-toy-dolofonimenoy-kapnergati-toysi-empneysi-gia-ton-epitafio"
+    },
+    {
+      "label": "Pronews — Τάσος Τούσης: ο πρώτος νεκρός του Ματωμένου Μάη (φωτό)",
+      "url": "https://www.pronews.gr/istoria/tasos-tousis-o-protos-nekros-tou-matomenou-mai-to-1936-foto/"
+    },
+    {
+      "label": "Βικιπαίδεια — Τάσος Τούσης",
+      "url": "https://el.wikipedia.org/wiki/Τάσος_Τούσης"
+    }
   ],
   "historicalPhoto": {
     "caption": "Η μάνα του Τάσου Τούση θρηνεί πάνω στο σώμα του γιου της, ξαπλωμένο σε μια πόρτα που ξήλωσαν οι σύντροφοί του — η φωτογραφία που δημοσίευσε ο Ριζοσπάστης στις 10 Μαΐου 1936 και ενέπνευσε τον Ρίτσο να γράψει τον Επιτάφιο.",
@@ -47,5 +71,6 @@
     "videoUrl": "https://www.youtube.com/watch?v=SbnLSFncChA",
     "videoLabel": "Γρηγόρης Μπιθικώτσης — Μέρα Μαγιού μου μίσεψες"
   },
-  "interviewVideo": null
+  "interviewVideo": null,
+  "grade": "B"
 }

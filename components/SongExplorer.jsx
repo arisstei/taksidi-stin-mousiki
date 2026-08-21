@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { getSongThumbnail } from "@/lib/media";
+import { GradeMini } from "@/components/GradeBadge";
 
 const STORAGE_KEY = "song-explorer-state";
 
@@ -173,20 +174,33 @@ export default function SongExplorer({ songs }) {
   const previewLyricists = lyricists.slice(0, PREVIEW_COUNT);
   const songCount = songs.filter((s) => !s.isProfile).length;
 
+  const tabCounts = {
+    composers: composers.length,
+    lyricists: lyricists.length,
+    performers: performers.length,
+    titles: songCount,
+  };
+
+  const resultsCount = tab === "titles" ? filteredSongs.length : filteredNames.length;
+  const resultsTotal = tab === "titles" ? songCount : (names || []).length;
+
   return (
     <div>
-      <div className="flex justify-center gap-1 mb-6 max-w-lg mx-auto bg-white/60 border border-black/10 rounded-full p-1">
+      <div className="flex flex-wrap justify-center gap-2 mb-6 max-w-2xl mx-auto">
         {TABS.map((t) => (
           <button
             key={t.key}
             onClick={() => switchTab(t.key)}
-            className={`flex-1 text-sm font-medium px-4 py-2 rounded-full transition-colors ${
+            className={`font-mono text-[11px] font-semibold uppercase tracking-wide px-4 py-2 rounded-full border transition-colors ${
               tab === t.key
-                ? "bg-brand text-white"
-                : "text-ink/60 hover:text-ink"
+                ? "bg-brand text-white border-brand"
+                : "bg-white/60 text-ink/60 border-black/15 hover:border-brand/40 hover:text-ink"
             }`}
           >
-            {t.label}
+            {t.label}{" "}
+            <span className={tab === t.key ? "text-white/70" : "text-ink/35"}>
+              ({tabCounts[t.key]})
+            </span>
           </button>
         ))}
       </div>
@@ -315,6 +329,10 @@ export default function SongExplorer({ songs }) {
         })}
       </div>
 
+      <p className="text-center font-mono text-[11px] text-ink/40 uppercase tracking-wide mb-4">
+        Εμφανίζονται {resultsCount} από {resultsTotal}
+      </p>
+
       {tab !== "titles" ? (
         filteredNames.length === 0 ? (
           <p className="text-center text-ink/50 py-10">Δεν βρέθηκαν ονόματα.</p>
@@ -345,7 +363,7 @@ export default function SongExplorer({ songs }) {
                 href={`/song/${song.slug}`}
                 className="flex items-center gap-4 p-2.5 rounded-lg border border-transparent hover:border-black/10 hover:bg-white hover:shadow-sm hover:-translate-y-0.5 transition-all group"
               >
-                <div className="w-20 h-14 sm:w-24 sm:h-16 shrink-0 rounded-md overflow-hidden bg-brand-light flex items-center justify-center">
+                <div className="relative w-20 h-14 sm:w-24 sm:h-16 shrink-0 rounded-md overflow-hidden bg-brand-light flex items-center justify-center">
                   {thumb ? (
                     // eslint-disable-next-line @next/next/no-img-element
                     <img
@@ -357,6 +375,9 @@ export default function SongExplorer({ songs }) {
                   ) : (
                     <span className="text-brand/50 text-xl">♪</span>
                   )}
+                  <span className="absolute bottom-1 right-1">
+                    <GradeMini song={song} />
+                  </span>
                 </div>
                 <div className="min-w-0">
                   <p className="font-serif text-lg text-ink group-hover:text-brand transition-colors truncate">
@@ -366,6 +387,7 @@ export default function SongExplorer({ songs }) {
                     {[song.composer, song.lyricist]
                       .filter((v, i, arr) => v && arr.indexOf(v) === i)
                       .join(" - ")}
+                    {song.year ? ` · ${song.year}` : ""}
                   </p>
                 </div>
               </Link>
