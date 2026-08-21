@@ -99,10 +99,10 @@ export default function SongArticle({ song, lang = "el" }) {
       </header>
 
       {song.historicalPhoto && (
-        <div className="mb-10 relative overflow-hidden rounded-xl border border-gold/30 bg-gradient-to-br from-gold-light/70 via-cream to-brand-light/30 p-6 sm:p-8">
+        <div className="group mb-10 relative overflow-hidden rounded-xl border border-gold/30 bg-gradient-to-br from-gold-light/70 via-cream to-brand-light/30 p-6 sm:p-8 transition-shadow duration-300 hover:shadow-lg hover:shadow-gold/20 hover:border-gold/60">
           <div className="bg-dotted absolute inset-0 opacity-40 pointer-events-none" />
           <div className="relative flex items-start gap-4 sm:gap-5">
-            <div className="shrink-0 w-12 h-12 rounded-full bg-white/90 border border-gold/40 flex items-center justify-center shadow-sm">
+            <div className="shrink-0 w-12 h-12 rounded-full bg-white/90 border border-gold/40 flex items-center justify-center shadow-sm transition-transform duration-300 group-hover:scale-110 group-hover:border-gold">
               <svg
                 viewBox="0 0 24 24"
                 className="w-5 h-5 text-gold"
@@ -129,7 +129,7 @@ export default function SongArticle({ song, lang = "el" }) {
                   href={song.historicalPhoto.sourceUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex items-center gap-1.5 mt-4 text-xs font-semibold uppercase tracking-wide px-4 py-2 rounded-full border border-gold text-gold hover:bg-gold hover:text-white transition-colors"
+                  className="inline-flex items-center gap-1.5 mt-4 text-xs font-semibold uppercase tracking-wide px-4 py-2 rounded-full border border-gold text-gold transition-all duration-200 hover:bg-gold hover:text-white hover:shadow-md hover:-translate-y-0.5 hover:gap-2.5"
                 >
                   {song.historicalPhoto.sourceLabel || t.seeSource}
                   <span aria-hidden="true">→</span>
