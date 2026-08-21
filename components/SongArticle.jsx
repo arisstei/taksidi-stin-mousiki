@@ -82,9 +82,6 @@ export default function SongArticle({ song, lang = "el" }) {
         <h1 className="font-serif font-bold uppercase tracking-tight text-3xl sm:text-4xl text-ink leading-tight">
           {song.title}
         </h1>
-        {lang === "en" && song.originalTitle && song.originalTitle !== song.title && (
-          <p className="text-ink/40 text-sm mt-1 italic">{song.originalTitle}</p>
-        )}
         <p className="text-ink/60 mt-2">
           {credits}
           {song.year ? ` · ${song.year}` : ""}
