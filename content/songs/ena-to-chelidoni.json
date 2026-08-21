@@ -35,5 +35,21 @@
     "note": "Η εκτέλεση Μπιθικώτση παραμένει η καθιερωμένη/πιο γνωστή εκδοχή."
   },
   "interviewVideo": null,
-  "grade": "C"
+  "grade": "C",
+  "en": {
+    "title": "One Swallow",
+    "teaser": "The context of Axion Esti is well known — but a direct statement about this specific song is still missing.",
+    "story": [
+      "The song is part of “Axion Esti,” Theodorakis's musical setting of Odysseas Elytis's poem of the same name. It became one of his most iconic songs — sung again, for example, by healthcare workers outside the Ministry of Health in 2021, as a symbol of resistance.",
+      "Still needed before use: a search in the ERT Archive for an interview with Theodorakis himself specifically explaining the story behind this piece — the general context isn't enough for the channel's accuracy standard."
+    ],
+    "caveat": "The context (Axion Esti) is well documented, but not specifically the story of this song.",
+    "firstPerformance": {
+      "note": "From the album “To Axion Esti.”",
+      "videoLabel": "Grigoris Bithikotsis — Ena to chelidoni (1964)"
+    },
+    "famousPerformance": {
+      "note": "Bithikotsis's performance remains the standard/best-known version."
+    }
+  }
 }

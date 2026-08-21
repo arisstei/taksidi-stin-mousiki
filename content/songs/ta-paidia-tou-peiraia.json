@@ -65,5 +65,30 @@
     "url": "https://www.youtube.com/watch?v=ZZsT29oXpTQ",
     "label": "Χατζιδάκις & Μερκούρη στο Zonar's, 1993 — η τελευταία καταγεγραμμένη συνάντησή τους"
   },
-  "grade": "B"
+  "grade": "B",
+  "en": {
+    "title": "The Children of Piraeus",
+    "film": "“Never on Sunday” (Jules Dassin)",
+    "teaser": "The song that won the first Oscar for a foreign-language song — and its own creator didn't want Greece to celebrate it.",
+    "story": [
+      "The song was written for the scene where Melina Mercouri's character longs for her old life in Piraeus, after the success Hadjidakis had already had with “Ilissos.” In 1961 it won the Academy Award for Best Original Song — the first non-English-language song to do so. Mercouri was nominated for Best Actress, but didn't win.",
+      "Hadjidakis never attended the ceremony in Los Angeles. The statuette was mailed to him but got lost along the way, in Yugoslavia — the Academy made a second one. In the meantime he was photographed with Katina Paxinou's borrowed Oscar (won in 1944). In the mid-1970s he threw his own Oscar in the trash; cleaning staff found it and gave it to his sister Miranda, who kept it and returned it a year after his death (1994).",
+      "In 1993, a year before both of them died, Hadjidakis and Mercouri appeared together in a French TV tribute to Mercouri, at the historic Zonar's café — their last recorded meeting. Hadjidakis explains why he avoided the song (“it deprived me of the chance to have the right relationship with the public”). Mercouri replies, joking."
+    ],
+    "quote": "Fine, this child is fatherless, but it has a mother.",
+    "quoteAttribution": "Melina Mercouri, at Zonar's, 1993",
+    "quoteReply": "I'm glad, and I congratulate you on this adoption you've made.",
+    "quoteReplyAttribution": "Manos Hadjidakis",
+    "caveat": "A rumor circulates (source: a blog, not primary) that Hadjidakis sold the song's rights for $100,000 to buy his house on Rigillis Street. The source itself calls it “rumor or truth” — it isn't used here as fact.",
+    "firstPerformance": {
+      "note": "In the film “Never on Sunday” by Jules Dassin — the scene where the heroine longs for Piraeus.",
+      "videoLabel": "Melina Mercouri — The Children of Piraeus (film scene)"
+    },
+    "famousPerformance": {
+      "note": "Mercouri's performance remains the most famous — it won the Academy Award for Best Original Song and became known worldwide in English as “Never on Sunday.”"
+    },
+    "interviewVideo": {
+      "label": "Hadjidakis & Mercouri at Zonar's, 1993 — their last recorded meeting"
+    }
+  }
 }

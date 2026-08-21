@@ -72,5 +72,32 @@
     "videoLabel": "Γρηγόρης Μπιθικώτσης — Μέρα Μαγιού μου μίσεψες"
   },
   "interviewVideo": null,
-  "grade": "B"
+  "grade": "B",
+  "en": {
+    "title": "You Left Me on a Day in May",
+    "teaser": "A photograph in Rizospastis in 1936 gave birth to a poem, and a poem gave birth to a small civil war between two leading composers.",
+    "story": [
+      "On May 9, 1936, striking tobacco workers demonstrated in Thessaloniki. The gendarmerie opened fire, killing 12 and wounding hundreds. The first to die was 25-year-old Tasos Tousis, a driver from Asvestochori, at the corner of Venizelou and Egnatia streets. His comrades tore a wooden door off its hinges and carried him on it. His mother found him and lamented over his lifeless body — a moment photographed and published in Rizospastis on May 10, 1936. Ritsos saw the photograph, was shaken, and within three days wrote 14 of the 20 poems of “Epitaphios” — the first three were already published in Rizospastis on May 12, 1936, under the title “Moirologi” (Lament).",
+      "In 1957 Ritsos sent the book to Theodorakis in Paris. Theodorakis, waiting one day in the car for his wife Myrto, leafed through the book and began setting it to music, jotting notes in the margin — in that brief wait he found the basic melodies for all 20 poems.",
+      "In 1960 two versions were released, not at the same time: first, in August, Manos Hadjidakis's recording with Nana Mouskouri at the Columbia studios — which satisfied neither Theodorakis nor Ritsos, both present at the recording along with Nikos Gatsos. That September came the second version, by Theodorakis himself, with Grigoris Bithikotsis, Keti Thymi, and Manolis Chiotis on bouzouki — this became the definitive version. Theodorakis explained his disagreement in an interview with Manolis Papoutsakis (the magazine “Dromoi,” February 1964): he wanted a folk, masculine, Doric interpretation, not a “romantic, feminine” one.",
+      "The release sparked outrage from the left, who felt that “Ritsos's sacred poetry shouldn't be dragged through bouzoukia.” Ritsos himself, initially wary, later admitted he had been wrong."
+    ],
+    "quote": "I was wrong! That's exactly where Epitaphios met ordinary people. And they gave themselves to it in turn. They understood the poem. They made it their own!",
+    "quoteAttribution": "Yannis Ritsos",
+    "historicalPhoto": {
+      "caption": "Tasos Tousis's mother mourns over her son's body, laid on a door his comrades tore off its hinges — the photograph Rizospastis published on May 10, 1936, which inspired Ritsos to write Epitaphios.",
+      "sourceLabel": "See the photograph — Alfavita"
+    },
+    "firstPerformance": {
+      "performer": "Nana Mouskouri (arrangement/direction: Manos Hadjidakis)",
+      "year": "August 1960",
+      "note": "The first recording of “Epitaphios,” at the Columbia studios. It satisfied neither Theodorakis nor Ritsos.",
+      "videoLabel": "Nana Mouskouri — You left me on a day in May (Epitaphios, 1960)"
+    },
+    "famousPerformance": {
+      "performer": "Grigoris Bithikotsis, Keti Thymi (bouzouki: Manolis Chiotis)",
+      "note": "September 1960 — Theodorakis's own recording, which became the definitive version of Epitaphios.",
+      "videoLabel": "Grigoris Bithikotsis — You left me on a day in May"
+    }
+  }
 }

@@ -4,17 +4,13 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { getSongThumbnail } from "@/lib/media";
 import { GradeMini } from "@/components/GradeBadge";
+import { getDictionary } from "@/lib/dictionaries";
 
 const STORAGE_KEY = "song-explorer-state";
 
-const ALPHABET = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ".split("");
+const ALPHABET = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
-const TABS = [
-  { key: "composers", label: "Συνθέτες" },
-  { key: "lyricists", label: "Στιχουργοί" },
-  { key: "performers", label: "Ερμηνευτές" },
-  { key: "titles", label: "Τραγούδια" },
-];
+const TAB_KEYS = ["composers", "lyricists", "performers", "titles"];
 
 function normalize(str) {
   if (!str) return "";
@@ -52,7 +48,10 @@ function uniqueNames(songs, fields) {
   );
 }
 
-export default function SongExplorer({ songs }) {
+export default function SongExplorer({ songs, lang = "el" }) {
+  const t = getDictionary(lang);
+  const basePath = lang === "en" ? "/en" : "";
+
   const [tab, setTab] = useState("titles");
   const [query, setQuery] = useState("");
   const [letter, setLetter] = useState(null);
@@ -62,7 +61,7 @@ export default function SongExplorer({ songs }) {
   // ώστε το F5 να μη σε ξαναπετάει στα "Τραγούδια" χάνοντας αυτό που έψαχνες.
   useEffect(() => {
     try {
-      const saved = sessionStorage.getItem(STORAGE_KEY);
+      const saved = sessionStorage.getItem(`${STORAGE_KEY}-${lang}`);
       if (saved) {
         const parsed = JSON.parse(saved);
         if (parsed.tab) setTab(parsed.tab);
@@ -73,16 +72,19 @@ export default function SongExplorer({ songs }) {
       // αγνόησε — απλώς ξεκινάμε από την προεπιλογή
     }
     setRestored(true);
-  }, []);
+  }, [lang]);
 
   useEffect(() => {
     if (!restored) return;
     try {
-      sessionStorage.setItem(STORAGE_KEY, JSON.stringify({ tab, query, letter }));
+      sessionStorage.setItem(
+        `${STORAGE_KEY}-${lang}`,
+        JSON.stringify({ tab, query, letter })
+      );
     } catch {
       // αγνόησε (π.χ. private browsing χωρίς πρόσβαση σε storage)
     }
-  }, [tab, query, letter, restored]);
+  }, [tab, query, letter, restored, lang]);
 
   const composers = useMemo(() => uniqueNames(songs, ["composer"]), [songs]);
   const lyricists = useMemo(() => uniqueNames(songs, ["lyricist"]), [songs]);
@@ -149,24 +151,6 @@ export default function SongExplorer({ songs }) {
     setQuery("");
   }
 
-  const searchPlaceholder =
-    tab === "composers"
-      ? "Αναζήτησε συνθέτη…"
-      : tab === "lyricists"
-      ? "Αναζήτησε στιχουργό…"
-      : tab === "performers"
-      ? "Αναζήτησε ερμηνευτή…"
-      : "Αναζήτησε τραγούδι…";
-
-  const searchHint =
-    tab === "composers"
-      ? "Αναζήτηση με βάση το όνομα του συνθέτη"
-      : tab === "lyricists"
-      ? "Αναζήτηση με βάση το όνομα του στιχουργού"
-      : tab === "performers"
-      ? "Αναζήτηση με βάση το όνομα του ερμηνευτή"
-      : "Μπορείς να αναζητήσεις: τραγούδι, συνθέτη, στιχουργό ή ερμηνευτή";
-
   const PREVIEW_COUNT = 5;
   const previewTitles = songs.filter((s) => !s.isProfile).slice(0, PREVIEW_COUNT);
   const previewPerformers = performers.slice(0, PREVIEW_COUNT);
@@ -187,19 +171,19 @@ export default function SongExplorer({ songs }) {
   return (
     <div>
       <div className="flex flex-wrap justify-center gap-2 mb-6 max-w-2xl mx-auto">
-        {TABS.map((t) => (
+        {TAB_KEYS.map((key) => (
           <button
-            key={t.key}
-            onClick={() => switchTab(t.key)}
+            key={key}
+            onClick={() => switchTab(key)}
             className={`font-mono text-[11px] font-semibold uppercase tracking-wide px-4 py-2 rounded-full border transition-colors ${
-              tab === t.key
+              tab === key
                 ? "bg-brand text-white border-brand"
                 : "bg-white/60 text-ink/60 border-black/15 hover:border-brand/40 hover:text-ink"
             }`}
           >
-            {t.label}{" "}
-            <span className={tab === t.key ? "text-white/70" : "text-ink/35"}>
-              ({tabCounts[t.key]})
+            {t.tabs[key]}{" "}
+            <span className={tab === key ? "text-white/70" : "text-ink/35"}>
+              ({tabCounts[key]})
             </span>
           </button>
         ))}
@@ -210,27 +194,26 @@ export default function SongExplorer({ songs }) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder={searchPlaceholder}
+          placeholder={t.searchPlaceholder[tab]}
           className="w-full truncate rounded-full border border-black/15 px-5 py-3 text-sm sm:text-base text-ink placeholder:text-ink/40 placeholder:truncate focus:outline-none focus:ring-2 focus:ring-brand/40 bg-white shadow-sm"
         />
-        <p className="mt-2 text-xs text-ink/40">{searchHint}</p>
+        <p className="mt-2 text-xs text-ink/40">{t.searchHint[tab]}</p>
       </div>
 
       <div className="max-w-3xl mx-auto text-center mb-3">
         <p className="text-xs text-ink/45">
-          Στη συλλογή: {songCount} τραγούδια · {composers.length} συνθέτες ·{" "}
-          {lyricists.length} στιχουργοί · {performers.length} ερμηνευτές
+          {t.statsLine(songCount, composers.length, lyricists.length, performers.length)}
         </p>
       </div>
 
       <div className="max-w-3xl mx-auto mb-12">
         <h2 className="text-center text-xs font-semibold text-ink/40 uppercase tracking-wide mb-4">
-          Δημοφιλή
+          {t.popularHeading}
         </h2>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
-              Συνθέτες
+              {t.popularColumns.composers}
             </h3>
             <ul className="space-y-1.5">
               {previewComposers.map((name) => (
@@ -247,7 +230,7 @@ export default function SongExplorer({ songs }) {
           </div>
           <div>
             <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
-              Στιχουργοί
+              {t.popularColumns.lyricists}
             </h3>
             <ul className="space-y-1.5">
               {previewLyricists.map((name) => (
@@ -264,7 +247,7 @@ export default function SongExplorer({ songs }) {
           </div>
           <div>
             <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
-              Ερμηνευτές
+              {t.popularColumns.performers}
             </h3>
             <ul className="space-y-1.5">
               {previewPerformers.map((name) => (
@@ -281,13 +264,13 @@ export default function SongExplorer({ songs }) {
           </div>
           <div>
             <h3 className="text-xs font-semibold text-brand uppercase tracking-wide mb-2">
-              Τίτλοι
+              {t.popularColumns.titles}
             </h3>
             <ul className="space-y-1.5">
               {previewTitles.map((song) => (
                 <li key={song.slug}>
                   <Link
-                    href={`/song/${song.slug}`}
+                    href={`${basePath}/song/${song.slug}`}
                     className="text-sm text-ink/70 hover:text-brand hover:underline"
                   >
                     {song.title}
@@ -306,7 +289,7 @@ export default function SongExplorer({ songs }) {
             !letter ? "bg-brand text-white" : "bg-white/70 text-ink/60 hover:bg-white"
           }`}
         >
-          Όλα
+          {t.allLetters}
         </button>
         {ALPHABET.map((ch) => {
           const has = availableLetters.has(ch);
@@ -330,12 +313,12 @@ export default function SongExplorer({ songs }) {
       </div>
 
       <p className="text-center font-mono text-[11px] text-ink/40 uppercase tracking-wide mb-4">
-        Εμφανίζονται {resultsCount} από {resultsTotal}
+        {t.resultsLine(resultsCount, resultsTotal)}
       </p>
 
       {tab !== "titles" ? (
         filteredNames.length === 0 ? (
-          <p className="text-center text-ink/50 py-10">Δεν βρέθηκαν ονόματα.</p>
+          <p className="text-center text-ink/50 py-10">{t.noNames}</p>
         ) : (
           <div className="max-w-2xl mx-auto grid sm:grid-cols-2 gap-2">
             {filteredNames.map((name) => (
@@ -350,9 +333,7 @@ export default function SongExplorer({ songs }) {
           </div>
         )
       ) : filteredSongs.length === 0 ? (
-        <p className="text-center text-ink/50 py-10">
-          Δεν βρέθηκαν τραγούδια για αυτή την αναζήτηση.
-        </p>
+        <p className="text-center text-ink/50 py-10">{t.noSongs}</p>
       ) : (
         <section className="max-w-2xl mx-auto space-y-2.5">
           {filteredSongs.map((song) => {
@@ -360,7 +341,7 @@ export default function SongExplorer({ songs }) {
             return (
               <Link
                 key={song.slug}
-                href={`/song/${song.slug}`}
+                href={`${basePath}/song/${song.slug}`}
                 className="flex items-center gap-4 p-2.5 rounded-lg border border-transparent hover:border-black/10 hover:bg-white hover:shadow-sm hover:-translate-y-0.5 transition-all group"
               >
                 <div className="relative w-20 h-14 sm:w-24 sm:h-16 shrink-0 rounded-md overflow-hidden bg-brand-light flex items-center justify-center">
@@ -376,7 +357,7 @@ export default function SongExplorer({ songs }) {
                     <span className="text-brand/50 text-xl">♪</span>
                   )}
                   <span className="absolute bottom-1 right-1">
-                    <GradeMini song={song} />
+                    <GradeMini song={song} lang={lang} />
                   </span>
                 </div>
                 <div className="min-w-0">

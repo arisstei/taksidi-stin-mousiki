@@ -35,5 +35,22 @@
     "note": "Δεν εντοπίστηκε ευρέως γνωστή διασκευή από άλλον καλλιτέχνη — η εκτέλεση του ίδιου του Σαββόπουλου παραμένει η καθιερωμένη."
   },
   "interviewVideo": null,
-  "grade": "A"
+  "grade": "A",
+  "en": {
+    "title": "The Madman's Garden",
+    "teaser": "Savvopoulos himself explained where and when it was written — abroad, during the Junta.",
+    "story": [
+      "The album of the same name was released on October 21, 1969, the third year of the dictatorship. Savvopoulos himself stated in an interview with the magazine “Tachydromos” (August 7, 1975): “I wrote ‘To perivoli tou trelou’ in Italy, in ’68–’69.”",
+      "The theme running through the album is nostalgia — not for specific events, but a broader longing for a purer, healthier life. It also includes the songs: I theia Manou, Thalassografia, Oi piso mou selides, I synnefoula, San rebetiko palio, Eida tin Anna kapote, Ntirlanta, Ta paidia pou chathikan, Odi ston Georgio Karaiskaki."
+    ],
+    "quote": "I wrote ‘To perivoli tou trelou’ in Italy, in ’68–’69.",
+    "quoteAttribution": "Dionysis Savvopoulos, “Tachydromos” magazine, 8/7/1975",
+    "firstPerformance": {
+      "note": "Album of the same name, released October 21, 1969.",
+      "videoLabel": "To perivoli tou trelou — full 1969 album (first track)"
+    },
+    "famousPerformance": {
+      "note": "No widely known cover by another artist has been found — Savvopoulos's own performance remains the standard one."
+    }
+  }
 }

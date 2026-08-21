@@ -29,5 +29,16 @@
     }
   ],
   "coverVideoUrl": null,
-  "grade": "A"
+  "grade": "A",
+  "en": {
+    "title": "Eftychia Papagiannopoulou — 1970 Interview",
+    "teaser": "The most important lyricist of laïkó song explains, from her sickbed, how she worked.",
+    "story": [
+      "An interview in the magazine EPIKAIRA (issue #107, August 21–28, 1970, journalist Margarita Manasidou), republished with scanned pages by Fondas Trousas on LiFO. Given at age 77, from her sickbed, while ill.",
+      "She mentions landmark songs: “Ta kavourakia,” “Rixe sto gyali farmaki,” “Dyo portes echei i zoi,” “Perasmenes mou agapes,” “Eimai aitos choris ftera.”",
+      "This isn't about one specific song, but about the lyricist's own creative process. It belongs to the laïkó/rebetiko repertoire, not strictly éntechno."
+    ],
+    "quote": "I can't write once they've given me the music. I write the lyrics first. When the composer manages to get inside the lyricist's skin, a hit is born. It's a mistake to write the music first.",
+    "quoteAttribution": "Eftychia Papagiannopoulou, EPIKAIRA, 1970"
+  }
 }

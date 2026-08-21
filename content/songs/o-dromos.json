@@ -45,5 +45,22 @@
     "videoLabel": "Χάρις Αλεξίου & Δήμητρα Γαλάνη — Ο δρόμος (Official Audio)"
   },
   "interviewVideo": null,
-  "grade": "C"
+  "grade": "C",
+  "en": {
+    "title": "The Road",
+    "teaser": "A well-covered story — but not yet a direct statement from its creator.",
+    "story": [
+      "Lyricist Kostoula Mitropoulou wrote “O dromos” (The Road) not based on a specific incident she saw or heard, but guided only by her own inspiration. Loizos entered the recording industry in 1962. The song was released on the album “Songs of the Road” (after the Junta, 1974) with tracks that had been banned or not allowed to be recorded under the Junta's censorship.",
+      "Note: the information above comes from secondary journalistic articles, not a direct statement by Mitropoulou or Loizos. Before it's used in a video, a primary source needs to be found (e.g. in the ERT Archive)."
+    ],
+    "caveat": "There isn't yet a primary-source quote — only secondary articles.",
+    "firstPerformance": {
+      "note": "A 45rpm single in a ballad style with harmonica and guitar, on Lyra — before the song became part of Loizos's album “Songs of the Road” (1974).",
+      "videoLabel": "Soula Birbili — O dromos (1964)"
+    },
+    "famousPerformance": {
+      "note": "The duet that established the song with the wider public.",
+      "videoLabel": "Haris Alexiou & Dimitra Galani — O dromos (Official Audio)"
+    }
+  }
 }

@@ -41,5 +41,24 @@
     "videoLabel": "Καζαντζίδης — Άπονη ζωή"
   },
   "interviewVideo": null,
-  "grade": "A"
+  "grade": "A",
+  "en": {
+    "title": "Merciless Life",
+    "film": "“The Red Lanterns”",
+    "teaser": "Why did he write about poverty instead of romance? The answer was personal.",
+    "story": [
+      "Asked why he wrote about poverty instead of romantic themes, Papadopoulos gave an answer that stuck: “Because I was poor! I was broke. And so was all of Greece with me.” The words came to him freely, unforced.",
+      "His difficult childhood, with roots in Pontus, deeply shaped his lyric-writing around poverty and social themes rather than romanticism."
+    ],
+    "quote": "Because I was poor! I was broke. And so was all of Greece with me.",
+    "quoteAttribution": "Lefteris Papadopoulos, Athens Voice",
+    "firstPerformance": {
+      "note": "From the film “The Red Lanterns” (Ta kokkina fanaria).",
+      "videoLabel": "Grigoris Bithikotsis — Aponi zoi (1963)"
+    },
+    "famousPerformance": {
+      "note": "A later performance that also became widely known to the general public.",
+      "videoLabel": "Kazantzidis — Aponi zoi"
+    }
+  }
 }

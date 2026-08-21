@@ -1,21 +1,25 @@
-import { getSongBySlug, getAllSlugs } from "@/lib/songs";
-import { SITE_URL, SITE_NAME } from "@/lib/site";
+import { getSongBySlug, getAllSlugs, localizeSong } from "@/lib/songs";
+import { SITE_URL } from "@/lib/site";
+import { getDictionary } from "@/lib/dictionaries";
 import SongArticle from "@/components/SongArticle";
+
+const SITE_NAME = getDictionary("en").siteName;
 
 export function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
 }
 
 export function generateMetadata({ params }) {
-  const song = getSongBySlug(params.slug);
-  if (!song) return {};
-  const url = `${SITE_URL}/song/${song.slug}`;
+  const raw = getSongBySlug(params.slug);
+  if (!raw) return {};
+  const song = localizeSong(raw, "en");
+  const url = `${SITE_URL}/en/song/${song.slug}`;
   return {
-    title: song.title,
+    title: { absolute: `${song.title} — ${SITE_NAME}` },
     description: song.teaser,
     alternates: {
       canonical: url,
-      languages: { el: url, en: `${SITE_URL}/en/song/${song.slug}` },
+      languages: { el: `${SITE_URL}/song/${song.slug}`, en: url },
     },
     openGraph: {
       type: "article",
@@ -45,23 +49,18 @@ function buildJsonLd(song, url) {
     url,
     description: song.teaser,
   };
-  if (song.composer) {
-    jsonLd.composer = { "@type": "Person", name: song.composer };
-  }
-  if (song.lyricist) {
-    jsonLd.lyricist = { "@type": "Person", name: song.lyricist };
-  }
-  if (song.year) {
-    jsonLd.dateCreated = String(song.year).slice(0, 4);
-  }
+  if (song.composer) jsonLd.composer = { "@type": "Person", name: song.composer };
+  if (song.lyricist) jsonLd.lyricist = { "@type": "Person", name: song.lyricist };
+  if (song.year) jsonLd.dateCreated = String(song.year).slice(0, 4);
   return jsonLd;
 }
 
-export default function SongPage({ params }) {
-  const song = getSongBySlug(params.slug);
-  if (!song) return null;
+export default function EnglishSongPage({ params }) {
+  const raw = getSongBySlug(params.slug);
+  if (!raw) return null;
+  const song = localizeSong(raw, "en");
 
-  const canonicalUrl = `${SITE_URL}/song/${song.slug}`;
+  const canonicalUrl = `${SITE_URL}/en/song/${song.slug}`;
   const jsonLd = buildJsonLd(song, canonicalUrl);
 
   return (
@@ -71,7 +70,7 @@ export default function SongPage({ params }) {
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <SongArticle song={song} lang="el" />
+      <SongArticle song={song} lang="en" />
     </>
   );
 }

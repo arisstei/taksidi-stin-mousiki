@@ -52,5 +52,24 @@
     "videoLabel": "Δανάη — Ζητάτε να σας πω"
   },
   "interviewVideo": null,
-  "grade": "D"
+  "grade": "D",
+  "en": {
+    "title": "You Ask Me to Tell You",
+    "teaser": "A story of love and abandonment, with an unexpected thread leading to Melina Mercouri.",
+    "story": [
+      "Attik (real name Kleon Triantafyllou, 1885–1944) is considered the founder of Greek light song (elafro tragoudi). He fell in love with and married the actress Marika Filippidou. She left him to marry Melina Mercouri's father. It's said that one evening she appeared at his club with her new husband; Attik withdrew to the dressing room and, in about 10 minutes, wrote the song, filled with the pain of lost love.",
+      "Important caveat: the story is repeated identically across many outlets, but Attik died in 1944 — before the era of video-recorded interviews — so there's no video or audio document of him confirming it himself.",
+      "A possible source upgrade: the book “Attik” by Danae Stratigopoulou (Estia, 1986) — she was his close collaborator and performer from 1935 on, “Attik's nightingale.” The book also includes testimony from his brother's wife."
+    ],
+    "caveat": "Not yet used as a confirmed fact — only as a widely circulated tradition, pending confirmation from Stratigopoulou's book.",
+    "firstPerformance": {
+      "note": "According to tradition, Attik performed it himself, improvising at his club on the night he wrote it. The official recording (Columbia, 1930, a 78rpm disc) was sung by Petros Epitropakis, under the musical direction of Nikos Chatziapostolou — composition and lyrics remain Attik's. There's no video recording, since Attik died in 1944.",
+      "videoLabel": "“Zitate na sas po” — 1930 recording (Columbia)",
+      "sourceLabel": "Virtual Museum of Rebetiko (vmrebetiko.gr)"
+    },
+    "famousPerformance": {
+      "note": "“Attik's nightingale” — his close collaborator and performer from 1935 on, later his biographer (see source for her book) — performs the song in a later recording.",
+      "videoLabel": "Danai — Zitate na sas po"
+    }
+  }
 }

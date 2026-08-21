@@ -1,8 +1,16 @@
-import { getGrade } from "@/lib/grades";
+import { GRADES } from "@/lib/grades";
+import { getDictionary } from "@/lib/dictionaries";
+
+function resolve(song, lang) {
+  const key = GRADES[song?.grade] ? song.grade : "C";
+  const base = GRADES[key];
+  const text = getDictionary(lang).grades[key] || base;
+  return { ...base, ...text };
+}
 
 // Πλήρες badge (κωδικός + τίτλος) — για τη σελίδα τραγουδιού.
-export function GradeBadge({ song }) {
-  const g = getGrade(song);
+export function GradeBadge({ song, lang = "el" }) {
+  const g = resolve(song, lang);
   return (
     <span
       title={g.description}
@@ -15,8 +23,8 @@ export function GradeBadge({ song }) {
 }
 
 // Μικρό badge (μόνο κωδικός) — για κάρτες λίστας / thumbnails.
-export function GradeMini({ song }) {
-  const g = getGrade(song);
+export function GradeMini({ song, lang = "el" }) {
+  const g = resolve(song, lang);
   return (
     <span
       title={`${g.title} — ${g.description}`}
