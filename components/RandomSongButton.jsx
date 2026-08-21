@@ -1,6 +1,9 @@
 "use client";
 
-import { useRouter } from "next/navigation";
+import { useRef } from "react";
+import { useRouter, usePathname } from "next/navigation";
+
+const LAST_SLUG_KEY = "random-song-last-slug";
 
 export default function RandomSongButton({
   slugs,
@@ -8,10 +11,38 @@ export default function RandomSongButton({
   label = "🎲 Έκπληξέ με με μια ιστορία",
 }) {
   const router = useRouter();
+  const pathname = usePathname();
+  // Κρατάμε το τελευταίο slug που δείξαμε (σε ref + sessionStorage) ώστε
+  // να μην ξαναβγεί το ίδιο άρθρο σε δύο διαδοχικά κλικ.
+  const lastSlugRef = useRef(null);
 
   function goRandom() {
     if (!slugs || slugs.length === 0) return;
-    const pick = slugs[Math.floor(Math.random() * slugs.length)];
+
+    let lastSlug = lastSlugRef.current;
+    if (!lastSlug) {
+      try {
+        lastSlug = sessionStorage.getItem(LAST_SLUG_KEY);
+      } catch {
+        lastSlug = null;
+      }
+    }
+    // Επίσης απέκλεισε το τραγούδι της τρέχουσας σελίδας, αν είμαστε ήδη
+    // σε άρθρο τραγουδιού.
+    const currentSlug = pathname?.split("/song/")[1];
+
+    let pool = slugs.filter((s) => s !== lastSlug && s !== currentSlug);
+    if (pool.length === 0) pool = slugs;
+
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+
+    lastSlugRef.current = pick;
+    try {
+      sessionStorage.setItem(LAST_SLUG_KEY, pick);
+    } catch {
+      // αγνόησε (π.χ. private browsing χωρίς πρόσβαση σε storage)
+    }
+
     router.push(`${basePath}/song/${pick}`);
   }
 
