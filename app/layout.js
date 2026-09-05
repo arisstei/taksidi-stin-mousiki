@@ -31,7 +31,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="el">
-      <body className="min-h-screen antialiased">
+      <body className="min-h-screen antialiased paper-grain">
         <SiteHeader />
         <main className="mx-auto max-w-3xl px-6 py-10">{children}</main>
         <SiteFooter />

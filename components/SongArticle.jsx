@@ -99,7 +99,8 @@ export default function SongArticle({ song, lang = "el" }) {
       </header>
 
       {song.historicalPhoto && (
-        <div className="group mb-10 relative overflow-hidden rounded-xl border border-gold/30 bg-gradient-to-br from-gold-light/70 via-cream to-brand-light/30 p-6 sm:p-8 transition-shadow duration-300 hover:shadow-lg hover:shadow-gold/20 hover:border-gold/60">
+        <div className="torn-bottom group mb-10 relative overflow-hidden border border-gold/30 bg-gradient-to-br from-gold-light/70 via-cream to-brand-light/30 p-6 sm:p-8 -rotate-[0.4deg] hover:rotate-0 transition-all duration-300 hover:shadow-lg hover:shadow-gold/20 hover:border-gold/60">
+          <span aria-hidden="true" className="washi-tape right-10 rotate-[5deg]" />
           <div className="bg-dotted absolute inset-0 opacity-40 pointer-events-none" />
           <div className="relative flex items-start gap-4 sm:gap-5">
             <div className="shrink-0 w-12 h-12 rounded-full bg-white/90 border border-gold/40 flex items-center justify-center shadow-sm transition-transform duration-300 group-hover:scale-110 group-hover:border-gold">

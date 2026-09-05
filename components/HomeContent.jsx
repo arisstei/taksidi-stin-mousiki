@@ -48,8 +48,12 @@ export default function HomeContent({ songs: rawSongs, lang = "el" }) {
           </p>
           <Link
             href={`${basePath}/song/${featured.slug}`}
-            className="group relative flex flex-col sm:flex-row items-stretch gap-0 border border-black/10 rounded-xl overflow-hidden bg-white/70 hover:bg-white hover:border-gold/60 hover:shadow-md transition-all"
+            className="torn-bottom group relative flex flex-col sm:flex-row items-stretch gap-0 border border-black/10 -rotate-[0.5deg] hover:rotate-0 bg-white/70 hover:bg-white hover:border-gold/60 hover:shadow-md transition-all duration-300"
           >
+            <span
+              aria-hidden="true"
+              className="washi-tape left-8 -rotate-[4deg]"
+            />
             <div className="absolute top-3 right-3 z-10">
               <GradeBadge song={featured} lang={lang} />
             </div>
