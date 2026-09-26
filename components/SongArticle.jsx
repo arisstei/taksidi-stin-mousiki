@@ -3,6 +3,10 @@ import { GradeBadge } from "@/components/GradeBadge";
 import DiamondDivider from "@/components/DiamondDivider";
 import { getDictionary } from "@/lib/dictionaries";
 
+// Διεύθυνση του Musicbond. Όσο δεν έχει οριστεί (env var στο Vercel), το
+// κουμπί συζήτησης απλά δεν εμφανίζεται — το site δουλεύει όπως πριν.
+const MUSICBOND_URL = process.env.NEXT_PUBLIC_MUSICBOND_URL;
+
 function toEmbedUrl(url) {
   if (!url) return null;
   const watchMatch = url.match(/[?&]v=([^&]+)/);
@@ -221,6 +225,19 @@ export default function SongArticle({ song, lang = "el" }) {
             {t.watchVideo}
           </a>
         </div>
+      )}
+
+      {MUSICBOND_URL && (
+        <section className="mt-12 border border-brand/30 rounded-lg p-5 bg-white/60">
+          <h2 className="font-serif text-lg text-ink mb-2">{t.discuss.heading}</h2>
+          <p className="text-ink/70 text-sm leading-relaxed">{t.discuss.text}</p>
+          <a
+            href={`${MUSICBOND_URL.replace(/\/$/, "")}/?story=${encodeURIComponent(song.slug)}`}
+            className="inline-block mt-3 text-sm font-semibold px-4 py-2 rounded-full border border-brand text-brand transition-all duration-200 hover:bg-brand hover:text-white"
+          >
+            {t.discuss.cta}
+          </a>
+        </section>
       )}
 
       {/* Πηγές — κάθε ισχυρισμός εδώ έχει δείξιμη, συνδεδεμένη πηγή.
