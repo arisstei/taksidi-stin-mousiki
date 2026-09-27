@@ -1,0 +1,24 @@
+{
+  "slug": "parodos",
+  "title": "Πάροδος (Είσοδος και επίθεσις)",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Αριστοφάνης (μτφρ. Βασίλης Ρώτας)",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Όρνιθες» (1965).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Les Oiseaux / Όρνιθες (1965)",
+      "url": "https://www.discogs.com/master/398115"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Όρνιθες” (1965).",
+    "story": []
+  }
+}

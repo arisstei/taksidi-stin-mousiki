@@ -1,0 +1,32 @@
+{
+  "slug": "manoula-mou",
+  "title": "Μανούλα μου",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1962",
+  "performer": "Λάκης Παππάς, χορωδία",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Οδός Ονείρων» (1962), «30 Νυχτερινά» (1983), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Οδός Ονείρων (1962)",
+      "url": "https://www.discogs.com/master/378708"
+    },
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Οδός Ονείρων” (1962), “30 Νυχτερινά” (1983), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

@@ -28,11 +28,15 @@
     },
     {
       "pos": "Α3",
-      "title": "Ο ταχυδρόμος πέθανε"
+      "title": "Ο ταχυδρόμος πέθανε",
+      "song": "o-taxydromos-pethane",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Το μαντολίνο"
+      "title": "Το μαντολίνο",
+      "song": "to-mantolino",
+      "stub": true
     },
     {
       "pos": "Β2",
@@ -40,7 +44,9 @@
     },
     {
       "pos": "Β3",
-      "title": "Η πέτρα"
+      "title": "Η πέτρα",
+      "song": "i-petra",
+      "stub": true
     }
   ],
   "sources": [

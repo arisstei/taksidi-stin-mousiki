@@ -21,55 +21,81 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Ασυλλόγιστα χρόνια"
+      "title": "Ασυλλόγιστα χρόνια",
+      "song": "asyllogista-xronia",
+      "stub": true
     },
     {
       "pos": "Α2",
-      "title": "Πώς να κρατήσω το φως που βασιλεύει"
+      "title": "Πώς να κρατήσω το φως που βασιλεύει",
+      "song": "pos-na-kratiso-to-fos-pou-vasileyei",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Κορίτσι της νύχτας"
+      "title": "Κορίτσι της νύχτας",
+      "song": "koritsi-tis-nyxtas",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Χρόνε νυχτοπούλι παγερό"
+      "title": "Χρόνε νυχτοπούλι παγερό",
+      "song": "xrone-nyxtopouli-pagero",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Γκρεμίσανε τα όνειρα"
+      "title": "Γκρεμίσανε τα όνειρα",
+      "song": "gkremisane-ta-oneira",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Έτσι πάει ο κόσμος"
+      "title": "Έτσι πάει ο κόσμος",
+      "song": "etsi-paei-o-kosmos",
+      "stub": true
     },
     {
       "pos": "Α7",
-      "title": "Χειμωνιάτικος ήλιος"
+      "title": "Χειμωνιάτικος ήλιος",
+      "song": "xeimoniatikos-ilios",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Τα παιδιά της καταιγίδας"
+      "title": "Τα παιδιά της καταιγίδας",
+      "song": "ta-paidia-tis-kataigidas",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Έπεσε η κυβέρνηση"
+      "title": "Έπεσε η κυβέρνηση",
+      "song": "epese-i-kyvernisi",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Έγκλημα και τιμωρία"
+      "title": "Έγκλημα και τιμωρία",
+      "song": "egklima-kai-timoria",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Λάουρα"
+      "title": "Λάουρα",
+      "song": "laoura",
+      "stub": true
     },
     {
       "pos": "Β5",
-      "title": "Στον ποταμό του Πάμισο"
+      "title": "Στον ποταμό του Πάμισο",
+      "song": "ston-potamo-tou-pamiso",
+      "stub": true
     },
     {
       "pos": "Β6",
-      "title": "Κύρα του κόσμου"
+      "title": "Κύρα του κόσμου",
+      "song": "kyra-tou-kosmou",
+      "stub": true
     }
   ],
   "sources": [

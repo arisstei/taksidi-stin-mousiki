@@ -1,0 +1,36 @@
+{
+  "slug": "to-triantafyllo",
+  "title": "Το τριαντάφυλλο",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Α. Σολομός",
+  "year": "1965",
+  "performer": "Φλέρυ Νταντωνάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Δεκαπέντε Εσπερινοί» (1965), «Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος» (1977), «30 Νυχτερινά» (1983) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Δεκαπέντε Εσπερινοί (1965)",
+      "url": "https://www.discogs.com/master/303461"
+    },
+    {
+      "label": "Discogs — Οι Γειτονιές Του Φεγγαριού / Χωρίον Ο Πόθος (1977)",
+      "url": "https://www.discogs.com/master/571325"
+    },
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “30 Νυχτερινά” (1983) and 1 more.",
+    "story": []
+  }
+}

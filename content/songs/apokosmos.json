@@ -1,0 +1,24 @@
+{
+  "slug": "apokosmos",
+  "title": "Απόκοσμος",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1996",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα Τραγούδια της Αμαρτίας» (1996).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Τα Τραγούδια Της Αμαρτίας (1996)",
+      "url": "https://www.discogs.com/master/792208"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα Τραγούδια της Αμαρτίας” (1996).",
+    "story": []
+  }
+}

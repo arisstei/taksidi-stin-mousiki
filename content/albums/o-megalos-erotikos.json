@@ -36,7 +36,9 @@
       "pos": "A1",
       "title": "Με την πρώτη σταγόνα της βροχής",
       "performer": "Δημήτρης Ψαριανός",
-      "lyricist": "Οδυσσέας Ελύτης"
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "me-tin-proti-stagona-tis-vroxis",
+      "stub": true
     },
     {
       "pos": "A2",
@@ -49,19 +51,25 @@
       "pos": "A3",
       "title": "Μέρες του 1903",
       "performer": "Δημήτρης Ψαριανός",
-      "lyricist": "Κ. Π. Καβάφης"
+      "lyricist": "Κ. Π. Καβάφης",
+      "song": "meres-tou-1903",
+      "stub": true
     },
     {
       "pos": "A4",
       "title": "Ποιος είν' τρελλός από έρωτα",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Γ. Σαραντάρης"
+      "lyricist": "Γ. Σαραντάρης",
+      "song": "poios-ein-trellos-apo-erota",
+      "stub": true
     },
     {
       "pos": "A5",
       "title": "Τα λιανοτράγουδα",
       "performer": "Δημήτρης Ψαριανός",
-      "lyricist": "Δημοτικό"
+      "lyricist": "Δημοτικό",
+      "song": "ta-lianotragouda",
+      "stub": true
     },
     {
       "pos": "A6",
@@ -74,31 +82,41 @@
       "pos": "B1",
       "title": "Το όνειρο",
       "performer": "Δημήτρης Ψαριανός",
-      "lyricist": "Διονύσιος Σολωμός"
+      "lyricist": "Διονύσιος Σολωμός",
+      "song": "to-oneiro",
+      "stub": true
     },
     {
       "pos": "B2",
       "title": "Κέλομαί σε Γογγύλα",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Σαπφώ"
+      "lyricist": "Σαπφώ",
+      "song": "kelomai-se-goggyla",
+      "stub": true
     },
     {
       "pos": "B3",
       "title": "Έρωτα εσύ",
       "performer": "Δημήτρης Ψαριανός",
-      "lyricist": "Ευριπίδης (μτφρ. Π. Πρεβελάκης)"
+      "lyricist": "Ευριπίδης (μτφρ. Π. Πρεβελάκης)",
+      "song": "erota-esy",
+      "stub": true
     },
     {
       "pos": "B4",
       "title": "Πάθη από τον έρωτα",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Γ. Χορτάτζης"
+      "lyricist": "Γ. Χορτάτζης",
+      "song": "pathi-apo-ton-erota",
+      "stub": true
     },
     {
       "pos": "B5",
       "title": "Κραταιά ως θάνατος αγάπη",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Άσμα Ασμάτων"
+      "lyricist": "Άσμα Ασμάτων",
+      "song": "krataia-os-thanatos-agapi",
+      "stub": true
     }
   ],
   "sources": [

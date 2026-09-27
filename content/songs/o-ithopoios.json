@@ -1,0 +1,24 @@
+{
+  "slug": "o-ithopoios",
+  "title": "Ο ηθοποιός",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μάνος Χατζιδάκις",
+  "year": "1962",
+  "performer": "Δημήτρης Χορν",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Οδός Ονείρων» (1962).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Οδός Ονείρων (1962)",
+      "url": "https://www.discogs.com/master/378708"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Οδός Ονείρων” (1962).",
+    "story": []
+  }
+}

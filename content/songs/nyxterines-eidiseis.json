@@ -1,0 +1,24 @@
+{
+  "slug": "nyxterines-eidiseis",
+  "title": "Νυχτερινές ειδήσεις",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": "Γιώργος Ρωμανός",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μυθολογία» (1966).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μυθολογία (1966)",
+      "url": "https://www.discogs.com/master/369527"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μυθολογία” (1966).",
+    "story": []
+  }
+}

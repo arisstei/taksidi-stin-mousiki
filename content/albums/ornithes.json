@@ -29,11 +29,15 @@
     },
     {
       "pos": "Α2",
-      "title": "Προσκλητήριο του Έποπα"
+      "title": "Προσκλητήριο του Έποπα",
+      "song": "prosklitirio-tou-epopa",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Πάροδος (Είσοδος και επίθεσις)"
+      "title": "Πάροδος (Είσοδος και επίθεσις)",
+      "song": "parodos",
+      "stub": true
     },
     {
       "pos": "Β1",
@@ -49,7 +53,9 @@
     },
     {
       "pos": "C1",
-      "title": "Ω μακάρια πετεινά"
+      "title": "Ω μακάρια πετεινά",
+      "song": "o-makaria-peteina",
+      "stub": true
     },
     {
       "pos": "C2",

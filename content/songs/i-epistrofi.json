@@ -1,0 +1,24 @@
+{
+  "slug": "i-epistrofi",
+  "title": "Η επιστροφή",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μ. Χατζιδάκις",
+  "year": "1977",
+  "performer": "Ευτύχιος Χατζηττοφής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος» (1977).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Οι Γειτονιές Του Φεγγαριού / Χωρίον Ο Πόθος (1977)",
+      "url": "https://www.discogs.com/master/571325"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977).",
+    "story": []
+  }
+}

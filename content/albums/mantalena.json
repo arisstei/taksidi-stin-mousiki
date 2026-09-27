@@ -34,7 +34,9 @@
       "pos": "A3",
       "title": "Θάλασσα πλατειά",
       "performer": "Αλίκη Βουγιουκλάκη",
-      "lyricist": "Γ. Ρούσσος"
+      "lyricist": "Γ. Ρούσσος",
+      "song": "thalassa-plateia",
+      "stub": true
     },
     {
       "pos": "A4",
@@ -64,7 +66,9 @@
       "pos": "B1",
       "title": "Μεσ' αυτή τη βάρκα",
       "performer": "Αλίκη Βουγιουκλάκη",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "mes-ayti-ti-varka",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -82,7 +86,9 @@
       "pos": "B5",
       "title": "Σ' αυτή τη γειτονίτσα",
       "performer": "Αιμιλία Χατζηδάκη, χορωδία",
-      "lyricist": "Γ. Ρούσσος"
+      "lyricist": "Γ. Ρούσσος",
+      "song": "s-ayti-ti-geitonitsa",
+      "stub": true
     },
     {
       "pos": "B6",

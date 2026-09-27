@@ -26,7 +26,9 @@
     },
     {
       "pos": "Α2",
-      "title": "Όμορφη που 'ναι η Κρήτη"
+      "title": "Όμορφη που 'ναι η Κρήτη",
+      "song": "omorfi-pou-nai-i-kriti",
+      "stub": true
     },
     {
       "pos": "Α3",
@@ -34,19 +36,27 @@
     },
     {
       "pos": "Α4",
-      "title": "Δεν ήταν νησί"
+      "title": "Δεν ήταν νησί",
+      "song": "den-itan-nisi",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Κυρά μου Αμπελιώτισσα"
+      "title": "Κυρά μου Αμπελιώτισσα",
+      "song": "kyra-mou-ampeliotissa",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Η Κρασογιώργαινα"
+      "title": "Η Κρασογιώργαινα",
+      "song": "i-krasogiorgaina",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Μεγαλοβδόμαδο"
+      "title": "Μεγαλοβδόμαδο",
+      "song": "megalovdomado",
+      "stub": true
     },
     {
       "pos": "Β2",
@@ -54,7 +64,9 @@
     },
     {
       "pos": "Β3",
-      "title": "Βαριά απόψε η νύχτα"
+      "title": "Βαριά απόψε η νύχτα",
+      "song": "varia-apopse-i-nyxta",
+      "stub": true
     },
     {
       "pos": "Β4",
@@ -62,7 +74,9 @@
     },
     {
       "pos": "Β5",
-      "title": "Πού είναι ο Θεός"
+      "title": "Πού είναι ο Θεός",
+      "song": "pou-einai-o-theos",
+      "stub": true
     }
   ],
   "sources": [

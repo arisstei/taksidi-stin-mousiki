@@ -1,0 +1,24 @@
+{
+  "slug": "gyrna-fteroti-tou-mylou",
+  "title": "Γύρνα φτερωτή του μύλου",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1965",
+  "performer": "Λάκης Παππάς",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ματωμένος γάμος / Παραμύθι χωρίς όνομα» (1965).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ματωμένος Γάμος / Παραμύθι Χωρίς Όνομα (1965)",
+      "url": "https://www.discogs.com/master/252464"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965).",
+    "story": []
+  }
+}

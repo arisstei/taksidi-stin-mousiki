@@ -22,51 +22,75 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Τρεις κοπέλες απ' τη Θήβα"
+      "title": "Τρεις κοπέλες απ' τη Θήβα",
+      "song": "treis-kopeles-ap-ti-thiva",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Ο Ροβινσών στη Μύκονο"
+      "title": "Ο Ροβινσών στη Μύκονο",
+      "song": "o-rovinson-sti-mykono",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Ο Ιρλανδός και ο Ιουδαίος"
+      "title": "Ο Ιρλανδός και ο Ιουδαίος",
+      "song": "o-irlandos-kai-o-ioudaios",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Τα καλοτάξιδα πουλιά"
+      "title": "Τα καλοτάξιδα πουλιά",
+      "song": "ta-kalotaxida-poulia",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Ορέστης"
+      "title": "Ορέστης",
+      "song": "orestis",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Αερικό"
+      "title": "Αερικό",
+      "song": "aeriko",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Με την Ελλάδα καραβοκύρη"
+      "title": "Με την Ελλάδα καραβοκύρη",
+      "song": "me-tin-ellada-karavokyri",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Ο Τζώνης ο μπόγιας"
+      "title": "Ο Τζώνης ο μπόγιας",
+      "song": "o-tzonis-o-mpogias",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Ήσουν παιδί σαν το Χριστό"
+      "title": "Ήσουν παιδί σαν το Χριστό",
+      "song": "isoun-paidi-san-to-xristo",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Ένας ευαίσθητος ληστής"
+      "title": "Ένας ευαίσθητος ληστής",
+      "song": "enas-eyaisthitos-listis",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Νυχτερινές ειδήσεις"
+      "title": "Νυχτερινές ειδήσεις",
+      "song": "nyxterines-eidiseis",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Lamento (Θρήνος)"
+      "title": "Lamento (Θρήνος)",
+      "song": "lamento",
+      "stub": true
     }
   ],
   "sources": [

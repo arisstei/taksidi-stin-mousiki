@@ -1,0 +1,28 @@
+{
+  "slug": "to-feggari-einai-kokkino",
+  "title": "Το φεγγάρι είναι κόκκινο",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μ. Χατζιδάκις",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Δεκαπέντε Εσπερινοί» (1965), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Δεκαπέντε Εσπερινοί (1965)",
+      "url": "https://www.discogs.com/master/303461"
+    },
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
+      "url": "https://www.discogs.com/master/182351"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
+    "story": []
+  }
+}

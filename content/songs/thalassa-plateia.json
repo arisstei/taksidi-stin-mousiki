@@ -1,0 +1,28 @@
+{
+  "slug": "thalassa-plateia",
+  "title": "Θάλασσα πλατειά",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Γ. Ρούσσος",
+  "year": "1986",
+  "performer": "Αλίκη Βουγιουκλάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986), «Μανταλένα» (1990).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
+      "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Discogs — Μανταλένα (1990)",
+      "url": "https://www.discogs.com/master/813846"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986), “Μανταλένα” (1990).",
+    "story": []
+  }
+}

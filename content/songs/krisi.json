@@ -1,0 +1,24 @@
+{
+  "slug": "krisi",
+  "title": "Κρίση",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1974",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
+      "url": "https://www.discogs.com/master/528377"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974).",
+    "story": []
+  }
+}

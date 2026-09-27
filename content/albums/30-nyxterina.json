@@ -20,11 +20,15 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Πάμε μια βόλτα στο φεγγάρι"
+      "title": "Πάμε μια βόλτα στο φεγγάρι",
+      "song": "pame-mia-volta-sto-feggari",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Κοίτα με στα μάτια"
+      "title": "Κοίτα με στα μάτια",
+      "song": "koita-me-sta-matia",
+      "stub": true
     },
     {
       "pos": "A3",
@@ -32,19 +36,27 @@
     },
     {
       "pos": "A4",
-      "title": "Αγάπη μέσα στην καρδιά"
+      "title": "Αγάπη μέσα στην καρδιά",
+      "song": "agapi-mesa-stin-kardia",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Τριαντάφυλλο στο στήθος"
+      "title": "Τριαντάφυλλο στο στήθος",
+      "song": "triantafyllo-sto-stithos",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Πάει ο καιρός, πάει ο καιρός"
+      "title": "Πάει ο καιρός, πάει ο καιρός",
+      "song": "paei-o-kairos-paei-o-kairos",
+      "stub": true
     },
     {
       "pos": "A7",
-      "title": "Μαγική πόλη"
+      "title": "Μαγική πόλη",
+      "song": "mia-poli-magiki",
+      "stub": true
     },
     {
       "pos": "B1",
@@ -64,11 +76,15 @@
     },
     {
       "pos": "B5",
-      "title": "Το κυπαρισσάκι"
+      "title": "Το κυπαρισσάκι",
+      "song": "kyparissaki",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Η πίκρα σήμερα"
+      "title": "Η πίκρα σήμερα",
+      "song": "i-pikra-simera",
+      "stub": true
     },
     {
       "pos": "B7",
@@ -81,7 +97,9 @@
     },
     {
       "pos": "C1",
-      "title": "Η μπαλάντα του Ούρι"
+      "title": "Η μπαλάντα του Ούρι",
+      "song": "i-mpalanta-tou-ouri",
+      "stub": true
     },
     {
       "pos": "C2",
@@ -89,7 +107,9 @@
     },
     {
       "pos": "C3",
-      "title": "Τ' αστέρι του βοριά"
+      "title": "Τ' αστέρι του βοριά",
+      "song": "t-asteri-tou-voria",
+      "stub": true
     },
     {
       "pos": "C4",
@@ -102,7 +122,9 @@
     },
     {
       "pos": "C6",
-      "title": "Αθανασία"
+      "title": "Αθανασία",
+      "song": "athanasia",
+      "stub": true
     },
     {
       "pos": "C7",
@@ -110,35 +132,51 @@
     },
     {
       "pos": "D1",
-      "title": "Μανούλα μου"
+      "title": "Μανούλα μου",
+      "song": "manoula-mou",
+      "stub": true
     },
     {
       "pos": "D2",
-      "title": "Το μεθυσμένο κορίτσι"
+      "title": "Το μεθυσμένο κορίτσι",
+      "song": "to-methysmeno-koritsi",
+      "stub": true
     },
     {
       "pos": "D3",
-      "title": "Τα παιδιά κάτω στον κάμπο"
+      "title": "Τα παιδιά κάτω στον κάμπο",
+      "song": "ta-paidia-kato-ston-kampo",
+      "stub": true
     },
     {
       "pos": "D4",
-      "title": "Στο Λαύριο γίνεται χορός"
+      "title": "Στο Λαύριο γίνεται χορός",
+      "song": "sto-layrio-ginetai-xoros",
+      "stub": true
     },
     {
       "pos": "D5",
-      "title": "Χασάπικο 40"
+      "title": "Χασάπικο 40",
+      "song": "xasapiko-saranta",
+      "stub": true
     },
     {
       "pos": "D6",
-      "title": "Ο Κεμάλ ή ο μύθος του Σεβάχ"
+      "title": "Ο Κεμάλ ή ο μύθος του Σεβάχ",
+      "song": "kemal-2",
+      "stub": true
     },
     {
       "pos": "D7",
-      "title": "Η μικρή Ραλλού"
+      "title": "Η μικρή Ραλλού",
+      "song": "i-mikri-rallou",
+      "stub": true
     },
     {
       "pos": "D8",
-      "title": "Το τριαντάφυλλο"
+      "title": "Το τριαντάφυλλο",
+      "song": "to-triantafyllo",
+      "stub": true
     }
   ],
   "sources": [

@@ -1,0 +1,24 @@
+{
+  "slug": "thanatos-sti-laxanagora",
+  "title": "Θάνατος στη Λαχαναγορά",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1978",
+  "performer": "Στέλιος Μαρκετάκης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τραγούδια για την Ελένη» (1978).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Τραγούδια Για Την Ελένη (1978)",
+      "url": "https://www.discogs.com/master/407225"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τραγούδια για την Ελένη” (1978).",
+    "story": []
+  }
+}

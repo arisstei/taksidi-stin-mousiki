@@ -1,0 +1,32 @@
+{
+  "slug": "xasapiko-saranta",
+  "title": "Χασάπικο σαράντα",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1971",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Της γης το χρυσάφι» (1971), «30 Νυχτερινά» (1983), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Της Γης Το Χρυσάφι (1971)",
+      "url": "https://www.discogs.com/master/303426"
+    },
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Της γης το χρυσάφι” (1971), “30 Νυχτερινά” (1983), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

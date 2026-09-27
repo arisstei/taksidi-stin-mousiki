@@ -1,0 +1,24 @@
+{
+  "slug": "evil-thoughts",
+  "title": "Evil Thoughts",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1963",
+  "performer": "Χορωδία",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «America America» (1963).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — America America (Original Sound Track)",
+      "url": "https://www.discogs.com/master/427341"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “America America” (1963).",
+    "story": []
+  }
+}

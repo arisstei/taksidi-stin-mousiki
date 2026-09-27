@@ -1,0 +1,28 @@
+{
+  "slug": "perimpanou",
+  "title": "Περιμπανού",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1986",
+  "performer": "Αλίκη Καγιαλόγλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986), «Αντικατοπτρισμοί» (1993).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
+      "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Discogs — Αντικατοπτρισμοί (1993)",
+      "url": "https://www.discogs.com/master/364459"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986), “Αντικατοπτρισμοί” (1993).",
+    "story": []
+  }
+}

@@ -22,52 +22,76 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Ένας καημός στη χαραυγή"
+      "title": "Ένας καημός στη χαραυγή",
+      "song": "enas-kaimos-sti-xaraygi",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Μη βάζεις στο ηλεκτρόφωνο"
+      "title": "Μη βάζεις στο ηλεκτρόφωνο",
+      "song": "mi-vazeis-sto-ilektrofono",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Στην πύλη τ' Αδριανού"
+      "title": "Στην πύλη τ' Αδριανού",
+      "song": "stin-pyli-t-adrianou",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Όταν θα βγάλεις το χακί"
+      "title": "Όταν θα βγάλεις το χακί",
+      "song": "otan-tha-vgaleis-to-xaki",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Μάγκας στο ρυθμό του εννιά"
+      "title": "Μάγκας στο ρυθμό του εννιά",
+      "song": "magkas-sto-rythmo-tou-ennia",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Νυχτερινός άγγελος"
+      "title": "Νυχτερινός άγγελος",
+      "song": "nyxterinos-aggelos",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Ψηλά στην Ακροκόρινθο"
+      "title": "Ψηλά στην Ακροκόρινθο",
+      "song": "psila-stin-akrokorintho",
+      "stub": true
     },
     {
       "pos": "B2",
       "title": "Για την Ελένη",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "gia-tin-eleni",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Μυρίζει ο κόσμος γιασεμί"
+      "title": "Μυρίζει ο κόσμος γιασεμί",
+      "song": "myrizei-o-kosmos-giasemi",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Το παλιό σπίτι ή Αυτή 'ναι η αγάπη μας"
+      "title": "Το παλιό σπίτι ή Αυτή 'ναι η αγάπη μας",
+      "song": "to-palio-spiti-i-ayti-nai-i-agapi-mas",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Εσύ στο εργοστάσιο κι εγώ στο άδειο σπίτι"
+      "title": "Εσύ στο εργοστάσιο κι εγώ στο άδειο σπίτι",
+      "song": "esy-sto-ergostasio-ki-ego-sto-adeio-spiti",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Μια νύχτα με το γκάζι"
+      "title": "Μια νύχτα με το γκάζι",
+      "song": "mia-nyxta-me-to-gkazi",
+      "stub": true
     }
   ],
   "sources": [

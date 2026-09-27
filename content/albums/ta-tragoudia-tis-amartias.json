@@ -27,72 +27,106 @@
     },
     {
       "pos": "Α2",
-      "title": "Τύψεις"
+      "title": "Τύψεις",
+      "song": "typseis",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Ενοχή"
+      "title": "Ενοχή",
+      "song": "enoxi",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Έρωτας"
+      "title": "Έρωτας",
+      "song": "erotas",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Αισθησιακό"
+      "title": "Αισθησιακό",
+      "song": "aisthisiako",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Ανταλλαγή"
+      "title": "Ανταλλαγή",
+      "song": "antallagi",
+      "stub": true
     },
     {
       "pos": "Α7",
-      "title": "Φως και σκοτάδι"
+      "title": "Φως και σκοτάδι",
+      "song": "fos-kai-skotadi",
+      "stub": true
     },
     {
       "pos": "Α8",
-      "title": "Παράκληση"
+      "title": "Παράκληση",
+      "song": "paraklisi",
+      "stub": true
     },
     {
       "pos": "Α9",
-      "title": "Απόκοσμος"
+      "title": "Απόκοσμος",
+      "song": "apokosmos",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Διαδρομή"
+      "title": "Διαδρομή",
+      "song": "diadromi",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Αναμονή"
+      "title": "Αναμονή",
+      "song": "anamoni",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Το γαϊδουράκι"
+      "title": "Το γαϊδουράκι",
+      "song": "to-gaidouraki",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Σαν τους αριστερούς"
+      "title": "Σαν τους αριστερούς",
+      "song": "san-tous-aristerous",
+      "stub": true
     },
     {
       "pos": "Β5",
-      "title": "Νυχτερινό Α΄"
+      "title": "Νυχτερινό Α΄",
+      "song": "nyxterino-a",
+      "stub": true
     },
     {
       "pos": "Β6",
-      "title": "Νυχτερινό Γ΄"
+      "title": "Νυχτερινό Γ΄",
+      "song": "nyxterino-g",
+      "stub": true
     },
     {
       "pos": "Β7",
-      "title": "Νεαρέ γιε του μπακάλη"
+      "title": "Νεαρέ γιε του μπακάλη",
+      "song": "neare-gie-tou-mpakali",
+      "stub": true
     },
     {
       "pos": "Β8",
-      "title": "Ενός λεπτού σιγή"
+      "title": "Ενός λεπτού σιγή",
+      "song": "enos-leptou-sigi",
+      "stub": true
     },
     {
       "pos": "Β9",
       "title": "Τύψεις",
-      "performer": "Μάνος Χατζιδάκις (φωνή)"
+      "performer": "Μάνος Χατζιδάκις (φωνή)",
+      "song": "typseis",
+      "stub": true
     }
   ],
   "sources": [

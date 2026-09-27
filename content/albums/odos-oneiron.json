@@ -38,13 +38,17 @@
       "pos": "Α2",
       "title": "Όνειρο παιδιών της γειτονιάς: Οδός Ονείρων / Νυχτερινός χορός",
       "performer": "Γιώργος Μαρίνος, χορωδία",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "oneiro-paidion-tis-geitonias-odos-oneiron-nyxterinos-xoros",
+      "stub": true
     },
     {
       "pos": "Α3",
       "title": "Η μαύρη Φορντ",
       "performer": "Μάρω Κοντού, χορωδία",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "i-mayri-fornt",
+      "stub": true
     },
     {
       "pos": "Α4",
@@ -54,13 +58,17 @@
       "pos": "Α5",
       "title": "Οι αδελφές Τατά",
       "performer": "Γ. Ζωγράφος, Ζωή Φυτούση, Μάρω Κοντού κ.ά.",
-      "lyricist": "Αλέξης Σολομός"
+      "lyricist": "Αλέξης Σολομός",
+      "song": "oi-adelfes-tata",
+      "stub": true
     },
     {
       "pos": "Α6",
       "title": "Μανούλα μου",
       "performer": "Λάκης Παππάς, χορωδία",
-      "lyricist": "Ιάκωβος Καμπανέλλης"
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "manoula-mou",
+      "stub": true
     },
     {
       "pos": "Α7",
@@ -74,25 +82,33 @@
       "pos": "Β2",
       "title": "Κυρ Μιχάλης",
       "performer": "Λάκης Παππάς, χορωδία",
-      "lyricist": "Ιάκωβος Καμπανέλλης"
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "kyr-mixalis",
+      "stub": true
     },
     {
       "pos": "Β3",
       "title": "Ο ηθοποιός",
       "performer": "Δημήτρης Χορν",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "o-ithopoios",
+      "stub": true
     },
     {
       "pos": "Β4",
       "title": "Έφυγε το τρένο / Χορευτικός αυτοσχεδιασμός",
       "performer": "Ζωή Φυτούση, χορωδία · Γ. Ζαμπέτας (μπουζούκι)",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "efyge-to-treno-xoreytikos-aytosxediasmos",
+      "stub": true
     },
     {
       "pos": "Β5",
       "title": "Το πάρτυ / Το πουλί",
       "performer": "Δημήτρης Χορν · Μάρω Κοντού",
-      "lyricist": "Μάνος Χατζιδάκις · Μίνως Αργυράκης"
+      "lyricist": "Μάνος Χατζιδάκις · Μίνως Αργυράκης",
+      "song": "to-party-to-pouli",
+      "stub": true
     },
     {
       "pos": "Β6",

@@ -1,0 +1,24 @@
+{
+  "slug": "dedication",
+  "title": "Dedication",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Clifton Nivison",
+  "year": "1970",
+  "performer": "Michael Kamen",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Reflections» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Reflections (1970)",
+      "url": "https://www.discogs.com/master/33490"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Reflections” (1970).",
+    "story": []
+  }
+}

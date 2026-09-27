@@ -24,7 +24,9 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Τα παιδιά κάτω στον κάμπο (ορχήστρα)"
+      "title": "Τα παιδιά κάτω στον κάμπο (ορχήστρα)",
+      "song": "ta-paidia-kato-ston-kampo",
+      "stub": true
     },
     {
       "pos": "A2",
@@ -37,7 +39,9 @@
     {
       "pos": "A4",
       "title": "Is The Life On The Earth",
-      "performer": "Ann Lonnberg"
+      "performer": "Ann Lonnberg",
+      "song": "is-the-life-on-the-earth",
+      "stub": true
     },
     {
       "pos": "A5",
@@ -54,13 +58,17 @@
     {
       "pos": "A8",
       "title": "Is The Life On The Earth",
-      "performer": "Ann Lonnberg"
+      "performer": "Ann Lonnberg",
+      "song": "is-the-life-on-the-earth",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Τα παιδιά κάτω στον κάμπο",
       "performer": "Μαρία Κάτηρα",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "ta-paidia-kato-ston-kampo",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -69,7 +77,9 @@
     {
       "pos": "B3",
       "title": "Νυχτερινό για δύο φωνές",
-      "performer": "Μαρία Κάτηρα"
+      "performer": "Μαρία Κάτηρα",
+      "song": "nyxterino-gia-dyo-fones",
+      "stub": true
     },
     {
       "pos": "B4",
@@ -79,7 +89,9 @@
       "pos": "B5",
       "title": "Τα παιδιά κάτω στον κάμπο",
       "performer": "Παιδική χορωδία",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "ta-paidia-kato-ston-kampo",
+      "stub": true
     },
     {
       "pos": "B6",

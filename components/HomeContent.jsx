@@ -15,7 +15,7 @@ export default function HomeContent({ songs: rawSongs, lang = "el" }) {
   const basePath = lang === "en" ? "/en" : "";
   const songs = rawSongs.map((s) => localizeSong(s, lang));
 
-  const realSongs = songs.filter((s) => !s.isProfile);
+  const realSongs = songs.filter((s) => !s.isProfile && !s.isStub);
   const allSlugs = realSongs.map((s) => s.slug);
 
   const featured =

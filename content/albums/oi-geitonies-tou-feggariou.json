@@ -29,49 +29,65 @@
       "pos": "A1",
       "title": "Η μικρή Ραλλού",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "i-mikri-rallou",
+      "stub": true
     },
     {
       "pos": "A2",
       "title": "Ρίχνω την καρδιά μου στο πηγάδι",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Ι. Καμπανέλλης"
+      "lyricist": "Ι. Καμπανέλλης",
+      "song": "rixno-tin-kardia-mou-sto-pigadi",
+      "stub": true
     },
     {
       "pos": "A3",
       "title": "Ήταν καμάρι της αυγής",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "itan-kamari-tis-aygis",
+      "stub": true
     },
     {
       "pos": "A4",
       "title": "Το πουλί",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Μ. Αργυράκης"
+      "lyricist": "Μ. Αργυράκης",
+      "song": "to-pouli",
+      "stub": true
     },
     {
       "pos": "A5",
       "title": "Κάθε τρελλό παιδί",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "kathe-trello-paidi",
+      "stub": true
     },
     {
       "pos": "A6",
       "title": "Με την Ελλάδα καραβοκύρη",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "me-tin-ellada-karavokyri",
+      "stub": true
     },
     {
       "pos": "A7",
       "title": "Το τριαντάφυλλο",
       "performer": "Φλέρυ Νταντωνάκη",
-      "lyricist": "Α. Σολομός"
+      "lyricist": "Α. Σολομός",
+      "song": "to-triantafyllo",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Στου Διγενή τα κάστρα",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "stou-digeni-ta-kastra",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -81,31 +97,41 @@
       "pos": "B3",
       "title": "Ο Παναγής της Κυριακής",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Αγαθή Δημητρούκα"
+      "lyricist": "Αγαθή Δημητρούκα",
+      "song": "o-panagis-tis-kyriakis",
+      "stub": true
     },
     {
       "pos": "B4",
       "title": "Ο καινούργιος προφήτης",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "o-kainourgios-profitis",
+      "stub": true
     },
     {
       "pos": "B5",
       "title": "Μπερδεύτηκα",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Μ. Αργυράκης"
+      "lyricist": "Μ. Αργυράκης",
+      "song": "mperdeytika",
+      "stub": true
     },
     {
       "pos": "Β6",
       "title": "Ένα κορίτσι στο βάλτο",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Αγαθή Δημητρούκα"
+      "lyricist": "Αγαθή Δημητρούκα",
+      "song": "ena-koritsi-sto-valto",
+      "stub": true
     },
     {
       "pos": "Β7",
       "title": "Η επιστροφή",
       "performer": "Ευτύχιος Χατζηττοφής",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "i-epistrofi",
+      "stub": true
     }
   ],
   "sources": [

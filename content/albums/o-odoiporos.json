@@ -20,51 +20,75 @@
   "tracks": [
     {
       "pos": "Α1",
-      "title": "Ο Οδοιπόρος"
+      "title": "Ο Οδοιπόρος",
+      "song": "o-odoiporos",
+      "stub": true
     },
     {
       "pos": "Α2",
-      "title": "Η μπαλλάντα του Οδοιπόρου"
+      "title": "Η μπαλλάντα του Οδοιπόρου",
+      "song": "i-mpallanta-tou-odoiporou",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Τα σπασμένα ποδήλατα"
+      "title": "Τα σπασμένα ποδήλατα",
+      "song": "ta-spasmena-podilata",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Στα νερά του Ιορδάνη"
+      "title": "Στα νερά του Ιορδάνη",
+      "song": "sta-nera-tou-iordani",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Κρίση"
+      "title": "Κρίση",
+      "song": "krisi",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Το αίνιγμα"
+      "title": "Το αίνιγμα",
+      "song": "to-ainigma",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Το μεθυσμένο κορίτσι"
+      "title": "Το μεθυσμένο κορίτσι",
+      "song": "to-methysmeno-koritsi",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Επέτειος"
+      "title": "Επέτειος",
+      "song": "epeteios",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Ο Αλκιβιάδης"
+      "title": "Ο Αλκιβιάδης",
+      "song": "o-alkiviadis",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Ο τρελός κόσμος"
+      "title": "Ο τρελός κόσμος",
+      "song": "o-trelos-kosmos",
+      "stub": true
     },
     {
       "pos": "Β5",
-      "title": "Οράματα"
+      "title": "Οράματα",
+      "song": "oramata",
+      "stub": true
     },
     {
       "pos": "Β6",
-      "title": "Ο φόβος"
+      "title": "Ο φόβος",
+      "song": "o-fovos",
+      "stub": true
     }
   ],
   "sources": [

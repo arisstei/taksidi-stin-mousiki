@@ -1,0 +1,28 @@
+{
+  "slug": "xelidoni-se-klouvi",
+  "title": "Χελιδόνι σε κλουβί",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1970",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Επιστροφή» (1970), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Επιστροφή (1970)",
+      "url": "https://www.discogs.com/master/371489"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Επιστροφή” (1970), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

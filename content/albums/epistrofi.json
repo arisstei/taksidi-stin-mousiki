@@ -22,47 +22,69 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Η πίκρα σήμερα"
+      "title": "Η πίκρα σήμερα",
+      "song": "i-pikra-simera",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Μίλησέ μου"
+      "title": "Μίλησέ μου",
+      "song": "milise-mou",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Τι να γίνεται ο κυρ-Φώτης"
+      "title": "Τι να γίνεται ο κυρ-Φώτης",
+      "song": "ti-na-ginetai-o-kyr-fotis",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Οι κολασμένοι"
+      "title": "Οι κολασμένοι",
+      "song": "oi-kolasmenoi",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Ο τιμονιέρης"
+      "title": "Ο τιμονιέρης",
+      "song": "o-timonieris",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Το δεσποινάκι"
+      "title": "Το δεσποινάκι",
+      "song": "to-despoinaki",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Χελιδόνι σε κλουβί"
+      "title": "Χελιδόνι σε κλουβί",
+      "song": "xelidoni-se-klouvi",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Φιλντισένιο καραβάκι"
+      "title": "Φιλντισένιο καραβάκι",
+      "song": "filntisenio-karavaki",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Στης ζωής τη στράτα"
+      "title": "Στης ζωής τη στράτα",
+      "song": "stis-zois-ti-strata",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Σε πελαγίσιο μνήμα"
+      "title": "Σε πελαγίσιο μνήμα",
+      "song": "se-pelagisio-mnima",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Δάμων και Φιντίας"
+      "title": "Δάμων και Φιντίας",
+      "song": "damon-kai-fintias",
+      "stub": true
     }
   ],
   "sources": [

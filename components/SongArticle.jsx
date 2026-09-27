@@ -143,6 +143,17 @@ export default function SongArticle({ song, lang = "el", albums = [] }) {
         </div>
       )}
 
+      {song.isStub && (
+        <div className="catalog-card mb-8 text-sm text-ink/75 leading-relaxed">
+          <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-brand mb-1.5">
+            {lang === "en" ? "Record card" : "Καρτέλα τραγουδιού"}
+          </p>
+          {lang === "en"
+            ? "We haven't yet found a source that documents the story behind this song — so, following our sourcing rule, this page holds only its details and the records it appears on. The story will be added once it can be shown with a source."
+            : "Δεν έχουμε βρει ακόμη πηγή που να τεκμηριώνει την ιστορία αυτού του τραγουδιού — γι' αυτό, σύμφωνα με τον κανόνα των πηγών, εδώ υπάρχουν μόνο τα στοιχεία του και οι δίσκοι όπου εμφανίζεται. Η ιστορία θα προστεθεί μόλις μπορεί να δειχθεί με πηγή."}
+        </div>
+      )}
+
       <div className="prose-like space-y-5">
         {song.story.map((p, i) => (
           <p key={i} className="text-ink/85 leading-relaxed">

@@ -1,0 +1,28 @@
+{
+  "slug": "myrizei-o-kosmos-giasemi",
+  "title": "Μυρίζει ο κόσμος γιασεμί",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1978",
+  "performer": "Στέλιος Μαρκετάκης · Μαρία Δημητριάδη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τραγούδια για την Ελένη» (1978), «Για την Ελένη» (1985).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Τραγούδια Για Την Ελένη (1978)",
+      "url": "https://www.discogs.com/master/407225"
+    },
+    {
+      "label": "Discogs — Για Την Ελένη (1985)",
+      "url": "https://www.discogs.com/master/400672"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τραγούδια για την Ελένη” (1978), “Για την Ελένη” (1985).",
+    "story": []
+  }
+}

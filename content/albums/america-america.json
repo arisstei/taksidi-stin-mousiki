@@ -71,7 +71,9 @@
       "pos": "B5",
       "title": "Evil Thoughts",
       "performer": "Χορωδία",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "evil-thoughts",
+      "stub": true
     },
     {
       "pos": "B6",

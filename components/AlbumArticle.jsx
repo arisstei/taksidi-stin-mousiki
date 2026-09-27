@@ -14,14 +14,15 @@ function sideOf(pos) {
 }
 
 function TrackRow({ track, basePath, t }) {
-  const hasStory = Boolean(track.song);
+  const hasLink = Boolean(track.song);
+  const hasStory = hasLink && !track.stub;
   const inner = (
     <>
       <span className="font-mono text-[11px] text-ink/40 w-8 shrink-0 pt-1">{track.pos}</span>
       <span className="flex-1 min-w-0">
         <span
           className={`font-serif text-[17px] leading-snug ${
-            hasStory ? "text-ink group-hover:text-brand" : "text-ink/80"
+            hasStory ? "text-ink group-hover:text-brand" : hasLink ? "text-ink/85 group-hover:text-brand" : "text-ink/60"
           }`}
         >
           {track.title}
@@ -45,7 +46,7 @@ function TrackRow({ track, basePath, t }) {
       )}
     </>
   );
-  return hasStory ? (
+  return hasLink ? (
     <li>
       <Link
         href={`${basePath}/song/${track.song}`}
@@ -67,7 +68,7 @@ export default function AlbumArticle({ album, composer, prev, next, lang = "el" 
   const sideA = tracks.filter((x) => sideOf(x.pos) !== "B");
   const sideB = tracks.filter((x) => sideOf(x.pos) === "B");
   const hasSides = sideB.length > 0 && sideA.every((x) => sideOf(x.pos) === "A");
-  const withStory = tracks.filter((x) => x.song).length;
+  const withStory = tracks.filter((x) => x.song && !x.stub).length;
 
   return (
     <article>
@@ -182,7 +183,7 @@ export default function AlbumArticle({ album, composer, prev, next, lang = "el" 
               )}
             </div>
           </div>
-          {withStory < tracks.length && (
+          {tracks.some((x) => !x.song || x.stub) && (
             <p className="text-xs text-ink/45 mt-3 italic">{t.noStoryNote}</p>
           )}
         </section>

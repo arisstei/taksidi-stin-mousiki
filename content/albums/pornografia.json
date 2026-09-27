@@ -34,7 +34,9 @@
     },
     {
       "pos": "A2",
-      "title": "Πορνογραφία"
+      "title": "Πορνογραφία",
+      "song": "pornografia",
+      "stub": true
     },
     {
       "pos": "A3",
@@ -46,7 +48,9 @@
     },
     {
       "pos": "A5",
-      "title": "Ελεγεία για τη Μέριλιν Μονρόε"
+      "title": "Ελεγεία για τη Μέριλιν Μονρόε",
+      "song": "elegeia-gia-ti-merilin-monroe",
+      "stub": true
     },
     {
       "pos": "A6",
@@ -54,19 +58,27 @@
     },
     {
       "pos": "A7",
-      "title": "Η Παναγία των Πατησίων"
+      "title": "Η Παναγία των Πατησίων",
+      "song": "i-panagia-ton-patision",
+      "stub": true
     },
     {
       "pos": "A8",
-      "title": "Το τραγούδι της Μπλανς Επιφανί"
+      "title": "Το τραγούδι της Μπλανς Επιφανί",
+      "song": "to-tragoudi-tis-mplans-epifani",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Έλα σε μένα"
+      "title": "Έλα σε μένα",
+      "song": "ela-se-mena",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Τραγούδι για ένα άδειο δωμάτιο"
+      "title": "Τραγούδι για ένα άδειο δωμάτιο",
+      "song": "tragoudi-gia-ena-adeio-domatio",
+      "stub": true
     },
     {
       "pos": "B3",
@@ -74,7 +86,9 @@
     },
     {
       "pos": "B4",
-      "title": "Ο Ερίκ Σατί ζωγραφίζει εννιά μούσες"
+      "title": "Ο Ερίκ Σατί ζωγραφίζει εννιά μούσες",
+      "song": "o-erik-sati-zografizei-ennia-mouses",
+      "stub": true
     },
     {
       "pos": "B5",
@@ -82,7 +96,9 @@
     },
     {
       "pos": "B6",
-      "title": "Μπαλάντα των αισθήσεων και παραισθήσεων"
+      "title": "Μπαλάντα των αισθήσεων και παραισθήσεων",
+      "song": "mpalanta-ton-aisthiseon-kai-paraisthiseon",
+      "stub": true
     },
     {
       "pos": "B7",
@@ -90,11 +106,15 @@
     },
     {
       "pos": "Β8",
-      "title": "Τρεις ρόζες ή το τέλος του ονείρου"
+      "title": "Τρεις ρόζες ή το τέλος του ονείρου",
+      "song": "treis-rozes-i-to-telos-tou-oneirou",
+      "stub": true
     },
     {
       "pos": "Β9",
-      "title": "Πορνογραφία (Finale)"
+      "title": "Πορνογραφία (Finale)",
+      "song": "pornografia",
+      "stub": true
     }
   ],
   "sources": [

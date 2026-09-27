@@ -8,7 +8,7 @@ export default function ComposerContent({ composer, albums, lang = "el" }) {
   const t = getDiscDict(lang);
   const basePath = lang === "en" ? "/en" : "";
   const storyCount = albums.reduce(
-    (n, a) => n + (a.tracks || []).filter((x) => x.song).length,
+    (n, a) => n + (a.tracks || []).filter((x) => x.song && !x.stub).length,
     0
   );
   const shelfAlbums = albums.map((a) => ({
@@ -18,7 +18,7 @@ export default function ComposerContent({ composer, albums, lang = "el" }) {
     type: a.type,
     label: a.label,
     labelShort: (a.label || "").split(/[;,]/)[0].trim(),
-    tracks: (a.tracks || []).map((x) => ({ song: x.song || null })),
+    tracks: (a.tracks || []).map((x) => ({ song: x.song && !x.stub ? x.song : null })),
   }));
 
   return (

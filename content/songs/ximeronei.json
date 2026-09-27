@@ -1,0 +1,28 @@
+{
+  "slug": "ximeronei",
+  "title": "Ξημερώνει",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Β. Γκούφας",
+  "year": "1961",
+  "performer": "Παιδική χορωδία",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Λίζα και η άλλη» (1961), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Από την ταινία «Η Λίζα και η άλλη»",
+      "url": "https://www.discogs.com/master/1053535"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Λίζα και η άλλη” (1961), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

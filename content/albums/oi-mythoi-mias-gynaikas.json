@@ -22,52 +22,76 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Η θυσία της Αντιγόνης"
+      "title": "Η θυσία της Αντιγόνης",
+      "song": "i-thysia-tis-antigonis",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Είπα επί γης ειρήνη"
+      "title": "Είπα επί γης ειρήνη",
+      "song": "eipa-epi-gis-eirini",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Ταορμίνα"
+      "title": "Ταορμίνα",
+      "song": "taormina",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Με λένε Θεοδώρα"
+      "title": "Με λένε Θεοδώρα",
+      "song": "me-lene-theodora",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Πότε πεθαίνει ο έρωτας"
+      "title": "Πότε πεθαίνει ο έρωτας",
+      "song": "pote-pethainei-o-erotas",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Ο σταυρός"
+      "title": "Ο σταυρός",
+      "song": "o-stayros",
+      "stub": true
     },
     {
       "pos": "A7",
       "title": "Ήρωες και θύματα",
-      "lyricist": "Αγαθή Δημητρούκα"
+      "lyricist": "Αγαθή Δημητρούκα",
+      "song": "iroes-kai-thymata",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Η πόλκα των Εβραίων της Πράγας"
+      "title": "Η πόλκα των Εβραίων της Πράγας",
+      "song": "i-polka-ton-evraion-tis-pragas",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Μαύρος ταύρος μπήκε στο χορό (Μια χαμπανέρα για τον F. G. Lorca)"
+      "title": "Μαύρος ταύρος μπήκε στο χορό (Μια χαμπανέρα για τον F. G. Lorca)",
+      "song": "mayros-tayros-mpike-sto-xoro",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Τα λόγια που περίμενα (Ένα τραγούδι για τον Maurice Jaubert)"
+      "title": "Τα λόγια που περίμενα (Ένα τραγούδι για τον Maurice Jaubert)",
+      "song": "ta-logia-pou-perimena",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Στου Νείλου τ' αμμοχώραφα (Μια ελεγεία για την Om Kalsoum)"
+      "title": "Στου Νείλου τ' αμμοχώραφα (Μια ελεγεία για την Om Kalsoum)",
+      "song": "stou-neilou-t-ammoxorafa",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Κραυγές για ενός αγγέλου μνήμη (Ένα τανγκό για την Alma Mahler)"
+      "title": "Κραυγές για ενός αγγέλου μνήμη (Ένα τανγκό για την Alma Mahler)",
+      "song": "krayges-gia-enos-aggelou-mnimi",
+      "stub": true
     }
   ],
   "sources": [

@@ -25,63 +25,93 @@
   "tracks": [
     {
       "pos": "Α1",
-      "title": "Ο βαρκάρης των κεραυνών"
+      "title": "Ο βαρκάρης των κεραυνών",
+      "song": "o-varkaris-ton-keraynon",
+      "stub": true
     },
     {
       "pos": "Α2",
-      "title": "Ένας ναύτης στο φεγγάρι"
+      "title": "Ένας ναύτης στο φεγγάρι",
+      "song": "enas-naytis-sto-feggari",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Με πνίγει τούτη η θάλασσα"
+      "title": "Με πνίγει τούτη η θάλασσα",
+      "song": "me-pnigei-touti-i-thalassa",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Ο αφέντης έφυγε το πρωί"
+      "title": "Ο αφέντης έφυγε το πρωί",
+      "song": "o-afentis-efyge-to-proi",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Μια θλιμμένη αρχόντισσα"
+      "title": "Μια θλιμμένη αρχόντισσα",
+      "song": "mia-thlimmeni-arxontissa",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Στην αποβάθρα"
+      "title": "Στην αποβάθρα",
+      "song": "stin-apovathra",
+      "stub": true
     },
     {
       "pos": "Α7",
-      "title": "Σε παραλία ερημική"
+      "title": "Σε παραλία ερημική",
+      "song": "se-paralia-erimiki",
+      "stub": true
     },
     {
       "pos": "Α8",
-      "title": "Εγώ είμαι ένα σύννεφο"
+      "title": "Εγώ είμαι ένα σύννεφο",
+      "song": "ego-eimai-ena-synnefo",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Όμορφη που 'ναι η Κρήτη"
+      "title": "Όμορφη που 'ναι η Κρήτη",
+      "song": "omorfi-pou-nai-i-kriti",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Δεν ήταν νησί"
+      "title": "Δεν ήταν νησί",
+      "song": "den-itan-nisi",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Κυρά μου Αμπελιώτισσα"
+      "title": "Κυρά μου Αμπελιώτισσα",
+      "song": "kyra-mou-ampeliotissa",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Η Κρασογιώργαινα"
+      "title": "Η Κρασογιώργαινα",
+      "song": "i-krasogiorgaina",
+      "stub": true
     },
     {
       "pos": "Β5",
-      "title": "Μεγαλοβδόμαδο"
+      "title": "Μεγαλοβδόμαδο",
+      "song": "megalovdomado",
+      "stub": true
     },
     {
       "pos": "Β6",
-      "title": "Ερωτικός άνεμος (Βαριά απόψε η νύχτα)"
+      "title": "Ερωτικός άνεμος (Βαριά απόψε η νύχτα)",
+      "song": "erotikos-anemos",
+      "stub": true
     },
     {
       "pos": "Β7",
-      "title": "Πού είναι ο Θεός"
+      "title": "Πού είναι ο Θεός",
+      "song": "pou-einai-o-theos",
+      "stub": true
     }
   ],
   "sources": [

@@ -1,0 +1,24 @@
+{
+  "slug": "mes-ayti-ti-varka",
+  "title": "Μεσ' αυτή τη βάρκα",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μάνος Χατζιδάκις",
+  "year": "1990",
+  "performer": "Αλίκη Βουγιουκλάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μανταλένα» (1990).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μανταλένα (1990)",
+      "url": "https://www.discogs.com/master/813846"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μανταλένα” (1990).",
+    "story": []
+  }
+}

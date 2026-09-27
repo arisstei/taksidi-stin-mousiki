@@ -48,32 +48,44 @@
     {
       "pos": "Β3",
       "title": "Με πνίγει ετούτ' η θάλασσα",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "me-pnigei-etout-i-thalassa",
+      "stub": true
     },
     {
       "pos": "Β4",
       "title": "Ο αφέντης έφυγε πρωί",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "o-afentis-efyge-proi",
+      "stub": true
     },
     {
       "pos": "Β5",
       "title": "Μια θλιμμένη αρχόντισσα",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "mia-thlimmeni-arxontissa",
+      "stub": true
     },
     {
       "pos": "Β6",
       "title": "Στην αποβάθρα",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "stin-apovathra",
+      "stub": true
     },
     {
       "pos": "Β7",
       "title": "Θα περιμένω",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "tha-perimeno",
+      "stub": true
     },
     {
       "pos": "Β8",
       "title": "Εγώ είμ' ένα σύννεφο",
-      "performer": "Φλέρυ Νταντωνάκη"
+      "performer": "Φλέρυ Νταντωνάκη",
+      "song": "ego-eim-ena-synnefo",
+      "stub": true
     }
   ],
   "sources": [

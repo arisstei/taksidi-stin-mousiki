@@ -37,13 +37,17 @@
       "pos": "Α3",
       "title": "Εφηβικό φεγγάρι · Αθήνα",
       "performer": "Νάνα Μούσχουρη",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "efiviko-feggari-athina",
+      "stub": true
     },
     {
       "pos": "Β1",
       "title": "Μια τούφα γαλανός καπνός · Ένα καράβι μπαίνει στο γιαλό · Το πέλαγο είναι βαθύ",
       "performer": "Νάνα Μούσχουρη",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "mia-toufa-galanos-kapnos-ena-karavi-mpainei-sto-gialo-to-pelago-einai-vathy",
+      "stub": true
     },
     {
       "pos": "Β2",
@@ -53,7 +57,9 @@
       "pos": "Β3",
       "title": "Πάνω στη θερισμένη καλαμιά · Με την πατρίδα τους δεμένη στα πανιά",
       "performer": "Νάνα Μούσχουρη",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "pano-sti-therismeni-kalamia-me-tin-patrida-tous-demeni-sta-pania",
+      "stub": true
     }
   ],
   "sources": [

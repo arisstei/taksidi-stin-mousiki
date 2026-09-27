@@ -1,0 +1,32 @@
+{
+  "slug": "me-tin-ellada-karavokyri",
+  "title": "Με την Ελλάδα καραβοκύρη",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": "Γιώργος Ρωμανός · Φλέρυ Νταντωνάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μυθολογία» (1966), «Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος» (1977), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μυθολογία (1966)",
+      "url": "https://www.discogs.com/master/369527"
+    },
+    {
+      "label": "Discogs — Οι Γειτονιές Του Φεγγαριού / Χωρίον Ο Πόθος (1977)",
+      "url": "https://www.discogs.com/master/571325"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μυθολογία” (1966), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

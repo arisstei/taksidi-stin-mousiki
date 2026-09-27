@@ -1,0 +1,24 @@
+{
+  "slug": "pente-grammata",
+  "title": "Πέντε γράμματα",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1987",
+  "performer": "Μαρία Φαραντούρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Σκοτεινή μητέρα» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σκοτεινή Μητέρα (1987)",
+      "url": "https://www.discogs.com/master/867695"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Σκοτεινή μητέρα” (1987).",
+    "story": []
+  }
+}

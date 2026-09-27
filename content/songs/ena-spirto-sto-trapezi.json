@@ -1,0 +1,24 @@
+{
+  "slug": "ena-spirto-sto-trapezi",
+  "title": "Ένα σπίρτο στο τραπέζι",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1976",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Αθανασία» (1976).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αθανασία (1976)",
+      "url": "https://www.discogs.com/master/379167"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Αθανασία” (1976).",
+    "story": []
+  }
+}

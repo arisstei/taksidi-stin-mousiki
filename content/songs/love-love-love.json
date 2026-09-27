@@ -1,0 +1,24 @@
+{
+  "slug": "love-love-love",
+  "title": "Love, Love, Love",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Joe Darion",
+  "year": "1967",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Illya Darling» (1967).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Illya Darling (Original Broadway Cast Album)",
+      "url": "https://www.discogs.com/master/723484"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Illya Darling” (1967).",
+    "story": []
+  }
+}

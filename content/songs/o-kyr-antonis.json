@@ -1,0 +1,28 @@
+{
+  "slug": "o-kyr-antonis",
+  "title": "Ο κυρ-Αντώνης",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μάνος Χατζιδάκις",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Δεκαπέντε Εσπερινοί» (1965), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Δεκαπέντε Εσπερινοί (1965)",
+      "url": "https://www.discogs.com/master/303461"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
+    "story": []
+  }
+}

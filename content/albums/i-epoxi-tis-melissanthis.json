@@ -37,7 +37,9 @@
     {
       "pos": "Α3",
       "title": "Στον μεγάλο δρόμο από άσφαλτο",
-      "performer": "Βασίλης Λέκκας, Χορωδία του Τρίτου"
+      "performer": "Βασίλης Λέκκας, Χορωδία του Τρίτου",
+      "song": "ston-megalo-dromo-apo-asfalto",
+      "stub": true
     },
     {
       "pos": "Α4",
@@ -50,17 +52,23 @@
     {
       "pos": "Α6",
       "title": "Το πρόσωπο της νύχτας",
-      "performer": "Μαρία Φαραντούρη"
+      "performer": "Μαρία Φαραντούρη",
+      "song": "to-prosopo-tis-nyxtas",
+      "stub": true
     },
     {
       "pos": "Α7",
       "title": "Φοβόμουν...",
-      "performer": "Γιώργος Μιχαλισλής"
+      "performer": "Γιώργος Μιχαλισλής",
+      "song": "fovomoun",
+      "stub": true
     },
     {
       "pos": "Α8",
       "title": "Φοβόμουν μ' έπνιγε η σιωπή",
-      "performer": "Χορωδία του Τρίτου"
+      "performer": "Χορωδία του Τρίτου",
+      "song": "fovomoun-m-epnige-i-siopi",
+      "stub": true
     },
     {
       "pos": "Α9",
@@ -73,7 +81,9 @@
     {
       "pos": "Β2",
       "title": "Μια πληγωμένη σκύλα",
-      "performer": "Μαρία Φαραντούρη"
+      "performer": "Μαρία Φαραντούρη",
+      "song": "mia-pligomeni-skyla",
+      "stub": true
     },
     {
       "pos": "Β3",
@@ -82,22 +92,30 @@
     {
       "pos": "Β4",
       "title": "Τον φίλο μας που χάσαμε",
-      "performer": "Παιδική Χορωδία Ροτόντα Θεσσαλονίκης"
+      "performer": "Παιδική Χορωδία Ροτόντα Θεσσαλονίκης",
+      "song": "ton-filo-mas-pou-xasame",
+      "stub": true
     },
     {
       "pos": "Β5",
       "title": "Ο τελικός συμβιβασμός Α",
-      "performer": "Μαρία Φαραντούρη"
+      "performer": "Μαρία Φαραντούρη",
+      "song": "o-telikos-symvivasmos-a",
+      "stub": true
     },
     {
       "pos": "Β6",
       "title": "Ο τελικός συμβιβασμός Β",
-      "performer": "Χορωδία του Τρίτου"
+      "performer": "Χορωδία του Τρίτου",
+      "song": "o-telikos-symvivasmos-v",
+      "stub": true
     },
     {
       "pos": "C1",
       "title": "Μητέρα κι αδερφή",
-      "performer": "Μαρία Φαραντούρη"
+      "performer": "Μαρία Φαραντούρη",
+      "song": "mitera-ki-aderfi",
+      "stub": true
     },
     {
       "pos": "C2",
@@ -106,17 +124,23 @@
     {
       "pos": "C3",
       "title": "Ένα ρολόι στο καπηλειό",
-      "performer": "Βασίλης Λέκκας, Γιώργος Μιχαλισλής"
+      "performer": "Βασίλης Λέκκας, Γιώργος Μιχαλισλής",
+      "song": "ena-roloi-sto-kapileio",
+      "stub": true
     },
     {
       "pos": "C4",
       "title": "Οι μάνες στις καμένες στέγες",
-      "performer": "Μαρία Φαραντούρη"
+      "performer": "Μαρία Φαραντούρη",
+      "song": "oi-manes-stis-kamenes-steges",
+      "stub": true
     },
     {
       "pos": "C5",
       "title": "Μητέρα κι αδερφή",
-      "performer": "Παιδική Χορωδία Ροτόντα Θεσσαλονίκης"
+      "performer": "Παιδική Χορωδία Ροτόντα Θεσσαλονίκης",
+      "song": "mitera-ki-aderfi",
+      "stub": true
     },
     {
       "pos": "D1",
@@ -125,21 +149,29 @@
     {
       "pos": "D2",
       "title": "Η ψυχρή αλήθεια",
-      "performer": "Βασίλης Λέκκας"
+      "performer": "Βασίλης Λέκκας",
+      "song": "i-psyxri-alitheia",
+      "stub": true
     },
     {
       "pos": "D3",
       "title": "Ο Επιτάφιος",
-      "performer": "Χορωδία του Τρίτου"
+      "performer": "Χορωδία του Τρίτου",
+      "song": "o-epitafios",
+      "stub": true
     },
     {
       "pos": "D4",
       "title": "Η Λησμονημένη",
-      "performer": "Μαρία Φαραντούρη, χορωδίες, στρατιωτική μπάντα"
+      "performer": "Μαρία Φαραντούρη, χορωδίες, στρατιωτική μπάντα",
+      "song": "i-lismonimeni",
+      "stub": true
     },
     {
       "pos": "D5",
-      "title": "Μητέρα κι αδερφή"
+      "title": "Μητέρα κι αδερφή",
+      "song": "mitera-ki-aderfi",
+      "stub": true
     }
   ],
   "sources": [

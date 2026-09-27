@@ -22,82 +22,114 @@
     {
       "pos": "A1",
       "title": "Είμαι της Αγαύης γιος",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "eimai-tis-agayis-gios",
+      "stub": true
     },
     {
       "pos": "A2",
       "title": "Το μυστήριο της 4ης πρωινής",
-      "lyricist": "Αγ. Δημητρούκα"
+      "lyricist": "Αγ. Δημητρούκα",
+      "song": "to-mystirio-tis-4is-proinis",
+      "stub": true
     },
     {
       "pos": "A3",
       "title": "Τρεις δολοφόνοι",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "treis-dolofonoi",
+      "stub": true
     },
     {
       "pos": "A4",
       "title": "Αρχαία βία προγονική",
-      "lyricist": "Αγ. Δημητρούκα"
+      "lyricist": "Αγ. Δημητρούκα",
+      "song": "arxaia-via-progoniki",
+      "stub": true
     },
     {
       "pos": "A5",
       "title": "Ένα αερόστατο με αίμα",
-      "lyricist": "Μ. Χατζιδάκις, Α. Δαβαράκης"
+      "lyricist": "Μ. Χατζιδάκις, Α. Δαβαράκης",
+      "song": "ena-aerostato-me-aima",
+      "stub": true
     },
     {
       "pos": "A6",
       "title": "Νυχτερινά αγάλματα",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "nyxterina-agalmata",
+      "stub": true
     },
     {
       "pos": "A7",
       "title": "Ερωτική άσκηση για δυο",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "erotiki-askisi-gia-dyo",
+      "stub": true
     },
     {
       "pos": "A8",
       "title": "Ερωτική άσκηση για τέσσερις",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "erotiki-askisi-gia-tesseris",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Η Μαριάνθη των ανέμων",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "i-marianthi-ton-anemon",
+      "stub": true
     },
     {
       "pos": "B2",
       "title": "Το αίμα που παγώνει",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "to-aima-pou-pagonei",
+      "stub": true
     },
     {
       "pos": "B3",
       "title": "Δυο παιδιά μες στη βροχή",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "dyo-paidia-mes-sti-vroxi",
+      "stub": true
     },
     {
       "pos": "B4",
       "title": "Η πόρτα του παραδείσου",
-      "lyricist": "Αγ. Δημητρούκα"
+      "lyricist": "Αγ. Δημητρούκα",
+      "song": "i-porta-tou-paradeisou",
+      "stub": true
     },
     {
       "pos": "B5",
       "title": "Ο πωλητής ιδανικών στιγμών",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "o-politis-idanikon-stigmon",
+      "stub": true
     },
     {
       "pos": "B6",
       "title": "Η μεταμόρφωση",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "i-metamorfosi",
+      "stub": true
     },
     {
       "pos": "B7",
       "title": "Στη μνήμη μιας παλιάς φωτογραφίας",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "sti-mnimi-mias-palias-fotografias",
+      "stub": true
     },
     {
       "pos": "B8",
       "title": "Ντόμινε",
-      "lyricist": "Αγ. Δημητρούκα"
+      "lyricist": "Αγ. Δημητρούκα",
+      "song": "ntomine",
+      "stub": true
     }
   ],
   "sources": [

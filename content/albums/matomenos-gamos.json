@@ -26,31 +26,45 @@
     },
     {
       "pos": "A2",
-      "title": "Τώρα νυφούλα μου χρυσή"
+      "title": "Τώρα νυφούλα μου χρυσή",
+      "song": "tora-nyfoula-mou-xrysi",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Νανούρισμα"
+      "title": "Νανούρισμα",
+      "song": "nanourisma",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Σήκω νύφη ζηλεμένη"
+      "title": "Σήκω νύφη ζηλεμένη",
+      "song": "siko-nyfi-zilemeni",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Γύρνα φτερωτή του μύλου"
+      "title": "Γύρνα φτερωτή του μύλου",
+      "song": "gyrna-fteroti-tou-mylou",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Κουβάρι κουβαράκι"
+      "title": "Κουβάρι κουβαράκι",
+      "song": "kouvari-kouvaraki",
+      "stub": true
     },
     {
       "pos": "A7",
-      "title": "Είσουν καμάρι της αυγής"
+      "title": "Είσουν καμάρι της αυγής",
+      "song": "eisoun-kamari-tis-aygis",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Κι ήταν που λέτε μια φορά (Πρόλογος)"
+      "title": "Κι ήταν που λέτε μια φορά (Πρόλογος)",
+      "song": "ki-itan-pou-lete-mia-fora",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -58,27 +72,39 @@
     },
     {
       "pos": "B3",
-      "title": "Ναύτη, γέρο-ναύτη"
+      "title": "Ναύτη, γέρο-ναύτη",
+      "song": "nayti-gero-nayti",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Στην ποταμιά σωπαίνει το κανόνι"
+      "title": "Στην ποταμιά σωπαίνει το κανόνι",
+      "song": "stin-potamia-sopainei-to-kanoni",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Τραγούδι της σημαίας"
+      "title": "Τραγούδι της σημαίας",
+      "song": "tragoudi-tis-simaias",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Ο Έκτορας και η Ανδρομάχη"
+      "title": "Ο Έκτορας και η Ανδρομάχη",
+      "song": "o-ektoras-kai-i-andromaxi",
+      "stub": true
     },
     {
       "pos": "B7",
-      "title": "Ο σιδεράς"
+      "title": "Ο σιδεράς",
+      "song": "o-sideras",
+      "stub": true
     },
     {
       "pos": "B8",
-      "title": "Ρίχνω την καρδιά μου στο πηγάδι"
+      "title": "Ρίχνω την καρδιά μου στο πηγάδι",
+      "song": "rixno-tin-kardia-mou-sto-pigadi",
+      "stub": true
     }
   ],
   "sources": [

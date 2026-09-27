@@ -1,0 +1,32 @@
+{
+  "slug": "athanasia",
+  "title": "Αθανασία",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1976",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αθανασία» (1976), «30 Νυχτερινά» (1983), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αθανασία (1976)",
+      "url": "https://www.discogs.com/master/379167"
+    },
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
+      "url": "https://www.discogs.com/master/182351"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αθανασία” (1976), “30 Νυχτερινά” (1983), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
+    "story": []
+  }
+}

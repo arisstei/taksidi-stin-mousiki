@@ -22,47 +22,69 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Η μπαλάντα του Ούρι"
+      "title": "Η μπαλάντα του Ούρι",
+      "song": "i-mpalanta-tou-ouri",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Ο Γιάννης ο φονιάς"
+      "title": "Ο Γιάννης ο φονιάς",
+      "song": "o-giannis-o-fonias",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Κοίτα με στα μάτια"
+      "title": "Κοίτα με στα μάτια",
+      "song": "koita-me-sta-matia",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Ο Παντελής"
+      "title": "Ο Παντελής",
+      "song": "o-pantelis",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Το μεθυσμένο καράβι"
+      "title": "Το μεθυσμένο καράβι",
+      "song": "to-methysmeno-karavi",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Αθανασία"
+      "title": "Αθανασία",
+      "song": "athanasia",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Οι μέρες είναι πονηρές"
+      "title": "Οι μέρες είναι πονηρές",
+      "song": "oi-meres-einai-ponires",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Τσάμικος"
+      "title": "Τσάμικος",
+      "song": "tsamikos",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Παράξενη Πρωτομαγιά"
+      "title": "Παράξενη Πρωτομαγιά",
+      "song": "paraxeni-protomagia",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Ένα σπίρτο στο τραπέζι"
+      "title": "Ένα σπίρτο στο τραπέζι",
+      "song": "ena-spirto-sto-trapezi",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Μια φορά κι έναν καιρό"
+      "title": "Μια φορά κι έναν καιρό",
+      "song": "mia-fora-ki-enan-kairo",
+      "stub": true
     },
     {
       "pos": "B6",

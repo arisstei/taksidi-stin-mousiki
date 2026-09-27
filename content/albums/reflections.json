@@ -27,19 +27,25 @@
       "pos": "A1",
       "title": "Orpheus",
       "performer": "Dorian Rudnytsky",
-      "lyricist": "Dorian Rudnytsky"
+      "lyricist": "Dorian Rudnytsky",
+      "song": "orpheus",
+      "stub": true
     },
     {
       "pos": "A2",
       "title": "The Day",
       "performer": "Brian Corrigan",
-      "lyricist": "Brian Corrigan"
+      "lyricist": "Brian Corrigan",
+      "song": "the-day",
+      "stub": true
     },
     {
       "pos": "A3",
       "title": "Love Her",
       "performer": "Clifton Nivison",
-      "lyricist": "Brian Corrigan"
+      "lyricist": "Brian Corrigan",
+      "song": "love-her",
+      "stub": true
     },
     {
       "pos": "A4",
@@ -49,13 +55,17 @@
       "pos": "A5",
       "title": "Kemal",
       "performer": "Clifton Nivison",
-      "lyricist": "Martin Fulterman"
+      "lyricist": "Martin Fulterman",
+      "song": "kemal",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Dedication",
       "performer": "Michael Kamen",
-      "lyricist": "Clifton Nivison"
+      "lyricist": "Clifton Nivison",
+      "song": "dedication",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -65,19 +75,25 @@
       "pos": "B3",
       "title": "Street Song",
       "performer": "Clifton Nivison",
-      "lyricist": "Brian Corrigan"
+      "lyricist": "Brian Corrigan",
+      "song": "street-song",
+      "stub": true
     },
     {
       "pos": "B4",
       "title": "Bitter Way",
       "performer": "Brian Corrigan",
-      "lyricist": "Brian Corrigan"
+      "lyricist": "Brian Corrigan",
+      "song": "bitter-way",
+      "stub": true
     },
     {
       "pos": "B5",
       "title": "Noble Dame",
       "performer": "Michael Kamen",
-      "lyricist": "Dorian Rudnytsky"
+      "lyricist": "Dorian Rudnytsky",
+      "song": "noble-dame",
+      "stub": true
     }
   ],
   "sources": [

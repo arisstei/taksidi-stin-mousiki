@@ -52,31 +52,45 @@
     },
     {
       "pos": "B1",
-      "title": "Όμορφη που 'ναι η Κρήτη"
+      "title": "Όμορφη που 'ναι η Κρήτη",
+      "song": "omorfi-pou-nai-i-kriti",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Δεν ήταν νησί"
+      "title": "Δεν ήταν νησί",
+      "song": "den-itan-nisi",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Κρασογιώργαινα"
+      "title": "Κρασογιώργαινα",
+      "song": "i-krasogiorgaina",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Μεγαλοβδόμαδο"
+      "title": "Μεγαλοβδόμαδο",
+      "song": "megalovdomado",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Ερωτικός άνεμος"
+      "title": "Ερωτικός άνεμος",
+      "song": "erotikos-anemos",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Οι δρόμοι είναι σκοτεινοί"
+      "title": "Οι δρόμοι είναι σκοτεινοί",
+      "song": "oi-dromoi-einai-skoteinoi",
+      "stub": true
     },
     {
       "pos": "B7",
-      "title": "Μητέρα κι αδελφή"
+      "title": "Μητέρα κι αδελφή",
+      "song": "mitera-ki-adelfi",
+      "stub": true
     }
   ],
   "sources": [

@@ -26,51 +26,75 @@
     },
     {
       "pos": "A2",
-      "title": "Για την Ελένη"
+      "title": "Για την Ελένη",
+      "song": "gia-tin-eleni",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Στην πύλη τ' Αδριανού"
+      "title": "Στην πύλη τ' Αδριανού",
+      "song": "stin-pyli-t-adrianou",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Τραγούδια στο ηλεκτρόφωνο"
+      "title": "Τραγούδια στο ηλεκτρόφωνο",
+      "song": "tragoudia-sto-ilektrofono",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Από το βράδυ ως το πρωί"
+      "title": "Από το βράδυ ως το πρωί",
+      "song": "apo-to-vrady-os-to-proi",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Μυρίζει ο κόσμος γιασεμί"
+      "title": "Μυρίζει ο κόσμος γιασεμί",
+      "song": "myrizei-o-kosmos-giasemi",
+      "stub": true
     },
     {
       "pos": "Α7",
-      "title": "Νυχτερινός άγγελος"
+      "title": "Νυχτερινός άγγελος",
+      "song": "nyxterinos-aggelos",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Το παλιό σπίτι"
+      "title": "Το παλιό σπίτι",
+      "song": "to-palio-spiti",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Καημός στη χαραυγή"
+      "title": "Καημός στη χαραυγή",
+      "song": "kaimos-sti-xaraygi",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Όταν θα βγάλω το χακί"
+      "title": "Όταν θα βγάλω το χακί",
+      "song": "otan-tha-vgalo-to-xaki",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Ψηλά στην Ακροκόρινθο"
+      "title": "Ψηλά στην Ακροκόρινθο",
+      "song": "psila-stin-akrokorintho",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Ο μάγκας"
+      "title": "Ο μάγκας",
+      "song": "o-magkas",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Θάνατος στη Λαχαναγορά"
+      "title": "Θάνατος στη Λαχαναγορά",
+      "song": "thanatos-sti-laxanagora",
+      "stub": true
     }
   ],
   "sources": [

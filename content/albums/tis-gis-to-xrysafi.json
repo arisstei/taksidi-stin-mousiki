@@ -23,51 +23,75 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Κυκλαδίτικο"
+      "title": "Κυκλαδίτικο",
+      "song": "kykladitiko",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Το παραμύθι"
+      "title": "Το παραμύθι",
+      "song": "to-paramythi",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Αγάπη μέσα στην καρδιά"
+      "title": "Αγάπη μέσα στην καρδιά",
+      "song": "agapi-mesa-stin-kardia",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Μπόρα είναι θα περάσει"
+      "title": "Μπόρα είναι θα περάσει",
+      "song": "mpora-einai-tha-perasei",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Άσπρο περιστέρι"
+      "title": "Άσπρο περιστέρι",
+      "song": "aspro-peristeri",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "Η μικρή Ραλλού"
+      "title": "Η μικρή Ραλλού",
+      "song": "i-mikri-rallou",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Χασάπικο σαράντα"
+      "title": "Χασάπικο σαράντα",
+      "song": "xasapiko-saranta",
+      "stub": true
     },
     {
       "pos": "B2",
-      "title": "Απόψε φθινοπώριασε"
+      "title": "Απόψε φθινοπώριασε",
+      "song": "apopse-fthinoporiase",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "Στου ουρανού την άκρη"
+      "title": "Στου ουρανού την άκρη",
+      "song": "stou-ouranou-tin-akri",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Στου ήλιου το αλώνι"
+      "title": "Στου ήλιου το αλώνι",
+      "song": "stou-iliou-to-aloni",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Πρωτομηνιά"
+      "title": "Πρωτομηνιά",
+      "song": "protominia",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Αγαπώ μια καρδερίνα"
+      "title": "Αγαπώ μια καρδερίνα",
+      "song": "agapo-mia-karderina",
+      "stub": true
     }
   ],
   "sources": [

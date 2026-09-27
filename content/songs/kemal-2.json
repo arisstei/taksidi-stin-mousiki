@@ -1,0 +1,28 @@
+{
+  "slug": "kemal-2",
+  "title": "Κεμάλ",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": null,
+  "year": "1983",
+  "performer": "Αλίκη Καγιαλόγλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «30 Νυχτερινά» (1983), «Αντικατοπτρισμοί» (1993).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Αντικατοπτρισμοί (1993)",
+      "url": "https://www.discogs.com/master/364459"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “30 Νυχτερινά” (1983), “Αντικατοπτρισμοί” (1993).",
+    "story": []
+  }
+}

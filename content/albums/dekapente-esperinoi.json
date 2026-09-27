@@ -28,7 +28,9 @@
     },
     {
       "pos": "A2",
-      "title": "Έγινε παρεξήγηση"
+      "title": "Έγινε παρεξήγηση",
+      "song": "egine-parexigisi",
+      "stub": true
     },
     {
       "pos": "A3",
@@ -36,7 +38,9 @@
     },
     {
       "pos": "A4",
-      "title": "Κυρ-Μιχάλης"
+      "title": "Κυρ-Μιχάλης",
+      "song": "kyr-mixalis",
+      "stub": true
     },
     {
       "pos": "A5",
@@ -48,15 +52,21 @@
     },
     {
       "pos": "A7",
-      "title": "Η τιμωρία"
+      "title": "Η τιμωρία",
+      "song": "i-timoria",
+      "stub": true
     },
     {
       "pos": "A8",
-      "title": "Υμηττός"
+      "title": "Υμηττός",
+      "song": "o-ymittos",
+      "stub": true
     },
     {
       "pos": "B1",
-      "title": "Το φεγγάρι είναι κόκκινο"
+      "title": "Το φεγγάρι είναι κόκκινο",
+      "song": "to-feggari-einai-kokkino",
+      "stub": true
     },
     {
       "pos": "B2",
@@ -64,23 +74,33 @@
     },
     {
       "pos": "B3",
-      "title": "Κυρ-Αντώνης"
+      "title": "Κυρ-Αντώνης",
+      "song": "o-kyr-antonis",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Φέρτε μου ένα μαντολίνο"
+      "title": "Φέρτε μου ένα μαντολίνο",
+      "song": "ferte-mou-ena-mantolino",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Ο ταχυδρόμος πέθανε"
+      "title": "Ο ταχυδρόμος πέθανε",
+      "song": "o-taxydromos-pethane",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "Η πέτρα"
+      "title": "Η πέτρα",
+      "song": "i-petra",
+      "stub": true
     },
     {
       "pos": "B7",
-      "title": "Το τριαντάφυλλο"
+      "title": "Το τριαντάφυλλο",
+      "song": "to-triantafyllo",
+      "stub": true
     }
   ],
   "sources": [

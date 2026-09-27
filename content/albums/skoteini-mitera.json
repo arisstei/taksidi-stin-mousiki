@@ -21,51 +21,75 @@
   "tracks": [
     {
       "pos": "Α1",
-      "title": "Σκοτεινή μητέρα"
+      "title": "Σκοτεινή μητέρα",
+      "song": "skoteini-mitera",
+      "stub": true
     },
     {
       "pos": "Α2",
-      "title": "Είσουν μια βρύση τ' ουρανού"
+      "title": "Είσουν μια βρύση τ' ουρανού",
+      "song": "eisoun-mia-vrysi-t-ouranou",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Αυτή είταν η ζωή μας"
+      "title": "Αυτή είταν η ζωή μας",
+      "song": "ayti-eitan-i-zoi-mas",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Όλα τ' άστρα"
+      "title": "Όλα τ' άστρα",
+      "song": "ola-t-astra",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Ο κήπος του Αλλάχ"
+      "title": "Ο κήπος του Αλλάχ",
+      "song": "o-kipos-tou-allax",
+      "stub": true
     },
     {
       "pos": "Α6",
-      "title": "Πέντε γράμματα"
+      "title": "Πέντε γράμματα",
+      "song": "pente-grammata",
+      "stub": true
     },
     {
       "pos": "Α7",
-      "title": "Άσε τον καιρό"
+      "title": "Άσε τον καιρό",
+      "song": "ase-ton-kairo",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Νυχτερινός διαβάτης"
+      "title": "Νυχτερινός διαβάτης",
+      "song": "nyxterinos-diavatis",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Αν ήσουν τρελός"
+      "title": "Αν ήσουν τρελός",
+      "song": "an-isoun-trelos",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Είταν τέσσερα παιδιά"
+      "title": "Είταν τέσσερα παιδιά",
+      "song": "eitan-tessera-paidia",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Η Πλατυτέρα των ουρανών"
+      "title": "Η Πλατυτέρα των ουρανών",
+      "song": "i-platytera-ton-ouranon",
+      "stub": true
     },
     {
       "pos": "Β5",
-      "title": "Χωρίς φτερά"
+      "title": "Χωρίς φτερά",
+      "song": "xoris-ftera",
+      "stub": true
     }
   ],
   "sources": [

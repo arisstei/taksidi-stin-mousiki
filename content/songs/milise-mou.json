@@ -1,0 +1,24 @@
+{
+  "slug": "milise-mou",
+  "title": "Μίλησέ μου",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1970",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Επιστροφή» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Επιστροφή (1970)",
+      "url": "https://www.discogs.com/master/371489"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Επιστροφή” (1970).",
+    "story": []
+  }
+}

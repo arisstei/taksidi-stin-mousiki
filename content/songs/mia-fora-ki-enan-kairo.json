@@ -1,0 +1,28 @@
+{
+  "slug": "mia-fora-ki-enan-kairo",
+  "title": "Μια φορά κι έναν καιρό",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1976",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αθανασία» (1976), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αθανασία (1976)",
+      "url": "https://www.discogs.com/master/379167"
+    },
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
+      "url": "https://www.discogs.com/master/182351"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αθανασία” (1976), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
+    "story": []
+  }
+}

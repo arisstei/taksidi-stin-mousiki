@@ -23,19 +23,27 @@
     },
     {
       "pos": "Α2",
-      "title": "Ο εφιάλτης της Περσεφόνης"
+      "title": "Ο εφιάλτης της Περσεφόνης",
+      "song": "o-efialtis-tis-persefonis",
+      "stub": true
     },
     {
       "pos": "Α3",
-      "title": "Στα βουνά της Αιτωλίας"
+      "title": "Στα βουνά της Αιτωλίας",
+      "song": "sta-vouna-tis-aitolias",
+      "stub": true
     },
     {
       "pos": "Α4",
-      "title": "Το άλογο του Ομέρ Βρυώνη"
+      "title": "Το άλογο του Ομέρ Βρυώνη",
+      "song": "to-alogo-tou-omer-vryoni",
+      "stub": true
     },
     {
       "pos": "Α5",
-      "title": "Η Μάγδα"
+      "title": "Η Μάγδα",
+      "song": "i-magda",
+      "stub": true
     },
     {
       "pos": "Α6",
@@ -43,27 +51,39 @@
     },
     {
       "pos": "Α7",
-      "title": "Ο αμνός του Θεού"
+      "title": "Ο αμνός του Θεού",
+      "song": "o-amnos-tou-theou",
+      "stub": true
     },
     {
       "pos": "Α8",
-      "title": "Cundu Lyna Vini (Όταν βγαίνει το φεγγάρι)"
+      "title": "Cundu Lyna Vini (Όταν βγαίνει το φεγγάρι)",
+      "song": "cundu-lyna-vini",
+      "stub": true
     },
     {
       "pos": "Β1",
-      "title": "Χρησμοί της Σιβύλλας"
+      "title": "Χρησμοί της Σιβύλλας",
+      "song": "xrismoi-tis-sivyllas",
+      "stub": true
     },
     {
       "pos": "Β2",
-      "title": "Ο ιππότης και ο θάνατος"
+      "title": "Ο ιππότης και ο θάνατος",
+      "song": "o-ippotis-kai-o-thanatos",
+      "stub": true
     },
     {
       "pos": "Β3",
-      "title": "Η προσευχή της Παρθένου"
+      "title": "Η προσευχή της Παρθένου",
+      "song": "i-proseyxi-tis-parthenou",
+      "stub": true
     },
     {
       "pos": "Β4",
-      "title": "Ελλαδογραφία"
+      "title": "Ελλαδογραφία",
+      "song": "elladografia",
+      "stub": true
     }
   ],
   "sources": [

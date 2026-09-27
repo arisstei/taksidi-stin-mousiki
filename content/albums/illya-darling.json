@@ -24,31 +24,45 @@
   "tracks": [
     {
       "pos": "A1",
-      "title": "Bouzouki Nights"
+      "title": "Bouzouki Nights",
+      "song": "bouzouki-nights",
+      "stub": true
     },
     {
       "pos": "A2",
-      "title": "Piraeus, My Love"
+      "title": "Piraeus, My Love",
+      "song": "piraeus-my-love",
+      "stub": true
     },
     {
       "pos": "A3",
-      "title": "Golden Land"
+      "title": "Golden Land",
+      "song": "golden-land",
+      "stub": true
     },
     {
       "pos": "A4",
-      "title": "Illya Darling"
+      "title": "Illya Darling",
+      "song": "illya-darling",
+      "stub": true
     },
     {
       "pos": "A5",
-      "title": "Medea Tango"
+      "title": "Medea Tango",
+      "song": "medea-tango",
+      "stub": true
     },
     {
       "pos": "A6",
-      "title": "I'll Never Lay Down Anymore"
+      "title": "I'll Never Lay Down Anymore",
+      "song": "i-ll-never-lay-down-anymore",
+      "stub": true
     },
     {
       "pos": "A7",
-      "title": "Never On Sunday"
+      "title": "Never On Sunday",
+      "song": "never-on-sunday",
+      "stub": true
     },
     {
       "pos": "B1",
@@ -56,31 +70,45 @@
     },
     {
       "pos": "B2",
-      "title": "Love, Love, Love"
+      "title": "Love, Love, Love",
+      "song": "love-love-love",
+      "stub": true
     },
     {
       "pos": "B3",
-      "title": "I Think She Needs Me"
+      "title": "I Think She Needs Me",
+      "song": "i-think-she-needs-me",
+      "stub": true
     },
     {
       "pos": "B4",
-      "title": "Dear Mr. Schubert"
+      "title": "Dear Mr. Schubert",
+      "song": "dear-mr-schubert",
+      "stub": true
     },
     {
       "pos": "B5",
-      "title": "Heaven Help The Sailors On A Night Like This"
+      "title": "Heaven Help The Sailors On A Night Like This",
+      "song": "heaven-help-the-sailors-on-a-night-like-this",
+      "stub": true
     },
     {
       "pos": "B6",
-      "title": "After Love"
+      "title": "After Love",
+      "song": "after-love",
+      "stub": true
     },
     {
       "pos": "B7",
-      "title": "Yorgo's Dance (Zebekiko)"
+      "title": "Yorgo's Dance (Zebekiko)",
+      "song": "yorgo-s-dance",
+      "stub": true
     },
     {
       "pos": "B8",
-      "title": "Ya Chara"
+      "title": "Ya Chara",
+      "song": "ya-chara",
+      "stub": true
     }
   ],
   "sources": [

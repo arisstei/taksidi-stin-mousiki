@@ -29,12 +29,16 @@
     {
       "pos": "A1",
       "title": "Μια πόλη μαγική",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "mia-poli-magiki",
+      "stub": true
     },
     {
       "pos": "A2",
       "title": "Ήρθε νοτιάς ήρθε βοριάς",
-      "lyricist": "Ι. Αραβαντινός"
+      "lyricist": "Ι. Αραβαντινός",
+      "song": "irthe-notias-irthe-vorias",
+      "stub": true
     },
     {
       "pos": "A3",
@@ -45,27 +49,37 @@
     {
       "pos": "A4",
       "title": "Πάμε μια βόλτα στο φεγγάρι",
-      "lyricist": "Χατζιδάκις, Περγιάλης"
+      "lyricist": "Χατζιδάκις, Περγιάλης",
+      "song": "pame-mia-volta-sto-feggari",
+      "stub": true
     },
     {
       "pos": "A5",
       "title": "Το φεγγάρι είναι κόκκινο",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "to-feggari-einai-kokkino",
+      "stub": true
     },
     {
       "pos": "A6",
       "title": "Αγάπη που 'γινες δίκοπο μαχαίρι",
-      "lyricist": "Μ. Κακογιάννης"
+      "lyricist": "Μ. Κακογιάννης",
+      "song": "agapi-pou-gines-dikopo-maxairi",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Μη τον ρωτάς τον ουρανό",
-      "lyricist": "Γιάννης Ιωαννίδης"
+      "lyricist": "Γιάννης Ιωαννίδης",
+      "song": "mi-ton-rotas-ton-ourano",
+      "stub": true
     },
     {
       "pos": "B2",
       "title": "Θάλασσα πλατειά",
-      "lyricist": "Γ. Ρούσσος"
+      "lyricist": "Γ. Ρούσσος",
+      "song": "thalassa-plateia",
+      "stub": true
     },
     {
       "pos": "B3",
@@ -82,127 +96,177 @@
     {
       "pos": "B5",
       "title": "Το πέλαγο είναι βαθύ",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-pelago-einai-vathy",
+      "stub": true
     },
     {
       "pos": "B6",
       "title": "Τώρα που πας στην ξενιτειά",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "tora-pou-pas-stin-xeniteia",
+      "stub": true
     },
     {
       "pos": "C1",
       "title": "Φέρτε μου ένα μαντολίνο",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "ferte-mou-ena-mantolino",
+      "stub": true
     },
     {
       "pos": "C2",
       "title": "Η πέτρα",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "i-petra",
+      "stub": true
     },
     {
       "pos": "C3",
       "title": "Κάθε κήπος έχει (Οδός Ονείρων)",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "kathe-kipos-exei",
+      "stub": true
     },
     {
       "pos": "C4",
       "title": "Ο κυρ-Μιχάλης",
-      "lyricist": "Ι. Καμπανέλλης"
+      "lyricist": "Ι. Καμπανέλλης",
+      "song": "kyr-mixalis",
+      "stub": true
     },
     {
       "pos": "C5",
       "title": "Το πουλί",
-      "lyricist": "Μίνως Αργυράκης"
+      "lyricist": "Μίνως Αργυράκης",
+      "song": "to-pouli",
+      "stub": true
     },
     {
       "pos": "C6",
       "title": "Μια Παναγιά",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mia-panagia",
+      "stub": true
     },
     {
       "pos": "D1",
       "title": "Τ' αστέρι του βοριά",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "t-asteri-tou-voria",
+      "stub": true
     },
     {
       "pos": "D2",
       "title": "Το σκοτεινό παράθυρο",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-skoteino-parathyro",
+      "stub": true
     },
     {
       "pos": "D3",
       "title": "Πάει ο καιρός, πάει ο καιρός",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "paei-o-kairos-paei-o-kairos",
+      "stub": true
     },
     {
       "pos": "D4",
       "title": "Είμ' αητός χωρίς φτερά",
-      "lyricist": "Ευτ. Παπαγιαννοπούλου"
+      "lyricist": "Ευτ. Παπαγιαννοπούλου",
+      "song": "eim-aitos-xoris-ftera",
+      "stub": true
     },
     {
       "pos": "D5",
       "title": "Περιμπανού",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "perimpanou",
+      "stub": true
     },
     {
       "pos": "D6",
       "title": "Πορνογραφία",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "pornografia",
+      "stub": true
     },
     {
       "pos": "E1",
       "title": "Ο Οδοιπόρος",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "o-odoiporos",
+      "stub": true
     },
     {
       "pos": "E2",
       "title": "Το μεθυσμένο κορίτσι",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "to-methysmeno-koritsi",
+      "stub": true
     },
     {
       "pos": "E3",
       "title": "Στου Διγενή τ' αλώνια",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "stou-digeni-t-alonia",
+      "stub": true
     },
     {
       "pos": "E4",
       "title": "Τα παιδιά κάτω στον κάμπο",
-      "lyricist": "Μ. Χατζιδάκις"
+      "lyricist": "Μ. Χατζιδάκις",
+      "song": "ta-paidia-kato-ston-kampo",
+      "stub": true
     },
     {
       "pos": "E5",
       "title": "Μια φορά κι έναν καιρό",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "mia-fora-ki-enan-kairo",
+      "stub": true
     },
     {
       "pos": "E6",
       "title": "Αθανασία",
-      "lyricist": "Ν. Γκάτσος"
+      "lyricist": "Ν. Γκάτσος",
+      "song": "athanasia",
+      "stub": true
     },
     {
       "pos": "F1",
       "title": "Το παιδί από την Κρήτη",
-      "lyricist": "Μιχ. Μπουρμπούλης"
+      "lyricist": "Μιχ. Μπουρμπούλης",
+      "song": "to-paidi-apo-tin-kriti",
+      "stub": true
     },
     {
       "pos": "F2",
       "title": "Έξι κορίτσια με ρωτούν",
-      "lyricist": "Νίκος Συμεωνίδης"
+      "lyricist": "Νίκος Συμεωνίδης",
+      "song": "exi-koritsia-me-rotoun",
+      "stub": true
     },
     {
       "pos": "F3",
       "title": "Αγάπη μου",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "agapi-mou",
+      "stub": true
     },
     {
       "pos": "F4",
       "title": "Η μπαλάντα του Ούρι",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-mpalanta-tou-ouri",
+      "stub": true
     },
     {
       "pos": "F5",
       "title": "Η μπαλάντα των αισθήσεων",
-      "lyricist": "Α. Δαβαράκης"
+      "lyricist": "Α. Δαβαράκης",
+      "song": "i-mpalanta-ton-aisthiseon",
+      "stub": true
     }
   ],
   "sources": [

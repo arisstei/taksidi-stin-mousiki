@@ -23,152 +23,212 @@
     {
       "pos": "A1",
       "title": "Χασάπικο '40",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "xasapiko-saranta",
+      "stub": true
     },
     {
       "pos": "A2",
       "title": "Πάει έφυγε το τρένο",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "paei-efyge-to-treno",
+      "stub": true
     },
     {
       "pos": "A3",
       "title": "Ο κυρ-Αντώνης",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "o-kyr-antonis",
+      "stub": true
     },
     {
       "pos": "A4",
       "title": "Η τιμωρία",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-timoria",
+      "stub": true
     },
     {
       "pos": "A5",
       "title": "Μαννούλα μου",
-      "lyricist": "Ιάκωβος Καμπανέλλης"
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "manoula-mou",
+      "stub": true
     },
     {
       "pos": "B1",
       "title": "Κυπαρισσάκι",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "kyparissaki",
+      "stub": true
     },
     {
       "pos": "B2",
       "title": "Τριαντάφυλλο στο στήθος",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "triantafyllo-sto-stithos",
+      "stub": true
     },
     {
       "pos": "B3",
       "title": "Η μικρή Ραλλού",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-mikri-rallou",
+      "stub": true
     },
     {
       "pos": "B4",
       "title": "Αερικό",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "aeriko",
+      "stub": true
     },
     {
       "pos": "B5",
       "title": "Έγινε παρεξήγηση",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "egine-parexigisi",
+      "stub": true
     },
     {
       "pos": "C1",
       "title": "Η πίκρα σήμερα",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-pikra-simera",
+      "stub": true
     },
     {
       "pos": "C2",
       "title": "Τριαντάφυλλο",
-      "lyricist": "Φ. Γκ. Λόρκα (μτφρ. Αλέξης Σολομός)"
+      "lyricist": "Φ. Γκ. Λόρκα (μτφρ. Αλέξης Σολομός)",
+      "song": "to-triantafyllo",
+      "stub": true
     },
     {
       "pos": "C3",
       "title": "Κάνε τη ζωή δροσιά",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "kane-ti-zoi-drosia",
+      "stub": true
     },
     {
       "pos": "C4",
       "title": "Αρθούρε Ρεμπώ",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "arthoure-rempo",
+      "stub": true
     },
     {
       "pos": "C5",
       "title": "Στο Λαύριο γίνεται χορός",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "sto-layrio-ginetai-xoros",
+      "stub": true
     },
     {
       "pos": "D1",
       "title": "Οι κολασμένοι",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "oi-kolasmenoi",
+      "stub": true
     },
     {
       "pos": "D2",
       "title": "Ο ταχυδρόμος πέθανε",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "o-taxydromos-pethane",
+      "stub": true
     },
     {
       "pos": "D3",
       "title": "Ξημερώνει",
-      "lyricist": "Γιώργος Ρούσσος"
+      "lyricist": "Γιώργος Ρούσσος",
+      "song": "ximeronei",
+      "stub": true
     },
     {
       "pos": "D4",
       "title": "Τσάμικος",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "tsamikos",
+      "stub": true
     },
     {
       "pos": "D5",
       "title": "Χελιδόνι σε κλουβί",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "xelidoni-se-klouvi",
+      "stub": true
     },
     {
       "pos": "E1",
       "title": "Κάθε τρελλό παιδί",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "kathe-trello-paidi",
+      "stub": true
     },
     {
       "pos": "E2",
       "title": "Ο Γιάννης ο φονιάς",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-giannis-o-fonias",
+      "stub": true
     },
     {
       "pos": "E3",
       "title": "Κοίτα με στα μάτια",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "koita-me-sta-matia",
+      "stub": true
     },
     {
       "pos": "E4",
       "title": "Το τραγούδι της σειρήνας",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-tragoudi-tis-seirinas",
+      "stub": true
     },
     {
       "pos": "E5",
       "title": "Νάνι του Ρήγα το παιδί",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "nani-tou-riga-to-paidi",
+      "stub": true
     },
     {
       "pos": "F1",
       "title": "Συνέβη στην Αθήνα",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "synevi-stin-athina",
+      "stub": true
     },
     {
       "pos": "F2",
       "title": "Σαν σφυρίξεις τρεις φορές",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "san-sfyrixeis-treis-fores",
+      "stub": true
     },
     {
       "pos": "F3",
       "title": "Με την Ελλάδα καραβοκύρη",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "me-tin-ellada-karavokyri",
+      "stub": true
     },
     {
       "pos": "F4",
       "title": "Ο Υμηττός",
-      "lyricist": "Μάνος Χατζιδάκις"
+      "lyricist": "Μάνος Χατζιδάκις",
+      "song": "o-ymittos",
+      "stub": true
     },
     {
       "pos": "F5",
       "title": "Τα λουστράκια",
-      "lyricist": "Νίκος Γκάτσος"
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "ta-loustrakia",
+      "stub": true
     }
   ],
   "sources": [

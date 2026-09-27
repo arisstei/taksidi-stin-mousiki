@@ -1,0 +1,28 @@
+{
+  "slug": "stin-apovathra",
+  "title": "Στην αποβάθρα",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Μάνος Χατζιδάκις",
+  "year": "1971",
+  "performer": "Φλέρυ Νταντωνάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ρυθμολογία και ο Κύκλος του C.N.S.» (1971), «Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ρυθμολογία και ο Κύκλος του C.N.S. (1971)",
+      "url": "https://www.discogs.com/master/717535"
+    },
+    {
+      "label": "Discogs — Ο Καπετάν Μιχάλης Και Ο Κύκλος Του C.N.S. (1975)",
+      "url": "https://www.discogs.com/master/1552734"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ρυθμολογία και ο Κύκλος του C.N.S.” (1971), “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975).",
+    "story": []
+  }
+}

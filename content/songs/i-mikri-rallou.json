@@ -1,0 +1,36 @@
+{
+  "slug": "i-mikri-rallou",
+  "title": "Η μικρή Ραλλού",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1971",
+  "performer": "Φλέρυ Νταντωνάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Της γης το χρυσάφι» (1971), «Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος» (1977), «30 Νυχτερινά» (1983) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Της Γης Το Χρυσάφι (1971)",
+      "url": "https://www.discogs.com/master/303426"
+    },
+    {
+      "label": "Discogs — Οι Γειτονιές Του Φεγγαριού / Χωρίον Ο Πόθος (1977)",
+      "url": "https://www.discogs.com/master/571325"
+    },
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Discogs — Η Λαϊκή Αγορά (1987)",
+      "url": "https://www.discogs.com/master/392002"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Της γης το χρυσάφι” (1971), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “30 Νυχτερινά” (1983) and 1 more.",
+    "story": []
+  }
+}
