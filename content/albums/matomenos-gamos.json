@@ -1,0 +1,100 @@
+{
+  "slug": "matomenos-gamos",
+  "composer": "manos-hadjidakis",
+  "title": "Ματωμένος γάμος / Παραμύθι χωρίς όνομα",
+  "year": 1965,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "33GCX 107",
+  "format": "LP, Mono",
+  "performers": [
+    "Λάκης Παππάς"
+  ],
+  "lyricists": [
+    "Φεδερίκο Γκαρθία Λόρκα (μτφρ. Νίκος Γκάτσος)",
+    "Ιάκωβος Καμπανέλλης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δύο θεατρικές μουσικές σε έναν δίσκο: στην πρώτη πλευρά ο «Ματωμένος γάμος» του Λόρκα (Έργο 3), που ανέβασε το Θέατρο Τέχνης το 1948 στη μετάφραση του Νίκου Γκάτσου· στη δεύτερη το «Παραμύθι χωρίς όνομα» του Ιάκωβου Καμπανέλλη (Έργο 11, 1957). Τραγουδά ο Λάκης Παππάς, διευθύνει ο συνθέτης."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": "A2",
+      "title": "Τώρα νυφούλα μου χρυσή"
+    },
+    {
+      "pos": "A3",
+      "title": "Νανούρισμα"
+    },
+    {
+      "pos": "A4",
+      "title": "Σήκω νύφη ζηλεμένη"
+    },
+    {
+      "pos": "A5",
+      "title": "Γύρνα φτερωτή του μύλου"
+    },
+    {
+      "pos": "A6",
+      "title": "Κουβάρι κουβαράκι"
+    },
+    {
+      "pos": "A7",
+      "title": "Είσουν καμάρι της αυγής"
+    },
+    {
+      "pos": "B1",
+      "title": "Κι ήταν που λέτε μια φορά (Πρόλογος)"
+    },
+    {
+      "pos": "B2",
+      "title": "Χορός (στο ίδιο θέμα)"
+    },
+    {
+      "pos": "B3",
+      "title": "Ναύτη, γέρο-ναύτη"
+    },
+    {
+      "pos": "B4",
+      "title": "Στην ποταμιά σωπαίνει το κανόνι"
+    },
+    {
+      "pos": "B5",
+      "title": "Τραγούδι της σημαίας"
+    },
+    {
+      "pos": "B6",
+      "title": "Ο Έκτορας και η Ανδρομάχη"
+    },
+    {
+      "pos": "B7",
+      "title": "Ο σιδεράς"
+    },
+    {
+      "pos": "B8",
+      "title": "Ρίχνω την καρδιά μου στο πηγάδι"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ματωμένος Γάμος / Παραμύθι Χωρίς Όνομα (1965)",
+      "url": "https://www.discogs.com/master/252464"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Two stage scores on one record: side one holds Lorca's “Blood Wedding” (Op. 3), staged by the Art Theatre in 1948 in Nikos Gatsos's translation; side two, Iakovos Kambanellis's “A Tale Without a Name” (Op. 11, 1957). Sung by Lakis Pappas, conducted by the composer."
+    ]
+  }
+}

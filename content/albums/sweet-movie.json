@@ -1,0 +1,105 @@
+{
+  "slug": "sweet-movie",
+  "composer": "manos-hadjidakis",
+  "title": "Sweet Movie",
+  "year": 1974,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Πολύτροπον",
+  "catalog": "POL-MH-1",
+  "format": "LP, Stereo",
+  "performers": [
+    "Μαρία Κάτηρα",
+    "Ann Lonnberg",
+    "Παιδική χορωδία"
+  ],
+  "lyricists": [
+    "Μάνος Χατζιδάκις",
+    "Ann Lonnberg, Dušan Makavejev"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική για την προκλητική ταινία «Sweet Movie» (1974) του Γιουγκοσλάβου Ντούσαν Μακαβέγιεφ. Περιέχει το τραγούδι «Τα παιδιά κάτω στον κάμπο» σε στίχους του Χατζιδάκι — σε ορχηστρική εκδοχή, με τη Μαρία Κάτηρα και με παιδική χορωδία."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Τα παιδιά κάτω στον κάμπο (ορχήστρα)"
+    },
+    {
+      "pos": "A2",
+      "title": "Οι παράγκες και οι άνθρωποι"
+    },
+    {
+      "pos": "A3",
+      "title": "Σερενάτα για τη σεξουαλική απουσία"
+    },
+    {
+      "pos": "A4",
+      "title": "Is The Life On The Earth",
+      "performer": "Ann Lonnberg"
+    },
+    {
+      "pos": "A5",
+      "title": "Η σεξουαλική πολυρρυθμία"
+    },
+    {
+      "pos": "A6",
+      "title": "Οι παράγκες και η κεφαλή του Καρλ Μαρξ"
+    },
+    {
+      "pos": "A7",
+      "title": "Νυχτερινό"
+    },
+    {
+      "pos": "A8",
+      "title": "Is The Life On The Earth",
+      "performer": "Ann Lonnberg"
+    },
+    {
+      "pos": "B1",
+      "title": "Τα παιδιά κάτω στον κάμπο",
+      "performer": "Μαρία Κάτηρα",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "B2",
+      "title": "Στριπτίζ για τρία παιδιά"
+    },
+    {
+      "pos": "B3",
+      "title": "Νυχτερινό για δύο φωνές",
+      "performer": "Μαρία Κάτηρα"
+    },
+    {
+      "pos": "B4",
+      "title": "Ο χορός της σοκολάτας"
+    },
+    {
+      "pos": "B5",
+      "title": "Τα παιδιά κάτω στον κάμπο",
+      "performer": "Παιδική χορωδία",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "B6",
+      "title": "Η σεξουαλική πολυρρυθμία και τα τρία παιδιά"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Sweet Movie (1974)",
+      "url": "https://www.discogs.com/master/253435"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The score for Dušan Makavejev's provocative film Sweet Movie (1974). It includes the song “Ta paidia kato ston kambo” to Hadjidakis's own lyrics — as an instrumental, with Maria Katira, and with a children's choir."
+    ]
+  }
+}

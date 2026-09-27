@@ -1,0 +1,150 @@
+{
+  "slug": "o-megalos-erotikos",
+  "composer": "manos-hadjidakis",
+  "title": "Ο Μεγάλος Ερωτικός",
+  "year": 1972,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Νότος (Columbia)",
+  "catalog": "SNL 3901",
+  "format": "LP, Stereo",
+  "performers": [
+    "Φλέρυ Νταντωνάκη",
+    "Δημήτρης Ψαριανός"
+  ],
+  "lyricists": [
+    "Οδυσσέας Ελύτης",
+    "Μυρτιώτισσα",
+    "Κ. Π. Καβάφης",
+    "Γ. Σαραντάρης",
+    "Δημοτικό",
+    "Νίκος Γκάτσος",
+    "Διονύσιος Σολωμός",
+    "Σαπφώ",
+    "Ευριπίδης (μτφρ. Π. Πρεβελάκης)",
+    "Γεώργιος Χορτάτζης",
+    "Άσμα Ασμάτων"
+  ],
+  "grade": "A",
+  "about": [
+    "Ένας αδιάσπαστος κύκλος έντεκα τραγουδιών πάνω σε ερωτική ποίηση από όλη την ιστορία της ελληνικής γλώσσας — από τη Σαπφώ, τον Ευριπίδη και το Άσμα Ασμάτων ως τον Σολωμό, τον Καβάφη, τη Μυρτιώτισσα, τον Ελύτη και τον Γκάτσο. Τραγουδούν η Φλέρυ Νταντωνάκη και ο Δημήτρης Ψαριανός· το εξώφυλλο είναι του Γιάννη Μόραλη.",
+    "Σύμφωνα με το Αρχείο της ΕΡΤ, ο Χατζιδάκις ξεκίνησε τη σύνθεση στη Νέα Υόρκη τον Ιούνιο του 1972 και την ολοκλήρωσε στην Αθήνα τον Οκτώβριο, ενώ οι ηχογραφήσεις είχαν ήδη αρχίσει· ο δίσκος προαναγγέλθηκε στον Τύπο στις 14 Δεκεμβρίου 1972. Η αφορμή, όπως εξηγεί ο ίδιος στο ντοκιμαντέρ της ΕΡΤ, ήταν το ποίημα «Σ' αγαπώ» της Μυρτιώτισσας.",
+    "Κυκλοφόρησε μέσα στη δικτατορία, και δέχτηκε κριτική ότι μιλά για έρωτα σε μια τέτοια εποχή. Η απάντηση του Χατζιδάκι, όπως τη μεταφέρει η ΕΡΤ: το αίτημα εκείνων των χρόνων ήταν να ξαναβρούμε «την αξιοπρέπειά μας και την ποιητική μας καταγωγή»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Με την πρώτη σταγόνα της βροχής",
+      "performer": "Δημήτρης Ψαριανός",
+      "lyricist": "Οδυσσέας Ελύτης"
+    },
+    {
+      "pos": "A2",
+      "title": "Σ' αγαπώ",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Μυρτιώτισσα",
+      "song": "s-agapo-myrtiotissa"
+    },
+    {
+      "pos": "A3",
+      "title": "Μέρες του 1903",
+      "performer": "Δημήτρης Ψαριανός",
+      "lyricist": "Κ. Π. Καβάφης"
+    },
+    {
+      "pos": "A4",
+      "title": "Ποιος είν' τρελλός από έρωτα",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Γ. Σαραντάρης"
+    },
+    {
+      "pos": "A5",
+      "title": "Τα λιανοτράγουδα",
+      "performer": "Δημήτρης Ψαριανός",
+      "lyricist": "Δημοτικό"
+    },
+    {
+      "pos": "A6",
+      "title": "Πέρα στο θολό ποτάμι",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Νίκος Γκάτσος (από τον Λόρκα)",
+      "song": "pera-sto-tholo-potami"
+    },
+    {
+      "pos": "B1",
+      "title": "Το όνειρο",
+      "performer": "Δημήτρης Ψαριανός",
+      "lyricist": "Διονύσιος Σολωμός"
+    },
+    {
+      "pos": "B2",
+      "title": "Κέλομαί σε Γογγύλα",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Σαπφώ"
+    },
+    {
+      "pos": "B3",
+      "title": "Έρωτα εσύ",
+      "performer": "Δημήτρης Ψαριανός",
+      "lyricist": "Ευριπίδης (μτφρ. Π. Πρεβελάκης)"
+    },
+    {
+      "pos": "B4",
+      "title": "Πάθη από τον έρωτα",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Γ. Χορτάτζης"
+    },
+    {
+      "pos": "B5",
+      "title": "Κραταιά ως θάνατος αγάπη",
+      "performer": "Φλέρυ Νταντωνάκη",
+      "lyricist": "Άσμα Ασμάτων"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ο Μεγάλος Ερωτικός (1972)",
+      "url": "https://www.discogs.com/master/858540"
+    },
+    {
+      "label": "ert.gr — Δεκέμβριος 1972: Κυκλοφορεί ο «Μεγάλος Ερωτικός» (Αρχείο ΕΡΤ, 20/12/2025)",
+      "url": "https://www.ert.gr/ert-arxeio/dekemvrios-1972-kykloforei-o-megalos-erotikos/"
+    },
+    {
+      "label": "ert.gr — Μάνος Χατζιδάκις, 15 Ιουνίου 1994 (Αρχείο ΕΡΤ)",
+      "url": "https://www.ert.gr/ert-arxeio/manos-chatzidakis-15-ioynioy-1994/"
+    },
+    {
+      "label": "Αρχείο ΕΡΤ — Τραγούδια που έγραψαν ιστορία: Ο «Μεγάλος Ερωτικός»",
+      "url": "https://archive.ert.gr/95826/"
+    },
+    {
+      "label": "Καθημερινή — Ο «Μεγάλος Ερωτικός» του Χατζιδάκι (10/10/2022)",
+      "url": "https://www.kathimerini.gr/culture/music/1030353/o-megalos-erotikos-toy-chatzidaki/"
+    },
+    {
+      "label": "Μέγαρο Μουσικής Θεσσαλονίκης — Μάνος Χατζιδάκις: Ο Μεγάλος Ερωτικός",
+      "url": "https://www.tch.gr/default.aspx?lang=el-GR&page=3&tcheid=1712"
+    }
+  ],
+  "interviewVideo": {
+    "title": "Τραγούδια που έγραψαν ιστορία — Ο «Μεγάλος Ερωτικός» (1972) του Μάνου Χατζιδάκι",
+    "ertFile": "0000095826/0000/media95826.mp4",
+    "code": "95826",
+    "note": "Ο ίδιος ο Χατζιδάκις μιλά για την ιδέα και τις συνθήκες του έργου, ενώ ο Δημήτρης Ψαριανός και ο κοντραμπασίστας Ανδρέας Ροδουσάκης θυμούνται τις πρόβες. Με σπάνια πλάνα από τις ηχογραφήσεις στα στούντιο της Columbia (σκηνοθεσία-παραγωγή: Γιώργος Χρ. Ζέρβας, 2007).",
+    "sourceUrl": "https://www.ert.gr/ert-arxeio/dekemvrios-1972-kykloforei-o-megalos-erotikos/",
+    "year": "2007"
+  },
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "An unbroken cycle of eleven songs set to love poetry from across the whole history of the Greek language — from Sappho, Euripides and the Song of Songs to Solomos, Cavafy, Myrtiotissa, Elytis and Gatsos. Sung by Flery Dadonaki and Dimitris Psarianos; cover by Yannis Moralis.",
+      "According to the ERT Archive, Hadjidakis began composing it in New York in June 1972 and finished it in Athens in October, with recording already under way; the album was announced in the press on 14 December 1972. The spark, as he explains in ERT's documentary, was Myrtiotissa's poem “S' agapo”.",
+      "It came out under the dictatorship, and was criticised for speaking of love at such a time. Hadjidakis's answer, as ERT reports it: what those years demanded was to rediscover “our dignity and our poetic origins”."
+    ],
+    "interviewVideo": {
+      "title": "Songs That Made History — Hadjidakis's “Megalos Erotikos” (1972)",
+      "note": "Hadjidakis himself talks about the idea and circumstances of the work, while Dimitris Psarianos and double bassist Andreas Rodousakis recall the rehearsals. With rare footage from the recording sessions at Columbia's studios (director-producer: Giorgos Chr. Zervas, 2007)."
+    }
+  }
+}

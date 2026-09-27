@@ -1,0 +1,91 @@
+{
+  "slug": "skoteini-mitera",
+  "composer": "manos-hadjidakis",
+  "title": "Σκοτεινή μητέρα",
+  "year": 1987,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Sirius",
+  "catalog": "SMH 86.004",
+  "format": "LP",
+  "performers": [
+    "Μαρία Φαραντούρη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος σε στίχους Νίκου Γκάτσου (Έργο 45, 1985–86), με τη Μαρία Φαραντούρη· ενορχήστρωση και διεύθυνση του συνθέτη. Το εξώφυλλο φέρει έργο του Οδυσσέα Ελύτη."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Σκοτεινή μητέρα"
+    },
+    {
+      "pos": "Α2",
+      "title": "Είσουν μια βρύση τ' ουρανού"
+    },
+    {
+      "pos": "Α3",
+      "title": "Αυτή είταν η ζωή μας"
+    },
+    {
+      "pos": "Α4",
+      "title": "Όλα τ' άστρα"
+    },
+    {
+      "pos": "Α5",
+      "title": "Ο κήπος του Αλλάχ"
+    },
+    {
+      "pos": "Α6",
+      "title": "Πέντε γράμματα"
+    },
+    {
+      "pos": "Α7",
+      "title": "Άσε τον καιρό"
+    },
+    {
+      "pos": "Β1",
+      "title": "Νυχτερινός διαβάτης"
+    },
+    {
+      "pos": "Β2",
+      "title": "Αν ήσουν τρελός"
+    },
+    {
+      "pos": "Β3",
+      "title": "Είταν τέσσερα παιδιά"
+    },
+    {
+      "pos": "Β4",
+      "title": "Η Πλατυτέρα των ουρανών"
+    },
+    {
+      "pos": "Β5",
+      "title": "Χωρίς φτερά"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Σκοτεινή Μητέρα (1987)",
+      "url": "https://www.discogs.com/master/867695"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A cycle to lyrics by Nikos Gatsos (Op. 45, 1985–86), sung by Maria Farantouri; orchestrated and conducted by the composer. The cover carries a work by Odysseas Elytis."
+    ]
+  }
+}

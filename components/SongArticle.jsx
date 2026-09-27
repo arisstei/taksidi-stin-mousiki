@@ -2,6 +2,8 @@ import Link from "next/link";
 import { GradeBadge } from "@/components/GradeBadge";
 import DiamondDivider from "@/components/DiamondDivider";
 import { getDictionary } from "@/lib/dictionaries";
+import ArchiveVideo from "@/components/ArchiveVideo";
+import RecordSleeve from "@/components/RecordSleeve";
 
 function toEmbedUrl(url) {
   if (!url) return null;
@@ -64,7 +66,7 @@ function PerformanceCard({ heading, performance, t }) {
 // Κοινό component άρθρου τραγουδιού — χρησιμοποιείται και από την Ελληνική
 // και από την Αγγλική σελίδα. Το `song` πρέπει να είναι ήδη localized
 // (βλ. lib/songs.js -> localizeSong) και το `lang` καθορίζει το λεξικό.
-export default function SongArticle({ song, lang = "el" }) {
+export default function SongArticle({ song, lang = "el", albums = [] }) {
   const t = getDictionary(lang);
   const basePath = lang === "en" ? "/en" : "";
 
@@ -205,7 +207,11 @@ export default function SongArticle({ song, lang = "el" }) {
       {song.interviewVideo && (
         <section className="mt-10">
           <h2 className="font-serif text-lg text-ink mb-3">{t.interviewHeading}</h2>
-          <VideoEmbed url={song.interviewVideo.url} label={song.interviewVideo.label} />
+          {song.interviewVideo.ertFile ? (
+            <ArchiveVideo video={song.interviewVideo} lang={lang} />
+          ) : (
+            <VideoEmbed url={song.interviewVideo.url} label={song.interviewVideo.label} />
+          )}
         </section>
       )}
 
@@ -221,6 +227,24 @@ export default function SongArticle({ song, lang = "el" }) {
             {t.watchVideo}
           </a>
         </div>
+      )}
+
+
+      {albums.length > 0 && (
+        <section className="mt-10">
+          <h2 className="section-kicker">{lang === "en" ? "On the records" : "Στους δίσκους"}</h2>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-5">
+            {albums.map((a) => (
+              <Link key={a.slug} href={`${basePath}/album/${a.slug}`} className="group block">
+                <div className="pr-[12%]">
+                  <RecordSleeve album={a} />
+                </div>
+                <p className="mt-2 font-serif text-sm leading-snug text-ink group-hover:text-brand">{a.title}</p>
+                <p className="font-mono text-[10px] uppercase tracking-wider text-ink/45">{a.year}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
       )}
 
       {/* Πηγές — κάθε ισχυρισμός εδώ έχει δείξιμη, συνδεδεμένη πηγή.

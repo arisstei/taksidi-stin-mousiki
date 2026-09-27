@@ -1,0 +1,94 @@
+{
+  "slug": "tis-gis-to-xrysafi",
+  "composer": "manos-hadjidakis",
+  "title": "Της γης το χρυσάφι",
+  "year": 1971,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "SAXG 162",
+  "format": "LP",
+  "performers": [
+    "Μανώλης Μητσιάς",
+    "Δήμητρα Γαλάνη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δώδεκα τραγούδια σε στίχους Νίκου Γκάτσου με τις φωνές του Μανώλη Μητσιά και της Δήμητρας Γαλάνη. Όπως και στην «Επιστροφή», ο Χατζιδάκις βρίσκεται μακριά: την ενορχήστρωση και τη διεύθυνση έχει ο Γιάννης Σπανός. Στο εξώφυλλο, ζωγραφική του Αλέκου Φασιανού.",
+    "Εδώ βρίσκονται το «Χασάπικο σαράντα», η «Μικρή Ραλλού» και το «Αγάπη μέσα στην καρδιά», που ο Χατζιδάκις θα ξαναπιάσει πολλές φορές στις επόμενες δεκαετίες."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Κυκλαδίτικο"
+    },
+    {
+      "pos": "A2",
+      "title": "Το παραμύθι"
+    },
+    {
+      "pos": "A3",
+      "title": "Αγάπη μέσα στην καρδιά"
+    },
+    {
+      "pos": "A4",
+      "title": "Μπόρα είναι θα περάσει"
+    },
+    {
+      "pos": "A5",
+      "title": "Άσπρο περιστέρι"
+    },
+    {
+      "pos": "A6",
+      "title": "Η μικρή Ραλλού"
+    },
+    {
+      "pos": "B1",
+      "title": "Χασάπικο σαράντα"
+    },
+    {
+      "pos": "B2",
+      "title": "Απόψε φθινοπώριασε"
+    },
+    {
+      "pos": "B3",
+      "title": "Στου ουρανού την άκρη"
+    },
+    {
+      "pos": "B4",
+      "title": "Στου ήλιου το αλώνι"
+    },
+    {
+      "pos": "B5",
+      "title": "Πρωτομηνιά"
+    },
+    {
+      "pos": "B6",
+      "title": "Αγαπώ μια καρδερίνα"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Της Γης Το Χρυσάφι (1971)",
+      "url": "https://www.discogs.com/master/303426"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Twelve songs to lyrics by Nikos Gatsos, sung by Manolis Mitsias and Dimitra Galani. As with Epistrofi, Hadjidakis was far away: orchestration and conducting are by Giannis Spanos. The cover is a painting by Alekos Fassianos.",
+      "Here are “Chasapiko saranta”, “I mikri Rallou” and “Agapi mesa stin kardia”, which Hadjidakis would return to many times in the following decades."
+    ]
+  }
+}

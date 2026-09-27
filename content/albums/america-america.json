@@ -1,0 +1,103 @@
+{
+  "slug": "america-america",
+  "composer": "manos-hadjidakis",
+  "title": "America America",
+  "year": 1963,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Warner Bros. Records",
+  "catalog": "W 1527",
+  "format": "LP, Mono",
+  "performers": [
+    "Γιώργος Ρωμανός",
+    "Βασίλης Ριζιώτης",
+    "Πειραματική Ορχήστρα Αθηνών"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Το σάουντρακ της ταινίας «Αμέρικα, Αμέρικα» (1963) του Ελία Καζάν, με την Πειραματική Ορχήστρα Αθηνών υπό τη διεύθυνση του Χατζιδάκι. Τα τρία τραγουδιστά μέρη (Πρόλογος, «Evil Thoughts», Φινάλε) έχουν στίχους του Νίκου Γκάτσου."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Prologue",
+      "performer": "Γιώργος Ρωμανός, Βασίλης Ριζιώτης",
+      "lyricist": "Νίκος Γκάτσος"
+    },
+    {
+      "pos": "A2",
+      "title": "Excitement In The Village"
+    },
+    {
+      "pos": "A3",
+      "title": "The Dance Of Vartan"
+    },
+    {
+      "pos": "A4",
+      "title": "Farewell Song And The Voyage"
+    },
+    {
+      "pos": "A5",
+      "title": "The Streets Of Constantinople"
+    },
+    {
+      "pos": "A6",
+      "title": "Hard Work At The Docks"
+    },
+    {
+      "pos": "A7",
+      "title": "Two Women In The Mist"
+    },
+    {
+      "pos": "B1",
+      "title": "Shoe Shine Boys"
+    },
+    {
+      "pos": "B2",
+      "title": "Family Song"
+    },
+    {
+      "pos": "B3",
+      "title": "The Harmonica And The Waltz"
+    },
+    {
+      "pos": "B4",
+      "title": "Frustration, Dreams And Loneliness"
+    },
+    {
+      "pos": "B5",
+      "title": "Evil Thoughts",
+      "performer": "Χορωδία",
+      "lyricist": "Νίκος Γκάτσος"
+    },
+    {
+      "pos": "B6",
+      "title": "Hohanness And Stavros' Madness"
+    },
+    {
+      "pos": "B7",
+      "title": "Finale",
+      "performer": "Γιώργος Ρωμανός, Βασίλης Ριζιώτης",
+      "lyricist": "Νίκος Γκάτσος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — America America (Original Sound Track)",
+      "url": "https://www.discogs.com/master/427341"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The soundtrack to Elia Kazan's film America America (1963), with the Athens Experimental Orchestra conducted by Hadjidakis. The three sung parts (Prologue, “Evil Thoughts”, Finale) have lyrics by Nikos Gatsos."
+    ]
+  }
+}

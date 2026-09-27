@@ -1,0 +1,85 @@
+{
+  "slug": "kapetan-michalis",
+  "composer": "manos-hadjidakis",
+  "title": "Καπετάν Μιχάλης",
+  "year": 1966,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "33GCX 111",
+  "format": "LP, Mono",
+  "performers": [
+    "Γιώργος Ρωμανός"
+  ],
+  "lyricists": [
+    "Νίκος Καζαντζάκης (επιλογή κειμένων: Γεράσιμος Σταύρου)"
+  ],
+  "grade": "B",
+  "about": [
+    "Μουσική και τραγούδια για τη θεατρική διασκευή του μυθιστορήματος του Νίκου Καζαντζάκη (Έργο 24, 1966), που ανέβασε ο Μάνος Κατράκης. Τραγουδά ο Γιώργος Ρωμανός· τα κείμενα επέλεξε και οργάνωσε σε επτά ενότητες ο Γεράσιμος Σταύρου.",
+    "Τα τραγούδια της Κρήτης του Καζαντζάκη — «Όμορφη που 'ναι η Κρήτη», «Η Κρασογιώργαινα», «Μεγαλοβδόμαδο» — θα ξαναγυρίσουν αργότερα με τη φωνή της Φλέρυς Νταντωνάκη."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Εισαγωγή — Χορός"
+    },
+    {
+      "pos": "Α2",
+      "title": "Όμορφη που 'ναι η Κρήτη"
+    },
+    {
+      "pos": "Α3",
+      "title": "Μουσική για την Εμινέ"
+    },
+    {
+      "pos": "Α4",
+      "title": "Δεν ήταν νησί"
+    },
+    {
+      "pos": "Α5",
+      "title": "Κυρά μου Αμπελιώτισσα"
+    },
+    {
+      "pos": "Α6",
+      "title": "Η Κρασογιώργαινα"
+    },
+    {
+      "pos": "Β1",
+      "title": "Μεγαλοβδόμαδο"
+    },
+    {
+      "pos": "Β2",
+      "title": "Κερκέζικο τραγούδι (Το μοτίβο της Εμινέ)"
+    },
+    {
+      "pos": "Β3",
+      "title": "Βαριά απόψε η νύχτα"
+    },
+    {
+      "pos": "Β4",
+      "title": "Η σφαγή"
+    },
+    {
+      "pos": "Β5",
+      "title": "Πού είναι ο Θεός"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Καπετάν Μιχάλης (1966)",
+      "url": "https://www.discogs.com/master/370864"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Music and songs for the stage adaptation of Nikos Kazantzakis's novel (Op. 24, 1966), produced by Manos Katrakis. Sung by Giorgos Romanos; the texts were selected and arranged in seven sections by Gerasimos Stavrou.",
+      "The Cretan songs of Kazantzakis's world — “Omorfi pou 'nai i Kriti”, “I Krasogiorgaina”, “Megalovdomado” — would return later in the voice of Flery Dadonaki."
+    ]
+  }
+}

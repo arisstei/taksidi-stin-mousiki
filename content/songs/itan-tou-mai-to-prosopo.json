@@ -1,0 +1,59 @@
+{
+  "slug": "itan-tou-mai-to-prosopo",
+  "title": "Ήταν του Μάη το πρόσωπο",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1961",
+  "performer": "Νάνα Μούσχουρη",
+  "film": "«Ελλάς, η χώρα των ονείρων» (Βόλφγκανγκ Μίλερ-Ζεν)",
+  "status": "verified",
+  "grade": "B",
+  "teaser": "Γράφτηκε για ένα γερμανικό ντοκιμαντέρ για την Ελλάδα — αλλά είχε ήδη ακουστεί, αλλιώτικο, σε μια ταινία του 1958.",
+  "story": [
+    "Το «Ήταν του Μάη το πρόσωπο» είναι ένα από τα τρία τραγούδια — μαζί με την «Αθήνα» και το «Καλυμνιώτικο» — που έγραψαν ο Χατζιδάκις και ο Γκάτσος για τις ανάγκες της ταινίας του Βόλφγκανγκ Μίλερ-Ζεν «Ελλάς, η χώρα των ονείρων» (Traumland der Sehnsucht), όπως σημειώνεται στον τόμο «Όλα τα τραγούδια» και στο Gatsos Archive.",
+    "Το ίδιο Αρχείο όμως εντοπίζει μια προγενέστερη μορφή του, τόσο στους στίχους όσο και στη μουσική: στην ταινία του Γιώργου Ζερβού «Η λίμνη των πόθων» (1958), με άλλη αρχή και άλλους στίχους. Και οι στίχοι του, σε παραλλαγή, υπάρχουν μέσα στην «Αμοργό», το μεγάλο ποίημα του Γκάτσου — το Αρχείο σημειώνει ακόμη και μια λέξη όπου τα δύο κείμενα διαφέρουν.",
+    "Το τραγούδι ηχογραφήθηκε με τη Νάνα Μούσχουρη και μπήκε στο LP «Ελλάς, η χώρα των ονείρων» που κυκλοφόρησε η Fontana το 1964, μέσα σε μια σειρά ορχηστρικών «εικόνων» της Ελλάδας."
+  ],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Ήταν του Μάη το πρόσωπο (εκδοχή της ταινίας «Ελλάς, η χώρα των ονείρων»)",
+      "url": "https://gatsosarchive.org/song/etan-tou-mae-to-prosopo-1/"
+    },
+    {
+      "label": "The Gatsos Archive — Ήταν του Μάη το πρόσωπο (προγενέστερη μορφή, «Η λίμνη των πόθων», 1958)",
+      "url": "https://gatsosarchive.org/song/etan-tou-mae-to-prosopo-2/"
+    },
+    {
+      "label": "Discogs — Ελλάς η χώρα των ονείρων (Fontana, 1964)",
+      "url": "https://www.discogs.com/master/406636"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Νάνα Μούσχουρη",
+    "year": "1961",
+    "note": "Για την ταινία του Μίλερ-Ζεν· σε δίσκο, στο LP της Fontana (1964).",
+    "videoUrl": "https://www.youtube.com/watch?v=x6Fj2VN4bRI",
+    "videoLabel": "Νάνα Μούσχουρη — Ήταν του Μάη το πρόσωπο"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true
+  },
+  "en": {
+    "film": "Traumland der Sehnsucht (Wolfgang Müller-Sehn)",
+    "teaser": "Written for a German documentary about Greece — but it had already been heard, in another form, in a 1958 film.",
+    "story": [
+      "“Itan tou Mai to prosopo” is one of three songs — along with “Athina” and “Kalymniotiko” — that Hadjidakis and Gatsos wrote for Wolfgang Müller-Sehn's film “Traumland der Sehnsucht” (Greece, Land of Dreams), as noted in the collected lyrics “Ola ta tragoudia” and by the Gatsos Archive.",
+      "The same Archive, however, traces an earlier form of it, in both lyrics and music: in Giorgos Zervos's film “I limni ton pothon” (1958), with a different opening and different lines. And its words, in variant form, also appear inside “Amorgos”, Gatsos's great poem — the Archive even notes a word where the two texts differ.",
+      "The song was recorded with Nana Mouskouri and included on the LP of the same name that Fontana released in 1964, among a series of orchestral “pictures” of Greece."
+    ],
+    "firstPerformance": {
+      "note": "For Müller-Sehn's film; on record, on the Fontana LP (1964).",
+      "videoLabel": "Nana Mouskouri — Itan tou Mai to prosopo"
+    }
+  }
+}

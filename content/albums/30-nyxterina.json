@@ -1,0 +1,160 @@
+{
+  "slug": "30-nyxterina",
+  "composer": "manos-hadjidakis",
+  "title": "30 Νυχτερινά",
+  "year": 1983,
+  "type": "anthology",
+  "kind": "Ανθολογία",
+  "label": "Minos",
+  "catalog": "MSM 496",
+  "format": "2×LP",
+  "performers": [
+    "Μάνος Χατζιδάκις (πιάνο, διεύθυνση)",
+    "Τάσος Καρακατσάνης (ενορχήστρωση, τσέμπαλο)"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Τριάντα τραγούδια του από τρεις δεκαετίες, σε ορχηστρικές «νυχτερινές» εκδοχές για μικρό σύνολο — με τον Χατζιδάκι στο πιάνο και στη διεύθυνση και τον Τάσο Καρακατσάνη στις ενορχηστρώσεις. Από το «Χάρτινο το φεγγαράκι» και το «Κουρασμένο παλληκάρι» ως τη «Μπαλάντα του Ούρι» και τον «Κεμάλ»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Πάμε μια βόλτα στο φεγγάρι"
+    },
+    {
+      "pos": "A2",
+      "title": "Κοίτα με στα μάτια"
+    },
+    {
+      "pos": "A3",
+      "title": "Σε μια υπαίθρια αγορά"
+    },
+    {
+      "pos": "A4",
+      "title": "Αγάπη μέσα στην καρδιά"
+    },
+    {
+      "pos": "A5",
+      "title": "Τριαντάφυλλο στο στήθος"
+    },
+    {
+      "pos": "A6",
+      "title": "Πάει ο καιρός, πάει ο καιρός"
+    },
+    {
+      "pos": "A7",
+      "title": "Μαγική πόλη"
+    },
+    {
+      "pos": "B1",
+      "title": "Γαρύφαλλο στ' αυτί"
+    },
+    {
+      "pos": "B2",
+      "title": "Η μελαγχολία της ευτυχίας"
+    },
+    {
+      "pos": "B3",
+      "title": "Αργό νυχτερινό ζεϊμπέκικο"
+    },
+    {
+      "pos": "B4",
+      "title": "Το άστρο της Ανατολής"
+    },
+    {
+      "pos": "B5",
+      "title": "Το κυπαρισσάκι"
+    },
+    {
+      "pos": "B6",
+      "title": "Η πίκρα σήμερα"
+    },
+    {
+      "pos": "B7",
+      "title": "Κουρασμένο παλληκάρι",
+      "song": "kourasmeno-pallikari"
+    },
+    {
+      "pos": "B8",
+      "title": "Το βαλς των χαμένων ονείρων"
+    },
+    {
+      "pos": "C1",
+      "title": "Η μπαλάντα του Ούρι"
+    },
+    {
+      "pos": "C2",
+      "title": "Η παρθένα της γειτονιάς μου"
+    },
+    {
+      "pos": "C3",
+      "title": "Τ' αστέρι του βοριά"
+    },
+    {
+      "pos": "C4",
+      "title": "Η τρελή του φεγγαριού"
+    },
+    {
+      "pos": "C5",
+      "title": "Χάρτινο το φεγγαράκι",
+      "song": "xartino-to-feggaraki"
+    },
+    {
+      "pos": "C6",
+      "title": "Αθανασία"
+    },
+    {
+      "pos": "C7",
+      "title": "Η ευγενική κυρία"
+    },
+    {
+      "pos": "D1",
+      "title": "Μανούλα μου"
+    },
+    {
+      "pos": "D2",
+      "title": "Το μεθυσμένο κορίτσι"
+    },
+    {
+      "pos": "D3",
+      "title": "Τα παιδιά κάτω στον κάμπο"
+    },
+    {
+      "pos": "D4",
+      "title": "Στο Λαύριο γίνεται χορός"
+    },
+    {
+      "pos": "D5",
+      "title": "Χασάπικο 40"
+    },
+    {
+      "pos": "D6",
+      "title": "Ο Κεμάλ ή ο μύθος του Σεβάχ"
+    },
+    {
+      "pos": "D7",
+      "title": "Η μικρή Ραλλού"
+    },
+    {
+      "pos": "D8",
+      "title": "Το τριαντάφυλλο"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — 30 Νυχτερινά (1983)",
+      "url": "https://www.discogs.com/master/391991"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Anthology",
+    "about": [
+      "Thirty of his songs from three decades, in instrumental “nocturne” versions for a small ensemble — with Hadjidakis at the piano and conducting, and Tasos Karakatsanis orchestrating. From “Chartino to feggaraki” and “Kourasmeno pallikari” to “I balanta tou Ouri” and “Kemal”."
+    ]
+  }
+}

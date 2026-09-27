@@ -1,0 +1,109 @@
+{
+  "slug": "oi-mythoi-mias-gynaikas",
+  "composer": "manos-hadjidakis",
+  "title": "Οι Μύθοι μιας γυναίκας",
+  "year": 1988,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Philips",
+  "catalog": "836 803-1",
+  "format": "LP",
+  "performers": [
+    "Νάνα Μούσχουρη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Αγαθή Δημητρούκα"
+  ],
+  "grade": "B",
+  "about": [
+    "Η επανένωση του Χατζιδάκι με τη Νάνα Μούσχουρη σε κύκλο τραγουδιών πάνω σε στίχους του Νίκου Γκάτσου (Έργο 47, 1988). Η δεύτερη πλευρά είναι μια σειρά από μουσικές «αφιερώσεις»: μια χαμπανέρα για τον Λόρκα, ένα τραγούδι για τον Μορίς Ζομπέρ, μια ελεγεία για την Ουμ Καλσούμ, ένα τανγκό για την Άλμα Μάλερ. Στο εξώφυλλο, ζωγραφική του Γιάννη Μόραλη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Η θυσία της Αντιγόνης"
+    },
+    {
+      "pos": "A2",
+      "title": "Είπα επί γης ειρήνη"
+    },
+    {
+      "pos": "A3",
+      "title": "Ταορμίνα"
+    },
+    {
+      "pos": "A4",
+      "title": "Με λένε Θεοδώρα"
+    },
+    {
+      "pos": "A5",
+      "title": "Πότε πεθαίνει ο έρωτας"
+    },
+    {
+      "pos": "A6",
+      "title": "Ο σταυρός"
+    },
+    {
+      "pos": "A7",
+      "title": "Ήρωες και θύματα",
+      "lyricist": "Αγαθή Δημητρούκα"
+    },
+    {
+      "pos": "B1",
+      "title": "Η πόλκα των Εβραίων της Πράγας"
+    },
+    {
+      "pos": "B2",
+      "title": "Μαύρος ταύρος μπήκε στο χορό (Μια χαμπανέρα για τον F. G. Lorca)"
+    },
+    {
+      "pos": "B3",
+      "title": "Τα λόγια που περίμενα (Ένα τραγούδι για τον Maurice Jaubert)"
+    },
+    {
+      "pos": "B4",
+      "title": "Στου Νείλου τ' αμμοχώραφα (Μια ελεγεία για την Om Kalsoum)"
+    },
+    {
+      "pos": "B5",
+      "title": "Κραυγές για ενός αγγέλου μνήμη (Ένα τανγκό για την Alma Mahler)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Οι Μύθοι Μιας Γυναίκας (1988)",
+      "url": "https://www.discogs.com/master/403314"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    },
+    {
+      "label": "Αρχείο ΕΡΤ — Συναυλία στο Καστελόριζο (1991)",
+      "url": "https://archive.ert.gr/id_247240/"
+    }
+  ],
+  "interviewVideo": {
+    "title": "Έξω από το χρόνο — Συναυλία Μάνου Χατζιδάκι με τη Νάνα Μούσχουρη στο Καστελόριζο (22/8/1991)",
+    "ertFile": "0000247240/0001/media247240.mp4",
+    "code": "247240",
+    "note": "Συναυλία στο Καστελόριζο, σε οργάνωση της ΕΤ-1 και του Υπουργείου Εθνικής Άμυνας, με τη Νάνα Μούσχουρη, τον Ηλία Λιούγκο και την Ορχήστρα των Χρωμάτων υπό τη διεύθυνση του Χατζιδάκι.",
+    "sourceUrl": "https://archive.ert.gr/id_247240/",
+    "year": "1991"
+  },
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Hadjidakis's reunion with Nana Mouskouri in a song cycle to lyrics by Nikos Gatsos (Op. 47, 1988). Side two is a series of musical “dedications”: a habanera for Lorca, a song for Maurice Jaubert, an elegy for Umm Kulthum, a tango for Alma Mahler. Cover painting by Yannis Moralis."
+    ],
+    "interviewVideo": {
+      "title": "Out of Time — Manos Hadjidakis in concert with Nana Mouskouri on Kastellorizo (22/8/1991)",
+      "note": "A concert on Kastellorizo organised by ET-1 and the Ministry of Defence, with Nana Mouskouri, Ilias Liougkos and the Orchestra of Colours conducted by Hadjidakis."
+    }
+  }
+}

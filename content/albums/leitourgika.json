@@ -1,0 +1,98 @@
+{
+  "slug": "leitourgika",
+  "composer": "manos-hadjidakis",
+  "title": "Η Φλέρυ Νταντωνάκη στα «Λειτουργικά» του Μάνου Χατζιδάκι",
+  "year": 1991,
+  "type": "rebetiko",
+  "kind": "Ρεμπέτικα σε νέα γραφή",
+  "label": "Sirius",
+  "catalog": "SMH 91.005",
+  "format": "LP",
+  "performers": [
+    "Φλέρυ Νταντωνάκη",
+    "Μάνος Χατζιδάκις (πιάνο)"
+  ],
+  "lyricists": [
+    "Νίκος Καζαντζάκης (φράσεις)"
+  ],
+  "grade": "B",
+  "about": [
+    "Ρεμπέτικα των Βαμβακάρη, Τσιτσάνη, Μπαγιαντέρα και Παπαϊωάννου, μεταγραμμένα για φωνή και πιάνο (Έργο 29, 1971), με τη Φλέρυ Νταντωνάκη και τον Χατζιδάκι στο πιάνο — και στη δεύτερη πλευρά δικά του τραγούδια, από τον «Καπετάν Μιχάλη» και αλλού. Το έργο γράφτηκε το 1971· ο δίσκος κυκλοφόρησε το 1991."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Φραγκοσυριανή",
+      "orig": "Μ. Βαμβακάρης"
+    },
+    {
+      "pos": "A2",
+      "title": "Τα ματόκλαδά σου λάμπουν",
+      "orig": "Μ. Βαμβακάρης"
+    },
+    {
+      "pos": "A3",
+      "title": "Αντιλαλούνε τα βουνά",
+      "orig": "Β. Τσιτσάνης"
+    },
+    {
+      "pos": "A4",
+      "title": "Χωρίσαμε ένα δειλινό",
+      "orig": "Β. Τσιτσάνης"
+    },
+    {
+      "pos": "A5",
+      "title": "Το Χατζηκυριάκειο",
+      "orig": "Μπαγιαντέρας"
+    },
+    {
+      "pos": "A6",
+      "title": "Άνοιξε, γιατί δεν αντέχω",
+      "orig": "Ι. Παπαϊωάννου"
+    },
+    {
+      "pos": "B1",
+      "title": "Όμορφη που 'ναι η Κρήτη"
+    },
+    {
+      "pos": "B2",
+      "title": "Δεν ήταν νησί"
+    },
+    {
+      "pos": "B3",
+      "title": "Κρασογιώργαινα"
+    },
+    {
+      "pos": "B4",
+      "title": "Μεγαλοβδόμαδο"
+    },
+    {
+      "pos": "B5",
+      "title": "Ερωτικός άνεμος"
+    },
+    {
+      "pos": "B6",
+      "title": "Οι δρόμοι είναι σκοτεινοί"
+    },
+    {
+      "pos": "B7",
+      "title": "Μητέρα κι αδελφή"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Η Φλέρυ Νταντωνάκη Στα «Λειτουργικά» (1991)",
+      "url": "https://www.discogs.com/master/352664"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Rebetiko, re-written",
+    "about": [
+      "Rebetiko songs by Vamvakaris, Tsitsanis, Bagiantéras and Papaioannou, transcribed for voice and piano (Op. 29, 1971), with Flery Dadonaki and Hadjidakis at the piano — and on side two his own songs, from “Kapetan Michalis” and elsewhere. The work dates from 1971; the record came out in 1991."
+    ]
+  }
+}

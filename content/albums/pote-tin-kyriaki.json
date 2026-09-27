@@ -1,0 +1,99 @@
+{
+  "slug": "pote-tin-kyriaki",
+  "composer": "manos-hadjidakis",
+  "title": "Ποτέ την Κυριακή",
+  "year": 1960,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "United Artists Records",
+  "catalog": "UAL 4070",
+  "format": "LP, Mono",
+  "performers": [
+    "Μελίνα Μερκούρη"
+  ],
+  "lyricists": [
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική για την ταινία του Ζιλ Ντασέν «Ποτέ την Κυριακή» (1960), στην αμερικανική έκδοση του σάουντρακ από την United Artists — γι' αυτό οι τίτλοι είναι στα αγγλικά, όπως τυπώθηκαν τότε.",
+    "Το «Never On Sunday (Vocal)» της δεύτερης πλευράς είναι το «Τα παιδιά του Πειραιά» με τη φωνή της Μελίνας Μερκούρη — το τραγούδι που το 1961 κέρδισε το Όσκαρ και που ο ίδιος ο Χατζιδάκις, όπως θα δεις στην ιστορία του, αρνήθηκε να γιορτάσει."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Main Title - Never On Sunday"
+    },
+    {
+      "pos": "A2",
+      "title": "Prologue"
+    },
+    {
+      "pos": "A3",
+      "title": "Bouzoukia"
+    },
+    {
+      "pos": "A4",
+      "title": "Dance Yorgo"
+    },
+    {
+      "pos": "A5",
+      "title": "Taki"
+    },
+    {
+      "pos": "A6",
+      "title": "The Charms Of Ilya"
+    },
+    {
+      "pos": "A7",
+      "title": "Ilya"
+    },
+    {
+      "pos": "B1",
+      "title": "Never On Sunday (Vocal) — Τα παιδιά του Πειραιά",
+      "performer": "Μελίνα Μερκούρη",
+      "song": "ta-paidia-tou-peiraia"
+    },
+    {
+      "pos": "B2",
+      "title": "Hasapico"
+    },
+    {
+      "pos": "B3",
+      "title": "The Lantern"
+    },
+    {
+      "pos": "B4",
+      "title": "Betrayed"
+    },
+    {
+      "pos": "B5",
+      "title": "Speak Softly"
+    },
+    {
+      "pos": "B6",
+      "title": "The Organ Grinder"
+    },
+    {
+      "pos": "B7",
+      "title": "End Title - Never On Sunday"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Never On Sunday (Original Sound Track Music)",
+      "url": "https://www.discogs.com/master/19959"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The music for Jules Dassin's film Never on Sunday (1960), in the American soundtrack release by United Artists — which is why the track titles are in English, as they were printed at the time.",
+      "“Never On Sunday (Vocal)” on side two is “Ta paidia tou Peiraia” sung by Melina Mercouri — the song that won the Oscar in 1961 and which Hadjidakis himself, as you'll see in its story, refused to celebrate."
+    ]
+  }
+}

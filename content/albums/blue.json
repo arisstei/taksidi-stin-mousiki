@@ -1,0 +1,77 @@
+{
+  "slug": "blue",
+  "composer": "manos-hadjidakis",
+  "title": "Blue",
+  "year": 1968,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Dot Records",
+  "catalog": "DLP 25855",
+  "format": "LP, Stereo",
+  "performers": [
+    "Laurindo Almeida (κιθάρα)"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Η μουσική για το γουέστερν «Blue» (Βρόμικα παλικάρια, 1968) του Σίλβιο Ναριτσάνο (Έργο 25), γραμμένη στα χρόνια που ο Χατζιδάκις ζούσε στις ΗΠΑ. Σολίστ στην κιθάρα ο Λορίντο Αλμέιδα."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Main Title (The River)"
+    },
+    {
+      "pos": "A2",
+      "title": "The Mexicans In The Village"
+    },
+    {
+      "pos": "A3",
+      "title": "Nocturne"
+    },
+    {
+      "pos": "A4",
+      "title": "Scherzo"
+    },
+    {
+      "pos": "A5",
+      "title": "Morning After Love"
+    },
+    {
+      "pos": "B1",
+      "title": "Blue's Solitude"
+    },
+    {
+      "pos": "B2",
+      "title": "Preparation Of The Villagers"
+    },
+    {
+      "pos": "B3",
+      "title": "Blue And Joanne Near The River"
+    },
+    {
+      "pos": "B4",
+      "title": "The Mexicans Are Coming"
+    },
+    {
+      "pos": "B5",
+      "title": "The Death Of Blue"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Blue (Music From The Original Motion Picture Score)",
+      "url": "https://www.discogs.com/master/394038"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The score for Silvio Narizzano's western Blue (1968, Op. 25), written during the years Hadjidakis lived in the US. Guitar soloist: Laurindo Almeida."
+    ]
+  }
+}

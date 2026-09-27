@@ -1,0 +1,124 @@
+{
+  "slug": "odos-oneiron",
+  "composer": "manos-hadjidakis",
+  "title": "Οδός Ονείρων",
+  "year": 1962,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "33GCX 102",
+  "format": "LP, Mono",
+  "performers": [
+    "Γιώργος Μαρίνος",
+    "Μάρω Κοντού",
+    "Λάκης Παππάς",
+    "Δημήτρης Χορν",
+    "Ζωή Φυτούση",
+    "Γιώργος Ζαμπέτας (μπουζούκι)"
+  ],
+  "lyricists": [
+    "Μάνος Χατζιδάκις",
+    "Ιάκωβος Καμπανέλλης",
+    "Αλέξης Σολομός",
+    "Νίκος Γκάτσος",
+    "Μίνως Αργυράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Μουσική και τραγούδια από τη θεατρική παράσταση «Οδός Ονείρων» (Έργο 20, 1962), σε σκηνοθεσία Αλέξη Σολομού, με στίχους του Καμπανέλλη, του Σολομού, του Γκάτσου, του Μίνωα Αργυράκη και του ίδιου του συνθέτη. Τραγουδούν ο Γιώργος Μαρίνος, η Μάρω Κοντού, ο Λάκης Παππάς, η Ζωή Φυτούση — και ο Δημήτρης Χορν απαγγέλλει.",
+    "Τον δίσκο ανοίγει και κλείνει ο ίδιος ο Χατζιδάκις, μιλώντας με μια λατέρνα («Πρόλογος» και «Επίλογος»). Το εξώφυλλο είναι του Μίνωα Αργυράκη, και στο «Έφυγε το τρένο» σολάρει στο μπουζούκι ο Γιώργος Ζαμπέτας."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Πρόλογος (Η λατέρνα και ο Μάνος Χατζιδάκις)",
+      "performer": "Μάνος Χατζιδάκις (αφήγηση)"
+    },
+    {
+      "pos": "Α2",
+      "title": "Όνειρο παιδιών της γειτονιάς: Οδός Ονείρων / Νυχτερινός χορός",
+      "performer": "Γιώργος Μαρίνος, χορωδία",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "Α3",
+      "title": "Η μαύρη Φορντ",
+      "performer": "Μάρω Κοντού, χορωδία",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "Α4",
+      "title": "Όνειρο για τεντυμπόυδες (Τουίστ)"
+    },
+    {
+      "pos": "Α5",
+      "title": "Οι αδελφές Τατά",
+      "performer": "Γ. Ζωγράφος, Ζωή Φυτούση, Μάρω Κοντού κ.ά.",
+      "lyricist": "Αλέξης Σολομός"
+    },
+    {
+      "pos": "Α6",
+      "title": "Μανούλα μου",
+      "performer": "Λάκης Παππάς, χορωδία",
+      "lyricist": "Ιάκωβος Καμπανέλλης"
+    },
+    {
+      "pos": "Α7",
+      "title": "Χατζί-Χατζί (Χορός σε 5/8)"
+    },
+    {
+      "pos": "Β1",
+      "title": "Άστρο της Ανατολής (Χασάπικο)"
+    },
+    {
+      "pos": "Β2",
+      "title": "Κυρ Μιχάλης",
+      "performer": "Λάκης Παππάς, χορωδία",
+      "lyricist": "Ιάκωβος Καμπανέλλης"
+    },
+    {
+      "pos": "Β3",
+      "title": "Ο ηθοποιός",
+      "performer": "Δημήτρης Χορν",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "Β4",
+      "title": "Έφυγε το τρένο / Χορευτικός αυτοσχεδιασμός",
+      "performer": "Ζωή Φυτούση, χορωδία · Γ. Ζαμπέτας (μπουζούκι)",
+      "lyricist": "Νίκος Γκάτσος"
+    },
+    {
+      "pos": "Β5",
+      "title": "Το πάρτυ / Το πουλί",
+      "performer": "Δημήτρης Χορν · Μάρω Κοντού",
+      "lyricist": "Μάνος Χατζιδάκις · Μίνως Αργυράκης"
+    },
+    {
+      "pos": "Β6",
+      "title": "Επίλογος (Μάνος Χατζιδάκις και η λατέρνα)",
+      "performer": "Μάνος Χατζιδάκις (αφήγηση)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Οδός Ονείρων (1962)",
+      "url": "https://www.discogs.com/master/378708"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Music and songs from the stage show “Odos Oneiron” (Op. 20, 1962), directed by Alexis Solomos, with lyrics by Kambanellis, Solomos, Gatsos, Minos Argyrakis and the composer himself. Sung by Giorgos Marinos, Maro Kontou, Lakis Pappas and Zoi Fytousi — with Dimitris Horn reciting.",
+      "Hadjidakis himself opens and closes the record, talking with a barrel organ (“Prologue” and “Epilogue”). The cover is by Minos Argyrakis, and Giorgos Zambetas solos on bouzouki in “Efyge to treno”."
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "reflections",
+  "composer": "manos-hadjidakis",
+  "title": "Reflections",
+  "year": 1970,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "ATCO Records",
+  "catalog": "SD 33-312",
+  "format": "LP, Stereo",
+  "performers": [
+    "New York Rock & Roll Ensemble"
+  ],
+  "lyricists": [
+    "Brian Corrigan",
+    "Dorian Rudnytsky",
+    "Martin Fulterman",
+    "Clifton Nivison"
+  ],
+  "grade": "B",
+  "about": [
+    "Ένας από τους πιο απρόσμενους δίσκους του: στη Νέα Υόρκη, ο Χατζιδάκις γράφει και ενορχηστρώνει τραγούδια για το ροκ συγκρότημα New York Rock & Roll Ensemble (Έργο 27), με αγγλικούς στίχους των μελών του — ανάμεσά τους και ο Μάικλ Κέιμεν στα πλήκτρα. Ο ίδιος υπογράφει και την παραγωγή.",
+    "Το 1993 ο κύκλος θα ξαναγεννηθεί στα ελληνικά ως «Αντικατοπτρισμοί», με στίχους του Νίκου Γκάτσου και της Αγαθής Δημητρούκα — το «Kemal» θα γίνει «Κεμάλ»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Orpheus",
+      "performer": "Dorian Rudnytsky",
+      "lyricist": "Dorian Rudnytsky"
+    },
+    {
+      "pos": "A2",
+      "title": "The Day",
+      "performer": "Brian Corrigan",
+      "lyricist": "Brian Corrigan"
+    },
+    {
+      "pos": "A3",
+      "title": "Love Her",
+      "performer": "Clifton Nivison",
+      "lyricist": "Brian Corrigan"
+    },
+    {
+      "pos": "A4",
+      "title": "Dance Of The Dogs"
+    },
+    {
+      "pos": "A5",
+      "title": "Kemal",
+      "performer": "Clifton Nivison",
+      "lyricist": "Martin Fulterman"
+    },
+    {
+      "pos": "B1",
+      "title": "Dedication",
+      "performer": "Michael Kamen",
+      "lyricist": "Clifton Nivison"
+    },
+    {
+      "pos": "B2",
+      "title": "The Three Answers"
+    },
+    {
+      "pos": "B3",
+      "title": "Street Song",
+      "performer": "Clifton Nivison",
+      "lyricist": "Brian Corrigan"
+    },
+    {
+      "pos": "B4",
+      "title": "Bitter Way",
+      "performer": "Brian Corrigan",
+      "lyricist": "Brian Corrigan"
+    },
+    {
+      "pos": "B5",
+      "title": "Noble Dame",
+      "performer": "Michael Kamen",
+      "lyricist": "Dorian Rudnytsky"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Reflections (1970)",
+      "url": "https://www.discogs.com/master/33490"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "One of his most unexpected records: in New York, Hadjidakis writes and orchestrates songs for the rock band New York Rock & Roll Ensemble (Op. 27), with English lyrics by the band's members — among them Michael Kamen on keyboards. He also produced it.",
+      "In 1993 the cycle would be reborn in Greek as “Antikatoptrismoi”, with lyrics by Nikos Gatsos and Agathi Dimitrouka — “Kemal” becoming “Κεμάλ”."
+    ]
+  }
+}

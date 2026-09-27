@@ -1,0 +1,96 @@
+{
+  "slug": "rythmologia-kai-o-kyklos-tou-cns",
+  "composer": "manos-hadjidakis",
+  "title": "Ρυθμολογία και ο Κύκλος του C.N.S.",
+  "year": 1971,
+  "type": "instrumental",
+  "kind": "Ορχηστρικό / για πιάνο",
+  "label": "Lyra",
+  "catalog": "SYLP 3509",
+  "format": "LP",
+  "performers": [
+    "Μάνος Χατζιδάκις (πιάνο)",
+    "Φλέρυ Νταντωνάκη"
+  ],
+  "lyricists": [
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "Δύο πρόσωπα του Χατζιδάκι στο πιάνο. Η «Ρυθμολογία» (Έργο 26, 1968) είναι έξι χασάπικα σε «ζυγούς» από 5/8 ως 15/8, το καθένα αφιερωμένο σε ένα ζώδιο — το ένα «στο ύφος του Eric Satie». Ο «Κύκλος του C.N.S.» (Έργο 8, 1952), αφιερωμένος στον Carlo Novi Sanchez, είναι τραγούδια σε δική του ποίηση, γραμμένα αρχικά για βαρύτονο και πιάνο — εδώ με τη φωνή της Φλέρυς Νταντωνάκη.",
+    "Το εξώφυλλο είναι του Γιάννη Μόραλη."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "5/8 — Χασάπικος στον Κριό"
+    },
+    {
+      "pos": "Α2",
+      "title": "7/8 — Χασάπικος του Ταύρου"
+    },
+    {
+      "pos": "Α3",
+      "title": "9/8 — Χασάπικος των Διδύμων (στο ύφος του Eric Satie)"
+    },
+    {
+      "pos": "Α4",
+      "title": "11/8 — Χασάπικος στον Υδροχόο"
+    },
+    {
+      "pos": "Β1",
+      "title": "13/8 — Χασάπικος της Σελήνης"
+    },
+    {
+      "pos": "Β2",
+      "title": "15/8 — Χασάπικος στην Παρθένο"
+    },
+    {
+      "pos": "Β3",
+      "title": "Με πνίγει ετούτ' η θάλασσα",
+      "performer": "Φλέρυ Νταντωνάκη"
+    },
+    {
+      "pos": "Β4",
+      "title": "Ο αφέντης έφυγε πρωί",
+      "performer": "Φλέρυ Νταντωνάκη"
+    },
+    {
+      "pos": "Β5",
+      "title": "Μια θλιμμένη αρχόντισσα",
+      "performer": "Φλέρυ Νταντωνάκη"
+    },
+    {
+      "pos": "Β6",
+      "title": "Στην αποβάθρα",
+      "performer": "Φλέρυ Νταντωνάκη"
+    },
+    {
+      "pos": "Β7",
+      "title": "Θα περιμένω",
+      "performer": "Φλέρυ Νταντωνάκη"
+    },
+    {
+      "pos": "Β8",
+      "title": "Εγώ είμ' ένα σύννεφο",
+      "performer": "Φλέρυ Νταντωνάκη"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ρυθμολογία και ο Κύκλος του C.N.S. (1971)",
+      "url": "https://www.discogs.com/master/717535"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental / piano",
+    "about": [
+      "Two sides of Hadjidakis at the piano. “Rythmologia” (Op. 26, 1968) is six chasapiko dances in time signatures from 5/8 to 15/8, each dedicated to a star sign — one “in the style of Eric Satie”. “The C.N.S. Cycle” (Op. 8, 1952), dedicated to Carlo Novi Sanchez, is a set of songs to his own poetry, originally for baritone and piano — here sung by Flery Dadonaki.",
+      "Cover by Yannis Moralis."
+    ]
+  }
+}

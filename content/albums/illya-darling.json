@@ -1,0 +1,102 @@
+{
+  "slug": "illya-darling",
+  "composer": "manos-hadjidakis",
+  "title": "Illya Darling",
+  "year": 1967,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "United Artists Records",
+  "catalog": "UAS 9901",
+  "format": "LP, Stereo",
+  "performers": [
+    "Μελίνα Μερκούρη",
+    "Orson Bean",
+    "Titos Vandis",
+    "Hal Linden"
+  ],
+  "lyricists": [
+    "Joe Darion"
+  ],
+  "grade": "B",
+  "about": [
+    "Το «Ποτέ την Κυριακή» έγινε μιούζικαλ στο Μπρόντγουεϊ, σε σκηνοθεσία του Ζιλ Ντασέν και πάλι με τη Μελίνα Μερκούρη ως Ίλια. Μουσική του Χατζιδάκι, αγγλικοί στίχοι του Τζο Ντάριον, ενορχηστρώσεις του Ραλφ Μπερνς· αυτός είναι ο δίσκος του πρωτότυπου θιάσου (1967)."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Bouzouki Nights"
+    },
+    {
+      "pos": "A2",
+      "title": "Piraeus, My Love"
+    },
+    {
+      "pos": "A3",
+      "title": "Golden Land"
+    },
+    {
+      "pos": "A4",
+      "title": "Illya Darling"
+    },
+    {
+      "pos": "A5",
+      "title": "Medea Tango"
+    },
+    {
+      "pos": "A6",
+      "title": "I'll Never Lay Down Anymore"
+    },
+    {
+      "pos": "A7",
+      "title": "Never On Sunday"
+    },
+    {
+      "pos": "B1",
+      "title": "Overture (Entracte)"
+    },
+    {
+      "pos": "B2",
+      "title": "Love, Love, Love"
+    },
+    {
+      "pos": "B3",
+      "title": "I Think She Needs Me"
+    },
+    {
+      "pos": "B4",
+      "title": "Dear Mr. Schubert"
+    },
+    {
+      "pos": "B5",
+      "title": "Heaven Help The Sailors On A Night Like This"
+    },
+    {
+      "pos": "B6",
+      "title": "After Love"
+    },
+    {
+      "pos": "B7",
+      "title": "Yorgo's Dance (Zebekiko)"
+    },
+    {
+      "pos": "B8",
+      "title": "Ya Chara"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Illya Darling (Original Broadway Cast Album)",
+      "url": "https://www.discogs.com/master/723484"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Never on Sunday became a Broadway musical, directed again by Jules Dassin with Melina Mercouri as Illya. Music by Hadjidakis, lyrics by Joe Darion, orchestrations by Ralph Burns; this is the original cast album (1967)."
+    ]
+  }
+}

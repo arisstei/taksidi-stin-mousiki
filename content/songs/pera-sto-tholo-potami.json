@@ -1,0 +1,51 @@
+{
+  "slug": "pera-sto-tholo-potami",
+  "title": "Πέρα στο θολό ποτάμι",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος (απόδοση από τον Λόρκα)",
+  "year": "1959",
+  "performer": "Φλέρυ Νταντωνάκη",
+  "status": "verified",
+  "grade": "B",
+  "teaser": "Ένα τραγούδι του Λόρκα στη γλώσσα του Γκάτσου, γραμμένο για τη σκηνή του Κουν — που περίμενε δεκατρία χρόνια για να μπει σε δίσκο.",
+  "story": [
+    "Το «Πέρα στο θολό ποτάμι» γράφτηκε για τη θεατρική παράσταση «Ο Περλιμπλίν και η Μπελίσα» του Φεδερίκο Γκαρθία Λόρκα, που ανέβασε το Θέατρο Τέχνης το 1959. Οι στίχοι είναι απόδοση του Νίκου Γκάτσου, του μεταφραστή του Λόρκα στα ελληνικά, και περιλαμβάνονται στον τόμο «Φεδερίκο Γκαρθία Λόρκα — Θέατρο και Ποίηση» (Πατάκης).",
+    "Σύμφωνα με το Gatsos Archive, στη δισκογραφία το τραγούδι εμφανίστηκε για πρώτη φορά το 1972, μέσα στον «Μεγάλο Ερωτικό», με τη φωνή της Φλέρυς Νταντωνάκη. Έτσι ένα τραγούδι του ισπανικού θεάτρου βρέθηκε να κλείνει την πρώτη πλευρά ενός δίσκου φτιαγμένου από ελληνική ερωτική ποίηση."
+  ],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Πέρα στο θολό ποτάμι (σημείωση του τόμου «Όλα τα τραγούδια»)",
+      "url": "https://gatsosarchive.org/song/pera-sto-tholo-potami/"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι (Ο Περλιμπλίν και η Μπελίσα, Θέατρο Τέχνης 1959)",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "Discogs — Ο Μεγάλος Ερωτικός (1972)",
+      "url": "https://www.discogs.com/master/858540"
+    }
+  ],
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "year": "1972",
+    "note": "Η πρώτη δισκογραφική εμφάνιση, στον «Μεγάλο Ερωτικό».",
+    "videoUrl": "https://www.youtube.com/watch?v=WSDHdRP5iNo",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Πέρα στο θολό ποτάμι (επίσημη κυκλοφορία ήχου)"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true
+  },
+  "en": {
+    "teaser": "A Lorca song in Gatsos's language, written for Koun's stage — which waited thirteen years to be recorded.",
+    "story": [
+      "“Pera sto tholo potami” was written for Federico García Lorca's play “The Love of Don Perlimplín and Belisa in the Garden”, staged by the Art Theatre in 1959. The lyrics are Nikos Gatsos's rendering — he was Lorca's Greek translator — and are included in the volume “Federico García Lorca — Theatre and Poetry” (Patakis).",
+      "According to the Gatsos Archive, the song first appeared on record in 1972, on “Megalos Erotikos”, sung by Flery Dadonaki. So a song from the Spanish stage ended up closing side one of an album built from Greek love poetry."
+    ],
+    "firstPerformance": {
+      "note": "Its first appearance on record, on “Megalos Erotikos”.",
+      "videoLabel": "Flery Dadonaki — Pera sto tholo potami (official audio release)"
+    }
+  }
+}

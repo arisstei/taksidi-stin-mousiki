@@ -1,5 +1,6 @@
 import { getAllSongs } from "@/lib/songs";
 import { SITE_URL } from "@/lib/site";
+import { getAllAlbums, getAllComposers } from "@/lib/albums";
 
 export default function sitemap() {
   const songs = getAllSongs();
@@ -18,6 +19,19 @@ export default function sitemap() {
       priority: song.isProfile ? 0.4 : 0.7,
     },
   ]);
+
+  const discEntries = [
+    ...getAllComposers().flatMap((c) => [
+      { url: `${SITE_URL}/composer/${c.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
+      { url: `${SITE_URL}/en/composer/${c.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
+    ]),
+    ...getAllAlbums().flatMap((a) => [
+      { url: `${SITE_URL}/album/${a.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.6 },
+      { url: `${SITE_URL}/en/album/${a.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.5 },
+    ]),
+    { url: `${SITE_URL}/composers`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/en/composers`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.6 },
+  ];
 
   return [
     {
@@ -45,5 +59,6 @@ export default function sitemap() {
       priority: 0.35,
     },
     ...songEntries,
+    ...discEntries,
   ];
 }

@@ -1,0 +1,92 @@
+{
+  "slug": "tragoudia-gia-tin-eleni",
+  "composer": "manos-hadjidakis",
+  "title": "Τραγούδια για την Ελένη",
+  "year": 1978,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Νότος",
+  "catalog": "SNL 3971",
+  "format": "LP",
+  "performers": [
+    "Στέλιος Μαρκετάκης"
+  ],
+  "lyricists": [
+    "Μιχάλης Μπουρμπούλης",
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος σε στίχους του Μιχάλη Μπουρμπούλη και του συνθέτη (Έργο 38, 1977), με τη φωνή του Στέλιου Μαρκετάκη και τον Χατζιδάκι σε ενορχήστρωση και διεύθυνση. Μια Αθήνα νυχτερινή: «Στην πύλη τ' Αδριανού», «Ψηλά στην Ακροκόρινθο», «Θάνατος στη Λαχαναγορά». Ο ίδιος θα αναθεωρήσει τον κύκλο το 1985."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Θέμα Νυχτερινού Αγγέλου (ορχηστρικό)"
+    },
+    {
+      "pos": "A2",
+      "title": "Για την Ελένη"
+    },
+    {
+      "pos": "A3",
+      "title": "Στην πύλη τ' Αδριανού"
+    },
+    {
+      "pos": "A4",
+      "title": "Τραγούδια στο ηλεκτρόφωνο"
+    },
+    {
+      "pos": "A5",
+      "title": "Από το βράδυ ως το πρωί"
+    },
+    {
+      "pos": "A6",
+      "title": "Μυρίζει ο κόσμος γιασεμί"
+    },
+    {
+      "pos": "Α7",
+      "title": "Νυχτερινός άγγελος"
+    },
+    {
+      "pos": "B1",
+      "title": "Το παλιό σπίτι"
+    },
+    {
+      "pos": "B2",
+      "title": "Καημός στη χαραυγή"
+    },
+    {
+      "pos": "B3",
+      "title": "Όταν θα βγάλω το χακί"
+    },
+    {
+      "pos": "B4",
+      "title": "Ψηλά στην Ακροκόρινθο"
+    },
+    {
+      "pos": "B5",
+      "title": "Ο μάγκας"
+    },
+    {
+      "pos": "B6",
+      "title": "Θάνατος στη Λαχαναγορά"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τραγούδια Για Την Ελένη (1978)",
+      "url": "https://www.discogs.com/master/407225"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A cycle to lyrics by Michalis Bourboulis and the composer (Op. 38, 1977), sung by Stelios Marketakis, with Hadjidakis orchestrating and conducting. A nocturnal Athens: “Stin pyli t' Adrianou”, “Psila stin Akrokorintho”, “Thanatos sti Lachanagora”. He would revise the cycle in 1985."
+    ]
+  }
+}

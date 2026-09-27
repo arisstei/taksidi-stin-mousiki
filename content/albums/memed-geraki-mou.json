@@ -1,0 +1,112 @@
+{
+  "slug": "memed-geraki-mou",
+  "composer": "manos-hadjidakis",
+  "title": "Memed γεράκι μου",
+  "year": 1984,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Νότος",
+  "catalog": "3910",
+  "format": "LP",
+  "performers": [
+    "Ορχήστρα υπό τη διεύθυνση του Μάνου Χατζιδάκι"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική για την ταινία «Memed My Hawk» του Πίτερ Ουστίνοφ, πάνω στο μυθιστόρημα του Γιασάρ Κεμάλ. Ο Χατζιδάκις διευθύνει και ενορχηστρώνει μαζί με τον Νίκο Κυπουργό· το εναρκτήριο «Memed αγάπη μου» έχει στίχους του Νίκου Γκάτσου."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Memed αγάπη μου",
+      "lyricist": "Νίκος Γκάτσος"
+    },
+    {
+      "pos": "A2",
+      "title": "Στα ίχνη του Memed"
+    },
+    {
+      "pos": "A3",
+      "title": "Η συνωμοσία των ληστών"
+    },
+    {
+      "pos": "A4",
+      "title": "Η καταδίωξη"
+    },
+    {
+      "pos": "A5",
+      "title": "One Step"
+    },
+    {
+      "pos": "A6",
+      "title": "Tango"
+    },
+    {
+      "pos": "A7",
+      "title": "Η φωτιά"
+    },
+    {
+      "pos": "A8",
+      "title": "Pas De Trio"
+    },
+    {
+      "pos": "A9",
+      "title": "Νυχτερινό"
+    },
+    {
+      "pos": "B1",
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": "B2",
+      "title": "Το τραγούδι της φυλακής"
+    },
+    {
+      "pos": "B3",
+      "title": "Η σπηλιά με τους ληστές"
+    },
+    {
+      "pos": "B4",
+      "title": "Η καταδίωξη συνεχίζεται"
+    },
+    {
+      "pos": "B5",
+      "title": "Ο Memed και η μητέρα του"
+    },
+    {
+      "pos": "B6",
+      "title": "Μενουέτο"
+    },
+    {
+      "pos": "B7",
+      "title": "Ερωτικό"
+    },
+    {
+      "pos": "B8",
+      "title": "Αποχαιρετισμός και Ragtime"
+    },
+    {
+      "pos": "B9",
+      "title": "Το τέλος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Memed Γεράκι Μου (1984)",
+      "url": "https://www.discogs.com/master/415207"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The score for Peter Ustinov's film Memed My Hawk, after Yaşar Kemal's novel. Hadjidakis conducts and orchestrates together with Nikos Kypourgos; the opening “Memed agapi mou” has lyrics by Nikos Gatsos."
+    ]
+  }
+}

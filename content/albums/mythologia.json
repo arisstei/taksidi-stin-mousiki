@@ -1,0 +1,108 @@
+{
+  "slug": "mythologia",
+  "composer": "manos-hadjidakis",
+  "title": "Μυθολογία",
+  "year": 1966,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "GCX 112",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ρωμανός"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο πρώτος ολοκληρωμένος κύκλος τραγουδιών του Χατζιδάκι με τον Νίκο Γκάτσο (Έργο 23, γραμμένο το 1965), με τη φωνή του Γιώργου Ρωμανού και τον συνθέτη στη διεύθυνση.",
+    "Μύθοι αρχαίοι και σύγχρονοι μπερδεύονται: τρεις κοπέλες από τη Θήβα, ένας Ροβινσώνας στη Μύκονο, ο Ορέστης, ένας «ευαίσθητος ληστής» και οι «νυχτερινές ειδήσεις»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Τρεις κοπέλες απ' τη Θήβα"
+    },
+    {
+      "pos": "A2",
+      "title": "Ο Ροβινσών στη Μύκονο"
+    },
+    {
+      "pos": "A3",
+      "title": "Ο Ιρλανδός και ο Ιουδαίος"
+    },
+    {
+      "pos": "A4",
+      "title": "Τα καλοτάξιδα πουλιά"
+    },
+    {
+      "pos": "A5",
+      "title": "Ορέστης"
+    },
+    {
+      "pos": "A6",
+      "title": "Αερικό"
+    },
+    {
+      "pos": "B1",
+      "title": "Με την Ελλάδα καραβοκύρη"
+    },
+    {
+      "pos": "B2",
+      "title": "Ο Τζώνης ο μπόγιας"
+    },
+    {
+      "pos": "B3",
+      "title": "Ήσουν παιδί σαν το Χριστό"
+    },
+    {
+      "pos": "B4",
+      "title": "Ένας ευαίσθητος ληστής"
+    },
+    {
+      "pos": "B5",
+      "title": "Νυχτερινές ειδήσεις"
+    },
+    {
+      "pos": "B6",
+      "title": "Lamento (Θρήνος)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μυθολογία (1966)",
+      "url": "https://www.discogs.com/master/369527"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    },
+    {
+      "label": "Αρχείο ΕΡΤ — Παρασκήνιο: Αφιέρωμα στον Νίκο Γκάτσο",
+      "url": "https://archive.ert.gr/6698/"
+    }
+  ],
+  "interviewVideo": {
+    "title": "Παρασκήνιο — Αφιέρωμα στον Νίκο Γκάτσο (Μέρος 1)",
+    "ertFile": "0000006698/0001/media6698.mp4",
+    "code": "6698",
+    "note": "Η Αγαθή Δημητρούκα παρουσιάζει τη ζωή και το έργο του Γκάτσου· για τον ποιητή μιλούν καλλιτέχνες και άνθρωποι των γραμμάτων, ανάμεσά τους ο ίδιος ο Μάνος Χατζιδάκις.",
+    "sourceUrl": "https://archive.ert.gr/6698/"
+  },
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Hadjidakis's first complete song cycle with Nikos Gatsos (Op. 23, written in 1965), sung by Giorgos Romanos with the composer conducting.",
+      "Ancient and modern myths intertwine: three girls from Thebes, a Robinson Crusoe on Mykonos, Orestes, a “sensitive bandit” and the “night news”."
+    ],
+    "interviewVideo": {
+      "title": "Paraskinio — A tribute to Nikos Gatsos (Part 1)",
+      "note": "Agathi Dimitrouka presents Gatsos's life and work; artists and writers speak about the poet — among them Manos Hadjidakis himself."
+    }
+  }
+}

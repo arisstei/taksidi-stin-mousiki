@@ -1,0 +1,107 @@
+{
+  "slug": "ornithes",
+  "composer": "manos-hadjidakis",
+  "title": "Όρνιθες",
+  "year": 1965,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "33GCX 109/110",
+  "format": "2×LP, Mono",
+  "performers": [
+    "Σπύρος Σακκάς",
+    "Μικτή Χορωδία του Φεστιβάλ Αθηνών",
+    "Παιδική χορωδία",
+    "Πειραματική Ορχήστρα Αθηνών"
+  ],
+  "lyricists": [
+    "Αριστοφάνης (μτφρ. Βασίλης Ρώτας)"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική που έγραψε ο Χατζιδάκις το 1959 για τους «Όρνιθες» του Αριστοφάνη στο Θέατρο Τέχνης του Καρόλου Κουν (Έργο 16), όπως την αναμόρφωσε το 1964 σε καντάτα και μπαλέτο για σολίστ, τρεις χορωδίες και ορχήστρα.",
+    "Διπλός δίσκος της Columbia με την Πειραματική Ορχήστρα Αθηνών, στη μετάφραση του Βασίλη Ρώτα· σημειώματα γράφουν ο ίδιος ο συνθέτης και ο χορογράφος Μωρίς Μπεζάρ."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Πρόλογος · Πέταγμα πουλιών · Η αηδόνα"
+    },
+    {
+      "pos": "Α2",
+      "title": "Προσκλητήριο του Έποπα"
+    },
+    {
+      "pos": "Α3",
+      "title": "Πάροδος (Είσοδος και επίθεσις)"
+    },
+    {
+      "pos": "Β1",
+      "title": "Κακό μου κακό μου · Φίλτατέ μου γεροντάκο"
+    },
+    {
+      "pos": "Β2",
+      "title": "Ω καλή μου ξανθιά · Αν κανείς σας ω θεατές μας · Οι κύκνοι"
+    },
+    {
+      "pos": "Β3",
+      "title": "Νάχεις φτερά · Τελικός χορός Α΄ πράξης"
+    },
+    {
+      "pos": "C1",
+      "title": "Ω μακάρια πετεινά"
+    },
+    {
+      "pos": "C2",
+      "title": "Η μελαγχολία της αηδόνας · Η βουλή"
+    },
+    {
+      "pos": "C3",
+      "title": "Αν κανείς σας ω θεατές μας · Ντελάλημα — Καθολικό"
+    },
+    {
+      "pos": "C4",
+      "title": "Τέσσερα τα μάτια σας · Παντεπόπτης"
+    },
+    {
+      "pos": "D1",
+      "title": "Συντάσσομαι, συντρέχω · Τα παράσιτα · Ο Σωκράτης"
+    },
+    {
+      "pos": "D2",
+      "title": "Αγγελιοφόρος · Δοξαστικό · Έξοδος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Les Oiseaux / Όρνιθες (1965)",
+      "url": "https://www.discogs.com/master/398115"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "Αρχείο ΕΡΤ — Παρασκήνιο: Ο Αριστοφάνης στο Θέατρο Τέχνης",
+      "url": "https://archive.ert.gr/6872/"
+    }
+  ],
+  "interviewVideo": {
+    "title": "Παρασκήνιο — Ο Αριστοφάνης στο Θέατρο Τέχνης",
+    "ertFile": "0000006872/0000/media.mp4",
+    "code": "6872",
+    "note": "Αφιέρωμα στις αριστοφανικές παραστάσεις του Θεάτρου Τέχνης, με συνεντεύξεις συντελεστών και αποσπάσματα από τις παραστάσεις — ανάμεσά τους οι «Όρνιθες» με τη μουσική του Χατζιδάκι.",
+    "sourceUrl": "https://archive.ert.gr/6872/"
+  },
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "The music Hadjidakis wrote in 1959 for Aristophanes' “The Birds” at Karolos Koun's Art Theatre (Op. 16), as he reshaped it in 1964 into a cantata and ballet for soloists, three choirs and orchestra.",
+      "A Columbia double album with the Athens Experimental Orchestra, in Vasilis Rotas's translation; liner notes by the composer and the choreographer Maurice Béjart."
+    ],
+    "interviewVideo": {
+      "title": "Paraskinio — Aristophanes at the Art Theatre",
+      "note": "A tribute to the Art Theatre's Aristophanes productions, with interviews and excerpts — among them “The Birds”, with Hadjidakis's music."
+    }
+  }
+}

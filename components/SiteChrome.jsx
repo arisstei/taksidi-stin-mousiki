@@ -21,7 +21,7 @@ export function SiteHeader() {
 
   return (
     <header className="border-b border-black/10 bg-cream/80 backdrop-blur sticky top-0 z-10">
-      <div className="h-[3px] bg-gradient-to-r from-brand via-gold to-brand" />
+      <div className="h-[5px] ticket-strip" />
       <div className="mx-auto max-w-3xl px-6 py-5 flex items-center justify-between">
         <Link href={`${basePath}/`} className="font-serif text-xl tracking-tight text-ink">
           {lang === "en" ? (
@@ -36,12 +36,18 @@ export function SiteHeader() {
         </Link>
         <nav className="flex items-center gap-4">
           <Link
+            href={`${basePath}/composers`}
+            className="text-sm text-ink/60 hover:text-brand transition-colors"
+          >
+            {lang === "en" ? "Discographies" : "Δισκογραφίες"}
+          </Link>
+          <Link
             href={`${basePath}/about`}
             className="text-sm text-ink/60 hover:text-brand transition-colors"
           >
             {t.nav.about}
           </Link>
-          <span className="text-sm text-ink/50 hidden sm:block">{t.siteTagline}</span>
+          <span className="text-sm text-ink/50 hidden md:block">{t.siteTagline}</span>
           <Link
             href={switchHref}
             className="text-xs font-mono font-semibold px-2 py-1 rounded border border-black/15 text-ink/60 hover:border-brand/50 hover:text-brand transition-colors"

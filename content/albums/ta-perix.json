@@ -1,0 +1,97 @@
+{
+  "slug": "ta-perix",
+  "composer": "manos-hadjidakis",
+  "title": "Τα Πέριξ",
+  "year": 1974,
+  "type": "rebetiko",
+  "kind": "Ρεμπέτικα σε νέα γραφή",
+  "label": "Πολύτροπον",
+  "catalog": "POL-R-A1",
+  "format": "LP, Stereo",
+  "performers": [
+    "Βούλα Σαββίδη"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Δώδεκα ρεμπέτικα — Τσιτσάνης, Βαμβακάρης, Παπαϊωάννου, Παπάζογλου, Καπλάνης κ.ά. — σε διασκευή και ενορχήστρωση του Χατζιδάκι, με τη φωνή της Βούλας Σαββίδη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ο μαχαλόμαγκας",
+      "orig": "Β. Τσιτσάνης"
+    },
+    {
+      "pos": "A2",
+      "title": "Μου λένε πως μου φαίνεται",
+      "orig": "Ε. Παπάζογλου"
+    },
+    {
+      "pos": "A3",
+      "title": "Τι θες μ' εμέ να μπλέξεις",
+      "orig": "Στ. Κερομύτης"
+    },
+    {
+      "pos": "A4",
+      "title": "Καλογεράκι",
+      "orig": "Ι. Παπαϊωάννου"
+    },
+    {
+      "pos": "A5",
+      "title": "Ξανθιά μικρούλα",
+      "orig": "Ι. Παπαϊωάννου"
+    },
+    {
+      "pos": "A6",
+      "title": "Εγώ πονώ εσύ γελάς",
+      "orig": "Κ. Καπλάνης"
+    },
+    {
+      "pos": "Β1",
+      "title": "Όταν δω τα δυο σου μάτια",
+      "orig": "Ι. Παπαϊωάννου"
+    },
+    {
+      "pos": "Β2",
+      "title": "Το πικραμένο αγόρι",
+      "orig": "Β. Τσιτσάνης / Πρ. Τσαουσάκης"
+    },
+    {
+      "pos": "Β3",
+      "title": "Σε πήραν απ' τα χέρια μου",
+      "orig": "Β. Τσιτσάνης / Ι. Κυριαζής"
+    },
+    {
+      "pos": "Β4",
+      "title": "Όλοι οι ρεμπέτες του ντουνιά",
+      "orig": "Μ. Βαμβακάρης"
+    },
+    {
+      "pos": "Β5",
+      "title": "Ρίξε τσιγγάνα τα χαρτιά",
+      "orig": "Μ. Βαμβακάρης"
+    },
+    {
+      "pos": "Β6",
+      "title": "Χαράματα η ώρα τρεις",
+      "orig": "Μ. Βαμβακάρης"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα Πέριξ",
+      "url": "https://www.discogs.com/master/525759"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Rebetiko, re-written",
+    "about": [
+      "Twelve rebetiko songs — by Tsitsanis, Vamvakaris, Papaioannou, Papazoglou, Kaplanis and others — arranged and orchestrated by Hadjidakis, sung by Voula Savvidi."
+    ]
+  }
+}

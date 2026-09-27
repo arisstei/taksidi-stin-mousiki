@@ -2,6 +2,7 @@ import { getSongBySlug, getAllSlugs, localizeSong } from "@/lib/songs";
 import { SITE_URL } from "@/lib/site";
 import { getDictionary } from "@/lib/dictionaries";
 import SongArticle from "@/components/SongArticle";
+import { getAlbumsForSong } from "@/lib/albums";
 
 const SITE_NAME = getDictionary("en").siteName;
 
@@ -70,7 +71,7 @@ export default function EnglishSongPage({ params }) {
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <SongArticle song={song} lang="en" />
+      <SongArticle song={song} lang="en" albums={getAlbumsForSong(song.slug).map((a) => ({ slug: a.slug, title: a.title, year: a.year, label: a.label }))} />
     </>
   );
 }

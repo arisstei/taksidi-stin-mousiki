@@ -1,6 +1,7 @@
 import { getSongBySlug, getAllSlugs } from "@/lib/songs";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
 import SongArticle from "@/components/SongArticle";
+import { getAlbumsForSong } from "@/lib/albums";
 
 export function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
@@ -71,7 +72,7 @@ export default function SongPage({ params }) {
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <SongArticle song={song} lang="el" />
+      <SongArticle song={song} lang="el" albums={getAlbumsForSong(song.slug).map((a) => ({ slug: a.slug, title: a.title, year: a.year, label: a.label }))} />
     </>
   );
 }

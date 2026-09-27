@@ -1,0 +1,92 @@
+{
+  "slug": "athanasia",
+  "composer": "manos-hadjidakis",
+  "title": "Αθανασία",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "2J 062-70248",
+  "format": "LP",
+  "performers": [
+    "Μανώλης Μητσιάς",
+    "Δήμητρα Γαλάνη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών σε στίχους Νίκου Γκάτσου (Έργο 31α, 1975), με τον Μανώλη Μητσιά και τη Δήμητρα Γαλάνη και τον Χατζιδάκι αυτή τη φορά στη διεύθυνση. Περιέχει τη «Μπαλάντα του Ούρι», τον «Γιάννη τον φονιά», το «Κοίτα με στα μάτια» και το ομότιτλο «Αθανασία». Εξώφυλλο και σχέδια του Γιώργου Σταθόπουλου."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Η μπαλάντα του Ούρι"
+    },
+    {
+      "pos": "A2",
+      "title": "Ο Γιάννης ο φονιάς"
+    },
+    {
+      "pos": "A3",
+      "title": "Κοίτα με στα μάτια"
+    },
+    {
+      "pos": "A4",
+      "title": "Ο Παντελής"
+    },
+    {
+      "pos": "A5",
+      "title": "Το μεθυσμένο καράβι"
+    },
+    {
+      "pos": "A6",
+      "title": "Αθανασία"
+    },
+    {
+      "pos": "B1",
+      "title": "Οι μέρες είναι πονηρές"
+    },
+    {
+      "pos": "B2",
+      "title": "Τσάμικος"
+    },
+    {
+      "pos": "B3",
+      "title": "Παράξενη Πρωτομαγιά"
+    },
+    {
+      "pos": "B4",
+      "title": "Ένα σπίρτο στο τραπέζι"
+    },
+    {
+      "pos": "B5",
+      "title": "Μια φορά κι έναν καιρό"
+    },
+    {
+      "pos": "B6",
+      "title": "Μελαγχολικό εμβατήριο"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αθανασία (1976)",
+      "url": "https://www.discogs.com/master/379167"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle to lyrics by Nikos Gatsos (Op. 31a, 1975), sung by Manolis Mitsias and Dimitra Galani, with Hadjidakis conducting this time. It includes “I balanta tou Ouri”, “O Giannis o fonias”, “Koita me sta matia” and the title song “Athanasia”. Cover and drawings by Giorgos Stathopoulos."
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "dekapente-esperinoi",
+  "composer": "manos-hadjidakis",
+  "title": "Δεκαπέντε Εσπερινοί",
+  "year": 1965,
+  "type": "instrumental",
+  "kind": "Ορχηστρικό / για πιάνο",
+  "label": "Columbia",
+  "catalog": "33GCX 106",
+  "format": "LP, Mono",
+  "performers": [
+    "Μάνος Χατζιδάκις (πιάνο, διεύθυνση)",
+    "Αλίκη Κρίθαρη (άρπα)",
+    "Γεράσιμος Μηλιαρέσης, Δημήτρης Φάμπας (κιθάρες)",
+    "Ανδρέας Ροδουσάκης (κοντραμπάσο)"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Δεκαπέντε τραγούδια του, από το θέατρο και τον κινηματογράφο, ξαναγραμμένα το 1964 για μικρή ορχήστρα — πιάνο, άρπα, κιθάρες, κοντραμπάσο — χωρίς φωνή. Στο πιάνο και στη διεύθυνση ο ίδιος.",
+    "Ο δίσκος ανοίγει με ορχηστρική εκδοχή του «Τα παιδιά του Πειραιά» και περιέχει τα «Κυρ-Αντώνης», «Υμηττός», «Φέρτε μου ένα μαντολίνο», «Ο ταχυδρόμος πέθανε», «Η πέτρα» — μια σύνοψη της πρώτης του δεκαπενταετίας."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Τα παιδιά του Πειραιά",
+      "song": "ta-paidia-tou-peiraia"
+    },
+    {
+      "pos": "A2",
+      "title": "Έγινε παρεξήγηση"
+    },
+    {
+      "pos": "A3",
+      "title": "Νυχτερινός περίπατος"
+    },
+    {
+      "pos": "A4",
+      "title": "Κυρ-Μιχάλης"
+    },
+    {
+      "pos": "A5",
+      "title": "Κάθε κήπος"
+    },
+    {
+      "pos": "A6",
+      "title": "Το πάρτυ"
+    },
+    {
+      "pos": "A7",
+      "title": "Η τιμωρία"
+    },
+    {
+      "pos": "A8",
+      "title": "Υμηττός"
+    },
+    {
+      "pos": "B1",
+      "title": "Το φεγγάρι είναι κόκκινο"
+    },
+    {
+      "pos": "B2",
+      "title": "Ευρυδίκη"
+    },
+    {
+      "pos": "B3",
+      "title": "Κυρ-Αντώνης"
+    },
+    {
+      "pos": "B4",
+      "title": "Φέρτε μου ένα μαντολίνο"
+    },
+    {
+      "pos": "B5",
+      "title": "Ο ταχυδρόμος πέθανε"
+    },
+    {
+      "pos": "B6",
+      "title": "Η πέτρα"
+    },
+    {
+      "pos": "B7",
+      "title": "Το τριαντάφυλλο"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Δεκαπέντε Εσπερινοί (1965)",
+      "url": "https://www.discogs.com/master/303461"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental / piano",
+    "about": [
+      "Fifteen of his songs from theatre and film, rewritten in 1964 for a small ensemble — piano, harp, guitars, double bass — without voice. He plays piano and conducts.",
+      "The record opens with an instrumental “Ta paidia tou Peiraia” and includes “Kyr-Antonis”, “Ymittos”, “Ferte mou ena mandolino”, “O tachydromos pethane” and “I petra” — a summary of his first fifteen years."
+    ]
+  }
+}

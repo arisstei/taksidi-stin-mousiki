@@ -1,0 +1,89 @@
+{
+  "slug": "antikatoptrismoi",
+  "composer": "manos-hadjidakis",
+  "title": "Αντικατοπτρισμοί",
+  "year": 1993,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Sirius",
+  "catalog": "SMH 93.001",
+  "format": "LP",
+  "performers": [
+    "Αλίκη Καγιαλόγλου"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Αγαθή Δημητρούκα"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο κύκλος των «Reflections» του 1970 ξαναγράφεται στα ελληνικά: αναθεωρημένη εκδοχή με στίχους του Νίκου Γκάτσου (και ένα τραγούδι της Αγαθής Δημητρούκα), με τη φωνή της Αλίκης Καγιαλόγλου και τον Χατζιδάκι στη διεύθυνση. Το «Kemal» έγινε «Κεμάλ». Στο εξώφυλλο, ζωγραφική του Νίκου Χατζηκυριάκου-Γκίκα. Ένας από τους τελευταίους δίσκους που κυκλοφόρησαν όσο ζούσε."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Το τραγούδι της χαμένης Κυριακής"
+    },
+    {
+      "pos": "A2",
+      "title": "Πού το πήγαν το παιδί"
+    },
+    {
+      "pos": "A3",
+      "title": "Πες μου τ' όνομά σου"
+    },
+    {
+      "pos": "A4",
+      "title": "Ο χορός των σκύλων"
+    },
+    {
+      "pos": "A5",
+      "title": "Ο κόσμος σου να είμαι εγώ"
+    },
+    {
+      "pos": "B1",
+      "title": "Κεμάλ"
+    },
+    {
+      "pos": "B2",
+      "title": "Τρεις απαντήσεις"
+    },
+    {
+      "pos": "Β3",
+      "title": "Το τραγούδι του δρόμου"
+    },
+    {
+      "pos": "Β4",
+      "title": "Η προσευχή του ακροβάτη",
+      "lyricist": "Αγαθή Δημητρούκα"
+    },
+    {
+      "pos": "Β5",
+      "title": "Περιμπανού"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αντικατοπτρισμοί (1993)",
+      "url": "https://www.discogs.com/master/364459"
+    },
+    {
+      "label": "Discogs — Reflections (1970)",
+      "url": "https://www.discogs.com/master/33490"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "The 1970 “Reflections” cycle rewritten in Greek: a revised version with lyrics by Nikos Gatsos (and one song by Agathi Dimitrouka), sung by Aliki Kagialoglou with Hadjidakis conducting. “Kemal” became “Κεμάλ”. The cover is a painting by Nikos Hadjikyriakos-Ghikas. One of the last records released in his lifetime."
+    ]
+  }
+}

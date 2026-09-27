@@ -61,3 +61,154 @@ body {
   border: 1px solid rgba(184, 134, 60, 0.45);
   box-shadow: 0 1px 2px rgba(36, 27, 22, 0.1);
 }
+
+/* ───────── Δισκοπωλείο / αρχείο '60 ───────── */
+
+/* Βινύλιο: αυλάκια με repeating-radial-gradient + χρωματιστή ετικέτα στο κέντρο */
+.vinyl {
+  background:
+    radial-gradient(circle at center, #1a1411 0 3%, var(--label, #e9c98a) 3.2% 30%, #120e0c 30.5% 32%, transparent 32.5%),
+    repeating-radial-gradient(circle at center, #1b1512 0 1.1px, #2a211c 1.4px 2.6px),
+    #1b1512;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.04), 0 6px 14px -8px rgba(0,0,0,0.6);
+}
+.vinyl::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: conic-gradient(from 20deg, transparent 0 40deg, rgba(255,255,255,0.10) 60deg, transparent 90deg 220deg, rgba(255,255,255,0.07) 240deg, transparent 270deg);
+}
+
+/* Φθαρμένο χαρτόνι εξωφύλλου: σκίαση στις άκρες + ένα "δαχτυλίδι" τριβής */
+.sleeve-wear {
+  background:
+    radial-gradient(circle at 52% 50%, transparent 40%, rgba(255,255,255,0.06) 41%, transparent 43%),
+    linear-gradient(180deg, rgba(255,255,255,0.08), transparent 18%, transparent 80%, rgba(0,0,0,0.12));
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08), inset 0 0 22px rgba(0,0,0,0.12);
+  mix-blend-mode: multiply;
+}
+
+/* Καρτέλα καταλόγου δισκοπωλείου */
+.catalog-card {
+  background:
+    repeating-linear-gradient(180deg, transparent 0 25px, rgba(140,58,58,0.12) 25px 26px),
+    #fffdf7;
+  border: 1px solid rgba(36,27,22,0.12);
+  border-top: 3px solid #8c3a3a;
+  padding: 0.9rem 1rem;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03);
+}
+
+/* Κάρτα tracklist σαν εσωτερικό φάκελο δίσκου */
+.label-card {
+  background: #fffdf7;
+  border: 1px solid rgba(36,27,22,0.12);
+  padding: 1.25rem 1.25rem;
+  box-shadow: 0 10px 24px -18px rgba(36,27,22,0.5);
+}
+.side-label {
+  font-family: 'Courier New', Consolas, monospace;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #8c3a3a;
+  border-bottom: 1px dashed rgba(140,58,58,0.35);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Μικρός τίτλος ενότητας τύπου πρόγραμμα θεάτρου */
+.section-kicker {
+  font-family: 'Courier New', Consolas, monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #b8863c;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.section-kicker::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(184,134,60,0.35);
+}
+
+/* Αρχικό κεφαλαίο (dropcap) όπως στα παλιά περιοδικά */
+.dropcap::first-letter {
+  float: left;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+  font-size: 3.4em;
+  line-height: 0.85;
+  padding: 0.08em 0.1em 0 0;
+  color: #8c3a3a;
+}
+
+/* Φάκελος αρχείου με καρτέλα */
+.archive-folder {
+  position: relative;
+  background: linear-gradient(180deg, #f2e6d0, #efe0c4);
+  border: 1px solid rgba(184,134,60,0.45);
+  box-shadow: 0 14px 30px -22px rgba(36,27,22,0.55);
+  margin-top: 2.25rem;
+}
+.archive-folder .folder-tab {
+  position: absolute;
+  top: -1.9rem;
+  left: -1px;
+  background: #efe0c4;
+  border: 1px solid rgba(184,134,60,0.45);
+  border-bottom: none;
+  border-radius: 6px 10px 0 0;
+  padding: 0.45rem 1rem 0.5rem;
+  color: rgba(36,27,22,0.65);
+}
+
+/* Σφραγίδα αρχείου */
+.stamp {
+  width: 6.5rem;
+  height: 6.5rem;
+  border-radius: 9999px;
+  border: 2px solid rgba(140,58,58,0.55);
+  outline: 1px solid rgba(140,58,58,0.35);
+  outline-offset: 3px;
+  color: rgba(140,58,58,0.7);
+  font-family: 'Courier New', Consolas, monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-12deg);
+  line-height: 1.5;
+}
+
+/* Κορνίζα βίντεο αρχείου — σαν κουτί φιλμ */
+.archive-frame {
+  background: #fffdf7;
+  border: 1px solid rgba(36,27,22,0.12);
+  box-shadow: 0 10px 24px -20px rgba(36,27,22,0.55);
+  position: relative;
+}
+.archive-frame::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 3px;
+  background: repeating-linear-gradient(90deg, #241b16 0 10px, transparent 10px 16px);
+  opacity: 0.18;
+}
+
+/* Ριγέ "εισιτήριο" στο πάνω μέρος του header */
+.ticket-strip {
+  background: repeating-linear-gradient(90deg, #8c3a3a 0 18px, #b8863c 18px 22px, #8c3a3a 22px 40px, #faf5ea 40px 42px);
+}

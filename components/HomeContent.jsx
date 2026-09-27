@@ -6,6 +6,9 @@ import DiamondDivider from "@/components/DiamondDivider";
 import SongExplorer from "@/components/SongExplorer";
 import RandomSongButton from "@/components/RandomSongButton";
 import { getDictionary } from "@/lib/dictionaries";
+import { getAllComposers, getAlbumsByComposer, localizeComposer } from "@/lib/albums";
+import { getDiscDict } from "@/lib/discDict";
+import ComposersIndex from "@/components/ComposersIndex";
 
 export default function HomeContent({ songs: rawSongs, lang = "el" }) {
   const t = getDictionary(lang);
@@ -20,6 +23,11 @@ export default function HomeContent({ songs: rawSongs, lang = "el" }) {
     realSongs.find((s) => s.status === "verified" && s.quote) ||
     realSongs[0];
   const featuredThumb = featured ? getSongThumbnail(featured) : null;
+  const dt = getDiscDict(lang);
+  const composers = getAllComposers().map((c) => ({
+    ...localizeComposer(c, lang),
+    albums: getAlbumsByComposer(c.slug).map((a) => ({ slug: a.slug, title: a.title, year: a.year, type: a.type, label: a.label })),
+  }));
 
   return (
     <div>
@@ -80,6 +88,19 @@ export default function HomeContent({ songs: rawSongs, lang = "el" }) {
               </p>
             </div>
           </Link>
+        </section>
+      )}
+
+      {composers.length > 0 && (
+        <section id="discographies" className="mb-16 max-w-3xl mx-auto scroll-mt-24">
+          <div className="text-center mb-8">
+            <p className="font-mono text-[11px] font-semibold text-gold uppercase tracking-[0.25em] mb-3">
+              {dt.discographiesKicker}
+            </p>
+            <h2 className="font-serif font-bold uppercase tracking-tight text-3xl text-ink">{dt.discographies}</h2>
+            <p className="text-ink/65 mt-3 max-w-xl mx-auto leading-relaxed">{dt.discographiesIntro}</p>
+          </div>
+          <ComposersIndex composers={composers} lang={lang} compact />
         </section>
       )}
 

@@ -1,0 +1,63 @@
+{
+  "slug": "apopse-aytosxediazoume",
+  "composer": "manos-hadjidakis",
+  "title": "Απόψε αυτοσχεδιάζουμε",
+  "year": 1961,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "SEGG 2599",
+  "format": "7\" EP, 45 στροφές",
+  "performers": [],
+  "lyricists": [
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "Μικρός δίσκος 45 στροφών με μουσική από τη θεατρική παράσταση «Απόψε αυτοσχεδιάζουμε» του Λουίτζι Πιραντέλο (Έργο 18, 1961), σε σκηνοθεσία Δημήτρη Μυράτ. Μουσική και στίχοι του Χατζιδάκι, που διευθύνει και την ορχήστρα· το εξώφυλλο είναι ζωγραφιά του Δημήτρη Μυταρά.",
+    "Εδώ πρωτακούγονται ο «Ταχυδρόμος πέθανε», το «Μαντολίνο» και η «Πέτρα», που αργότερα θα γίνουν από τα πιο αγαπημένα του κομμάτια στους «Δεκαπέντε Εσπερινούς»."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Πρόλογος"
+    },
+    {
+      "pos": "Α2",
+      "title": "Χορός των τριών κοριτσιών"
+    },
+    {
+      "pos": "Α3",
+      "title": "Ο ταχυδρόμος πέθανε"
+    },
+    {
+      "pos": "Β1",
+      "title": "Το μαντολίνο"
+    },
+    {
+      "pos": "Β2",
+      "title": "Χορός των 11/8ων"
+    },
+    {
+      "pos": "Β3",
+      "title": "Η πέτρα"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Απόψε Αυτοσχεδιάζουμε (1961)",
+      "url": "https://www.discogs.com/master/385327"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "A 45 rpm EP with music from the stage production of Luigi Pirandello's “Tonight We Improvise” (Op. 18, 1961), directed by Dimitris Myrat. Music and lyrics by Hadjidakis, who also conducts; the cover is a painting by Dimitris Mytaras.",
+      "This is where “O tachydromos pethane”, “To mandolino” and “I petra” are first heard — pieces that would later become favourites on Dekapente Esperinoi."
+    ]
+  }
+}

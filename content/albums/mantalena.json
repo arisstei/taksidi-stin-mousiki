@@ -1,0 +1,127 @@
+{
+  "slug": "mantalena",
+  "composer": "manos-hadjidakis",
+  "title": "Μανταλένα",
+  "year": 1990,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Lyra",
+  "catalog": "4565",
+  "format": "LP",
+  "performers": [
+    "Αλίκη Βουγιουκλάκη",
+    "Αιμιλία Χατζηδάκη",
+    "Χορωδία"
+  ],
+  "lyricists": [
+    "Γιώργος Ρούσσος",
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική της ταινίας «Μανταλένα» (1960) του Ντίνου Δημόπουλου, με την Αλίκη Βουγιουκλάκη, όπως κυκλοφόρησε σε LP το 1990 με επιμέλεια και σημείωμα του Μάκη Δελαπόρτα. Εδώ βρίσκονται η «Θάλασσα πλατειά» και το «Μεσ' αυτή τη βάρκα» με τη φωνή της Βουγιουκλάκη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Τίτλοι — Στο μώλο"
+    },
+    {
+      "pos": "A2",
+      "title": "Ανταγωνισμός"
+    },
+    {
+      "pos": "A3",
+      "title": "Θάλασσα πλατειά",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "lyricist": "Γ. Ρούσσος"
+    },
+    {
+      "pos": "A4",
+      "title": "Πένθιμο μοτίβο"
+    },
+    {
+      "pos": "A5",
+      "title": "Ο πόλεμος της Μανταλένας"
+    },
+    {
+      "pos": "A6",
+      "title": "Στο μύλο"
+    },
+    {
+      "pos": "A7",
+      "title": "Δραματικό"
+    },
+    {
+      "pos": "A8",
+      "title": "Εξομολόγηση"
+    },
+    {
+      "pos": "A9",
+      "title": "Τριαντάφυλλα εκατόφυλλα"
+    },
+    {
+      "pos": "B1",
+      "title": "Μεσ' αυτή τη βάρκα",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "B2",
+      "title": "Θεοφάνεια"
+    },
+    {
+      "pos": "B3",
+      "title": "Οι φωτιές του Αη Γιάννη"
+    },
+    {
+      "pos": "B4",
+      "title": "Το θέμα της Μανταλένας"
+    },
+    {
+      "pos": "B5",
+      "title": "Σ' αυτή τη γειτονίτσα",
+      "performer": "Αιμιλία Χατζηδάκη, χορωδία",
+      "lyricist": "Γ. Ρούσσος"
+    },
+    {
+      "pos": "B6",
+      "title": "Μπάλλος αφεντάδικος"
+    },
+    {
+      "pos": "B7",
+      "title": "Τσαμπούνες"
+    },
+    {
+      "pos": "B8",
+      "title": "Φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μανταλένα (1990)",
+      "url": "https://www.discogs.com/master/813846"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "interviewVideo": {
+    "title": "Αστέρια λάμπουν για πάντα — Η μουσική στον ελληνικό κινηματογράφο (Μέρος 1)",
+    "ertFile": "0000076343/0000/media.mp4",
+    "code": "76343",
+    "note": "Επεισόδιο της σειράς για τον παλιό ελληνικό κινηματογράφο, αφιερωμένο στη μουσική του.",
+    "sourceUrl": "https://archive.ert.gr/76343/"
+  },
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The music from Dinos Dimopoulos's film “Mantalena” (1960), starring Aliki Vougiouklaki, as released on LP in 1990 with supervision and notes by Makis Delaportas. It includes “Thalassa plateia” and “Mes' afti ti varka”, sung by Vougiouklaki."
+    ],
+    "interviewVideo": {
+      "title": "Stars Shine Forever — Music in Greek cinema (Part 1)",
+      "note": "An episode of the series on classic Greek cinema, devoted to its music."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "i-liza-kai-i-alli",
+  "composer": "manos-hadjidakis",
+  "title": "Η Λίζα και η άλλη",
+  "year": 1961,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Columbia",
+  "catalog": "SCDG 3073",
+  "format": "7\" single, 45 στροφές",
+  "performers": [
+    "Παιδική χορωδία",
+    "Γιώργος Ζαμπέτας (μπουζούκι)"
+  ],
+  "lyricists": [
+    "Β. Γκούφας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δισκάκι 45 στροφών από την ταινία «Η Λίζα και η άλλη» (1961) του Ντίνου Δημόπουλου, με τον Χατζιδάκι να διευθύνει την ορχήστρα: στη μία πλευρά το «Ξημερώνει» με παιδική χορωδία, στην άλλη τα «Νυχτερινά», με σολίστα στο μπουζούκι τον Γιώργο Ζαμπέτα."
+  ],
+  "tracks": [
+    {
+      "pos": "A",
+      "title": "Ξημερώνει",
+      "performer": "Παιδική χορωδία",
+      "lyricist": "Β. Γκούφας"
+    },
+    {
+      "pos": "B",
+      "title": "Νυχτερινά",
+      "performer": "Γιώργος Ζαμπέτας (μπουζούκι)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Από την ταινία «Η Λίζα και η άλλη»",
+      "url": "https://www.discogs.com/master/1053535"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "A 45 rpm single from Dinos Dimopoulos's film “Liza kai i alli” (1961), with Hadjidakis conducting: on one side “Ximeronei” with a children's choir, on the other “Nychterina”, with Giorgos Zambetas as bouzouki soloist."
+    ]
+  }
+}

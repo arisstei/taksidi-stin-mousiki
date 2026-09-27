@@ -1,0 +1,88 @@
+{
+  "slug": "epistrofi",
+  "composer": "manos-hadjidakis",
+  "title": "Επιστροφή",
+  "year": 1970,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "SCXG 61",
+  "format": "LP, Stereo",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Δήμητρα Γαλάνη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Τραγούδια σε στίχους Νίκου Γκάτσου, γραμμένα μέσα στη δεκαετία του '60 και ηχογραφημένα το 1970, όσο ο Χατζιδάκις βρισκόταν στην Αμερική: την ενορχήστρωση και τη διεύθυνση ανέλαβε ο Δήμος Μούτσης. Τραγουδούν ο Γρηγόρης Μπιθικώτσης και η Δήμητρα Γαλάνη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Η πίκρα σήμερα"
+    },
+    {
+      "pos": "A2",
+      "title": "Μίλησέ μου"
+    },
+    {
+      "pos": "A3",
+      "title": "Τι να γίνεται ο κυρ-Φώτης"
+    },
+    {
+      "pos": "A4",
+      "title": "Οι κολασμένοι"
+    },
+    {
+      "pos": "A5",
+      "title": "Ο τιμονιέρης"
+    },
+    {
+      "pos": "A6",
+      "title": "Το δεσποινάκι"
+    },
+    {
+      "pos": "B1",
+      "title": "Χελιδόνι σε κλουβί"
+    },
+    {
+      "pos": "B2",
+      "title": "Φιλντισένιο καραβάκι"
+    },
+    {
+      "pos": "B3",
+      "title": "Στης ζωής τη στράτα"
+    },
+    {
+      "pos": "B4",
+      "title": "Σε πελαγίσιο μνήμα"
+    },
+    {
+      "pos": "B5",
+      "title": "Δάμων και Φιντίας"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Επιστροφή (1970)",
+      "url": "https://www.discogs.com/master/371489"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Songs to lyrics by Nikos Gatsos, written during the 1960s and recorded in 1970 while Hadjidakis was in America: orchestration and conducting were handled by Dimos Moutsis. Sung by Grigoris Bithikotsis and Dimitra Galani."
+    ]
+  }
+}

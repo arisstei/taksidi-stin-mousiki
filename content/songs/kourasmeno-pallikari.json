@@ -1,0 +1,49 @@
+{
+  "slug": "kourasmeno-pallikari",
+  "title": "Κουρασμένο παλληκάρι",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1961",
+  "performer": "Νάνα Μούσχουρη",
+  "status": "verified",
+  "grade": "B",
+  "teaser": "Ένα βραβείο μοιρασμένο με τον Θεοδωράκη, ένας φάκελος με την ψήφο της Ελένης Βλάχου — και ένα δισκάκι που είχε τυπωθεί «πρώτο» πριν μετρηθούν οι ψήφοι.",
+  "story": [
+    "Το 1961 ο Χατζιδάκις κατέβηκε στο Φεστιβάλ Ελληνικού Τραγουδιού του ΕΙΡ (Ελληνικό Ίδρυμα Ραδιοφωνίας) με δύο τραγούδια — τον «Κυρ-Αντώνη» και το «Κουρασμένο παλληκάρι» — και ο Μίκης Θεοδωράκης με την «Απαγωγή». Σύμφωνα με τη σημείωση του τόμου «Όλα τα τραγούδια» του Γκάτσου, όπως τη δημοσιεύει το Gatsos Archive, η κριτική επιτροπή είχε αποφασίσει να μοιράσει το πρώτο βραβείο στους δύο συνθέτες: «Κυρ-Αντώνης» και «Απαγωγή».",
+    "Τότε μπλέχτηκαν τα πράγματα. Η Ελένη Βλάχου, μέλος της επιτροπής, χρειάστηκε να φύγει ξαφνικά για τη Γαλλία για ένα δημοσιογραφικό θέμα και άφησε την ψήφο της — υπέρ του «Κυρ-Αντώνη» — σε έναν φάκελο. Στο μεταξύ η επιτροπή αποφάσισε να βάλει στη θέση του «Κυρ-Αντώνη» το «Κουρασμένο παλληκάρι». Όταν στο τέλος μετρήθηκαν οι ψήφοι, η «Απαγωγή» είχε έξι, το «Κουρασμένο παλληκάρι» πέντε και ο «Κυρ-Αντώνης» μία: αυτή του φακέλου.",
+    "Έτσι το τραγούδι, με τη φωνή της Νάνας Μούσχουρη, πήρε το δεύτερο βραβείο. Κι όμως, στον τόμο είχε αρχικά γραφτεί «Α΄ βραβείο» — γιατί αυτό έγραφε το μικρό δισκάκι 45 στροφών, που φαίνεται πως είχε τυπωθεί από πριν για να κυκλοφορήσει αμέσως μετά την απονομή. Όπως εξηγεί η ίδια σημείωση, τα παρασκήνια της ψηφοφορίας έγιναν γνωστά αργότερα, από έναν δημοσιογράφο· το δισκάκι φυλάσσεται σήμερα στο αρχείο Γκάτσου της βιβλιοθήκης Houghton του Χάρβαρντ."
+  ],
+  "sources": [
+    {
+      "label": "The Gatsos Archive (Harvard / CHS) — Κουρασμένο παλληκάρι: στίχοι και σημείωση του τόμου «Όλα τα τραγούδια» (Πατάκης)",
+      "url": "https://gatsosarchive.org/song/kourasmeno-pallekari/"
+    },
+    {
+      "label": "Discogs — Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (1986), όπου περιλαμβάνεται",
+      "url": "https://www.discogs.com/master/182351"
+    }
+  ],
+  "coverVideoUrl": null,
+  "firstPerformance": {
+    "performer": "Νάνα Μούσχουρη",
+    "year": "1961",
+    "note": "Στο Φεστιβάλ Ελληνικού Τραγουδιού του ΕΙΡ — Β΄ βραβείο.",
+    "videoUrl": "https://www.youtube.com/watch?v=RnEidGm7dLA",
+    "videoLabel": "Νάνα Μούσχουρη — Κουρασμένο παλληκάρι (1961)"
+  },
+  "famousPerformance": {
+    "sameAsFirst": true
+  },
+  "en": {
+    "teaser": "A prize split with Theodorakis, an envelope holding Eleni Vlachou's vote — and a 45 that was printed as “first prize” before the votes were counted.",
+    "story": [
+      "In 1961 Hadjidakis entered the Greek Song Festival of EIR (the Greek National Radio Foundation) with two songs — “Kyr-Antonis” and “Kourasmeno pallikari” — and Mikis Theodorakis with “Apagogi”. According to the note in Gatsos's collected lyrics “Ola ta tragoudia”, as published by the Gatsos Archive, the jury had decided to split first prize between the two composers: “Kyr-Antonis” and “Apagogi”.",
+      "Then things got tangled. Eleni Vlachou, a jury member, suddenly had to leave for France on a journalistic assignment, and left her vote — for “Kyr-Antonis” — in an envelope. Meanwhile the jury decided to put “Kourasmeno pallikari” in place of “Kyr-Antonis”. When the votes were finally counted, “Apagogi” had six, “Kourasmeno pallikari” five, and “Kyr-Antonis” one: the one in the envelope.",
+      "So the song, sung by Nana Mouskouri, took second prize. And yet the book originally said “First prize” — because that's what the little 45 rpm single said, apparently printed in advance to be released right after the awards. As the same note explains, the backstage story of the vote only came out later, through a journalist; the single is now kept in the Gatsos archive at Harvard's Houghton Library."
+    ],
+    "firstPerformance": {
+      "note": "At the EIR Greek Song Festival — second prize.",
+      "videoLabel": "Nana Mouskouri — Kourasmeno pallikari (1961)"
+    }
+  }
+}

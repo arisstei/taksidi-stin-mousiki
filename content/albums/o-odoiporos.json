@@ -1,0 +1,86 @@
+{
+  "slug": "o-odoiporos",
+  "composer": "manos-hadjidakis",
+  "title": "Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Νότος",
+  "catalog": "SNL 3903",
+  "format": "LP",
+  "performers": [],
+  "lyricists": [
+    "Μάνος Χατζιδάκις",
+    "Μάνος Ελευθερίου"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών με εμβόλιμες πρόζες (Έργο 31, 1973), σε στίχους του ίδιου του Χατζιδάκι και του Μάνου Ελευθερίου. Τρεις μορφές — ένας οδοιπόρος, ένα μεθυσμένο κορίτσι, ο Αλκιβιάδης — και ανάμεσά τους «Τα σπασμένα ποδήλατα», το «Αίνιγμα», ο «Τρελός κόσμος». Το εξώφυλλο είναι του Γιώργου Σταθόπουλου."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Ο Οδοιπόρος"
+    },
+    {
+      "pos": "Α2",
+      "title": "Η μπαλλάντα του Οδοιπόρου"
+    },
+    {
+      "pos": "Α3",
+      "title": "Τα σπασμένα ποδήλατα"
+    },
+    {
+      "pos": "Α4",
+      "title": "Στα νερά του Ιορδάνη"
+    },
+    {
+      "pos": "Α5",
+      "title": "Κρίση"
+    },
+    {
+      "pos": "Α6",
+      "title": "Το αίνιγμα"
+    },
+    {
+      "pos": "Β1",
+      "title": "Το μεθυσμένο κορίτσι"
+    },
+    {
+      "pos": "Β2",
+      "title": "Επέτειος"
+    },
+    {
+      "pos": "Β3",
+      "title": "Ο Αλκιβιάδης"
+    },
+    {
+      "pos": "Β4",
+      "title": "Ο τρελός κόσμος"
+    },
+    {
+      "pos": "Β5",
+      "title": "Οράματα"
+    },
+    {
+      "pos": "Β6",
+      "title": "Ο φόβος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
+      "url": "https://www.discogs.com/master/528377"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle with interludes of prose (Op. 31, 1973), to lyrics by Hadjidakis himself and Manos Eleftheriou. Three figures — a wayfarer, a drunken girl, Alcibiades — and between them “Ta spasmena podilata”, “To ainigma”, “O trelos kosmos”. Cover by Giorgos Stathopoulos."
+    ]
+  }
+}

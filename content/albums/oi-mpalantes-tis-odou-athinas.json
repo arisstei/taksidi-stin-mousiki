@@ -1,0 +1,119 @@
+{
+  "slug": "oi-mpalantes-tis-odou-athinas",
+  "composer": "manos-hadjidakis",
+  "title": "Οι Μπαλάντες της Οδού Αθηνάς",
+  "year": 1983,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Νότος",
+  "catalog": "3909",
+  "format": "LP",
+  "performers": [],
+  "lyricists": [
+    "Μάνος Χατζιδάκις",
+    "Αγαθή Δημητρούκα",
+    "Άρης Δαβαράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "«Μουσική τελετουργία» για τέσσερις φωνές (Έργο 42, 1973–83), σε στίχους της Αγαθής Δημητρούκα, του Άρη Δαβαράκη και του συνθέτη. Δεκαέξι μπαλάντες μιας νυχτερινής Αθήνας: «Τρεις δολοφόνοι», «Νυχτερινά αγάλματα», «Δυο παιδιά μες στη βροχή», «Ο πωλητής ιδανικών στιγμών». Στο εξώφυλλο, ζωγραφική του Γιάννη Μόραλη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Είμαι της Αγαύης γιος",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "A2",
+      "title": "Το μυστήριο της 4ης πρωινής",
+      "lyricist": "Αγ. Δημητρούκα"
+    },
+    {
+      "pos": "A3",
+      "title": "Τρεις δολοφόνοι",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "A4",
+      "title": "Αρχαία βία προγονική",
+      "lyricist": "Αγ. Δημητρούκα"
+    },
+    {
+      "pos": "A5",
+      "title": "Ένα αερόστατο με αίμα",
+      "lyricist": "Μ. Χατζιδάκις, Α. Δαβαράκης"
+    },
+    {
+      "pos": "A6",
+      "title": "Νυχτερινά αγάλματα",
+      "lyricist": "Α. Δαβαράκης"
+    },
+    {
+      "pos": "A7",
+      "title": "Ερωτική άσκηση για δυο",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "A8",
+      "title": "Ερωτική άσκηση για τέσσερις",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "B1",
+      "title": "Η Μαριάνθη των ανέμων",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "B2",
+      "title": "Το αίμα που παγώνει",
+      "lyricist": "Α. Δαβαράκης"
+    },
+    {
+      "pos": "B3",
+      "title": "Δυο παιδιά μες στη βροχή",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "B4",
+      "title": "Η πόρτα του παραδείσου",
+      "lyricist": "Αγ. Δημητρούκα"
+    },
+    {
+      "pos": "B5",
+      "title": "Ο πωλητής ιδανικών στιγμών",
+      "lyricist": "Α. Δαβαράκης"
+    },
+    {
+      "pos": "B6",
+      "title": "Η μεταμόρφωση",
+      "lyricist": "Μ. Χατζιδάκις"
+    },
+    {
+      "pos": "B7",
+      "title": "Στη μνήμη μιας παλιάς φωτογραφίας",
+      "lyricist": "Α. Δαβαράκης"
+    },
+    {
+      "pos": "B8",
+      "title": "Ντόμινε",
+      "lyricist": "Αγ. Δημητρούκα"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Οι Μπαλάντες Της Οδού Αθηνάς (1983)",
+      "url": "https://www.discogs.com/master/426883"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A “musical ritual” for four voices (Op. 42, 1973–83), to lyrics by Agathi Dimitrouka, Aris Davarakis and the composer. Sixteen ballads of a nocturnal Athens: “Treis dolofonoi”, “Nychterina agalmata”, “Dyo paidia mes sti vrochi”, “O politis idanikon stigmon”. Cover painting by Yannis Moralis."
+    ]
+  }
+}

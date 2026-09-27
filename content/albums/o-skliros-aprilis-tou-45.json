@@ -1,0 +1,85 @@
+{
+  "slug": "o-skliros-aprilis-tou-45",
+  "composer": "manos-hadjidakis",
+  "title": "Ο Σκληρός Απρίλης του '45",
+  "year": 1974,
+  "type": "rebetiko",
+  "kind": "Ρεμπέτικα σε νέα γραφή",
+  "label": "Minos",
+  "catalog": "MSM 221",
+  "format": "LP, Stereo",
+  "performers": [
+    "Ορχήστρα υπό τη διεύθυνση του Μάνου Χατζιδάκι"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Μεταγραφή λαϊκών και ρεμπέτικων τραγουδιών για ορχήστρα (1972) — από τον «Μάγκα του Βοτανικού» ως τα «Λεμονάδικα» — με τον Χατζιδάκι στη διεύθυνση. Το σημείωμα του δίσκου το γράφει ο συγγραφέας Κώστας Ταχτσής και το εικαστικό είναι του Γιάννη Μόραλη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Θα γυρίσει κι ο τροχός"
+    },
+    {
+      "pos": "A2",
+      "title": "Θα πάω εκεί στην Αραπιά"
+    },
+    {
+      "pos": "A3",
+      "title": "Τα ματόκλαδά σου λάμπουν"
+    },
+    {
+      "pos": "A4",
+      "title": "Πήρα τη στράτα κι έρχομαι"
+    },
+    {
+      "pos": "A5",
+      "title": "Ο καθρέφτης"
+    },
+    {
+      "pos": "A6",
+      "title": "Του Βοτανικού ο μάγκας"
+    },
+    {
+      "pos": "B1",
+      "title": "Μάγκας βγήκε για σεργιάνι"
+    },
+    {
+      "pos": "B2",
+      "title": "Μέσα στης ζωής τα μονοπάτια"
+    },
+    {
+      "pos": "B3",
+      "title": "Κάτω στα λεμονάδικα"
+    },
+    {
+      "pos": "B4",
+      "title": "Βγήκα στου Βοτανικού τα πέριξ"
+    },
+    {
+      "pos": "B5",
+      "title": "Το πικραμένο αγόρι"
+    },
+    {
+      "pos": "B6",
+      "title": "Το δικό σου το μαράζι"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ο Σκληρός Απρίλης Του '45 (1974)",
+      "url": "https://www.discogs.com/master/302510"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Rebetiko, re-written",
+    "about": [
+      "Laïkó and rebetiko songs transcribed for orchestra (1972) — from “Tou Votanikou o mangas” to “Kato sta lemonadika” — conducted by Hadjidakis. The sleeve note is by the novelist Kostas Tachtsis and the artwork by Yannis Moralis."
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "ellas-i-xora-ton-oneiron",
+  "composer": "manos-hadjidakis",
+  "title": "Ελλάς, η χώρα των ονείρων",
+  "year": 1964,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Fontana",
+  "catalog": "680 241 ML",
+  "format": "LP",
+  "performers": [
+    "Νάνα Μούσχουρη",
+    "Ορχήστρα και χορωδία υπό τη διεύθυνση του Μάνου Χατζιδάκι"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Μάνος Χατζιδάκις"
+  ],
+  "grade": "B",
+  "about": [
+    "«Μουσικοί αυτοσχεδιασμοί και τραγούδια μέσα στον ελληνικό χώρο»: η οριστική μορφή της μουσικής που έγραψε ο Χατζιδάκις για το ντοκιμαντέρ του Βόλφγκανγκ Μίλερ-Ζεν «Ελλάς, η χώρα των ονείρων» (Traumland der Sehnsucht, 1960/61).",
+    "Μέσα σε ορχηστρικές «εικόνες» της Ελλάδας ακούγονται πέντε τραγούδια με τη Νάνα Μούσχουρη — ανάμεσά τους το «Ήταν του Μάη το πρόσωπο» και η «Αθήνα» σε στίχους Γκάτσου. Το εξώφυλλο είναι του Μίνωα Αργυράκη."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Με ένα καλάμι φλαμουριάς · Ξύπνησε γάργαρο νερό · Άνθη, πουλιά, ελάφια · Μια πέτρα αθάνατη · Το δαχτυλίδι τ' Άη Γιαννιού"
+    },
+    {
+      "pos": "Α2",
+      "title": "Δυο μικρά κυκλάμινα · Ήταν του Μάη το πρόσωπο · Το αίμα των ρυακιών · Ο Άδωνις στα μονοπάτια του Χελμού · Το τραγούδι των ληστών",
+      "performer": "Νάνα Μούσχουρη",
+      "lyricist": "Νίκος Γκάτσος · Μάνος Χατζιδάκις",
+      "song": "itan-tou-mai-to-prosopo"
+    },
+    {
+      "pos": "Α3",
+      "title": "Εφηβικό φεγγάρι · Αθήνα",
+      "performer": "Νάνα Μούσχουρη",
+      "lyricist": "Νίκος Γκάτσος"
+    },
+    {
+      "pos": "Β1",
+      "title": "Μια τούφα γαλανός καπνός · Ένα καράβι μπαίνει στο γιαλό · Το πέλαγο είναι βαθύ",
+      "performer": "Νάνα Μούσχουρη",
+      "lyricist": "Μάνος Χατζιδάκις"
+    },
+    {
+      "pos": "Β2",
+      "title": "Ένας παλιός ανεμόμυλος · Στρατιές χελιδονιών · Στην Αμοργό το μέγα μοναστήρι"
+    },
+    {
+      "pos": "Β3",
+      "title": "Πάνω στη θερισμένη καλαμιά · Με την πατρίδα τους δεμένη στα πανιά",
+      "performer": "Νάνα Μούσχουρη",
+      "lyricist": "Νίκος Γκάτσος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ελλάς η χώρα των ονείρων (1964)",
+      "url": "https://www.discogs.com/master/406636"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — Ήταν του Μάη το πρόσωπο",
+      "url": "https://gatsosarchive.org/song/etan-tou-mae-to-prosopo-1/"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "“Musical improvisations and songs within the Greek landscape”: the definitive form of the music Hadjidakis wrote for Wolfgang Müller-Sehn's documentary “Traumland der Sehnsucht” (Greece, Land of Dreams, 1960/61).",
+      "Among orchestral “pictures” of Greece come five songs sung by Nana Mouskouri — among them “Itan tou Mai to prosopo” and “Athina”, to lyrics by Gatsos. Cover art by Minos Argyrakis."
+    ]
+  }
+}

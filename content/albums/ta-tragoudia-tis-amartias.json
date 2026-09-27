@@ -1,0 +1,114 @@
+{
+  "slug": "ta-tragoudia-tis-amartias",
+  "composer": "manos-hadjidakis",
+  "title": "Τα Τραγούδια της Αμαρτίας",
+  "year": 1996,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Sirius",
+  "catalog": "SMH 96.002",
+  "format": "LP (αριθμημένη έκδοση)",
+  "performers": [
+    "Ανδρέας Καρακότας",
+    "Ντόρα Μπακοπούλου (πιάνο)"
+  ],
+  "lyricists": [
+    "Ντίνος Χριστιανόπουλος",
+    "Γιώργος Χρονάς"
+  ],
+  "grade": "B",
+  "about": [
+    "«Η αμαρτία είναι βυζαντινή κι ο έρωτας αρχαίος» (Έργο 50, 1992): τραγούδια σε ποίηση του Ντίνου Χριστιανόπουλου και του Γιώργου Χρονά. Ο συνθέτης πρόλαβε να γράψει μουσική για 18 από τα 26 ποιήματα που είχε διαλέξει. Κυκλοφόρησε μετά τον θάνατό του, το 1996· στο τελευταίο κομμάτι ακούγεται η φωνή του ίδιου."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": "Α2",
+      "title": "Τύψεις"
+    },
+    {
+      "pos": "Α3",
+      "title": "Ενοχή"
+    },
+    {
+      "pos": "Α4",
+      "title": "Έρωτας"
+    },
+    {
+      "pos": "Α5",
+      "title": "Αισθησιακό"
+    },
+    {
+      "pos": "Α6",
+      "title": "Ανταλλαγή"
+    },
+    {
+      "pos": "Α7",
+      "title": "Φως και σκοτάδι"
+    },
+    {
+      "pos": "Α8",
+      "title": "Παράκληση"
+    },
+    {
+      "pos": "Α9",
+      "title": "Απόκοσμος"
+    },
+    {
+      "pos": "Β1",
+      "title": "Διαδρομή"
+    },
+    {
+      "pos": "Β2",
+      "title": "Αναμονή"
+    },
+    {
+      "pos": "Β3",
+      "title": "Το γαϊδουράκι"
+    },
+    {
+      "pos": "Β4",
+      "title": "Σαν τους αριστερούς"
+    },
+    {
+      "pos": "Β5",
+      "title": "Νυχτερινό Α΄"
+    },
+    {
+      "pos": "Β6",
+      "title": "Νυχτερινό Γ΄"
+    },
+    {
+      "pos": "Β7",
+      "title": "Νεαρέ γιε του μπακάλη"
+    },
+    {
+      "pos": "Β8",
+      "title": "Ενός λεπτού σιγή"
+    },
+    {
+      "pos": "Β9",
+      "title": "Τύψεις",
+      "performer": "Μάνος Χατζιδάκις (φωνή)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα Τραγούδια Της Αμαρτίας (1996)",
+      "url": "https://www.discogs.com/master/792208"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "“Sin is Byzantine and love is ancient” (Op. 50, 1992): songs to poetry by Dinos Christianopoulos and Giorgos Chronas. The composer managed to set 18 of the 26 poems he had chosen. It came out after his death, in 1996; the final track features his own voice."
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "to-xamogelo-tis-tzokontas",
+  "composer": "manos-hadjidakis",
+  "title": "Το χαμόγελο της Τζοκόντας",
+  "year": 1965,
+  "type": "instrumental",
+  "kind": "Ορχηστρικό / για πιάνο",
+  "label": "Fontana (ΗΠΑ)",
+  "catalog": "SRF 67547",
+  "format": "LP, Stereo",
+  "performers": [
+    "Ορχήστρα υπό τη διεύθυνση του Μάνου Χατζιδάκι"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Ορχηστρικός κύκλος (Έργο 22, 1964) που ηχογραφήθηκε στις ΗΠΑ και κυκλοφόρησε από τη Fontana ως «Gioconda's Smile», με παραγωγό τον Κουίνσι Τζόουνς και διασκευές του Μπίλι Μπάιερς· ο Χατζιδάκις ενορχηστρώνει και διευθύνει. Οι τίτλοι είναι όπως τυπώθηκαν στην αμερικανική έκδοση.",
+    "Δώδεκα μικρά μουσικά «πορτρέτα» — ανάμεσά τους το «Portrait Of My Mother» και το «Waltzing With My Shadow»."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Les Nuages"
+    },
+    {
+      "pos": "Α2",
+      "title": "Le Soldat"
+    },
+    {
+      "pos": "Α3",
+      "title": "The Virgin In My Neighborhood"
+    },
+    {
+      "pos": "Α4",
+      "title": "Contessa Esterhazy"
+    },
+    {
+      "pos": "Α5",
+      "title": "Rain"
+    },
+    {
+      "pos": "A6",
+      "title": "The Athletes"
+    },
+    {
+      "pos": "Β1",
+      "title": "Le Concert"
+    },
+    {
+      "pos": "Β2",
+      "title": "Mr. Noll"
+    },
+    {
+      "pos": "Β3",
+      "title": "Portrait Of My Mother"
+    },
+    {
+      "pos": "Β4",
+      "title": "The Killers"
+    },
+    {
+      "pos": "B5",
+      "title": "Lonesome Return"
+    },
+    {
+      "pos": "B6",
+      "title": "Waltzing With My Shadow"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Gioconda's Smile (1965)",
+      "url": "https://www.discogs.com/master/308949"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental / piano",
+    "about": [
+      "An orchestral cycle (Op. 22, 1964) recorded in the US and released by Fontana as “Gioconda's Smile”, produced by Quincy Jones with arrangements by Billy Byers; Hadjidakis orchestrates and conducts. Titles appear as printed on the American release.",
+      "Twelve short musical “portraits” — among them “Portrait Of My Mother” and “Waltzing With My Shadow”."
+    ]
+  }
+}

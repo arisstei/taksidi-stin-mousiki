@@ -1,0 +1,50 @@
+{
+  "slug": "gia-mia-mikri-leyki-axivada",
+  "composer": "manos-hadjidakis",
+  "title": "Για μια μικρή λευκή αχιβάδα / Έξι λαϊκές ζωγραφιές",
+  "year": 1954,
+  "type": "instrumental",
+  "kind": "Ορχηστρικό / για πιάνο",
+  "label": "Philips",
+  "catalog": "N 00742 R",
+  "format": "10\" LP",
+  "performers": [
+    "Γιάννης Παπαδόπουλος (πιάνο)",
+    "Μάνος Χατζιδάκις (πιάνο)"
+  ],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Από τις πρώτες δισκογραφικές εμφανίσεις του Χατζιδάκι: ένας δίσκος 10 ιντσών της Philips, τυπωμένος στην Ολλανδία, με δύο έργα για πιάνο. Στη μία πλευρά η σουίτα «Για μια μικρή λευκή αχιβάδα» (Έργο 1, 1947–48), με τον Γιάννη Παπαδόπουλο στο πιάνο· στην άλλη οι «Έξι λαϊκές ζωγραφιές» (Έργο 5, 1949–50), ρεμπέτικα μεταγραμμένα για πιάνο και γραμμένα για μπαλέτο, με τον ίδιο τον συνθέτη στο πιάνο.",
+    "Οι «Έξι λαϊκές ζωγραφιές» είναι από τα πρώτα δείγματα της ιδέας που θα τον ακολουθεί σε όλη του τη ζωή: ότι το ρεμπέτικο αξίζει να σταθεί δίπλα στη λόγια μουσική."
+  ],
+  "tracks": [
+    {
+      "pos": "A",
+      "title": "Για μια μικρή λευκή αχιβάδα (1948)",
+      "performer": "Γιάννης Παπαδόπουλος (πιάνο)"
+    },
+    {
+      "pos": "B",
+      "title": "Έξι λαϊκές ζωγραφιές (1950)",
+      "performer": "Μάνος Χατζιδάκις (πιάνο)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — For A Little White Seashell / Six Popular Pictures (1954)",
+      "url": "https://www.discogs.com/master/385787"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental / piano",
+    "about": [
+      "One of Hadjidakis's earliest records: a 10-inch Philips disc pressed in the Netherlands, with two piano works. One side holds the suite “Gia mia mikri lefki achivada” (Op. 1, 1947–48), with Yannis Papadopoulos at the piano; the other the “Exi laikes zografies” (Op. 5, 1949–50), rebetiko songs transcribed for piano and written for ballet, played by the composer himself.",
+      "The “Exi laikes zografies” are among the first signs of an idea that would follow him all his life: that rebetiko deserves to stand next to art music."
+    ]
+  }
+}

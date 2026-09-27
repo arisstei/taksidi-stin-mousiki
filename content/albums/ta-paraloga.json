@@ -1,0 +1,89 @@
+{
+  "slug": "ta-paraloga",
+  "composer": "manos-hadjidakis",
+  "title": "Τα Παράλογα",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Νότος",
+  "catalog": "SNL 3904",
+  "format": "LP",
+  "performers": [],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος σε στίχους Νίκου Γκάτσου (Έργο 32, 1976), από τους πιο σκοτεινούς και «θεατρικούς» τους: ο «Εφιάλτης της Περσεφόνης», το «Άλογο του Ομέρ Βρυώνη», οι «Χρησμοί της Σιβύλλας», ο «Ιππότης και ο Θάνατος». Ενορχήστρωση και διεύθυνση του συνθέτη, με χορωδία υπό την Έλλη Νικολαΐδη· εξώφυλλο του Αλέξη Κυριτσόπουλου."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Είσοδος κινδύνου"
+    },
+    {
+      "pos": "Α2",
+      "title": "Ο εφιάλτης της Περσεφόνης"
+    },
+    {
+      "pos": "Α3",
+      "title": "Στα βουνά της Αιτωλίας"
+    },
+    {
+      "pos": "Α4",
+      "title": "Το άλογο του Ομέρ Βρυώνη"
+    },
+    {
+      "pos": "Α5",
+      "title": "Η Μάγδα"
+    },
+    {
+      "pos": "Α6",
+      "title": "Ο χορός των ποιητών"
+    },
+    {
+      "pos": "Α7",
+      "title": "Ο αμνός του Θεού"
+    },
+    {
+      "pos": "Α8",
+      "title": "Cundu Lyna Vini (Όταν βγαίνει το φεγγάρι)"
+    },
+    {
+      "pos": "Β1",
+      "title": "Χρησμοί της Σιβύλλας"
+    },
+    {
+      "pos": "Β2",
+      "title": "Ο ιππότης και ο θάνατος"
+    },
+    {
+      "pos": "Β3",
+      "title": "Η προσευχή της Παρθένου"
+    },
+    {
+      "pos": "Β4",
+      "title": "Ελλαδογραφία"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα Παράλογα (1976)",
+      "url": "https://www.discogs.com/master/386781"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A cycle to lyrics by Nikos Gatsos (Op. 32, 1976), among their darkest and most “theatrical”: “O efialtis tis Persefonis”, “To alogo tou Omer Vryoni”, “Chrismoi tis Sivyllas”, “O ippotis kai o thanatos”. Orchestrated and conducted by the composer, with a choir directed by Elli Nikolaidi; cover by Alexis Kyritsopoulos."
+    ]
+  }
+}

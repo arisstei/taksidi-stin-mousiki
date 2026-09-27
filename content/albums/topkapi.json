@@ -1,0 +1,87 @@
+{
+  "slug": "topkapi",
+  "composer": "manos-hadjidakis",
+  "title": "Topkapi",
+  "year": 1964,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "United Artists Records",
+  "catalog": "UAL 4118",
+  "format": "LP, Mono",
+  "performers": [],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Η μουσική για την περιπέτεια «Τοπ Καπί» (1964) του Ζιλ Ντασέν — η δεύτερη μεγάλη διεθνής συνεργασία τους μετά το «Ποτέ την Κυριακή». Ορχηστρική, με τίτλους στα αγγλικά όπως κυκλοφόρησε από την United Artists."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "The Palace Museum (Main Title: \"Topkapi\")"
+    },
+    {
+      "pos": "A2",
+      "title": "Master Thief"
+    },
+    {
+      "pos": "A3",
+      "title": "Screwball Inventor"
+    },
+    {
+      "pos": "A4",
+      "title": "A Lincoln Automobile"
+    },
+    {
+      "pos": "A5",
+      "title": "Belly Dance"
+    },
+    {
+      "pos": "A6",
+      "title": "The Emeralds"
+    },
+    {
+      "pos": "B1",
+      "title": "Turkish Security"
+    },
+    {
+      "pos": "B2",
+      "title": "The Searchlight"
+    },
+    {
+      "pos": "B3",
+      "title": "Museum Roof"
+    },
+    {
+      "pos": "B4",
+      "title": "Wrestling Tournament"
+    },
+    {
+      "pos": "B5",
+      "title": "The Sultan's Dagger"
+    },
+    {
+      "pos": "B6",
+      "title": "Success!"
+    },
+    {
+      "pos": "B7",
+      "title": "In Prison (End Title: \"Topkapi\")"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Topkapi (Original Motion Picture Sound Track)",
+      "url": "https://www.discogs.com/master/511745"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The music for Jules Dassin's caper film Topkapi (1964) — their second big international collaboration after Never on Sunday. Instrumental, with English titles as released by United Artists."
+    ]
+  }
+}

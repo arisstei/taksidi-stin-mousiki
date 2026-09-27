@@ -1,0 +1,95 @@
+{
+  "slug": "xeimoniatikos-ilios",
+  "composer": "manos-hadjidakis",
+  "title": "Χειμωνιάτικος ήλιος",
+  "year": 1986,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 615",
+  "format": "LP",
+  "performers": [
+    "Μανώλης Μητσιάς"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος σε στίχους Νίκου Γκάτσου (Έργο 44, γραμμένος το 1983), με τη φωνή του Μανώλη Μητσιά και τον Χατζιδάκι σε διασκευή, διεύθυνση και σημείωμα. Ανάμεσά τους τα «Έπεσε η κυβέρνηση», «Έγκλημα και τιμωρία» και το ομότιτλο «Χειμωνιάτικος ήλιος»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ασυλλόγιστα χρόνια"
+    },
+    {
+      "pos": "Α2",
+      "title": "Πώς να κρατήσω το φως που βασιλεύει"
+    },
+    {
+      "pos": "Α3",
+      "title": "Κορίτσι της νύχτας"
+    },
+    {
+      "pos": "Α4",
+      "title": "Χρόνε νυχτοπούλι παγερό"
+    },
+    {
+      "pos": "Α5",
+      "title": "Γκρεμίσανε τα όνειρα"
+    },
+    {
+      "pos": "Α6",
+      "title": "Έτσι πάει ο κόσμος"
+    },
+    {
+      "pos": "Α7",
+      "title": "Χειμωνιάτικος ήλιος"
+    },
+    {
+      "pos": "Β1",
+      "title": "Τα παιδιά της καταιγίδας"
+    },
+    {
+      "pos": "Β2",
+      "title": "Έπεσε η κυβέρνηση"
+    },
+    {
+      "pos": "Β3",
+      "title": "Έγκλημα και τιμωρία"
+    },
+    {
+      "pos": "Β4",
+      "title": "Λάουρα"
+    },
+    {
+      "pos": "Β5",
+      "title": "Στον ποταμό του Πάμισο"
+    },
+    {
+      "pos": "Β6",
+      "title": "Κύρα του κόσμου"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Χειμωνιάτικος Ήλιος (1986)",
+      "url": "https://www.discogs.com/master/369485"
+    },
+    {
+      "label": "Βικιπαίδεια — Εργογραφία Μάνου Χατζιδάκι",
+      "url": "https://el.wikipedia.org/wiki/Εργογραφία_Μάνου_Χατζιδάκι"
+    },
+    {
+      "label": "The Gatsos Archive — τα τραγούδια του Νίκου Γκάτσου",
+      "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A cycle to lyrics by Nikos Gatsos (Op. 44, written in 1983), sung by Manolis Mitsias, with Hadjidakis arranging, conducting and writing the sleeve note. Among them “Epese i kyvernisi”, “Egklima kai timoria” and the title song “Cheimoniatikos ilios”."
+    ]
+  }
+}
