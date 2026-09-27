@@ -1,7 +1,5 @@
 import { getDictionary } from "@/lib/dictionaries";
-import { GRADES } from "@/lib/grades";
-
-const GRADE_ORDER = ["A", "B", "C", "D"];
+import { GRADES, GRADE_ORDER } from "@/lib/grades";
 
 export default function AboutContent({ lang = "el" }) {
   const dict = getDictionary(lang);
@@ -25,24 +23,34 @@ export default function AboutContent({ lang = "el" }) {
         <h2 className="font-serif text-xl text-ink">{t.s2h}</h2>
         <p className="text-ink/80 leading-relaxed">{t.s2p1a}</p>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+        {/* Κλίμακα: από το υψηλότερο (SSS) στο χαμηλότερο (D) */}
+        <div className="grid gap-2.5">
           {GRADE_ORDER.map((key) => {
             const g = GRADES[key];
             const text = gradeText[key];
+            const top = key.startsWith("S");
             return (
               <div
                 key={key}
-                className={`rounded-lg p-4 shadow-sm ${g.badgeClass}`}
+                className={`flex items-stretch rounded-lg overflow-hidden border shadow-sm ${g.badgeClass}`}
               >
-                <p className="font-serif text-3xl font-bold leading-none">
-                  {g.code}
-                </p>
-                <p className="text-[11px] font-semibold uppercase tracking-wide mt-2 text-white/95">
-                  {text.title}
-                </p>
-                <p className="text-[11px] leading-snug mt-1.5 text-white/75">
-                  {text.description}
-                </p>
+                <div className="w-20 sm:w-24 shrink-0 flex flex-col items-center justify-center py-3 border-r border-black/15">
+                  <span className="font-mono text-2xl sm:text-3xl font-bold leading-none">{g.code}</span>
+                  {g.stars ? (
+                    <span className="text-[11px] mt-1 tracking-[-0.1em]">{"★".repeat(g.stars)}</span>
+                  ) : null}
+                  {g.percent && (
+                    <span className="font-mono text-[10px] mt-1 opacity-85">{g.percent}</span>
+                  )}
+                </div>
+                <div className="px-4 py-3">
+                  <p className={`text-xs font-semibold uppercase tracking-wide ${top ? "" : "text-white/95"}`}>
+                    {text.title}
+                  </p>
+                  <p className={`text-[13px] leading-snug mt-1 ${top ? "opacity-90" : "text-white/80"}`}>
+                    {text.description}
+                  </p>
+                </div>
               </div>
             );
           })}
