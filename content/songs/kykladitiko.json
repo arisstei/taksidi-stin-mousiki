@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Της γης το χρυσάφι” (1971).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 165"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/kukladitiko/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 165"
   }
 }

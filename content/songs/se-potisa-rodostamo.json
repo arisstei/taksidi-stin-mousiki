@@ -1,0 +1,35 @@
+{
+  "slug": "se-potisa-rodostamo",
+  "title": "Σε πότισα ροδόσταμο",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1960",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "se-potisa-rodostamo",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μίκης Θεοδωράκης, πρώτη δισκογράφηση 1960.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Σε πότισα ροδόσταμο",
+      "url": "https://gatsosarchive.org/song/se-potisa-rodostamo/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/se-potisa-rodostamo/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 27"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μίκης Θεοδωράκης, first recorded 1960.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 27"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "kane-ton-pono-sou-xara",
+  "title": "Κάνε τον πόνο σου χαρά",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "kane-ton-pono-sou-khara",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μάνος Χατζιδάκις, πρώτη δισκογράφηση 1965.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Κάνε τον πόνο σου χαρά",
+      "url": "https://gatsosarchive.org/song/kane-ton-pono-sou-khara/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/kane-ton-pono-sou-khara/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 41"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μάνος Χατζιδάκις, first recorded 1965.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 41"
+    }
+  }
+}

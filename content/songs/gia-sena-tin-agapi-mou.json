@@ -1,0 +1,35 @@
+{
+  "slug": "gia-sena-tin-agapi-mou",
+  "title": "Για σένα την αγάπη μου",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "gia-sena-ten-agape-mou",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Για σένα την αγάπη μου",
+      "url": "https://gatsosarchive.org/song/gia-sena-ten-agape-mou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/gia-sena-ten-agape-mou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 19"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 19"
+    }
+  }
+}

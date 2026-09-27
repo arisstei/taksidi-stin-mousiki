@@ -1,0 +1,35 @@
+{
+  "slug": "paei-o-kairos",
+  "title": "Πάει ο καιρός",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "paei-o-kairos",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μάνος Χατζιδάκις, πρώτη δισκογράφηση 1965.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Πάει ο καιρός",
+      "url": "https://gatsosarchive.org/song/paei-o-kairos/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/paei-o-kairos/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 56"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μάνος Χατζιδάκις, first recorded 1965.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 56"
+    }
+  }
+}

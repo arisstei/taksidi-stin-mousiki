@@ -1,0 +1,35 @@
+{
+  "slug": "to-praktoreio",
+  "title": "Το πρακτορείο",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "to-praktoreio",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Το πρακτορείο",
+      "url": "https://gatsosarchive.org/song/to-praktoreio/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/to-praktoreio/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  }
+}

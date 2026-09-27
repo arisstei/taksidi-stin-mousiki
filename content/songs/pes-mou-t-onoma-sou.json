@@ -2,7 +2,7 @@
   "slug": "pes-mou-t-onoma-sou",
   "title": "Πες μου τ' όνομά σου",
   "composer": "Μάνος Χατζιδάκις",
-  "lyricist": null,
+  "lyricist": "Νίκος Γκάτσος",
   "year": "1993",
   "performer": "Αλίκη Καγιαλόγλου",
   "status": "stub",
@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Αντικατοπτρισμοί” (1993).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 467"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/pes-mou-t-onoma-sou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 467"
   }
 }

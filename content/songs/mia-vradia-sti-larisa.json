@@ -1,0 +1,35 @@
+{
+  "slug": "mia-vradia-sti-larisa",
+  "title": "Μια βραδιά στη Λάρισα",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "mia-bradia-ste-larisa",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Μια βραδιά στη Λάρισα",
+      "url": "https://gatsosarchive.org/song/mia-bradia-ste-larisa/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/mia-bradia-ste-larisa/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 110"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 110"
+    }
+  }
+}

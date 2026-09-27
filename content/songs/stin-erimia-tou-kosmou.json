@@ -1,0 +1,35 @@
+{
+  "slug": "stin-erimia-tou-kosmou",
+  "title": "Στην ερημιά του κόσμου",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "sten-eremia-tou-kosmou",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Στην ερημιά του κόσμου",
+      "url": "https://gatsosarchive.org/song/sten-eremia-tou-kosmou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/sten-eremia-tou-kosmou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 494"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 494"
+    }
+  }
+}

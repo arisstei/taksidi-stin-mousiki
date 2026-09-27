@@ -1,0 +1,35 @@
+{
+  "slug": "strata-ti-strata",
+  "title": "Στράτα τη στράτα",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1964",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "strata-te-strata",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μίκης Θεοδωράκης, πρώτη δισκογράφηση 1964.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Στράτα τη στράτα",
+      "url": "https://gatsosarchive.org/song/strata-te-strata/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/strata-te-strata/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 43"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μίκης Θεοδωράκης, first recorded 1964.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 43"
+    }
+  }
+}

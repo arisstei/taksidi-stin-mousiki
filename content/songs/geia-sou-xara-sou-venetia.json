@@ -1,0 +1,35 @@
+{
+  "slug": "geia-sou-xara-sou-venetia",
+  "title": "Γεια σου χαρά σου Βενετιά",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "geia-sou-khara-sou-benetia",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Γεια σου χαρά σου Βενετιά",
+      "url": "https://gatsosarchive.org/song/geia-sou-khara-sou-benetia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/geia-sou-khara-sou-benetia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 237"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 237"
+    }
+  }
+}

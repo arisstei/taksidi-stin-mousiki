@@ -27,6 +27,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Μυθολογία” (1966), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 65"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/me-ten-ellada-karabokure/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 65"
   }
 }

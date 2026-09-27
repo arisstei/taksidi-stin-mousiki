@@ -1,0 +1,35 @@
+{
+  "slug": "salonikia-salonikia",
+  "title": "Σαλονικιά Σαλονικιά",
+  "composer": "Λουκιανός Κηλαηδόνης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1974",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "salonikia-salonikia",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Λουκιανός Κηλαηδόνης, πρώτη δισκογράφηση 1974.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Σαλονικιά Σαλονικιά",
+      "url": "https://gatsosarchive.org/song/salonikia-salonikia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/salonikia-salonikia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 234"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Λουκιανός Κηλαηδόνης, first recorded 1974.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 234"
+    }
+  }
+}

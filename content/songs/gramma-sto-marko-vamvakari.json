@@ -1,0 +1,35 @@
+{
+  "slug": "gramma-sto-marko-vamvakari",
+  "title": "Γράμμα στο Μάρκο Βαμβακάρη",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1991",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "gramma-sto-marko-bambakare",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Σταύρος Ξαρχάκος, πρώτη δισκογράφηση 1991.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Γράμμα στο Μάρκο Βαμβακάρη (Χαιρετισμός)",
+      "url": "https://gatsosarchive.org/song/gramma-sto-marko-bambakare/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/gramma-sto-marko-bambakare/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 459"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Σταύρος Ξαρχάκος, first recorded 1991.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 459"
+    }
+  }
+}

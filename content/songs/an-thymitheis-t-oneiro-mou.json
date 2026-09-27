@@ -1,0 +1,35 @@
+{
+  "slug": "an-thymitheis-t-oneiro-mou",
+  "title": "Αν θυμηθείς τ’ όνειρό μου",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1960",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "an-thumetheis-t-oneiro-mou",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μίκης Θεοδωράκης, πρώτη δισκογράφηση 1960.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Αν θυμηθείς τ’ όνειρό μου",
+      "url": "https://gatsosarchive.org/song/an-thumetheis-t-oneiro-mou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/an-thumetheis-t-oneiro-mou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 22"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μίκης Θεοδωράκης, first recorded 1960.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 22"
+    }
+  }
+}

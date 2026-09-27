@@ -1,0 +1,35 @@
+{
+  "slug": "kapoio-treno",
+  "title": "Κάποιο τρένο",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "kapoio-treno",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Κάποιο τρένο",
+      "url": "https://gatsosarchive.org/song/kapoio-treno/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/kapoio-treno/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 126"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 126"
+    }
+  }
+}

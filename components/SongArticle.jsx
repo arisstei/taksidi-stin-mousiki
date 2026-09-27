@@ -241,6 +241,37 @@ export default function SongArticle({ song, lang = "el", albums = [] }) {
       )}
 
 
+
+      {song.textSource && (
+        <aside className="catalog-card mt-10">
+          <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-brand mb-2">
+            {lang === "en" ? "The original text" : "Το πρωτότυπο κείμενο"}
+          </p>
+          <p className="text-sm text-ink/75 leading-relaxed">
+            {lang === "en"
+              ? "We don't publish lyrics: versions found online are often altered. The text as the poet wrote it can be read in its official source:"
+              : "Δεν δημοσιεύουμε στίχους: όσοι κυκλοφορούν στο internet είναι συχνά παραλλαγμένοι. Το κείμενο όπως το έγραψε ο ποιητής θα το βρεις στην επίσημη πηγή του:"}
+          </p>
+          <a
+            href={song.textSource.url}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-1.5 mt-3 text-xs font-semibold uppercase tracking-wide px-4 py-2 rounded-full border border-brand text-brand hover:bg-brand hover:text-white transition-colors"
+          >
+            {song.textSource.label} <span aria-hidden="true">→</span>
+          </a>
+          {song.textSource.book && (
+            <p className="text-xs text-ink/55 mt-3">
+              {lang === "en" ? "In print: " : "Σε έντυπη μορφή: "}
+              {song.textSource.book}
+            </p>
+          )}
+          {song.textSource.note && (
+            <p className="text-xs text-ink/55 mt-1.5 italic">{song.textSource.note}</p>
+          )}
+        </aside>
+      )}
+
       {albums.length > 0 && (
         <section className="mt-10">
           <h2 className="section-kicker">{lang === "en" ? "On the records" : "Στους δίσκους"}</h2>

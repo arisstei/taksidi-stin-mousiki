@@ -1,0 +1,35 @@
+{
+  "slug": "pires-to-megalo-dromo",
+  "title": "Πήρες το μεγάλο δρόμο",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1967",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "peres-to-megalo-dromo",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης, πρώτη δισκογράφηση 1967.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Πήρες το μεγάλο δρόμο",
+      "url": "https://gatsosarchive.org/song/peres-to-megalo-dromo/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/peres-to-megalo-dromo/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 98"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης, first recorded 1967.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 98"
+    }
+  }
+}

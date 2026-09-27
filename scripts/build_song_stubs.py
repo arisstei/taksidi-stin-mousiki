@@ -9,43 +9,13 @@
 Ξανατρέχει με ασφάλεια: σβήνει/ξαναγράφει μόνο τα stubs.
 """
 import json, os, re, glob, unicodedata, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "."
 ALB = os.path.join(ROOT, "content", "albums")
 SNG = os.path.join(ROOT, "content", "songs")
 
-def strip_acc(s):
-    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
-
-ALIASES = {
-    "χασαπικο σαραντα": "χασαπικο 40", "χασαπικο '40": "χασαπικο 40",
-    "παει εφυγε το τρενο": "εφυγε το τρενο",
-    "μαγικη πολη": "μια πολη μαγικη", "ο κεμαλ η ο μυθος του σεβαχ": "κεμαλ", "πάει έφυγε το τραίνο": "εφυγε το τρενο",
-}
-
-def key(title):
-    t = re.sub(r"\([^)]*\)", " ", title)
-    t = t.split("—")[0]
-    t = strip_acc(t.lower())
-    t = t.replace("τραινο", "τρενο")
-    t = re.sub(r"[’'`΄«»\"“”.,;:!?·\-–]", " ", t)
-    t = re.sub(r"\s+", " ", t).strip()
-    t = ALIASES.get(t, t)
-    # φωνητική κανονικοποίηση για ορθογραφικές παραλλαγές (παλληκάρι/παλικάρι κ.λπ.)
-    k = t
-    for a, b in [("ει", "ι"), ("οι", "ι"), ("η", "ι"), ("υ", "ι"), ("ω", "ο"), ("αι", "ε")]:
-        k = k.replace(a, b)
-    k = re.sub(r"(.)\1", r"\1", k)
-    k = re.sub(r"^(ο|η|το|οι|τα|ι) ", "", k)  # άρθρο στην αρχή
-    return k
-
-TR = {"α":"a","β":"v","γ":"g","δ":"d","ε":"e","ζ":"z","η":"i","θ":"th","ι":"i","κ":"k","λ":"l","μ":"m","ν":"n","ξ":"x","ο":"o","π":"p","ρ":"r","σ":"s","ς":"s","τ":"t","υ":"y","φ":"f","χ":"x","ψ":"ps","ω":"o"}
-def slugify(title):
-    t = strip_acc(re.sub(r"\([^)]*\)", " ", title).split("—")[0].lower())
-    t = t.replace("ου", "ou").replace("αι", "ai").replace("ει", "ei").replace("οι", "oi").replace("μπ", "mp").replace("ντ", "nt").replace("γκ", "gk")
-    out = "".join(TR.get(c, c) for c in t)
-    out = re.sub(r"[^a-z0-9]+", "-", out).strip("-")
-    return out or "song"
+from songkeys import key, slugify, strip_acc  # noqa
 
 EXCLUDE_RE = re.compile(r"(^|\s)(Πρόλογος|Εισαγωγή|Επίλογος|Φινάλε|Τίτλοι|Είσοδος|Σχόλιο|Θέμα|Main Title|End Title|Overture|Μουσική για|Χορός των|Χορός της|Χορός του|Ο χορός)|ορχηστρικ|Ορχήστρα|\(ορχήστρα\)|·", re.I)
 MANUAL_EXCLUDE = {"Η σφαγή", "Κερκέζικο τραγούδι (Το μοτίβο της Εμινέ)", "Όνειρο για τεντυμπόυδες (Τουίστ)", "Χατζί-Χατζί (Χορός σε 5/8)", "Άστρο της Ανατολής (Χασάπικο)", "Η βροχή", "Πηγαίνοντας για βροχή", "Πού είναι η Μελισσάνθη;", "Ελεημοσύνη από τον ουρανό", "Μικρή μπαντίνα στον δρόμο", "Το εμβατήριο της Μελισσάνθης", "Χορός της Μελισσάνθης που γίνεται λησμονημένη", "Dance Of The Dogs", "The Three Answers", "Ο χορός των σκύλων", "Τρεις απαντήσεις", "Μελαγχολικό εμβατήριο", "Τσάμικος"}
@@ -62,6 +32,8 @@ old_stubs = {}        # κλειδί -> slug παλιού stub (κρατάμε �
 old_stub_files = set()  # δεν μπορούμε να σβήσουμε αρχεία· τα ορφανά κρύβονται (hidden)
 for f in glob.glob(os.path.join(SNG, "*.json")):
     d = json.load(open(f))
+    if d.get("origin") == "lyricist":
+        continue  # σελίδες του build_lyricist.py — τις διαχειρίζεται εκείνο
     if d.get("isStub") or d.get("hidden"):
         old_stubs[key(d["title"])] = d["slug"]
         old_stub_files.add(d["slug"])
@@ -95,7 +67,7 @@ def eligible(album, tr, album_has_perf):
 for album in albums:
     album_has_perf = sum(1 for t in album["tracks"] if t.get("performer")) * 2 >= len(album["tracks"])
     for tr in album["tracks"]:
-        if tr.get("stub"):
+        if tr.get("stub") or (tr.get("song") and tr["song"] not in used_slugs):
             tr.pop("song", None); tr.pop("stub", None)
         k = key(tr["title"])
         if k in stories or tr.get("song") or k in songs:

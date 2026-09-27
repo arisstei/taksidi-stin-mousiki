@@ -1,0 +1,35 @@
+{
+  "slug": "i-endekati-entoli",
+  "title": "Η ενδεκάτη εντολή",
+  "composer": "Γιώργος Χατζηνάσιος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1985",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "e-endekate-entole",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Γιώργος Χατζηνάσιος, πρώτη δισκογράφηση 1985.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Η ενδεκάτη εντολή",
+      "url": "https://gatsosarchive.org/song/e-endekate-entole/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/e-endekate-entole/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Γιώργος Χατζηνάσιος, first recorded 1985.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  }
+}

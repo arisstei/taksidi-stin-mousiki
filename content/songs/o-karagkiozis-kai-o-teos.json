@@ -1,0 +1,35 @@
+{
+  "slug": "o-karagkiozis-kai-o-teos",
+  "title": "Ο Καραγκιόζης και ο Τέως",
+  "composer": null,
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "o-karagkiozes-kai-o-teos",
+  "teaser": "Στίχοι Νίκου Γκάτσου.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Ο Καραγκιόζης και ο Τέως (Ισχύς μου η αγάπη του λαού)",
+      "url": "https://gatsosarchive.org/song/o-karagkiozes-kai-o-teos/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/o-karagkiozes-kai-o-teos/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 460"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 460"
+    }
+  }
+}

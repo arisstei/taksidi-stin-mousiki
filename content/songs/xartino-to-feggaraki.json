@@ -62,6 +62,15 @@
     "famousPerformance": {
       "note": "The first recording, on Fidelity.",
       "videoLabel": "Nana Mouskouri — Chartino to feggaraki (Fidelity recording, 1958)"
+    },
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 13"
     }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/khartino-to-pheggaraki/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 13"
   }
 }

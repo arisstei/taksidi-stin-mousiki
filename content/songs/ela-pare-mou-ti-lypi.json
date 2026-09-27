@@ -1,0 +1,35 @@
+{
+  "slug": "ela-pare-mou-ti-lypi",
+  "title": "Έλα πάρε μου τη λύπη",
+  "composer": "Μάνος Χατζιδάκις",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1958",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "ela-pare-mou-te-lupe",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μάνος Χατζιδάκις, πρώτη δισκογράφηση 1958.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Έλα πάρε μου τη λύπη",
+      "url": "https://gatsosarchive.org/song/ela-pare-mou-te-lupe/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/ela-pare-mou-te-lupe/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 15"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μάνος Χατζιδάκις, first recorded 1958.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 15"
+    }
+  }
+}

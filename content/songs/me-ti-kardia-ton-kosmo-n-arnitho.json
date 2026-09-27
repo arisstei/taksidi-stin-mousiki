@@ -1,0 +1,35 @@
+{
+  "slug": "me-ti-kardia-ton-kosmo-n-arnitho",
+  "title": "Με τι καρδιά τον κόσμο ν’ αρνηθώ",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "me-ti-kardia-ton-kosmo-n-arnetho",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Σταύρος Ξαρχάκος, πρώτη δισκογράφηση 1966.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Με τι καρδιά τον κόσμο ν’ αρνηθώ",
+      "url": "https://gatsosarchive.org/song/me-ti-kardia-ton-kosmo-n-arnetho/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/me-ti-kardia-ton-kosmo-n-arnetho/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 86"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Σταύρος Ξαρχάκος, first recorded 1966.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 86"
+    }
+  }
+}

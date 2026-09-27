@@ -1,0 +1,35 @@
+{
+  "slug": "tragoudi-tou-paliou-kairou",
+  "title": "Τραγούδι του παλιού καιρού",
+  "composer": "Ηλίας Ανδριόπουλος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1998",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "tragoudi-tou-paliou-kairou",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Ηλίας Ανδριόπουλος, πρώτη δισκογράφηση 1998.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Τραγούδι του παλιού καιρού",
+      "url": "https://gatsosarchive.org/song/tragoudi-tou-paliou-kairou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/tragoudi-tou-paliou-kairou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Ηλίας Ανδριόπουλος, first recorded 1998.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  }
+}

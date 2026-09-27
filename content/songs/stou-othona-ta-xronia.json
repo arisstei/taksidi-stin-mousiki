@@ -1,0 +1,35 @@
+{
+  "slug": "stou-othona-ta-xronia",
+  "title": "Στου Όθωνα τα χρόνια",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "stou-othona-ta-khronia",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Σταύρος Ξαρχάκος, πρώτη δισκογράφηση 1966.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Στου Όθωνα τα χρόνια",
+      "url": "https://gatsosarchive.org/song/stou-othona-ta-khronia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/stou-othona-ta-khronia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Σταύρος Ξαρχάκος, first recorded 1966.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  }
+}

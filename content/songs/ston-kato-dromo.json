@@ -1,0 +1,35 @@
+{
+  "slug": "ston-kato-dromo",
+  "title": "Στον κάτω δρόμο",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1976",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "ston-kato-dromo",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Σταύρος Ξαρχάκος, πρώτη δισκογράφηση 1976.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Στον κάτω δρόμο",
+      "url": "https://gatsosarchive.org/song/ston-kato-dromo/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/ston-kato-dromo/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 242"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Σταύρος Ξαρχάκος, first recorded 1976.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 242"
+    }
+  }
+}

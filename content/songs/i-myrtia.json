@@ -1,0 +1,35 @@
+{
+  "slug": "i-myrtia",
+  "title": "Η Μυρτιά",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1960",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "e-murtia",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μίκης Θεοδωράκης, πρώτη δισκογράφηση 1960.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Η Μυρτιά",
+      "url": "https://gatsosarchive.org/song/e-murtia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/e-murtia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 21"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μίκης Θεοδωράκης, first recorded 1960.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 21"
+    }
+  }
+}

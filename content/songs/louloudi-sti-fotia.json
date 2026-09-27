@@ -1,0 +1,35 @@
+{
+  "slug": "louloudi-sti-fotia",
+  "title": "Λουλούδι στη φωτιά",
+  "composer": "Δημήτρης Παπαδημητρίου",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "2012",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "louloudi-ste-photia",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δημήτρης Παπαδημητρίου, πρώτη δισκογράφηση 2012.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Λουλούδι στη φωτιά",
+      "url": "https://gatsosarchive.org/song/louloudi-ste-photia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/louloudi-ste-photia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 502"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δημήτρης Παπαδημητρίου, first recorded 2012.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 502"
+    }
+  }
+}

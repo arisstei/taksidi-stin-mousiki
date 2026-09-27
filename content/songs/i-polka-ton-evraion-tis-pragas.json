@@ -2,7 +2,7 @@
   "slug": "i-polka-ton-evraion-tis-pragas",
   "title": "Η πόλκα των Εβραίων της Πράγας",
   "composer": "Μάνος Χατζιδάκις",
-  "lyricist": null,
+  "lyricist": "Νίκος Γκάτσος",
   "year": "1988",
   "performer": "Νάνα Μούσχουρη",
   "status": "stub",
@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Οι Μύθοι μιας γυναίκας” (1988).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/e-polka-ton-ebraion-tes-pragas/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
   }
 }

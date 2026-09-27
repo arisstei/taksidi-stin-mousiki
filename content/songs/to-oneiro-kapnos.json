@@ -1,0 +1,35 @@
+{
+  "slug": "to-oneiro-kapnos",
+  "title": "Το όνειρο καπνός",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1965",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "to-oneiro-kapnos",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μίκης Θεοδωράκης, πρώτη δισκογράφηση 1965.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Το όνειρο καπνός",
+      "url": "https://gatsosarchive.org/song/to-oneiro-kapnos/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/to-oneiro-kapnos/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 74"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Μίκης Θεοδωράκης, first recorded 1965.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 74"
+    }
+  }
+}

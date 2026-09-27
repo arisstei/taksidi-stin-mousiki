@@ -1,0 +1,35 @@
+{
+  "slug": "peiraiotakia",
+  "title": "Πειραιωτάκια",
+  "composer": "Λουκιανός Κηλαηδόνης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1973",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "peiraiotakia",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Λουκιανός Κηλαηδόνης, πρώτη δισκογράφηση 1973.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Πειραιωτάκια",
+      "url": "https://gatsosarchive.org/song/peiraiotakia/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/peiraiotakia/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 223"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Λουκιανός Κηλαηδόνης, first recorded 1973.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 223"
+    }
+  }
+}

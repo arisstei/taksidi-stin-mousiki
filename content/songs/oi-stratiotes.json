@@ -1,0 +1,35 @@
+{
+  "slug": "oi-stratiotes",
+  "title": "Οι στρατιώτες",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1968",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "oi-stratiotes",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης, πρώτη δισκογράφηση 1968.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Οι στρατιώτες",
+      "url": "https://gatsosarchive.org/song/oi-stratiotes/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/oi-stratiotes/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 114"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης, first recorded 1968.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 114"
+    }
+  }
+}

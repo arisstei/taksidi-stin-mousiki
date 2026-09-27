@@ -1,0 +1,35 @@
+{
+  "slug": "o-xaralampis",
+  "title": "Ο Χαραλάμπης",
+  "composer": "Λουκιανός Κηλαηδόνης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1974",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "o-kharalampes",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Λουκιανός Κηλαηδόνης, πρώτη δισκογράφηση 1974.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Ο Χαραλάμπης",
+      "url": "https://gatsosarchive.org/song/o-kharalampes/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/o-kharalampes/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Λουκιανός Κηλαηδόνης, first recorded 1974.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  }
+}

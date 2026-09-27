@@ -2,7 +2,7 @@
   "slug": "to-tragoudi-tou-dromou",
   "title": "Το τραγούδι του δρόμου",
   "composer": "Μάνος Χατζιδάκις",
-  "lyricist": null,
+  "lyricist": "Νίκος Γκάτσος",
   "year": "1993",
   "performer": "Αλίκη Καγιαλόγλου",
   "status": "stub",
@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Αντικατοπτρισμοί” (1993).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/to-tragoudi-tou-dromou/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
   }
 }

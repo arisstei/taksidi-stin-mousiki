@@ -46,6 +46,15 @@
     "firstPerformance": {
       "note": "Its first appearance on record, on “Megalos Erotikos”.",
       "videoLabel": "Flery Dadonaki — Pera sto tholo potami (official audio release)"
+    },
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 221"
     }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/pera-sto-tholo-potami/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 221"
   }
 }

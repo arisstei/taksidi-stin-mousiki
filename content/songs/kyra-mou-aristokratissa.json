@@ -1,0 +1,35 @@
+{
+  "slug": "kyra-mou-aristokratissa",
+  "title": "Κυρά μου αριστοκράτισσα",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1969",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "kura-mou-aristokratissa",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης, πρώτη δισκογράφηση 1969.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Κυρά μου αριστοκράτισσα",
+      "url": "https://gatsosarchive.org/song/kura-mou-aristokratissa/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/kura-mou-aristokratissa/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 130"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης, first recorded 1969.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 130"
+    }
+  }
+}

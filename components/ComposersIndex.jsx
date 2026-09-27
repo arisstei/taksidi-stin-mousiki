@@ -12,7 +12,7 @@ export default function ComposersIndex({ composers, lang = "el", compact = false
       {composers.map((c) => {
         const shelf = c.albums.filter((a) => a.type !== "anthology").slice(0, compact ? 5 : 8);
         return (
-          <Link key={c.slug} href={`${basePath}/composer/${c.slug}`} className="group block archive-folder">
+          <Link key={c.slug} href={c.href || `${basePath}/composer/${c.slug}`} className="group block archive-folder">
             <span className="folder-tab font-mono text-[10px] uppercase tracking-[0.25em]">
               {lang === "en" ? "File" : "Φάκελος"} № {c.fileNo || "—"}
             </span>
@@ -20,19 +20,24 @@ export default function ComposersIndex({ composers, lang = "el", compact = false
               <div className="flex flex-wrap items-end justify-between gap-4">
                 <div>
                   <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-gold mb-2">
-                    {t.composer} · {c.born?.slice(0, 4)}–{c.died?.slice(0, 4)}
+                    {c.role || t.composer} · {c.born?.slice(0, 4)}–{c.died?.slice(0, 4)}
                   </p>
                   <h3 className="font-serif font-bold uppercase tracking-tight text-3xl sm:text-4xl text-ink leading-none group-hover:text-brand transition-colors">
                     {c.name}
                   </h3>
                   <p className="font-mono text-[11px] uppercase tracking-wider text-ink/50 mt-3">
-                    {t.albumsCount(c.albums.length)}
+                    {c.countLabel || t.albumsCount(c.albums.length)}
                   </p>
                 </div>
                 <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-brand group-hover:translate-x-1 transition-transform">
                   {t.openFile}
                 </span>
               </div>
+              {c.sampleTitles && (
+                <p className="mt-6 font-serif italic text-ink/60 leading-relaxed line-clamp-2">
+                  {c.sampleTitles.join(" · ")} …
+                </p>
+              )}
               <div className="mt-6 flex gap-3 overflow-hidden">
                 {shelf.map((a, i) => (
                   <div

@@ -2,7 +2,7 @@
   "slug": "pou-to-pigan-to-paidi",
   "title": "Πού το πήγαν το παιδί",
   "composer": "Μάνος Χατζιδάκις",
-  "lyricist": null,
+  "lyricist": "Νίκος Γκάτσος",
   "year": "1993",
   "performer": "Αλίκη Καγιαλόγλου",
   "status": "stub",
@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Αντικατοπτρισμοί” (1993).",
-    "story": []
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 466"
+    }
+  },
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/pou-to-pegan-to-paidi/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 466"
   }
 }

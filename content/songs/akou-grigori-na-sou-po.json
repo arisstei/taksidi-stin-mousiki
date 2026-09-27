@@ -1,0 +1,35 @@
+{
+  "slug": "akou-grigori-na-sou-po",
+  "title": "Άκου Γρηγόρη να σου πω",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1967",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "akou-gregore-na-sou-po",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης, πρώτη δισκογράφηση 1967.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Άκου Γρηγόρη να σου πω",
+      "url": "https://gatsosarchive.org/song/akou-gregore-na-sou-po/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/akou-gregore-na-sou-po/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 105"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης, first recorded 1967.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 105"
+    }
+  }
+}

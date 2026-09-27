@@ -1,0 +1,457 @@
+R|peres|Πήρες…
+R|khartino-to-pheggaraki|Χάρτινο το φεγγαράκι
+R|mazi-me-sena|Μαζί με σένα
+R|ela-pare-mou-te-lupe|Έλα πάρε μου τη λύπη
+R|etan-tou-mae-to-prosopo-1|Ήταν του Μάη το πρόσωπο
+R|etan-tou-mae-to-prosopo-2|Ήταν του Μάη το πρόσωπο (προγενέστερη μορφή)
+R|athena|Αθήνα
+R|kalumniotiko|Καλυμνιώτικο (Τώρα που πας στην ξενιτιά)
+R|gia-sena-ten-agape-mou|Για σένα την αγάπη μου
+R|na-sai-kale|Να ’σαι καλή
+R|e-murtia|Η Μυρτιά
+R|an-thumetheis-t-oneiro-mou|Αν θυμηθείς τ’ όνειρό μου
+R|eikha-phutepsei-mia-kardia|Είχα φυτέψει μια καρδιά
+R|e-bagia|Η βαγιά
+R|s-ena-pselo-kampanario|Σ’ ένα ψηλό καμπαναριό
+R|an-m-agapas-agape-mou|Αν μ’ αγαπάς αγάπη μου
+R|se-potisa-rodostamo|Σε πότισα ροδόσταμο
+R|kourasmeno-pallekari|Κουρασμένο παλληκάρι
+R|ephuge-to-treno|Έφυγε το τρένο (Πάει έφυγε το τρένο)
+R|e-pikragapemene|Η Πικραγαπημένη
+R|nanourisma|Νανούρισμα (Νάνι του ρήγα το παιδί)
+R|thalassopoulia-mou|Θαλασσοπούλια μου
+R|to-tragoudi-tes-seirenas|Το τραγούδι της Σειρήνας (Με τ’ άσπρο μου μαντήλι)
+R|to-tragoudi-tou-tzampore|Το τραγούδι του τζάμπορη
+R|e-photia|Η φωτιά
+R|t-asteri-tou-boria|Τ’ αστέρι του βοριά
+R|ta-loustrakia|Τα λουστράκια
+R|mia-panagia|Μια Παναγιά
+R|kane-ton-pono-sou-khara|Κάνε τον πόνο σου χαρά
+R|strata-te-strata|Στράτα τη στράτα
+R|o-kairos-allazei|Ο καιρός αλλάζει
+R|sto-laurio-ginetai-khoros-1|Στο Λαύριο γίνεται χορός
+R|sto-laurio-ginetai-khoros-2|Στο Λαύριο γίνεται χορός (δεύτερη εκδοχή)
+R|paei-o-kairos|Πάει ο καιρός
+R|treis-kopeles-ap-te-theba|Τρεις κοπέλες απ’ τη Θήβα
+R|o-robinson-ste-mukono|Ο Ροβινσών στη Μύκονο
+R|o-irlandos-ki-o-ioudaios|Ο Ιρλανδός κι ο Ιουδαίος
+R|ta-kalotaxida-poulia|Τα καλοτάξιδα πουλιά
+R|orestes|Ορέστης
+R|aeriko|Αερικό
+R|me-ten-ellada-karabokure|Με την Ελλάδα καραβοκύρη
+R|o-tzones-o-mpogias|Ο Τζώνης ο μπόγιας
+R|esoun-paidi-san-to-khristo|Ήσουν παιδί σαν το Χριστό
+R|enas-euaisthetos-lestes|Ένας ευαίσθητος ληστής
+R|nukhterines-eideseis|Νυχτερινές ειδήσεις
+R|lamento-threnos|Lamento (Θρήνος)
+R|to-skoteino-parathuro|Το σκοτεινό παράθυρο
+R|to-ekkremes|Το εκκρεμές
+R|to-oneiro-kapnos|Το όνειρο καπνός
+R|stou-kosmou-ten-anephoria|Στου κόσμου την ανηφοριά
+R|matomeno-pheggari|Ματωμένο φεγγάρι
+R|matia-bourkomena|Μάτια βουρκωμένα
+R|stou-othona-ta-khronia|Στου Όθωνα τα χρόνια
+R|aspre-mera-kai-gia-mas|Άσπρη μέρα και για μας
+R|o-leuteres|Ο Λευτέρης
+R|me-ti-kardia-ton-kosmo-n-arnetho|Με τι καρδιά τον κόσμο ν’ αρνηθώ
+R|e-nukhta|Η νύχτα
+R|tha-rixo-petra-ste-zoe|Θα ρίξω πέτρα στη ζωή
+R|semera-bradiase-noris|Σήμερα βράδιασε νωρίς
+R|koimesou-pallekari|Κοιμήσου παλληκάρι
+R|to-paneguri-ton-astron|Το πανηγύρι των άστρων
+R|pherte-mou-te-thalassa|Φέρτε μου τη θάλασσα
+R|nukhta-dikhos-akre|Νύχτα δίχως άκρη
+R|brekhei-o-theos|Βρέχει ο Θεός
+R|peres-to-megalo-dromo|Πήρες το μεγάλο δρόμο
+R|elie-mou-karabokure|Ήλιε μου καραβοκύρη
+R|pharmaki-ta-geramata|Φαρμάκι τα γεράματα
+R|me-mou-khtupas-ta-mesanukhta-ten-porta|Μη μου χτυπάς τα μεσάνυχτα την πόρτα (Μη γυρίζεις πίσω)
+R|silia|Σίλια
+R|s-eblepa-sta-matia|Σ’ έβλεπα στα μάτια
+R|pou-na-bro-takhudromo|Πού να ’βρω ταχυδρόμο
+R|akou-gregore-na-sou-po|Άκου Γρηγόρη να σου πω
+R|ertha-m-ena-dakru|Ήρθα μ’ ένα δάκρυ
+R|apone-kardia|Άπονη καρδιά
+R|mia-bradia-ste-larisa|Μια βραδιά στη Λάρισα
+R|ston-paradeiso|Στον Παράδεισο
+R|ta-karabia-mou|Τα καράβια μου
+R|parathuri-parathuri|Παραθύρι παραθύρι
+R|oi-stratiotes|Οι στρατιώτες
+R|kato-sta-petralona|Κάτω στα Πετράλωνα
+R|peiraiotissa|Πειραιώτισσα
+R|thumamai|Θυμάμαι
+R|apopse-men-argeis|Απόψε μην αργείς
+R|aurio-pali|Αύριο πάλι
+R|bradiase|Βράδιασε
+R|omorpha-pou-nai-sto-nesi|Όμορφα που ’ναι στο νησί
+R|m-ena-parapono|Μ’ ένα παράπονο
+R|me-gnorises-phtokhopaido|Με γνώρισες φτωχόπαιδο
+R|kapoio-treno|Κάποιο τρένο
+R|eikhame-perephania|Είχαμε περηφάνια
+R|e-phane|Η Φανή
+R|kratesa-mia-spitha|Κράτησα μια σπίθα
+R|kura-mou-aristokratissa|Κυρά μου αριστοκράτισσα
+R|e-kardia-mou-sunnephiazei|Η καρδιά μου συννεφιάζει
+R|galanomata-mou|Γαλανομάτα μου
+R|mia-paraskeue|Μια Παρασκευή
+R|rena-katerina|Ρήνα Κατερίνα
+R|poia-porta-na-khtupeso|Ποια πόρτα να χτυπήσω
+R|mia-nukhta-s-ekhasa|Μια νύχτα σ’ έχασα
+R|men-kaneis-peismata|Μην κάνεις πείσματα
+R|stes-kardias-sou-t-akrogiali|Στης καρδιάς σου τ’ ακρογιάλι
+R|dromo-to-dromo-xekinesame|Δρόμο το δρόμο ξεκινήσαμε
+R|to-retire|Το ρετιρέ
+R|te-nukhta-pou-s-antamosa|Τη νύχτα που σ’ αντάμωσα
+R|ta-phantarakia|Τα φανταράκια
+R|kapoia-nukhta|Κάποια νύχτα
+R|me-rotas|Μη ρωτάς
+R|apopse-ta-mesanukhta|Απόψε τα μεσάνυχτα
+R|akherousia|Αχερουσία
+R|o-paris-kai-to-melo|Ο Πάρις και το μήλο
+R|phrune|Φρύνη
+R|e-pikra-semera|Η πίκρα σήμερα
+R|milese-mou|Μίλησέ μου
+R|ti-na-ginetai-o-kur-photes|Τι να γίνεται ο κυρ-Φώτης
+R|oi-kolasmenoi|Οι κολασμένοι
+R|o-timonieres|Ο τιμονιέρης
+R|to-despoinaki|Το δεσποινάκι
+R|khelidoni-se-kloubi|Χελιδόνι σε κλουβί
+R|philntisenio-karabaki|Φιλντισένιο καραβάκι
+R|stes-zoes-te-strata|Στης ζωής τη στράτα
+R|damon-kai-phintias|Δάμων και Φιντίας
+R|se-pelagisio-mnema|Σε πελαγίσιο μνήμα
+R|kukladitiko|Κυκλαδίτικο
+R|to-paramuthi|Το παραμύθι
+R|agape-mesa-sten-kardia|Αγάπη μέσα στην καρδιά
+R|mpora-einai-tha-perasei|Μπόρα είναι θα περάσει
+R|aspro-peristeri|Άσπρο περιστέρι
+R|e-mikre-rallou|Η μικρή Ραλλού
+R|khasapiko-40|Χασάπικο 40
+R|apopse-phthinoporiase|Απόψε φθινοπώριασε
+R|st-ouranou-ten-akre|Στ’ ουρανού την άκρη
+R|stou-eliou-t-aloni|Στου ήλιου τ’ αλώνι
+R|protomenia|Πρωτομηνιά
+R|agapo-mia-karderina|Αγαπώ μια καρδερίνα
+R|spiti-mou-spitaki-mou|Σπίτι μου σπιτάκι μου
+R|poios-theos-to-thelese|Ποιος θεός το θέλησε
+R|den-eikhes-onoma|Δεν είχες όνομα
+R|o-bompiras-o-mompiras|Ο Βόμπιρας ο Μόμπιρας
+R|kane-te-zoe-drosia|Κάνε τη ζωή δροσιά
+R|serenata|Σερενάτα
+R|ola-einai-tukhera|Όλα είναι τυχερά
+R|o-mauros-aetos|Ο μαύρος αητός
+R|bale-ton-elio-sunoro|Βάλε τον ήλιο σύνορο
+R|o-ksenos|Ο Ξένος
+R|barkarola|Βαρκαρόλα (Μη λυγίζετε παιδιά)
+R|to-spiti-mou|Το σπίτι μου
+R|erthate-san-kumata|Ήρθατε σαν κύματα
+R|mia-kuriake-tou-marte|Μια Κυριακή του Μάρτη
+R|mikre-zakunthinia|Μικρή Ζακυνθινιά
+R|nukhtotheka-sten-porta-sou|Νυχτώθηκα στην πόρτα σου
+R|mila-katerina|Μίλα Κατερίνα
+R|mia-kephallonitissa|Μια Κεφαλλονίτισσα
+R|kalokairia-kai-brokhes|Καλοκαίρια και βροχές
+R|me-gariphalo-sto-peto|Με γαρίφαλο στο πέτο
+R|gkremos-kai-brakhos|Γκρεμός και βράχος
+R|dekapente-tou-alonare|Δεκαπέντε του Αλωνάρη
+R|kathe-khrono-kathe-khrono|Κάθε χρόνο κάθε χρόνο
+R|psalmos|Ψαλμός
+R|pera-sto-tholo-potami|Πέρα στο θολό ποτάμι
+R|sto-magazaki-tou-mena|Στο μαγαζάκι του Μηνά
+R|peiraiotakia|Πειραιωτάκια
+R|pallekari-mou|Παλληκάρι μου
+R|eipa-tragoudi-na-sou-grapso|Είπα τραγούδι να σου γράψω
+R|e-mugdalia|Η μυγδαλιά
+R|sinaina|Σιναϊνά
+R|o-kharalampes|Ο Χαραλάμπης
+R|salonikia-salonikia|Σαλονικιά Σαλονικιά
+R|mparmpagianne-makrugianne|Μπαρμπαγιάννη Μακρυγιάννη
+R|pallekari-sta-sphakia|Παλληκάρι στα Σφακιά
+R|geia-sou-khara-sou-benetia|Γεια σου χαρά σου Βενετιά
+R|e-kore-tou-pasa|Η κόρη του πασά (Ανατολίτικο)
+R|nun-kai-aei|Νυν και αεί
+R|ston-kato-dromo|Στον κάτω δρόμο
+R|ta-dokana|Τα δόκανα
+R|megale-paraskeue-1|Μεγάλη Παρασκευή
+R|erthe-o-kairos|Ήρθε ο καιρός
+R|o-mauros-elios|Ο μαύρος ήλιος
+R|e-liostra|Η λιόστρα
+R|o-drakos|Ο δράκος
+R|anonumon|Ανώνυμον
+R|emeis-pou-meiname|Εμείς που μείναμε
+R|staurose|Σταύρωση (Κάποιον σταυρώνουν σήμερα)
+R|koritsi-kuriakatiko|Κορίτσι κυριακάτικο
+R|ti-na-ten-kano-te-zoe|Τι να την κάνω τη ζωή
+R|dodeka-trela-paidia|Δώδεκα τρελά παιδιά
+R|etsi-pou-to-pas|Έτσι που το πας
+R|giarem-giarem|Γιαρέμ γιαρέμ
+R|katse-nikola|Κάτσε Νικόλα
+R|tes-moiras-t-adrakhti|Της μοίρας τ’ αδράχτι
+R|o-sam-o-tzonnu-ki-o-iban|Ο Σαμ ο Τζόννυ κι ο Ιβάν
+R|o-drosoulites|Ο Δροσουλίτης
+R|tou-rizikare|Του Ριζικάρη
+R|o-maurailes|Ο Μαυραϊλής
+R|kato-sta-tripotama|Κάτω στα τριπόταμα
+R|to-tragoudi-tou-leidinou|Το τραγούδι του Λειδινού
+R|mana-mou-mana|Μάνα μου μάνα
+R|mia-komnene|Μια Κομνηνή
+R|madrigali|Μαδριγάλι
+R|o-zapheires|Ο Ζαφείρης
+R|ta-phlouria|Τα φλουριά
+R|o-giannes-o-phonias|Ο Γιάννης ο φονιάς
+R|koita-me-sta-matia|Κοίτα με στα μάτια
+R|o-panteles|Ο Παντελής
+R|to-methusmeno-karabi|Το μεθυσμένο καράβι
+R|athanasia|Αθανασία
+R|oi-meres-einai-poneres|Οι μέρες είναι πονηρές
+R|tsamikos|Τσάμικος
+R|paraxene-protomagia|Παράξενη Πρωτομαγιά
+R|ena-spirto-sto-trapezi|Ένα σπίρτο στο τραπέζι
+R|mia-phora-ki-enan-kairo|Μια φορά κι έναν καιρό
+R|melagkholiko-embaterio|Μελαγχολικό εμβατήριο
+R|o-ephialtes-tes-persephones|Ο εφιάλτης της Περσεφόνης
+R|to-alogo-tou-omer-bruone|Το άλογο του Ομέρ Βρυώνη
+R|e-magda|Η Μάγδα
+R|o-amnos-tou-theou|Ο αμνός του Θεού
+R|cundu-luna-vini|Cundu luna vini
+R|khresmoi-tes-sibullas|Χρησμοί της Σίβυλλας
+R|o-ippotes-ki-o-thanatos-1513|Ο ιππότης κι ο θάνατος (1513)
+R|e-proseukhe-tes-parthenou|Η προσευχή της παρθένου
+R|elladographia|Ελλαδογραφία
+R|ta-tragoudia-mas|Τα τραγούδια μας
+R|pente-strategoi|Πέντε στρατηγοί
+R|kra|Κρα
+R|to-daimonio|Το δαιμόνιο
+R|kura-phaneromene|Κυρα-Φανερωμένη
+R|proseukhe|Προσευχή
+R|to-lakheio|Το λαχείο
+R|e-alepouditsa|Η αλεπουδίτσα
+R|to-khamospito|Το χαμόσπιτο
+R|koritsaki-mou-me-t-aspra|Κοριτσάκι μου με τ’ άσπρα
+R|eroes-kai-thumata|Ήρωες και θύματα
+R|khronia-mas-polla|Χρόνια μας πολλά
+R|stou-digene-ta-kastra|Στου Διγενή τα κάστρα (Η τρελή του φεγγαριού)
+R|san-ton-tse-gkebara|Σαν τον Τσε Γκεβάρα
+R|otan-gurisoun|Όταν γυρίσουν
+R|e-asemina|Η Ασημίνα
+R|treis-amerikanoi|Τρεις Αμερικάνοι
+R|st-agionoros|Στ’ Αγιονόρος
+R|1922|1922
+R|poios-ekhei-dakrua-na-mou-dosei|Ποιος έχει δάκρυα να μου δώσει
+R|makrine-tes-agapes-ora|Μακρινή της αγάπης ώρα
+R|tragoudi-tou-phulakismenou|Τραγούδι του φυλακισμένου
+R|oi-retores|Οι ρήτορες
+R|ellada-ellada|Ελλάδα Ελλάδα
+R|e-panagia-ton-patesion|Η Παναγία των Πατησίων
+R|ela-se-mena|Έλα σε μένα
+R|mana-mou-ellas|Μάνα μου Ελλάς (Γύφτισσα μαϊμού)
+R|ta-paidia-tes-amunas|Τα παιδιά της Άμυνας
+R|stes-pikras-ta-xeronesa|Στης πίκρας τα ξερόνησα
+R|kaigomai-kaigomai|Καίγομαι καίγομαι
+R|mpournobalia|Μπουρνοβαλιά
+R|emena-logia-me-mou-les|Εμένα λόγια μη μου λες (Μη με κατακρίνεις)
+R|sten-amphiale|Στην Αμφιάλη (Μια βραδιά στην Αμφιάλη)
+R|to-dikhtu|Το δίχτυ
+R|ste-salamina|Στη Σαλαμίνα
+R|to-praktoreio|Το πρακτορείο
+R|e-mpalanta-tou-ouri|Η μπαλάντα του Ούρι
+R|memed-agape-mou|Memed αγάπη μου (Ο πράσινος αητός)
+R|pephtei-brokhe|Πέφτει βροχή
+R|e-endekate-entole|Η ενδεκάτη εντολή
+R|allelouia|Αλληλούια
+R|elie-pou-khathekes|Ήλιε που χάθηκες
+R|purrikhios|Πυρρίχιος
+R|mia-these-ston-elio|Μια θέση στον ήλιο
+R|o-taxidiotes-tou-oneirou|Ο ταξιδιώτης του ονείρου
+R|to-paidi-me-to-tampourlo|Το παιδί με το ταμπούρλο
+R|makria-sto-katmantou|Μακριά στο Κατμαντού
+R|tes-kharas-aderphi|Της χαράς αδέρφι
+R|mikro-mou-alphabetari|Μικρό μου αλφαβητάρι
+R|poios-pere-ten-agape-mou|Ποιος πήρε την αγάπη μου
+R|moiroloi|Μοιρολόι
+R|skoteine-metera|Σκοτεινή μητέρα
+R|esoun-mia-bruse-t-ouranou|Ήσουν μια βρύση τ’ ουρανού
+R|aute-etan-e-zoe-mas|Αυτή ήταν η ζωή μας
+R|ola-t-astra|Όλα τ’ άστρα
+R|o-kepos-tou-allakh|Ο κήπος του Αλλάχ
+R|pente-grammata|Πέντε γράμματα
+R|ase-ton-kairo|Άσε τον καιρό
+R|nukhterinos-diabates|Νυχτερινός διαβάτης
+R|an-esouna-trelos|Αν ήσουνα τρελός
+R|etan-tessera-paidia|Ήταν τέσσερα παιδιά
+R|e-platutera-ton-ouranon|Η Πλατυτέρα των Ουρανών
+R|khoris-phtera|Χωρίς φτερά
+R|epilogos|Επίλογος
+R|asullogista-khronia|Ασυλλόγιστα χρόνια
+R|pos-na-krateso-to-phos-pou-basileuei|Πώς να κρατήσω το φως που βασιλεύει
+R|koritsi-tes-nukhtas|Κορίτσι της νύχτας
+R|khrone-nukhtopouli-pagero|Χρόνε νυχτοπούλι παγερό
+R|gkremisame-ta-phragmata|Γκρεμίσαμε τα φράγματα
+R|etsi-paei-o-kosmos|Έτσι πάει ο κόσμος
+R|kheimoniatikos-elios|Χειμωνιάτικος ήλιος
+R|ta-paidia-tes-kataigidas|Τα παιδιά της καταιγίδας
+R|epese-e-kubernese|Έπεσε η κυβέρνηση
+R|egklema-kai-timoria|Έγκλημα και τιμωρία
+R|laoura|Λάουρα
+R|ston-potamo-ton-pamiso|Στον ποταμό τον Πάμισο
+R|kura-tou-kosmou|Κυρά του κόσμου
+R|sto-seirio-uparkhoune-paidia|Στο Σείριο υπάρχουνε παιδιά (En Sirio hay niños)
+R|gloria-eterna|Gloria eterna
+R|e-thusia-tes-antigones-2|Η θυσία της Αντιγόνης
+R|eipa-epi-ges-eirene|Είπα επί γης ειρήνη
+R|taormina|Ταορμίνα
+R|me-lene-theodora|Με λένε Θεοδώρα
+R|pote-pethainei-o-erotas|Πότε πεθαίνει ο έρωτας
+R|o-stauros|Ο σταυρός
+R|e-polka-ton-ebraion-tes-pragas|Η πόλκα των Εβραίων της Πράγας
+R|mauros-tauros-mpeke-sto-khoro|Μαύρος ταύρος μπήκε στο χορό
+R|ta-logia-pou-perimena|Τα λόγια που περίμενα
+R|stou-neilou-ta-ammokhorapha|Στου Νείλου τ’ αμμοχώραφα
+R|krauges-gia-enos-aggelou-mneme|Κραυγές για ενός αγγέλου μνήμη
+R|nukhta-ston-kolono|Νύχτα στον Κολωνό
+R|o-khoros-ton-kukladon|Ο χορός των Κυκλάδων
+R|oi-astrologoi|Οι αστρολόγοι
+R|doste-mou-mia-tautoteta|Δώστε μου μια ταυτότητα
+R|oi-protoi-kai-oi-deuteroi|Οι πρώτοι και οι δεύτεροι
+R|ta-gerontia|Τα γερόντια
+R|mia-glossa-mia-patrida|Μια γλώσσα μια πατρίδα
+R|piso-apo-maura-sidera|Πίσω από μαύρα σίδερα
+R|e-khontrompalou|Η Χοντρομπαλού
+R|toutos-o-topos|Τούτος ο τόπος
+R|gramma-sto-marko-bambakare|Γράμμα στο Μάρκο Βαμβακάρη (Χαιρετισμός)
+R|o-karagkiozes-kai-o-teos|Ο Καραγκιόζης και ο Τέως (Ισχύς μου η αγάπη του λαού)
+R|o-karagkiozes-kai-ta-toubla|Ο Καραγκιόζης και τα τούβλα
+R|to-tragoudi-tes-khamenes-kuriakes|Το τραγούδι της χαμένης Κυριακής (Το φως το αληθινό)
+R|pou-to-pegan-to-paidi|Πού το πήγαν το παιδί (Ίλεως! Έλεος!)
+R|pes-mou-t-onoma-sou|Πες μου τ’ όνομά σου
+R|o-khoros-ton-skulon|Ο χορός των σκύλων
+R|o-kosmos-sou-na-eim-ego|Ο κόσμος σου να είμ’ εγώ
+R|kemal|Κεμάλ
+R|treis-apanteseis|Τρεις απαντήσεις
+R|to-tragoudi-tou-dromou|Το τραγούδι του δρόμου
+R|perimpanou|Περιμπανού
+R|konta-sto-sekouana|Κοντά στο Σηκουάνα (Το σκοτεινό ποτάμι)
+R|dakrua-tou-phthinoporou|Δάκρυα του φθινοπώρου
+R|anthropakia-tou-solena|Ανθρωπάκια του σωλήνα
+R|to-mauro-aloni|Το μαύρο αλώνι
+R|agape-ein-e-zoe|Αγάπη είν’ η ζωή
+R|pelioreitike-mantona|Πηλιορείτικη Μαντόνα
+R|tragoudi-tou-paliou-kairou|Τραγούδι του παλιού καιρού
+R|mikrainei-to-pheggari|Μικραίνει το φεγγάρι
+R|stou-kairou-te-zugaria|Στου καιρού τη ζυγαριά
+R|sten-eremia-tou-kosmou|Στην ερημιά του κόσμου
+R|kokkina-gariphala|Κόκκινα γαρίφαλα
+R|ekei-pou-perase-e-photia|Εκεί που πέρασε η φωτιά
+R|megale-pempte-1|Μεγάλη Πέμπτη
+R|dakru-me-to-dakru|Δάκρυ με το δάκρυ (Χασάπικο 22)
+R|e-agape|Η αγάπη
+R|louloudi-ste-photia|Λουλούδι στη φωτιά
+R|ola-t-asteria-trupia|Όλα τ’ αστέρια τρύπια
+R|paraskeue-megale|Παρασκευή Μεγάλη
+R|kategoreitai-e-ellas|Κατηγορείται η Ελλάς (Κατηγορουμένη εγέρθητι)
+R|to-taxidi-1|Το ταξίδι
+R|pes-mou-poios-eisai|Πες μου ποιος είσαι
+R|epitrapezio|Επιτραπέζιο
+R|metera-t-ouranou|Μητέρα τ’ ουρανού
+R|khatzidakias|Χατζιδακιάς
+R|e-pagomene-theatrina|Η παγωμένη θεατρίνα
+R|e-phulake-tes-antigones|Η φυλακή της Αντιγόνης
+R|to-paidi-me-ta-komiks|Το παιδί με τα κόμικς
+R|peripeteia|Περιπέτεια
+R|erotokritos|Ερωτόκριτος
+R|amanes|Αμανές
+R|anestios-kai-penes|Ανέστιος και πένης
+R|paraxenos-pou-esouna|Παράξενος που ήσουνα
+R|mia-istoria-sto-souphli|Μια ιστορία στο Σουφλί
+R|enas-paraxenos-boskos|Ένας παράξενος βοσκός
+R|to-rok-tou-panikou|Το ροκ του πανικού
+R|bakkheia|Βακχεία
+A|me-ten-patrida-tous-demene-sta-pania|Με την πατρίδα τους δεμένη στα πανιά
+A|alla-ta-matia-ton-phukion|Αλλά τα μάτια των φυκιών
+A|ki-enas-khamenos-elephantas|Κι ένας χαμένος ελέφαντας
+A|kai-tote-tha-rthoun-aeredes|Και τότε θα ’ρθουν αέρηδες
+A|gi-auto-loipon-ki-eseis-pallekaria-mou|Γι’ αυτό λοιπόν κι εσείς παλληκάρια μου
+A|kai-me-gelas-kai-men-klais-kai-me-khairesai|Και μη γελάς και μην κλαις και μη χαίρεσαι
+A|einai-lemeri-ton-ouggron|Είναι λημέρι των Ούγγρων
+A|oi-koukoubagies-ourliazoune|Οι κουκουβάγιες ουρλιάζουνε
+A|etsi-s-ena-pithari-bathu|Έτσι σ’ ένα πιθάρι βαθύ
+A|etsi-koimatai-ologumne|Έτσι κοιμάται ολόγυμνη
+A|lene-pos-tremoun-ta-bouna|Λένε πως τρέμουν τα βουνά
+A|ti-na-mou-kamei-e-stalagmatia|Τι να μου κάμει η σταλαγματιά
+M|poso-polu-se-agapesa|Πόσο πολύ σε αγάπησα
+M|khronia-kai-khronia-palepsa|Χρόνια και χρόνια πάλεψα
+E|megale-deutera|Μεγάλη Δευτέρα
+E|megale-trite|Μεγάλη Τρίτη
+E|megale-tetarte|Μεγάλη Τετάρτη
+E|megale-pempte-2|Μεγάλη Πέμπτη
+E|megale-paraskeue-2|Μεγάλη Παρασκευή
+E|mega-sabbaton|Μέγα Σάββατον
+U1|anemoi-khtupesane|Άνεμοι χτυπήσανε
+U1|aspro-sunnepho-perna|Άσπρο σύννεφο περνά
+U1|bradino-leophoreio|Βραδινό λεωφορείο
+U1|bradino-parapono|Βραδινό παράπονο
+U1|galazia-khora|Γαλάζια χώρα
+U1|giati-zestainei-o-elios|Γιατί ζεσταίνει ο ήλιος
+U1|gregorousa|Γρηγορούσα
+U1|deese|Δέηση
+U1|ela-khorepse-ki-esu|Έλα χόρεψε κι εσύ
+U1|enas-anthropos|Ένας άνθρωπος
+U1|espeira-spuri-sitari|Έσπειρα σπυρί σιτάρι
+U1|etsi-loipon-kapoia-mera|Έτσι λοιπόν κάποια μέρα
+U1|ekho-ta-matia-sou-pholia|Έχω τα μάτια σου φωλιά
+U1|e-agape-den-palionei|Η αγάπη δεν παλιώνει
+U1|e-maroulio|Η Μαρουλιώ
+U1|e-mpekatsa|Η μπεκάτσα (Το πουλί στη Βοιωτία)
+U1|e-souliotissa|Η Σουλιώτισσα
+U1|e-photia-pou-kaiei|Η φωτιά που καίει
+U1|elie-mousaphire-mou|Ήλιε μουσαφίρη μου
+U1|kalamatianos|Καλαματιανός
+U1|mia-maure-goessa|Μια μαύρη γόησσα
+U1|mone-tha-strono-to-trapezi|Μόνη θα στρώνω το τραπέζι
+U1|monos-mou-tora-perpato|Μόνος μου τώρα περπατώ
+U1|o-polemos-ki-o-erotas|Ο πόλεμος κι ο έρωτας
+U1|o-psaras|Ο ψαράς
+U1|oi-nukhtes-etane-polles|Οι νύχτες ήτανε πολλές
+U1|opoios-agapese-polu|Όποιος αγάπησε πολύ
+U1|poia-photia-tha-me-zestanei|Ποια φωτιά θα με ζεστάνει
+U1|pote-pano-pote-kato|Πότε πάνω πότε κάτω
+U1|prin-lalesei-to-kokori|Πριν λαλήσει το κοκόρι
+U1|satobrian|Σατωβριάν
+U1|skaleora-kai-maleora|Σκαληώρα και μαληώρα
+U1|sto-palio-mas-to-spitaki|Στο παλιό μας το σπιτάκι
+U1|stou-kosmou-ta-perasmata|Στου κόσμου τα περάσματα
+U1|sphurizo|Σφυρίζω
+U1|ta-duo-pheggaria|Τα δυο φεγγάρια
+U1|tes-kardias-mou-arkhontissa|Της καρδιάς μου αρχόντισσα
+U1|to-peiraiotaki|Το Πειραιωτάκι
+U1|to-skotadi|Το σκοτάδι
+U1|tsiphteteli|Τσιφτετέλι
+U1|khilia-tamata|Χίλια τάματα
+U1|in-that-long-gone-spring|In that long-gone spring
+U1|prologos|Πρόλογος
+U1|duo-ki-ena-kanoun-tria|Δύο κι ένα κάνουν τρία
+U1|e-aleka|Η Αλέκα
+U1|e-demoprasia|Η δημοπρασία
+U1|kato-sto-botaniko|Κάτω στο Βοτανικό
+U1|prokhora-loipon|Προχώρα λοιπόν
+U1|to-katinaki|Το Κατινάκι
+U1|to-rok-tou-apokhorismou|Το ροκ του αποχωρισμού
+U1|semera-ta-phota|Σήμερα τα φώτα
+U2|sto-palio-to-kalnterimi|Στο παλιό το καλντερίμι
+U2|ekei-psela-ston-umetto|Εκεί ψηλά στον Υμηττό
+U2|tou-kairou-ta-bemata|Του καιρού τα βήματα
+U2|apospasma-emerologiou|Απόσπασμα ημερολογίου
+U2|prodomenoi-aristokrates|Προδομένοι αριστοκράτες
+U2|to-skoupidario|Το σκουπιδαριό
+U2|el-senorito-satisfecho|El señorito satisfecho
+U2|pou-pas-ellada|Πού πας Ελλάδα
+U2|kostas-kernaei-kai-kostas-pinei|Κώστας κερνάει και Κώστας πίνει
+U2|skholio-gia-te-glossa|Σχόλιο για τη γλώσσα
+U2|to-kharama|Το χάραμα
+U2|karagkiozes-3|Καραγκιόζης – 3
+U2|karagkiozes-4|Καραγκιόζης – 4
+U2|karagkiozes-5|Καραγκιόζης – 5
+U2|karagkiozes-6|Καραγκιόζης – 6
+U2|karagkiozes-7|Καραγκιόζης – 7
+U2|to-taxidi-2|Το ταξίδι
+U2|maniatikos-esperinos|Μανιάτικος Εσπερινός

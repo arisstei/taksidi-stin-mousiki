@@ -1,0 +1,35 @@
+{
+  "slug": "kapoia-nyxta",
+  "title": "Κάποια νύχτα",
+  "composer": "Δήμος Μούτσης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1970",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "kapoia-nukhta",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Δήμος Μούτσης, πρώτη δισκογράφηση 1970.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Κάποια νύχτα",
+      "url": "https://gatsosarchive.org/song/kapoia-nukhta/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/kapoia-nukhta/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 143"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Δήμος Μούτσης, first recorded 1970.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 143"
+    }
+  }
+}

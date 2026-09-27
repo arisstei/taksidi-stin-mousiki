@@ -1,0 +1,42 @@
+{
+  "slug": "nikos-gatsos",
+  "name": "Νίκος Γκάτσος",
+  "fileNo": "002",
+  "born": "1911-12-08",
+  "died": "1992-05-12",
+  "lifespan": "Ασέα Αρκαδίας, 8 Δεκεμβρίου 1911 — Αθήνα, 12 Μαΐου 1992",
+  "tagline": "Ο ποιητής της «Αμοργού» που έδωσε στο ελληνικό τραγούδι μερικούς από τους πιο πολυτραγουδισμένους στίχους του — από τον Χατζιδάκι και τον Θεοδωράκη ως τον Ξαρχάκο και τον Μούτση.",
+  "bio": [
+    "Γεννήθηκε στην Ασέα της Αρκαδίας το 1911 και πέθανε στην Αθήνα το 1992. Εξέδωσε μία μόνο ποιητική σύνθεση, την «Αμοργό» (1943). Μετέφρασε για το θέατρο — για το Θέατρο Τέχνης του Κουν και για το Εθνικό — Λόρκα, Τένεσι Ουίλιαμς, Στρίντμπεργκ, Ο' Νιλ και άλλους.",
+    "Από το 1949 και μετά έγραψε κυρίως στίχους τραγουδιών. Η πιο μακρόχρονη συνεργασία του ήταν με τον Μάνο Χατζιδάκι, αλλά έγραψε και για τον Μίκη Θεοδωράκη, τον Σταύρο Ξαρχάκο, τον Δήμο Μούτση, τον Λουκιανό Κηλαηδόνη, τον Χριστόδουλο Χάλαρη, τον Γιώργο Χατζηνάσιο και άλλους.",
+    "Οι στίχοι του συγκεντρώθηκαν στον τόμο «Όλα τα τραγούδια» (Πατάκης). Το Gatsos Archive — με το αρχείο του στη βιβλιοθήκη Houghton του Χάρβαρντ και το Center for Hellenic Studies — δημοσιεύει το επίσημο κείμενο όλων των στίχων του, με άδεια του εκδότη. Γι' αυτό, αντί να αναπαράγουμε στίχους, σε κάθε τραγούδι σε στέλνουμε εκεί."
+  ],
+  "interviews": [
+    {"title": "Παρασκήνιο — Αφιέρωμα στον Νίκο Γκάτσο (Μέρος 1)", "ertFile": "0000006698/0001/media6698.mp4", "code": "6698",
+     "note": "Η Αγαθή Δημητρούκα, σύντροφος του ποιητή, παρουσιάζει τη ζωή και το έργο του· για τον Γκάτσο μιλούν, ανάμεσα σε άλλους, ο Μάνος Χατζιδάκις και ο Νάνος Βαλαωρίτης.", "sourceUrl": "https://archive.ert.gr/6698/"},
+    {"title": "Ανθ' αυτού — Ο Αλέξανδρος Λυκουρέζος για τον Νίκο Γκάτσο", "ertFile": "0000061464/0000/media.mp4", "code": "61464",
+     "note": "Ο ποινικολόγος Αλέξανδρος Λυκουρέζος θυμάται προσωπικές και φιλικές στιγμές με τον ποιητή.", "sourceUrl": "https://archive.ert.gr/61464/"}
+  ],
+  "listIntro": "Όλοι οι στίχοι του, με τη σειρά του τόμου «Όλα τα τραγούδια» και του Gatsos Archive: πρώτα τα δισκογραφημένα τραγούδια με σειρά δισκογράφησης, μετά αποσπάσματα από ενιαία έργα και, τέλος, όσα δεν δισκογραφήθηκαν. Ο συνθέτης και η χρονιά σημειώνονται μόνο όπου τα επιβεβαιώνει η δισκογραφία (Discogs, Βικιπαίδεια, οι δίσκοι του αρχείου μας) — αλλού γράφει «προς επιβεβαίωση». Ο αριθμός σελίδας παραπέμπει στον τόμο. Το κουμπί «Κείμενο» ανοίγει το επίσημο κείμενο· στίχους δεν δημοσιεύουμε.",
+  "sources": [
+    {"label": "The Gatsos Archive (Houghton Library, Harvard · Center for Hellenic Studies)", "url": "https://gatsosarchive.org/"},
+    {"label": "Gatsos Archive — Songs for Reading and Translation (όλοι οι στίχοι, από τον τόμο «Όλα τα τραγούδια», Πατάκης)", "url": "https://gatsosarchive.org/songs-for-reading-and-translation/"},
+    {"label": "Βικιπαίδεια — Νίκος Γκάτσος (εργογραφία και δισκογραφία)", "url": "https://el.wikipedia.org/wiki/Νίκος_Γκάτσος"},
+    {"label": "Discogs — Νίκος Γκάτσος", "url": "https://www.discogs.com/artist/938451"},
+    {"label": "Αρχείο ΕΡΤ — Παρασκήνιο: Αφιέρωμα στον Νίκο Γκάτσο", "url": "https://archive.ert.gr/6698/"}
+  ],
+  "en": {
+    "lifespan": "Asea, Arcadia, 8 December 1911 — Athens, 12 May 1992",
+    "tagline": "The poet of “Amorgos” who gave Greek song some of its most-sung lyrics — for Hadjidakis and Theodorakis, Xarchakos and Moutsis.",
+    "bio": [
+      "Born in Asea, Arcadia, in 1911, he died in Athens in 1992. He published a single poetic work, “Amorgos” (1943). He translated for the stage — for Koun's Art Theatre and the National Theatre — Lorca, Tennessee Williams, Strindberg, O'Neill and others.",
+      "From 1949 onward he wrote mainly song lyrics. His longest collaboration was with Manos Hadjidakis, but he also wrote for Mikis Theodorakis, Stavros Xarchakos, Dimos Moutsis, Loukianos Kilaidonis, Christodoulos Chalaris, Giorgos Hatzinasios and others.",
+      "His lyrics were collected in the volume “Ola ta tragoudia” (All the Songs, Patakis). The Gatsos Archive — with his papers at Harvard's Houghton Library and the Center for Hellenic Studies — publishes the official text of all his lyrics with the publisher's permission. That's why, instead of reproducing lyrics, we send you there for every song."
+    ],
+    "interviews": [
+      {"title": "Paraskinio — A tribute to Nikos Gatsos (Part 1)", "note": "Agathi Dimitrouka, the poet's companion, presents his life and work; among those who speak about Gatsos are Manos Hadjidakis and Nanos Valaoritis."},
+      {"title": "Anth' aftou — Alexandros Lykourezos on Nikos Gatsos", "note": "Criminal lawyer Alexandros Lykourezos recalls personal moments with the poet."}
+    ],
+    "listIntro": "All his lyrics, in the order of the volume “Ola ta tragoudia” and the Gatsos Archive: first the recorded songs in order of recording, then excerpts from stand-alone works, and finally those never recorded. Composer and year are given only where confirmed by discography (Discogs, Wikipedia, our own record archive) — elsewhere it says “to be confirmed”. The page number refers to the printed volume. The “Text” button opens the official text; we don't publish lyrics."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nyn-kai-aei",
+  "title": "Νυν και αεί",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1974",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "origin": "lyricist",
+  "archive": "nun-kai-aei",
+  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Σταύρος Ξαρχάκος, πρώτη δισκογράφηση 1974.",
+  "story": [],
+  "sources": [
+    {
+      "label": "The Gatsos Archive — Νυν και αεί",
+      "url": "https://gatsosarchive.org/song/nun-kai-aei/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "textSource": {
+    "label": "Gatsos Archive — το επίσημο κείμενο",
+    "url": "https://gatsosarchive.org/song/nun-kai-aei/",
+    "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 241"
+  },
+  "en": {
+    "teaser": "Lyrics by Nikos Gatsos — music by Σταύρος Ξαρχάκος, first recorded 1974.",
+    "story": [],
+    "textSource": {
+      "label": "Gatsos Archive — the official text",
+      "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 241"
+    }
+  }
+}

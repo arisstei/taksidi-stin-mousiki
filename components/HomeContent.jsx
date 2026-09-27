@@ -1,3 +1,4 @@
+import { getAllLyricists, localizeLyricist } from "@/lib/lyricists";
 import Link from "next/link";
 import { localizeSong } from "@/lib/songs";
 import { getSongThumbnail } from "@/lib/media";
@@ -9,6 +10,23 @@ import { getDictionary } from "@/lib/dictionaries";
 import { getAllComposers, getAlbumsByComposer, localizeComposer } from "@/lib/albums";
 import { getDiscDict } from "@/lib/discDict";
 import ComposersIndex from "@/components/ComposersIndex";
+
+function lyricistCards(lang) {
+  const basePath = lang === "en" ? "/en" : "";
+  return getAllLyricists().map((l) => {
+    const L = localizeLyricist(l, lang);
+    const recorded = (l.sections || []).find((s) => s.id === "recorded")?.songs || [];
+    return {
+      slug: l.slug, name: l.name, born: l.born, died: l.died, fileNo: l.fileNo,
+      href: `${basePath}/lyricist/${l.slug}`,
+      role: lang === "en" ? "Poet · Lyricist" : "Ποιητής · Στιχουργός",
+      countLabel: lang === "en" ? `${recorded.length} recorded songs` : `${recorded.length} δισκογραφημένα τραγούδια`,
+      sampleTitles: recorded.slice(1, 9).map((x) => x.title.replace(/\s*\([^)]*\)$/, "")),
+      albums: [],
+      tagline: L.tagline,
+    };
+  });
+}
 
 export default function HomeContent({ songs: rawSongs, lang = "el" }) {
   const t = getDictionary(lang);
@@ -100,7 +118,7 @@ export default function HomeContent({ songs: rawSongs, lang = "el" }) {
             <h2 className="font-serif font-bold uppercase tracking-tight text-3xl text-ink">{dt.discographies}</h2>
             <p className="text-ink/65 mt-3 max-w-xl mx-auto leading-relaxed">{dt.discographiesIntro}</p>
           </div>
-          <ComposersIndex composers={composers} lang={lang} compact />
+          <ComposersIndex composers={[...composers, ...lyricistCards(lang)]} lang={lang} compact />
         </section>
       )}
 
