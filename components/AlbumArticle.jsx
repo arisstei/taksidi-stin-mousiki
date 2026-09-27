@@ -68,6 +68,7 @@ export default function AlbumArticle({ album, composer, prev, next, lang = "el" 
   const sideA = tracks.filter((x) => sideOf(x.pos) !== "B");
   const sideB = tracks.filter((x) => sideOf(x.pos) === "B");
   const hasSides = sideB.length > 0 && sideA.every((x) => sideOf(x.pos) === "A");
+  const discogsUrl = (album.sources || []).find((x) => x.url.includes("discogs.com/master"))?.url;
   const withStory = tracks.filter((x) => x.song && !x.stub).length;
 
   return (
@@ -82,6 +83,16 @@ export default function AlbumArticle({ album, composer, prev, next, lang = "el" 
       <header className="mt-6 grid sm:grid-cols-[minmax(0,15rem)_1fr] gap-8 items-start">
         <div className="group max-w-[15rem] w-full mx-auto sm:mx-0">
           <RecordSleeve album={album} size="lg" composerName={composer.name} />
+          {discogsUrl && (
+            <a
+              href={discogsUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="mt-4 flex items-center justify-center gap-1.5 text-[11px] font-mono uppercase tracking-wide px-3 py-2 rounded-full border border-gold/60 text-gold hover:bg-gold hover:text-white transition-colors"
+            >
+              {t.originalCover} <span aria-hidden="true">↗</span>
+            </a>
+          )}
         </div>
         <div>
           <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-gold mb-2">

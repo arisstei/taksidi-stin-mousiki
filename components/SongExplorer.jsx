@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { getSongThumbnail } from "@/lib/media";
 import { GradeMini } from "@/components/GradeBadge";
+import SongThumbFallback from "@/components/SongThumbFallback";
 import { getDictionary } from "@/lib/dictionaries";
 
 const STORAGE_KEY = "song-explorer-state";
@@ -354,7 +355,7 @@ export default function SongExplorer({ songs, lang = "el" }) {
                       loading="lazy"
                     />
                   ) : (
-                    <span className="text-brand/50 text-xl">♪</span>
+                    <SongThumbFallback song={song} />
                   )}
                   <span className="absolute bottom-1 right-1">
                     <GradeMini song={song} lang={lang} />

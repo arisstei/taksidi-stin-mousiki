@@ -7,7 +7,7 @@ import DiamondDivider from "@/components/DiamondDivider";
 import SongExplorer from "@/components/SongExplorer";
 import RandomSongButton from "@/components/RandomSongButton";
 import { getDictionary } from "@/lib/dictionaries";
-import { getAllComposers, getAlbumsByComposer, localizeComposer } from "@/lib/albums";
+import { getAllComposers, getAlbumsByComposer, localizeComposer, getAllAlbums } from "@/lib/albums";
 import { getDiscDict } from "@/lib/discDict";
 import ComposersIndex from "@/components/ComposersIndex";
 
@@ -31,7 +31,14 @@ function lyricistCards(lang) {
 export default function HomeContent({ songs: rawSongs, lang = "el" }) {
   const t = getDictionary(lang);
   const basePath = lang === "en" ? "/en" : "";
-  const songs = rawSongs.map((s) => localizeSong(s, lang));
+  // πρώτος δίσκος (χρονολογικά) κάθε τραγουδιού — για τη μικρογραφία όσων δεν έχουν βίντεο
+  const firstAlbum = {};
+  for (const a of getAllAlbums()) {
+    for (const t of a.tracks || []) {
+      if (t.song && !firstAlbum[t.song]) firstAlbum[t.song] = { slug: a.slug, title: a.title, year: a.year };
+    }
+  }
+  const songs = rawSongs.map((s) => ({ ...localizeSong(s, lang), albumSleeve: firstAlbum[s.slug] || null }));
 
   const realSongs = songs.filter((s) => !s.isProfile && !s.isStub);
   const allSlugs = realSongs.map((s) => s.slug);
