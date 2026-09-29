@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    }
+  },
+  "recording": {
+    "performer": "Λάκης Παππάς",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=qmaCpu-gT4I",
+    "videoLabel": "Λάκης Παππάς — Στην ποταμιά σωπαίνει το κανόνι"
   }
 }

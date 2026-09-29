@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Οι Μπαλάντες της Οδού Αθηνάς” (1983).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Νένα Βενετσάνου",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=bMOl7at5kJk",
+    "videoLabel": "Νένα Βενετσάνου — Η Μαριάνθη των ανέμων"
   }
 }

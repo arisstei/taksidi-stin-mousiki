@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Τραγούδια για την Ελένη” (1978), “Για την Ελένη” (1985).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Στέλιος Μαρκετάκης",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=tA143LLFPow",
+    "videoLabel": "Στέλιος Μαρκετάκης — Στην πύλη τ' Αδριανού"
   }
 }

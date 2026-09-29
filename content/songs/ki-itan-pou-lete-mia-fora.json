@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Μανώλης Λιδάκης",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=CX46e0cFw4U",
+    "videoLabel": "Μανώλης Λιδάκης — Κι ήταν που λέτε μια φορά (Πρόλογος)"
   }
 }

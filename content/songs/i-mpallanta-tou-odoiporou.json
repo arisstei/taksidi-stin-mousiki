@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Γιάννης Δημητράς",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=zDZ5vO5ycBg",
+    "videoLabel": "Γιάννης Δημητράς — Η μπαλλάντα του Οδοιπόρου"
   }
 }

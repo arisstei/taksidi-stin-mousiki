@@ -23,11 +23,20 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 69"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/enas-euaisthetos-lestes/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 69"
+  },
+  "recording": {
+    "performer": "Γιώργος Ρωμανός (live)",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=QEowtWRWK5U",
+    "videoLabel": "Γιώργος Ρωμανός (live) — Ένας ευαίσθητος ληστής"
   }
 }

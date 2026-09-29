@@ -23,11 +23,20 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 303"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/o-ephialtes-tes-persephones/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 303"
+  },
+  "recording": {
+    "performer": "Μαρία Φαραντούρη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=9hZ3FD8-JT4",
+    "videoLabel": "Μαρία Φαραντούρη — Ο εφιάλτης της Περσεφόνης"
   }
 }

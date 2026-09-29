@@ -5,11 +5,13 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1976",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Αθανασία» (1976), «30 Νυχτερινά» (1983), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Μια παλιά κινηματογραφική μελωδία που ο Γκάτσος έντυσε αργότερα με στίχους.",
+  "story": [
+    "Στον δίσκο «Αθανασία» (1976) η «Μπαλάντα του Ούρι» ανοίγει τον δίσκο ως ορχηστρικό. Η μελωδία είναι παλιά κινηματογραφική μουσική του Χατζιδάκι, στην οποία αργότερα μπήκαν στίχοι του Γκάτσου.",
+    "Με αυτούς τους στίχους ηχογραφήθηκε το 1983 με τίτλο «Αχ ουρανέ» από τη Δήμητρα Γαλάνη, στον δίσκο της «Ατέλειωτος δρόμος»."
+  ],
   "sources": [
     {
       "label": "Discogs — Αθανασία (1976)",
@@ -22,20 +24,36 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθανασία” του Μάνου Χατζιδάκι και του Νίκου Γκάτσου»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/i-athanasia-toy-xatzidaki-kai-toy-gkatso/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Αθανασία” (1976), “30 Νυχτερινά” (1983), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": [],
+    "teaser": "An old film melody that Gatsos later dressed with lyrics.",
+    "story": [
+      "On the album «Athanasia» (1976) the «Ballad of Uri» opens the record as an instrumental. The melody is old film music by Hadjidakis, to which lyrics by Gatsos were added later.",
+      "With those lyrics it was recorded in 1983 under the title «Ach ourane» by Dimitra Galani, on her album «Ateleiotos dromos»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/e-mpalanta-tou-ouri/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
+  },
+  "recording": {
+    "performer": "Βασίλης Λέκκας",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=eJDEbi_nORo",
+    "videoLabel": "Βασίλης Λέκκας — Η μπαλάντα του Ούρι"
   }
 }

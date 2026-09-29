@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Ρυθμολογία και ο Κύκλος του C.N.S.” (1971), “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=wkLSFjlfVb4",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Μια θλιμμένη αρχόντισσα"
   }
 }

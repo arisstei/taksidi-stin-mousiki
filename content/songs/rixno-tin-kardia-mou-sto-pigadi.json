@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    }
+  },
+  "recording": {
+    "performer": "Λάκης Παππάς",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=0m22fQAi8TE",
+    "videoLabel": "Λάκης Παππάς — Ρίχνω την καρδιά μου στο πηγάδι"
   }
 }

@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ο Μεγάλος Ερωτικός” (1972).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Δημήτρης Ψαριανός",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=TMtWx8BE6bM",
+    "videoLabel": "Δημήτρης Ψαριανός — Μέρες του 1903"
   }
 }

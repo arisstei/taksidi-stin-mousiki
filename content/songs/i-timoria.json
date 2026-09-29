@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Τζένη Βάνου",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=pP39EeflZXw",
+    "videoLabel": "Τζένη Βάνου — Η τιμωρία"
   }
 }

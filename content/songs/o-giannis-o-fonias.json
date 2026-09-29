@@ -5,11 +5,14 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1976",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Αθανασία» (1976), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Πίσω από τον «Γιάννη τον φονιά» βρίσκεται, σύμφωνα με τον Τύπο, μια αληθινή υπόθεση από την Ηλεία του 1960.",
+  "story": [
+    "Σύμφωνα με δημοσίευμα του Έθνους, το τραγούδι βασίζεται σε αληθινή υπόθεση που συγκλόνισε την ελληνική επαρχία στις αρχές της δεκαετίας του 1960, σε χωριό της Ηλείας. Ένας αγρότης που έπαιζε λαούτο στα πανηγύρια σκότωσε τη γυναίκα του, όταν ανακάλυψε ότι είχε σχέση με τον φίλο του, τον βιολιστή. Παραδόθηκε στη Χωροφυλακή, δικάστηκε και το δικαστήριο έκρινε ότι έδρασε εν βρασμώ ψυχής και δεν του επέβαλε ποινή· στο χωριό τον υποδέχτηκαν σαν ήρωα.",
+    "Τη διήγηση την έμαθε ο Γκάτσος από τον δημοσιογράφο και παραγωγό της ΕΡΑ Γιώργο Μητρόπουλο, του οποίου ο πατέρας γνώριζε προσωπικά τον δράστη. Ο πραγματικός δράστης δεν λεγόταν Γιάννης — το όνομα το άλλαξε ο ποιητής για τις ανάγκες του τραγουδιού, που μετατρέπει μια εγκληματική υπόθεση σε ποιητικό σχόλιο για την ενοχή, την απώλεια και τις κοινωνικές αντιλήψεις μιας άλλης εποχής.",
+    "Το τραγούδι ηχογραφήθηκε στον δίσκο «Αθανασία» (Columbia, 1976) με τον Μανώλη Μητσιά. Όπως έχει πει ο ίδιος ο Μητσιάς, ο Χατζιδάκις του είχε δώσει μία μόνη οδηγία για την ερμηνεία: «να το πεις συνωμοτικά»."
+  ],
   "sources": [
     {
       "label": "Discogs — Αθανασία (1976)",
@@ -18,20 +21,43 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Έθνος — «Ο Γιάννης ο φονιάς: Η αληθινή ιστορία πίσω από το εμβληματικό τραγούδι των Γκάτσου - Χατζιδάκι»",
+      "url": "https://www.ethnos.gr/music/article/416044/ogiannhsofoniashalhthinhistoriapisoapotoemblhmatikotragoyditongkatsoyxatzidakipoybrethhkestoepikentro"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — Η «Αθανασία» του Χατζιδάκι και του Γκάτσου: κατάλογος δίσκου και συντελεστές",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/i-athanasia-toy-xatzidaki-kai-toy-gkatso/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Αθανασία” (1976), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "According to the press, «Giannis the Killer» rests on a real case from Ilia, in 1960.",
+    "story": [
+      "According to a report in the newspaper Ethnos, the song is based on a true case that shook the Greek countryside in the early 1960s, in a village in Ilia. A farmer who played the laouto at village festivals killed his wife after discovering that she was involved with his friend, the fiddler. He gave himself up to the Gendarmerie and was tried; the court ruled he had acted in a fit of passion and imposed no sentence, and he was welcomed in the village as a hero.",
+      "Gatsos heard the story from the journalist and Radio (ERA) producer Giorgos Mitropoulos, whose father knew the man personally. The real man was not called Giannis — the poet changed the name for the song, which turns a crime story into a poetic comment on guilt, loss and the social attitudes of another era.",
+      "The song was recorded on the album «Athanasia» (Columbia, 1976) with Manolis Mitsias. As Mitsias himself has said, Hadjidakis gave him a single instruction for the performance: «say it conspiratorially»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 289"
+    },
+    "caveat": "The account of the real case rests on a single press report, with no archival evidence (court record, original testimony). We present it as reported, not as confirmed.",
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/o-giannes-o-phonias/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 289"
+  },
+  "caveat": "Η αφήγηση για την αληθινή υπόθεση στηρίζεται σε ένα δημοσίευμα Τύπου, χωρίς παραπομπή σε αρχειακό τεκμήριο (δικαστική απόφαση, πρωτότυπη μαρτυρία). Την παρουσιάζουμε ως αναφερόμενη, όχι ως επιβεβαιωμένη.",
+  "recording": {
+    "performer": "Μανώλης Μητσιάς",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=3AxA1FLv7FY",
+    "videoLabel": "Μανώλης Μητσιάς — Ο Γιάννης ο φονιάς"
   }
 }

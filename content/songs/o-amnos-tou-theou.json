@@ -23,11 +23,20 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 306"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/o-amnos-tou-theou/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 306"
+  },
+  "recording": {
+    "performer": "Μαρία Φαραντούρη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=QSKUuOWtgyY",
+    "videoLabel": "Μαρία Φαραντούρη — Ο αμνός του Θεού"
   }
 }

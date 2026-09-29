@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Καπετάν Μιχάλης” (1966).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    }
+  },
+  "recording": {
+    "performer": "Γιώργος Ρωμανός",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=TaWCJAWTjdM",
+    "videoLabel": "Γιώργος Ρωμανός — Βαριά απόψε η νύχτα"
   }
 }

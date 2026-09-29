@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “30 Νυχτερινά” (1983), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Ορέστης Χαλκιάς",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=GzKyFx1g_TQ",
+    "videoLabel": "Ορέστης Χαλκιάς — Μια πόλη μαγική"
   }
 }

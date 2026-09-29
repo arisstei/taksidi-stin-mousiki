@@ -5,11 +5,13 @@
   "lyricist": "Μάνος Χατζιδάκις",
   "year": "1961",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Απόψε αυτοσχεδιάζουμε» (1961), «Δεκαπέντε Εσπερινοί» (1965), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Το τρίτο τραγούδι της παράστασης «Απόψε αυτοσχεδιάζουμε» (1961) — το τραγούδησε επί σκηνής η Βούλα Ζουμπουλάκη.",
+  "story": [
+    "Η «Πέτρα» είναι το τρίτο από τα τραγούδια που έγραψε ο Χατζιδάκις για την παράσταση «Απόψε αυτοσχεδιάζουμε» του Πιραντέλλο (θέατρο Αθηνών, Οκτώβριος 1961, θίασος Δημήτρη Μυράτ).",
+    "Ενώ ο «Ταχυδρόμος» και το «Μαντολίνο» τραγουδήθηκαν από τη Ζωή Φυτούση, την «Πέτρα» την έλεγε επί σκηνής η ηθοποιός Βούλα Ζουμπουλάκη, σύζυγος του Δημήτρη Μυράτ."
+  ],
   "sources": [
     {
       "label": "Discogs — Απόψε Αυτοσχεδιάζουμε (1961)",
@@ -22,11 +24,18 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Avopolis (Χάρης Συμβουλίδης) — «Ο Ταχυδρόμος Πέθανε: 15 ελληνικές και διεθνείς όψεις»",
+      "url": "https://www.avopolis.gr/articles/articles-greek/61021-taxydromos-fytousi-afieroma"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Απόψε αυτοσχεδιάζουμε” (1961), “Δεκαπέντε Εσπερινοί” (1965), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
+    "teaser": "The third song of the 1961 production «Tonight We Improvise» — sung on stage by Voula Zouboulaki.",
+    "story": [
+      "«The stone» is the third of the songs Hadjidakis wrote for Pirandello's «Tonight We Improvise» (Athinon Theatre, October 1961, Dimitris Myrat's company).",
+      "While «The postman died» and the «Mandolin» were sung by Zoe Fytousi, «The stone» was sung on stage by the actress Voula Zouboulaki, Dimitris Myrat's wife."
+    ]
   }
 }

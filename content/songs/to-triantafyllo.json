@@ -31,6 +31,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “30 Νυχτερινά” (1983) and 1 more.",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=qg9vgiswWNQ",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Το τριαντάφυλλο"
   }
 }

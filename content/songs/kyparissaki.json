@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “30 Νυχτερινά” (1983), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    }
+  },
+  "recording": {
+    "performer": "Νάνα Μούσχουρη",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=mYLMVi6QPb8",
+    "videoLabel": "Νάνα Μούσχουρη — Κυπαρισσάκι"
   }
 }

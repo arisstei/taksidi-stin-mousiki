@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Μαρία Κάτηρα",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=3wmPOAw2-g4",
+    "videoLabel": "Μαρία Κάτηρα — Στα νερά του Ιορδάνη"
   }
 }

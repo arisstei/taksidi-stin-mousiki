@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Η Εποχή της Μελισσάνθης” (1980).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Χορωδία του Τρίτου, Βασίλης Λέκκας",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=mBgXNMHq_TQ",
+    "videoLabel": "Χορωδία του Τρίτου, Βασίλης Λέκκας — Στον μεγάλο δρόμο από άσφαλτο"
   }
 }

@@ -19,6 +19,14 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=oMUrc9rsYcU",
+    "videoLabel": "Σε παραλία ερημική"
   }
 }

@@ -23,11 +23,20 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 466"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/pou-to-pegan-to-paidi/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 466"
+  },
+  "recording": {
+    "performer": "Αλίκη Καγιαλόγλου",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=f95kdGQDVJ8",
+    "videoLabel": "Αλίκη Καγιαλόγλου — Πού το πήγαν το παιδί"
   }
 }

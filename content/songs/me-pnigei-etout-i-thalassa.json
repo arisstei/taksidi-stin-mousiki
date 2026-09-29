@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ρυθμολογία και ο Κύκλος του C.N.S.” (1971).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=6MuoU_XkCSA",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Με πνίγει ετούτ' η θάλασσα"
   }
 }

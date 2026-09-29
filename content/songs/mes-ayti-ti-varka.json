@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Μανταλένα” (1990).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Αλίκη Βουγιουκλάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=C3LKjR7EHuE",
+    "videoLabel": "Αλίκη Βουγιουκλάκη — Μεσ' αυτή τη βάρκα"
   }
 }

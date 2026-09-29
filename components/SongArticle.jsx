@@ -190,10 +190,15 @@ export default function SongArticle({ song, lang = "el", albums = [] }) {
         </div>
       )}
 
-      {(song.firstPerformance || song.famousPerformance) && (
+      {(song.firstPerformance || song.famousPerformance || song.recording) && (
         <section className="mt-10">
           <h2 className="font-serif text-lg text-ink mb-3">{t.performancesHeading}</h2>
           <div className="grid sm:grid-cols-2 gap-4">
+            <PerformanceCard
+              heading={t.recordingHeading}
+              performance={song.recording}
+              t={t}
+            />
             <PerformanceCard
               heading={t.firstPerformance}
               performance={song.firstPerformance}

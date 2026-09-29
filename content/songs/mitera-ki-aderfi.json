@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Η Εποχή της Μελισσάνθης” (1980), “Η Εποχή της Μελισσάνθης” (1980), “Η Εποχή της Μελισσάνθης” (1980).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Μαρία Φαραντούρη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=0ixes72xvLA",
+    "videoLabel": "Μαρία Φαραντούρη — Μητέρα κι αδερφή"
   }
 }

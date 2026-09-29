@@ -30,6 +30,15 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 34"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
+  },
+  "recording": {
+    "performer": "Αλίκη Βουγιουκλάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=RXAxU7K1aeU",
+    "videoLabel": "Αλίκη Βουγιουκλάκη — Θαλασσοπούλια μου"
   }
 }

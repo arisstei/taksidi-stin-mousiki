@@ -5,20 +5,38 @@
   "lyricist": "Μάνος Χατζιδάκις",
   "year": "1962",
   "performer": "Μάρω Κοντού, χορωδία",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Οδός Ονείρων» (1962).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Η Μάρω Κοντού δεν ήθελε να τραγουδήσει τη «Μαύρη Φορντ» — και έμεινε το τραγούδι που θυμούνται από την «Οδό Ονείρων».",
+  "story": [
+    "Η «Μαύρη Φορντ» τραγουδήθηκε από τη Μάρω Κοντού στη μουσική παράσταση «Οδός Ονείρων» (1962), με μουσική του Χατζιδάκι.",
+    "Όπως έχει πει η ίδια σε συνεντεύξεις της, λίγο έλειψε να φύγει από την παράσταση: ένιωθε «ριγμένη», γιατί δεν είχε κάποιο σπουδαίο νούμερο, ώσπου ο Χατζιδάκις έφερε τη «Μαύρη Φορντ» — που στην αρχή δεν της άρεσε καθόλου. Ο σκηνοθέτης Τάκης (Σολωμός) της είπε ότι δύο πράγματα θα μείνουν από την «Οδό Ονείρων»: το «Ηθοποιός σημαίνει φως» και η «Μαύρη Φορντ» — και, όπως παραδέχτηκε η ίδια, είχε δίκιο."
+  ],
   "sources": [
     {
       "label": "Discogs — Οδός Ονείρων (1962)",
       "url": "https://www.discogs.com/master/378708"
+    },
+    {
+      "label": "debater.gr — «Μάρω Κοντού: Η “Οδός Ονείρων” και η “Μαύρη Φορντ” του Χατζιδάκι» (με αποσπάσματα από συνεντεύξεις της)",
+      "url": "https://debater.gr/politismos/maro-kontoy-i-odos-oneiron-kai-i-mayri-fornt-toy-chatzidaki-ti-eiche-pei-o-chorn/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Οδός Ονείρων” (1962).",
-    "story": []
+    "teaser": "Maro Kontou didn't want to sing «The Black Ford» — and it became the song people remember from «Dream Street».",
+    "story": [
+      "«The Black Ford» was sung by Maro Kontou in the musical «Odos Oneiron» (Dream Street, 1962), with music by Hadjidakis.",
+      "As she has said in interviews, she nearly left the production: she felt left out because she had no great number, until Hadjidakis brought «The Black Ford» — which at first she did not like at all. The director Takis (Solomos) told her that two things would remain from «Dream Street»: «Actor means light» and «The Black Ford» — and, as she admitted, he was right."
+    ],
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    }
+  },
+  "recording": {
+    "performer": "Μάρω Κοντού",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=jBKkc4JBM60",
+    "videoLabel": "Μάρω Κοντού — Η μαύρη Φορντ"
   }
 }

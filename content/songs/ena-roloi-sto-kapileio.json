@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Η Εποχή της Μελισσάνθης” (1980).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Βασίλης Λέκκας, Γιώργος Μιχαλισλής",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=7BAk7yzWoWM",
+    "videoLabel": "Βασίλης Λέκκας, Γιώργος Μιχαλισλής — Ένα ρολόι στο καπηλειό"
   }
 }

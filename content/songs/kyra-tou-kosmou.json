@@ -23,11 +23,20 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 424"
+    },
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/kura-tou-kosmou/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 424"
+  },
+  "recording": {
+    "performer": "Μανώλης Μητσιάς",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=aKEU9BLTdWI",
+    "videoLabel": "Μανώλης Μητσιάς — Κύρα του κόσμου"
   }
 }

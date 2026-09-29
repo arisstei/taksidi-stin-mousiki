@@ -5,11 +5,13 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1976",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Αθανασία» (1976), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο «Τσάμικος» γράφτηκε μέσα σε δέκα λεπτά, σύμφωνα με τον Μανώλη Μητσιά, που ήταν εκεί.",
+  "story": [
+    "Ο Μανώλης Μητσιάς έχει διηγηθεί, σε συνέντευξή του (Ιανουάριος 2009), πώς γράφτηκε ο «Τσάμικος» για τον δίσκο «Αθανασία» (1976): η μουσική γράφτηκε την τελευταία στιγμή, παρουσία του, μέσα σε δέκα λεπτά. Πέρασε από το σπίτι του Γκάτσου, πήρε τους στίχους και μετά πήγε να πάρει τον Χατζιδάκι για το στούντιο.",
+    "Ο Χατζιδάκις ήταν τότε διευθυντής του Τρίτου Προγράμματος και ξυπνούσε αργά· η ηχογράφηση είχε αναβληθεί τρεις φορές γιατί κοιμόταν αργά. Στο στούντιο, όταν άκουσε τον τίτλο «Τσάμικο», αντέδρασε με απορία και έστειλε τον Μητσιά να πιει καφέ, ενώ δούλευε με τον μπουζουκιτζή Θανάση Πολυκανδριώτη. Σε ένα τέταρτο, λέει ο Μητσιάς, το τραγούδι ήταν έτοιμο. Τον τίτλο — και μαζί το ρυθμό — τον είχε δώσει ο Γκάτσος εξαρχής· στην ηχογράφηση έπαιξε κιθάρα ο Νότης Μαυρουδής, που, κατά τον Μητσιά, «τρελάθηκε» με το αποτέλεσμα."
+  ],
   "sources": [
     {
       "label": "Discogs — Αθανασία (1976)",
@@ -18,20 +20,29 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθανασία” του Μάνου Χατζιδάκι και του Νίκου Γκάτσου»: συνέντευξη του Μανώλη Μητσιά (Ιανουάριος 2009) για τον «Τσάμικο»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/i-athanasia-toy-xatzidaki-kai-toy-gkatso/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Αθανασία” (1976), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "«Tsamikos» was written in ten minutes, according to Manolis Mitsias, who was there.",
+    "story": [
+      "Manolis Mitsias has told, in an interview (January 2009), how «Tsamikos» came about for the album «Athanasia» (1976): the music was written at the last minute, in his presence, in ten minutes. He stopped by Gatsos's house, picked up the lyrics and then went to collect Hadjidakis for the studio.",
+      "Hadjidakis was then director of the Third Programme and woke up late; the recording had been postponed three times because he slept late. In the studio, when he heard the title «Tsamikos», he reacted with bafflement and sent Mitsias off for a coffee while he worked with the bouzouki player Thanasis Polykandriotis. In a quarter of an hour, Mitsias says, the song was ready. Gatsos had supplied the title — and with it the rhythm — from the start; Notis Mavroudis played guitar on the recording and, per Mitsias, «went wild» over the result."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 296"
-    }
+    },
+    "caveat": "The story rests on the testimony of a participant (Mitsias) in one published interview; we have not found a second independent confirmation."
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/tsamikos/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 296"
-  }
+  },
+  "caveat": "Η ιστορία στηρίζεται στη μαρτυρία ενός συντελεστή (Μητσιάς) σε μία δημοσιευμένη συνέντευξη· δεν έχουμε βρει δεύτερη ανεξάρτητη επιβεβαίωση."
 }

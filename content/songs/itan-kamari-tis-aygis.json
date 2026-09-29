@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=cZRN5Bwicbg",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Ήταν καμάρι της αυγής"
   }
 }

@@ -5,11 +5,14 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1966",
   "performer": "Γιώργος Ρωμανός · Φλέρυ Νταντωνάκη",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Μυθολογία» (1966), «Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος» (1977), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ένα τραγούδι που ξέφυγε από τη «Μυθολογία» και έγινε πιο γνωστό από ολόκληρο τον δίσκο.",
+  "story": [
+    "Το «Με την Ελλάδα καραβοκύρη», με τη γνωστή επωδό προς τον Άγιο Νικόλαο, ανήκει στη «Μυθολογία» των Χατζιδάκι και Γκάτσου, που εκδόθηκε το 1965 και τραγουδήθηκε από τον Γιώργο Ρωμανό.",
+    "Πολύ αργότερα, όταν ο Χατζιδάκις ξανάκανε τη «Μυθολογία» με τη Νένα Βενετσάνου, αφαίρεσε — όπως έλεγε ο ίδιος — τα τέσσερα τραγούδια που είχαν μπει για να «γεμίσει» ο δίσκος, και στις συναυλίες έλεγε μόνο τα οκτώ. Ανάμεσα στα τέσσερα ήταν κι αυτό, που τελικά παίζεται περισσότερο απ' όλη τη «Μυθολογία» μαζί. Όπως και το «Αερικό», «αυτονομήθηκε» και έκανε τη δική του καριέρα.",
+    "Το τραγούδι έχει θαλασσινό χρώμα: καράβια που ταξιδεύουν προς το Μαρόκο, τη Βεγγάζη και την Αίγυπτο, και μια προσευχή στον προστάτη των ναυτικών να «στρώσει λουλούδια» στα πέλαγα. Ο Χατζιδάκις το συμπεριέλαβε και στη «Λαϊκή Αγορά — 30 τραγούδια 1959–1975», όπου το τραγούδησε ο Βασίλης Λέκκας."
+  ],
   "sources": [
     {
       "label": "Discogs — Μυθολογία (1966)",
@@ -22,20 +25,37 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Μικροπράγματα / LiFO (Παναγιώτης Αντ. Ανδριόπουλος) — «Με την Ελλάδα καραβοκύρη»: Η ιστορία του τραγουδιού των Χατζιδάκι και Γκάτσου",
+      "url": "https://mikropragmata.lifo.gr/guest_posts/me-tin-ellada-karavokyri-i-istoria-tou-tragoudiou-ton-chatzidaki-kai-gkatsou/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Μυθολογία” (1966), “Οι γειτονιές του φεγγαριού / Χωρίον ο Πόθος” (1977), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "A song that broke away from «Mythology» and became better known than the whole record.",
+    "story": [
+      "«Me tin Ellada karavokyri», with its well-known refrain to Saint Nicholas, belongs to «Mythology» by Hadjidakis and Gatsos, released in 1965 and sung by Giorgos Romanos.",
+      "Much later, when Hadjidakis redid «Mythology» with Nena Venetsanou, he removed — as he put it — the four songs that had been added to «fill» the record, and in concerts performed only the eight. This was one of the four, yet it is played more today than the whole of «Mythology» together. Like «Aeriko», it became independent and made a career of its own.",
+      "The song has a sea-faring colour: ships sailing to Morocco, Benghazi and Egypt, and a prayer to the patron saint of sailors to «strew flowers» over the seas. Hadjidakis also included it in «Laiki Agora — 30 songs 1959–1975», sung by Vasilis Lekkas."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 65"
+    },
+    "recording": {
+      "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/me-ten-ellada-karabokure/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 65"
+  },
+  "recording": {
+    "performer": "Γιώργος Ρωμανός",
+    "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=NYOFJ2kJgOI",
+    "videoLabel": "Γιώργος Ρωμανός — Με την Ελλάδα καραβοκύρη"
   }
 }

@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ρυθμολογία και ο Κύκλος του C.N.S.” (1971).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Φλέρυ Νταντωνάκη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=9Y_-4xURdFg",
+    "videoLabel": "Φλέρυ Νταντωνάκη — Εγώ είμ' ένα σύννεφο"
   }
 }

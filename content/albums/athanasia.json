@@ -23,14 +23,12 @@
     {
       "pos": "A1",
       "title": "Η μπαλάντα του Ούρι",
-      "song": "i-mpalanta-tou-ouri",
-      "stub": true
+      "song": "i-mpalanta-tou-ouri"
     },
     {
       "pos": "A2",
       "title": "Ο Γιάννης ο φονιάς",
-      "song": "o-giannis-o-fonias",
-      "stub": true
+      "song": "o-giannis-o-fonias"
     },
     {
       "pos": "A3",
@@ -53,8 +51,7 @@
     {
       "pos": "A6",
       "title": "Αθανασία",
-      "song": "athanasia",
-      "stub": true
+      "song": "athanasia"
     },
     {
       "pos": "B1",
@@ -65,8 +62,7 @@
     {
       "pos": "B2",
       "title": "Τσάμικος",
-      "song": "tsamikos",
-      "stub": true
+      "song": "tsamikos"
     },
     {
       "pos": "B3",

@@ -23,6 +23,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Μελίνα Μερκούρη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=KRv_scEBEjw",
+    "videoLabel": "Μελίνα Μερκούρη — Έγινε παρεξήγηση"
   }
 }

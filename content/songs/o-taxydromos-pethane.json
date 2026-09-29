@@ -5,11 +5,15 @@
   "lyricist": "Μάνος Χατζιδάκις",
   "year": "1961",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Απόψε αυτοσχεδιάζουμε» (1961), «Δεκαπέντε Εσπερινοί» (1965), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Γράφτηκε για μια παράσταση Πιραντέλλο το 1961 — και προοριζόταν για άλλη τραγουδίστρια, που αρνήθηκε.",
+  "story": [
+    "Το τραγούδι γράφτηκε για την παράσταση «Απόψε αυτοσχεδιάζουμε» του Λουίτζι Πιραντέλλο, που ανέβασε τον Οκτώβριο του 1961 στο θέατρο Αθηνών ο θίασος του Δημήτρη Μυράτ. Ο Μυράτ υπέγραφε τη σκηνοθεσία και τη μετάφραση. Τη μουσική έγραψε ο Χατζιδάκις, που ήταν παρών και διηύθυνε ο ίδιος την ορχήστρα· τα τραγούδια κυκλοφόρησαν την ίδια χρονιά σε δίσκο 45 στροφών της Columbia.",
+    "Ο Χατζιδάκις είχε πει ότι ήθελε τραγούδια που να πάνε «πιο μπροστά» από όσα είχε γράψει ως τότε: λαϊκά, χωρίς να προσποιούνται το λαϊκό. Έγραψε τρία — «Φέρτε μου ένα μαντολίνο», «Ο ταχυδρόμος πέθανε» και «Η πέτρα» — κι έμειναν και τα τρία.",
+    "Δύο από αυτά προορίζονταν για την Τζένη Βάνου. Εκείνη αρνήθηκε για να μη στεναχωρήσει τον Μίμη Πλέσσα, με τον οποίο ο Χατζιδάκις είχε τότε δημόσια αντιπαράθεση στον Τύπο. Τον ρόλο πήρε η ηθοποιός Ζωή Φυτούση, χωρίς καμία προηγούμενη εμπειρία στο τραγούδι· κάτι στη φωνή της γοήτευσε τον συνθέτη. Είναι η πρώτη εκτέλεση επί σκηνής αλλά και η πρώτη δισκογραφική καταγραφή του τραγουδιού.",
+    "Στη συνέχεια το τραγούδησαν πολλοί: η Λόλα Τσακίρη και ο Γιώργος Μούτσιος (κι οι δύο 1961), η Καίτη Μπελίντα (1962), ο ίδιος ο Χατζιδάκις σε ορχηστρική εκδοχή για πιάνο στους «15 Εσπερινούς» (1964), ο Georges Moustaki στα γαλλικά ως «Le Facteur» (1969), η Σαβίνα Γιαννάτου (1983) και άλλοι — 15 εκδοχές καταγράφει το άρθρο του Avopolis."
+  ],
   "sources": [
     {
       "label": "Discogs — Απόψε Αυτοσχεδιάζουμε (1961)",
@@ -22,11 +26,32 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Avopolis (Χάρης Συμβουλίδης) — «Ο Ταχυδρόμος Πέθανε: 15 ελληνικές και διεθνείς όψεις»",
+      "url": "https://www.avopolis.gr/articles/articles-greek/61021-taxydromos-fytousi-afieroma"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Απόψε αυτοσχεδιάζουμε” (1961), “Δεκαπέντε Εσπερινοί” (1965), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "teaser": "Written for a 1961 Pirandello production — and meant for another singer, who turned it down.",
+    "story": [
+      "The song was written for Luigi Pirandello's «Tonight We Improvise», staged in October 1961 at the Athinon Theatre by Dimitris Myrat's company; Myrat directed and translated it. Hadjidakis wrote the music, was present and conducted the orchestra himself, and the songs came out the same year on a 45 rpm record from Columbia.",
+      "Hadjidakis had said he wanted songs that went further than anything he had written before: popular, yet not pretending to be popular. He wrote three — «Bring me a mandolin», «The postman died» and «The stone» — and all three lasted.",
+      "Two of them were meant for Jenny Vanou. She declined so as not to upset Mimis Plessas, with whom Hadjidakis was then in a public quarrel in the press. The part went to the actress Zoe Fytousi, who had no previous experience of singing; something in her voice captivated the composer. Hers is both the first stage performance and the first recording of the song.",
+      "Many followed: Lola Tsakiri and Giorgos Moutsios (both 1961), Kaiti Belinda (1962), Hadjidakis himself in an instrumental piano version on «15 Esperinoi» (1964), Georges Moustaki in French as «Le Facteur» (1969), Savina Yannatou (1983) and others — Avopolis lists 15 versions."
+    ],
+    "firstPerformance": {
+      "note": "The first stage performance at the Athinon Theatre and the first recording (Columbia), according to Avopolis."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Ζωή Φυτούση",
+    "year": "1961",
+    "note": "Πρώτη εκτέλεση επί σκηνής στο θέατρο Αθηνών και πρώτη δισκογραφική καταγραφή (Columbia), σύμφωνα με το Avopolis.",
+    "videoUrl": "https://www.youtube.com/watch?v=jCYDccN6r6U",
+    "videoLabel": "Ζωή Φυτούση — Ο ταχυδρόμος πέθανε (1961), όπως παρατίθεται στο άρθρο του Avopolis",
+    "sourceLabel": "Avopolis",
+    "sourceUrl": "https://www.avopolis.gr/articles/articles-greek/61021-taxydromos-fytousi-afieroma"
   }
 }

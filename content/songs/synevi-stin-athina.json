@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Νάνα Μούσχουρη",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=LPKRvcl8A2M",
+    "videoLabel": "Νάνα Μούσχουρη — Συνέβη στην Αθήνα"
   }
 }

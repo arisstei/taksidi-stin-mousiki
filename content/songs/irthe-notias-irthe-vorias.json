@@ -19,6 +19,14 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=xzHGRVlUAro",
+    "videoLabel": "Ήρθε νοτιάς ήρθε βοριάς"
   }
 }

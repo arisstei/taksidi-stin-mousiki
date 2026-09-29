@@ -19,6 +19,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the album “Τραγούδια για την Ελένη” (1978).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Στέλιος Μαρκετάκης",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=0ZRZrSUupAA",
+    "videoLabel": "Στέλιος Μαρκετάκης — Το παλιό σπίτι"
   }
 }

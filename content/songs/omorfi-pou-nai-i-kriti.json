@@ -27,6 +27,15 @@
   "coverVideoUrl": null,
   "en": {
     "teaser": "From the albums “Καπετάν Μιχάλης” (1966), “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975), “Η Φλέρυ Νταντωνάκη στα «Λειτουργικά» του Μάνου Χατζιδάκι” (1991).",
-    "story": []
+    "story": [],
+    "recording": {
+      "note": "Posted by an official YouTube channel."
+    }
+  },
+  "recording": {
+    "performer": "Σπύρος Σακκάς",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=-xFdU05kyKI",
+    "videoLabel": "Σπύρος Σακκάς — Όμορφη που 'ναι η Κρήτη"
   }
 }

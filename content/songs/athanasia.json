@@ -5,11 +5,14 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1976",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Αθανασία» (1976), «30 Νυχτερινά» (1983), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο Χατζιδάκις έγραψε ότι η «Αθανασία» του Γκάτσου είναι ένα παιχνίδι με την ιδέα του θανάτου.",
+  "story": [
+    "Η «Αθανασία» έδωσε το όνομά της στον δίσκο των Χατζιδάκι και Γκάτσου που κυκλοφόρησε από την Columbia το 1976, με τον Μανώλη Μητσιά και τη Δήμητρα Γαλάνη. Ήταν η πρώτη από τις τρεις δουλειές των δύο δημιουργών με τους ίδιους τραγουδιστές που έγινε με τον Χατζιδάκι παρόντα: στις δύο προηγούμενες, λόγω της απουσίας του στην Αμερική, ενορχήστρωσαν και διηύθυναν άλλοι.",
+    "Σε σημείωμα που δημοσιεύτηκε στο ένθετο του CD, ο Χατζιδάκις γράφει ότι η «Αθανασία» του Γκάτσου, όπως κάθε αληθινό τραγούδι, ήταν και παραμένει ένα παιχνίδι. Η ιδέα του θανάτου οδηγεί τον ελεύθερο άνθρωπο να καταλάβει ότι η ύπαρξή του έχει ημερομηνία λήξης· οφείλει να συμφιλιωθεί μ' αυτήν αντί να κρέμεται από τη ζωή — κάτι που, όπως σημειώνει, οι θρησκείες εκμεταλλεύονται υποσχόμενες ατέλειωτη ζωή.",
+    "Ο δίσκος είχε αρχικά σχεδιαστεί μόνο για τον Μητσιά· η Γαλάνη προστέθηκε στην πορεία και τραγούδησε στους τόνους του, αφού οι ορχήστρες είχαν ήδη ηχογραφηθεί. Το εξώφυλλο φέρει πίνακα του Γιώργου Σταθόπουλου."
+  ],
   "sources": [
     {
       "label": "Discogs — Αθανασία (1976)",
@@ -22,12 +25,20 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθανασία” του Μάνου Χατζιδάκι και του Νίκου Γκάτσου»: συντελεστές, σημείωμα του Χατζιδάκι από το ένθετο του CD, συνέντευξη Μητσιά (2009)",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/i-athanasia-toy-xatzidaki-kai-toy-gkatso/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Αθανασία” (1976), “30 Νυχτερινά” (1983), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": [],
+    "teaser": "Hadjidakis wrote that Gatsos's «Athanasia» is a game with the idea of death.",
+    "story": [
+      "«Athanasia» gave its name to the record by Hadjidakis and Gatsos released by Columbia in 1976, with Manolis Mitsias and Dimitra Galani. It was the first of the two men's three works with the same singers that Hadjidakis supervised in person: on the previous two, because he was in America, others arranged and conducted.",
+      "In a note published in the CD booklet, Hadjidakis writes that Gatsos's «Athanasia», like every true song, was and remains a game. The idea of death leads the free person to grasp that their existence has an expiry date; one should make peace with it rather than cling to life — something, he notes, that religions exploit by promising endless life.",
+      "The record was originally planned for Mitsias alone; Galani was added along the way and sang in his keys, since the orchestral tracks had already been recorded. The cover carries a painting by Giorgos Stathopoulos."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 294"

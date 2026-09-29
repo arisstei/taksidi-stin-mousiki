@@ -5,20 +5,29 @@
   "lyricist": "Μάνος Χατζιδάκις",
   "year": "1961",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Απόψε αυτοσχεδιάζουμε» (1961).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ένα από τα τρία τραγούδια της παράστασης «Απόψε αυτοσχεδιάζουμε» (1961) — και η μεγαλύτερη επιτυχία της Ζωής Φυτούση.",
+  "story": [
+    "Το «Φέρτε μου ένα μαντολίνο» είναι ένα από τα τρία τραγούδια που έγραψε ο Χατζιδάκις για την παράσταση «Απόψε αυτοσχεδιάζουμε» του Πιραντέλλο (θέατρο Αθηνών, Οκτώβριος 1961, θίασος Δημήτρη Μυράτ), μαζί με τον «Ταχυδρόμο» και την «Πέτρα».",
+    "Δύο από τα τρία προορίζονταν για την Τζένη Βάνου, που αρνήθηκε για να μη στεναχωρήσει τον Μίμη Πλέσσα· τελικά τα τραγούδησε η ηθοποιός Ζωή Φυτούση. Το «Μαντολίνο» συνεχίζει να ακούγεται συχνά και, σύμφωνα με το Avopolis, είναι η μεγαλύτερη επιτυχία της."
+  ],
   "sources": [
     {
       "label": "Discogs — Απόψε Αυτοσχεδιάζουμε (1961)",
       "url": "https://www.discogs.com/master/385327"
+    },
+    {
+      "label": "Avopolis (Χάρης Συμβουλίδης) — «Ο Ταχυδρόμος Πέθανε: 15 ελληνικές και διεθνείς όψεις»",
+      "url": "https://www.avopolis.gr/articles/articles-greek/61021-taxydromos-fytousi-afieroma"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Απόψε αυτοσχεδιάζουμε” (1961).",
-    "story": []
+    "teaser": "One of the three songs of the 1961 production «Tonight We Improvise» — and Zoe Fytousi's biggest hit.",
+    "story": [
+      "«Bring me a mandolin» is one of the three songs Hadjidakis wrote for Pirandello's «Tonight We Improvise» (Athinon Theatre, October 1961, Dimitris Myrat's company), alongside «The postman died» and «The stone».",
+      "Two of the three were meant for Jenny Vanou, who declined so as not to upset Mimis Plessas; in the end the actress Zoe Fytousi sang them. The «Mandolin» is still heard often and, according to Avopolis, is her biggest hit."
+    ]
   }
 }

@@ -30,6 +30,15 @@
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 15"
+    },
+    "recording": {
+      "note": "Posted by an official YouTube channel."
     }
+  },
+  "recording": {
+    "performer": "Νένα Βενετσάνου",
+    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
+    "videoUrl": "https://www.youtube.com/watch?v=wu1rj2QEdg4",
+    "videoLabel": "Νένα Βενετσάνου — Έλα πάρε μου τη λύπη"
   }
 }
