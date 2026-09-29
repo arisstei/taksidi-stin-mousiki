@@ -5,11 +5,13 @@
   "lyricist": "Μ. Χατζιδάκις",
   "year": "1974",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (1974), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο κύκλος «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης»: στίχοι Μάνου Ελευθερίου, ολοκληρώθηκε στις 16 Ιανουαρίου 1974.",
+  "story": [
+    "Ο «Οδοιπόρος» είναι ο κεντρικός ήρωας του κύκλου «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης», σε στίχους του Μάνου Ελευθερίου. Η υπόθεση, όπως την αφηγείται ο Χατζιδάκις: ο Οδοιπόρος περπατά αδιάκοπα μέσα στη νύχτα, προσπαθώντας να μη θυμάται. Σε μια ερημιά συναντά το Μεθυσμένο Κορίτσι· όταν πάει να το χαϊδέψει, εκείνο βγάζει μαχαίρι και του κόβει το κεφάλι. Το σώμα του μεταμορφώνεται στον Αλκιβιάδη, που από κει και πέρα ψάχνει μέσα του τον Οδοιπόρο, ενώ το κορίτσι βυθίζεται σε ένα πηγάδι για να ενωθεί με το είδωλο — ή του ενός ή του άλλου.",
+    "Ο Χατζιδάκις σημείωσε ότι μια πρώτη μορφή του έργου τελείωσε τα ξημερώματα της 25ης Οκτωβρίου 1973 και ολοκληρώθηκε στην οριστική του μορφή στις 16 Ιανουαρίου 1974."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
@@ -18,11 +20,20 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Τετράδια της Αμπάς — «Μάνος Ελευθερίου / Μάνος Χατζιδάκης: Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (μαρτυρία από πρόβα, με παραθέματα από τα σημειώματα του Χατζιδάκι)",
+      "url": "https://tetradia.blogspot.com/2016/04/Manos-Eleutheriou-Xatzidakis-O-Odoiporos-To-methysmeno-koritsi-kai-O-Alkiviadis.html"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
-  }
+    "teaser": "The cycle «The Wayfarer, the Drunken Girl and Alcibiades»: lyrics by Manos Eleftheriou, completed on 16 January 1974.",
+    "story": [
+      "«The Wayfarer» is the central figure of the cycle «The Wayfarer, the Drunken Girl and Alcibiades», with lyrics by Manos Eleftheriou. The plot, as Hadjidakis tells it: the Wayfarer walks ceaselessly through the night, trying not to remember. In a wasteland he meets the Drunken Girl; when he goes to caress her, she pulls a knife and cuts off his head. His body turns into Alcibiades, who from then on searches within himself for the Wayfarer, while the girl sinks into a well to unite with the image — of one or the other.",
+      "Hadjidakis noted that a first form of the work was finished in the early hours of 25 October 1973 and reached its definitive form on 16 January 1974."
+    ],
+    "caveat": "The source is a personal blog relaying Hadjidakis's notes; we have not checked the original liner note."
+  },
+  "caveat": "Η πηγή είναι προσωπικό blog που μεταφέρει τις σημειώσεις του Χατζιδάκι· δεν έχουμε ελέγξει το πρωτότυπο σημείωμα του δίσκου."
 }

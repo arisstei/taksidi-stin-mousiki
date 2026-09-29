@@ -5,21 +5,30 @@
   "lyricist": null,
   "year": "1974",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (1974).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Το πρώτο τραγούδι του κύκλου του Οδοιπόρου (Ελευθερίου–Χατζιδάκις, 1973–74).",
+  "story": [
+    "Η «Μπαλάντα του Οδοιπόρου» ανοίγει τον κύκλο «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης», σε στίχους του Μάνου Ελευθερίου. Στην αφήγηση που προηγείται, ο Οδοιπόρος είναι μόνος μέσα στον κόσμο και γυρίζει αδιάκοπα σε ερημικές ακρογιαλιές, λόφους, δάση και στενά της πολιτείας, με προορισμό να χαθεί ένα πρωί ή μια βροχερή νύχτα — χωρίς της μάνας την ευχή.",
+    "Ο κύκλος ολοκληρώθηκε, κατά τον Χατζιδάκι, στις 16 Ιανουαρίου 1974· πρώτος ερμηνευτής της μπαλάντας στον δίσκο ήταν ο Γιάννης Δημητράς."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
       "url": "https://www.discogs.com/master/528377"
+    },
+    {
+      "label": "Τετράδια της Αμπάς — «Μάνος Ελευθερίου / Μάνος Χατζιδάκης: Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης»",
+      "url": "https://tetradia.blogspot.com/2016/04/Manos-Eleutheriou-Xatzidakis-O-Odoiporos-To-methysmeno-koritsi-kai-O-Alkiviadis.html"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974).",
-    "story": [],
+    "teaser": "The first song of the Wayfarer cycle (Eleftheriou–Hadjidakis, 1973–74).",
+    "story": [
+      "The «Ballad of the Wayfarer» opens the cycle «The Wayfarer, the Drunken Girl and Alcibiades», with lyrics by Manos Eleftheriou. In the narration that precedes it, the Wayfarer is alone in the world and wanders ceaselessly through lonely shores, hills, forests and city alleys, destined to vanish one morning or on a rainy night — without his mother's blessing.",
+      "The cycle was completed, per Hadjidakis, on 16 January 1974; the ballad's first performer on the record was Giannis Dimitras."
+    ],
     "recording": {
       "note": "Posted by an official YouTube channel."
     }

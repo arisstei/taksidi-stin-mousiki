@@ -21,14 +21,12 @@
     {
       "pos": "Α1",
       "title": "Ο Οδοιπόρος",
-      "song": "o-odoiporos",
-      "stub": true
+      "song": "o-odoiporos"
     },
     {
       "pos": "Α2",
       "title": "Η μπαλλάντα του Οδοιπόρου",
-      "song": "i-mpallanta-tou-odoiporou",
-      "stub": true
+      "song": "i-mpallanta-tou-odoiporou"
     },
     {
       "pos": "Α3",
@@ -57,8 +55,7 @@
     {
       "pos": "Β1",
       "title": "Το μεθυσμένο κορίτσι",
-      "song": "to-methysmeno-koritsi",
-      "stub": true
+      "song": "to-methysmeno-koritsi"
     },
     {
       "pos": "Β2",
@@ -69,8 +66,7 @@
     {
       "pos": "Β3",
       "title": "Ο Αλκιβιάδης",
-      "song": "o-alkiviadis",
-      "stub": true
+      "song": "o-alkiviadis"
     },
     {
       "pos": "Β4",

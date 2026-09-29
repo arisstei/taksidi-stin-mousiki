@@ -5,21 +5,32 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1965",
   "performer": "Λάκης Παππάς",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ματωμένος γάμος / Παραμύθι χωρίς όνομα» (1965).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τον κύκλο που έγραψε ο Χατζιδάκις το 1948 για τον «Ματωμένο γάμο» του Λόρκα στο Θέατρο Τέχνης.",
+  "story": [
+    "Το «Νανούρισμα» ανήκει στα τραγούδια που έγραψε ο Χατζιδάκις το 1948 για τον «Ματωμένο γάμο» του Φεντερίκο Γκαρθία Λόρκα, στη μετάφραση του Νίκου Γκάτσου, σε παράσταση του Θεάτρου Τέχνης με σκηνοθέτη τον Κάρολο Κουν. Στην ιστορία έμειναν η μετάφραση του Γκάτσου, η μουσική του Χατζιδάκι και τα σκηνικά και κοστούμια του Τσαρούχη.",
+    "Το έργο ηχογραφήθηκε τον Οκτώβριο του 1965, με ερμηνευτή τον Λάκη Παππά, και κυκλοφόρησε σε δίσκο μαζί με τη μουσική του για το «Παραμύθι χωρίς όνομα» του Ιάκωβου Καμπανέλλη. Σαράντα χρόνια μετά την πρώτη παράσταση, το 1988, ο Χατζιδάκις έδωσε στον κύκλο την «οριστική μορφή» του για πιάνο και βιολοντσέλο — με τον ίδιο στο πιάνο, τον Στέλιο Ταχιάτη στο τσέλο και τη Νένα Βενετσάνου στο τραγούδι — που ακούγεται στο CD «Η Νένα Βενετσάνου τραγουδά Μάνο Χατζιδάκι».",
+    "Στο σημείωμα του δίσκου ο Χατζιδάκις θυμάται ότι η μετάφραση του Γκάτσου κυκλοφορούσε σε βιβλίο το 1945 και ότι την έλεγαν «σαν προσευχή» με φίλους όπως ο Ελύτης, ο Τσαρούχης και ο Μόραλης, στο πατάρι του Λουμίδη."
+  ],
   "sources": [
     {
       "label": "Discogs — Ματωμένος Γάμος / Παραμύθι Χωρίς Όνομα (1965)",
       "url": "https://www.discogs.com/master/252464"
+    },
+    {
+      "label": "Μικροπράγματα / LiFO (Παναγιώτης Ανδριόπουλος) — «Ο “Ματωμένος γάμος” του Χατζιδάκι για πιάνο, τσέλο και φωνή»",
+      "url": "https://mikropragmata.lifo.gr/aksechasta/o-matomenos-gamos-tou-chatzidaki-gia-piano-tselo-kai-foni/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965).",
-    "story": [],
+    "teaser": "From the cycle Hadjidakis wrote in 1948 for Lorca's «Blood Wedding» at the Art Theatre.",
+    "story": [
+      "The «Lullaby» is one of the songs Hadjidakis wrote in 1948 for Federico García Lorca's «Blood Wedding», in Nikos Gatsos's translation, in a Theatro Technis production directed by Karolos Koun. What survived in history were Gatsos's translation, Hadjidakis's music and Tsarouchis's sets and costumes.",
+      "The work was recorded in October 1965 with Lakis Pappas and released on a record together with his music for Iakovos Kambanellis's «A Tale Without a Name». Forty years after the first production, in 1988, Hadjidakis gave the cycle its «definitive form» for piano and cello — himself at the piano, Stelios Tachiatis on cello and Nena Venetsanou singing — heard on the CD «Nena Venetsanou sings Manos Hadjidakis».",
+      "In the record's liner note Hadjidakis recalls that Gatsos's translation appeared as a book in 1945 and that they recited it «like a prayer» with friends such as Elytis, Tsarouchis and Moralis, in the loft of the Loumidis café."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 33"

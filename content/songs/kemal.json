@@ -5,20 +5,29 @@
   "lyricist": "Martin Fulterman",
   "year": "1970",
   "performer": "Clifton Nivison",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Reflections» (1970).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο Χατζιδάκις το έγραψε στην Αμερική το 1968, με έμπνευση έναν νεαρό που λεγόταν Κεμάλ.",
+  "story": [
+    "Το «Kemal» πρωτοακούστηκε ως αγγλόφωνο τραγούδι του αμερικανικού συγκροτήματος New York Rock & Roll Ensemble, στον δίσκο «Reflections» (1970), στον οποίο συμμετείχε ο Χατζιδάκις. Ο Χατζιδάκις έγραψε τη μουσική στις Η.Π.Α. το 1968, σε συνεργασία με τον Μαρκ Σνόου, που έγραψε τους στίχους. Ο ίδιος ο συνθέτης έλεγε ότι η έμπνευση ήταν ένας νεαρός που είχε γνωρίσει εκεί, με το όνομα Κεμάλ.",
+    "Στα ελληνικά το τραγούδι έγινε γνωστό πολύ αργότερα, όταν ο Χατζιδάκις επανακυκλοφόρησε το «Reflections» το 1993 ως «Αντικατοπτρισμοί», με το κομμάτι να τιτλοφορείται «Κεμάλ». Οι ελληνικοί στίχοι είναι του Νίκου Γκάτσου και διαφέρουν ριζικά από τους αγγλικούς."
+  ],
   "sources": [
     {
       "label": "Discogs — Reflections (1970)",
       "url": "https://www.discogs.com/master/33490"
+    },
+    {
+      "label": "Βικιπαίδεια — «Kemal (τραγούδι)»",
+      "url": "https://el.wikipedia.org/wiki/Kemal_(τραγούδι)"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Reflections” (1970).",
-    "story": []
+    "teaser": "Hadjidakis wrote it in America in 1968, inspired by a young man named Kemal.",
+    "story": [
+      "«Kemal» was first heard as an English-language song by the American band New York Rock & Roll Ensemble, on the album «Reflections» (1970), in which Hadjidakis took part. Hadjidakis wrote the music in the U.S. in 1968, working with Mark Snow, who wrote the lyrics. The composer himself said the inspiration was a young man he had met there, named Kemal.",
+      "In Greek the song became known much later, when Hadjidakis reissued «Reflections» in 1993 as «Antikatoptrismoi», with the piece titled «Kemal». The Greek lyrics are by Nikos Gatsos and differ radically from the English ones."
+    ]
   }
 }

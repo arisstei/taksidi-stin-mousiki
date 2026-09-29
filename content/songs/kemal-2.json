@@ -5,11 +5,13 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1983",
   "performer": "Αλίκη Καγιαλόγλου",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «30 Νυχτερινά» (1983), «Αντικατοπτρισμοί» (1993).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Η ελληνική εκδοχή του «Kemal» (1993), σε στίχους Γκάτσου, με την Αλίκη Καγιαλόγλου και τον Χατζιδάκι στην αφήγηση.",
+  "story": [
+    "Το «Κεμάλ» είναι η ελληνική εκδοχή του τραγουδιού «Kemal», που ο Χατζιδάκις είχε γράψει στην Αμερική το 1968 με αγγλικούς στίχους του Μαρκ Σνόου. Ο ίδιος έλεγε ότι η έμπνευση ήταν ένας νεαρός με αυτό το όνομα που είχε γνωρίσει εκεί.",
+    "Οι ελληνικοί στίχοι του Νίκου Γκάτσου, που διαφέρουν ριζικά από τους πρωτότυπους, ακούστηκαν στον δίσκο «Αντικατοπτρισμοί» (1993), με την Αλίκη Καγιαλόγλου στο τραγούδι και τον Χατζιδάκι στην αφήγηση. Η εκδοχή αυτή θεωρείται από τα καλύτερα κομμάτια του συνθέτη και έχει διασκευαστεί πολλές φορές — από τον Αλκίνοο Ιωαννίδη, τη Νάνα Μούσχουρη, τον Μάριο Φραγκούλη και τον Βασίλη Λέκκα, μεταξύ άλλων. Νωρίτερα, με ελληνικούς στίχους είχε ακουστεί το 1982, από τον Βασίλη Λέκκα, στη συναυλία με τη Μαρία Φαραντούρη."
+  ],
   "sources": [
     {
       "label": "Discogs — 30 Νυχτερινά (1983)",
@@ -18,12 +20,19 @@
     {
       "label": "Discogs — Αντικατοπτρισμοί (1993)",
       "url": "https://www.discogs.com/master/364459"
+    },
+    {
+      "label": "Βικιπαίδεια — «Kemal (τραγούδι)»",
+      "url": "https://el.wikipedia.org/wiki/Kemal_(τραγούδι)"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “30 Νυχτερινά” (1983), “Αντικατοπτρισμοί” (1993).",
-    "story": [],
+    "teaser": "The Greek version of «Kemal» (1993), with lyrics by Gatsos, Alíki Kagialoglou singing and Hadjidakis narrating.",
+    "story": [
+      "«Kemal» (Κεμάλ) is the Greek version of the song Hadjidakis wrote in America in 1968 with English lyrics by Mark Snow. He said the inspiration was a young man of that name he had met there.",
+      "The Greek lyrics by Nikos Gatsos, which differ radically from the originals, were heard on the album «Antikatoptrismoi» (1993), with Aliki Kagialoglou singing and Hadjidakis narrating. This version is considered one of the composer's best pieces and has been covered many times — by Alkinoos Ioannidis, Nana Mouskouri, Marios Fragoulis and Vasilis Lekkas, among others. Earlier, it had been heard with Greek words in 1982, sung by Vasilis Lekkas at the concert with Maria Farantouri."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"

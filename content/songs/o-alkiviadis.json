@@ -5,21 +5,30 @@
   "lyricist": null,
   "year": "1974",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (1974).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο Αλκιβιάδης — το σώμα που γεννιέται από τον χαμένο Οδοιπόρο (Ελευθερίου–Χατζιδάκις, 1973–74).",
+  "story": [
+    "Ο «Αλκιβιάδης» είναι ο τρίτος ήρωας του κύκλου «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης», σε στίχους του Μάνου Ελευθερίου. Όταν το σώμα του αποκεφαλισμένου Οδοιπόρου πέφτει στη γη, μεταμορφώνεται στον Αλκιβιάδη — που από τη στιγμή εκείνη ψάχνει μέσα του να βρει τον Οδοιπόρο, ο οποίος συνεχίζει να τριγυρνά μέσα στο σώμα του και στα οράματα του κοριτσιού.",
+    "Ο κύκλος ολοκληρώθηκε στην οριστική του μορφή στις 16 Ιανουαρίου 1974, κατά το σημείωμα του Χατζιδάκι."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
       "url": "https://www.discogs.com/master/528377"
+    },
+    {
+      "label": "Τετράδια της Αμπάς — «Μάνος Ελευθερίου / Μάνος Χατζιδάκης: Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης»",
+      "url": "https://tetradia.blogspot.com/2016/04/Manos-Eleutheriou-Xatzidakis-O-Odoiporos-To-methysmeno-koritsi-kai-O-Alkiviadis.html"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974).",
-    "story": [],
+    "teaser": "Alcibiades — the body born from the lost Wayfarer (Eleftheriou–Hadjidakis, 1973–74).",
+    "story": [
+      "«Alcibiades» is the third protagonist of the cycle «The Wayfarer, the Drunken Girl and Alcibiades», with lyrics by Manos Eleftheriou. When the beheaded Wayfarer's body falls to the ground, it transforms into Alcibiades — who from then on searches within himself for the Wayfarer, who keeps wandering inside his body and in the girl's visions.",
+      "The cycle reached its definitive form on 16 January 1974, according to Hadjidakis's note."
+    ],
     "recording": {
       "note": "Posted by an official YouTube channel."
     }

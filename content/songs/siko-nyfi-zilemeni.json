@@ -5,20 +5,29 @@
   "lyricist": null,
   "year": "1965",
   "performer": "Λάκης Παππάς",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ματωμένος γάμος / Παραμύθι χωρίς όνομα» (1965).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τον κύκλο του «Ματωμένου γάμου» (1948) — ο Λόρκα στα ελληνικά του Γκάτσου.",
+  "story": [
+    "Το τραγούδι ανήκει στον κύκλο που έγραψε ο Χατζιδάκις το 1948 για τον «Ματωμένο γάμο» του Λόρκα, στη μετάφραση του Νίκου Γκάτσου, για την παράσταση του Θεάτρου Τέχνης σε σκηνοθεσία Κάρολου Κουν (σκηνικά και κοστούμια Τσαρούχη).",
+    "Ο κύκλος ηχογραφήθηκε τον Οκτώβριο του 1965 με τον Λάκη Παππά, και το 1988 ο συνθέτης του έδωσε την οριστική μορφή για πιάνο, τσέλο και φωνή (Νένα Βενετσάνου)."
+  ],
   "sources": [
     {
       "label": "Discogs — Ματωμένος Γάμος / Παραμύθι Χωρίς Όνομα (1965)",
       "url": "https://www.discogs.com/master/252464"
+    },
+    {
+      "label": "Μικροπράγματα / LiFO (Παναγιώτης Ανδριόπουλος) — «Ο “Ματωμένος γάμος” του Χατζιδάκι για πιάνο, τσέλο και φωνή»",
+      "url": "https://mikropragmata.lifo.gr/aksechasta/o-matomenos-gamos-tou-chatzidaki-gia-piano-tselo-kai-foni/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ματωμένος γάμος / Παραμύθι χωρίς όνομα” (1965).",
-    "story": []
+    "teaser": "From the «Blood Wedding» cycle (1948) — Lorca in Gatsos's Greek.",
+    "story": [
+      "The song belongs to the cycle Hadjidakis wrote in 1948 for Lorca's «Blood Wedding», in Nikos Gatsos's translation, for the Theatro Technis production directed by Karolos Koun (sets and costumes by Tsarouchis).",
+      "The cycle was recorded in October 1965 with Lakis Pappas, and in 1988 the composer gave it its definitive form for piano, cello and voice (Nena Venetsanou)."
+    ]
   }
 }

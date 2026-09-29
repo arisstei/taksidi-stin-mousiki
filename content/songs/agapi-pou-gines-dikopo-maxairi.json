@@ -5,20 +5,41 @@
   "lyricist": "Μ. Κακογιάννης",
   "year": "1986",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "verified",
+  "grade": "A",
+  "teaser": "Γράφτηκε για την ταινία «Στέλλα» (1955) — με μελωδία δανεισμένη από τον Τσιτσάνη και μια διαμάχη που έφτασε στα δικαστήρια.",
+  "story": [
+    "Το τραγούδι γράφτηκε το 1955 για την ταινία «Στέλλα» του Μιχάλη Κακογιάννη (με τη Μελίνα Μερκούρη και τον Γιώργο Φούντα), σε μουσική Χατζιδάκι και στίχους του ίδιου του Κακογιάννη. Η Μερκούρη το τραγούδησε πρώτη φορά στην ταινία (Ιούνιος 1955)· στη δισκογραφία πέρασε πρώτα με τη Ζωζώ Σαπουντζάκη το 1955, ενώ η φωνή της Μερκούρη κυκλοφόρησε σε δίσκο το 1958. Λίγο μετά ακολούθησε η Μαρίκα Νίνου.",
+    "Στα πρώτα μέτρα του χρησιμοποιείται η μελωδία του «Τρελού τσιγγάνου» (1947) της Ιωάννας Γεωργακοπούλου και του Στελάκη Περπινιάδη — ένα τραγούδι για την πατρότητα του οποίου υπήρχε διαμάχη ανάμεσα στον Βασίλη Τσιτσάνη και τη Γεωργακοπούλου. Ο Κώστας Φέρρης αφηγείται ότι ο Χατζιδάκις ήθελε να «δανειστεί» μια μελωδία του Τσιτσάνη και ο Τσιτσάνης του πρότεινε τον «Τρελό τσιγγάνο», που είχε «χαρίσει» παλιότερα στη Γεωργακοπούλου. Ο ίδιος ο Τσιτσάνης είπε σε συνέντευξη ότι το «Αγάπη που 'γινες» δεν είναι δικό του: ο Χατζιδάκις πήρε τη βασική μελωδία από τον «Τρελό τσιγγάνο» και τα λόγια είναι του Κακογιάννη.",
+    "Η Γεωργακοπούλου υποστήριξε ότι ο Τσιτσάνης πούλησε τη μελωδία χωρίς να τη ρωτήσει· όταν είδε τη «Στέλλα», αντιλήφθηκε την κλοπή και προσέφυγε στη δικαιοσύνη, που της αναγνώρισε τμήμα των δικαιωμάτων του τραγουδιού. Σε ψηφοφορία του περιοδικού «Δίφωνο» τον Μάιο του 1999 το τραγούδι αναδείχθηκε δεύτερο καλύτερο ελληνικό τραγούδι του 20ού αιώνα."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Βικιπαίδεια — «Αγάπη που 'γινες δίκοπο μαχαίρι» (με παραπομπές σε Κ. Φέρρη, Η. Πετρόπουλο, Κ. Χατζηδουλή και σε συνέντευξη του Β. Τσιτσάνη)",
+      "url": "https://el.wikipedia.org/wiki/Αγάπη_Που_'γινες_Δίκοπο_Μαχαίρι"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
+    "teaser": "Written for the film «Stella» (1955) — with a melody borrowed from Tsitsanis and a dispute that reached the courts.",
+    "story": [
+      "The song was written in 1955 for Michael Cacoyannis's film «Stella» (with Melina Mercouri and Giorgos Foundas), with music by Hadjidakis and lyrics by Cacoyannis himself. Mercouri sang it first in the film (June 1955); on record it first appeared with Zozo Sapountzaki in 1955, while Mercouri's own voice was released on disc in 1958. Marika Ninou followed soon after.",
+      "Its first bars use the melody of «O trelos tsiganos» (1947) by Ioanna Georgakopoulou and Stelakis Perpiniadis — a song whose authorship was disputed between Vassilis Tsitsanis and Georgakopoulou. Kostas Ferris relates that Hadjidakis wanted to «borrow» a Tsitsanis melody and Tsitsanis suggested «O trelos tsiganos», which he had earlier «gifted» to Georgakopoulou. Tsitsanis himself said in an interview that «Agapi pou gines» is not his: Hadjidakis took the basic melody from «O trelos tsiganos» and the words are Cacoyannis's.",
+      "Georgakopoulou maintained that Tsitsanis sold the melody without asking her; when she saw «Stella» she realised the theft and went to court, which awarded her part of the song's rights. In a May 1999 poll by the magazine «Difono» the song was voted the second-best Greek song of the 20th century."
+    ],
+    "firstPerformance": {
+      "note": "First performance in the film «Stella» (June 1955). First record release: Zozo Sapountzaki, 1955."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Μελίνα Μερκούρη",
+    "year": "1955",
+    "note": "Πρώτη εκτέλεση στην ταινία «Στέλλα» (Ιούνιος 1955). Πρώτη δισκογραφική κυκλοφορία: Ζωζώ Σαπουντζάκη, 1955.",
+    "sourceLabel": "Βικιπαίδεια",
+    "sourceUrl": "https://el.wikipedia.org/wiki/Αγάπη_Που_'γινες_Δίκοπο_Μαχαίρι"
   }
 }

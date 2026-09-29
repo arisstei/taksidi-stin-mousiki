@@ -5,20 +5,52 @@
   "lyricist": "Ευτ. Παπαγιαννοπούλου",
   "year": "1986",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Η πρώτη εκτέλεση δεν ήταν του Μπιθικώτση — ακούστηκε πρώτα σε ελληνική ταινία.",
+  "story": [
+    "Σύμφωνα με άρθρο της Μηχανής του Χρόνου (που στηρίζεται στη σειρά «Ένα τραγούδι μια ιστορία» των Νέων), το «Είμαι αητός χωρίς φτερά» ακούστηκε πρώτη φορά στην ταινία «Αγάπη και θύελλα» του Σωκράτη Καψάσκη, από τον Διαμαντή Πανάρετο — όχι από τον Γρηγόρη Μπιθικώτση.",
+    "Ο μύθος θέλει την Ευτυχία Παπαγιαννοπούλου να ρίχνει το χαρτί με τους στίχους κάτω από την πόρτα του σπιτιού του Χατζιδάκι, σε μια εποχή που το τραγούδι άλλαζε εις βάρος των παλιών λαϊκών δημιουργών. Το τραγούδι έγινε γνωστό και αγαπήθηκε από τη φωνή του Μπιθικώτση το 1963· την «δαιμονική» εκτέλεση στο μπουζούκι έκανε ο Γιώργος Ζαμπέτας.",
+    "Η συνεργασία Χατζιδάκι–Μπιθικώτση–Παπαγιαννοπούλου δεν ήρθε από το πουθενά: ο Χατζιδάκις είχε από νωρίς δείξει την αγάπη του για το ρεμπέτικο και το λαϊκό τραγούδι — το 1949 έδωσε διάλεξη γι' αυτό στο Θέατρο Τέχνης — και είχε συναντηθεί με τον Μπιθικώτση για πρώτη φορά το 1955."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Μηχανή του Χρόνου — «Είμαι αϊτός χωρίς φτερά» (πηγή: «Ένα τραγούδι μια ιστορία», Τα Νέα, Δ. Μανιάτης, Μ. Μαρκουλή, Χ. Ποντίδας)",
+      "url": "https://www.mixanitouxronou.gr/ime-aitos-choris-ftera-to-tragoudi-pou-erixe-i-eftichia-papagiannopoulou-kato-apo-tin-porta-tou-chatzidaki-i-proti-ektelesi-den-itan-tou-bithikotsi-alla-akoustike-se-elliniki-tenia/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
-  }
+    "teaser": "The first performance wasn't Bithikotsis's — it was first heard in a Greek film.",
+    "story": [
+      "According to an article by Mixani tou Chronou (based on the series «Ena tragoudi mia istoria» by Ta Nea), «Eimai aitos choris ftera» was first heard in Sokratis Kapsaskis's film «Agapi kai thyella», sung by Diamantis Panaretos — not by Grigoris Bithikotsis.",
+      "Legend has it that Eftychia Papagiannopoulou slipped the sheet with the lyrics under the door of Hadjidakis's home, at a time when songwriting was changing at the expense of the older popular creators. The song became known and loved through Bithikotsis's voice in 1963; the «demonic» bouzouki playing was Giorgos Zambetas's.",
+      "The Hadjidakis–Bithikotsis–Papagiannopoulou collaboration did not come out of nowhere: Hadjidakis had shown his love for rebetiko and popular song early on — in 1949 he gave a lecture on it at the Art Theatre — and had first met Bithikotsis in 1955."
+    ],
+    "caveat": "The anecdote of the paper under the door is what «legend» says; it is not documented by a primary source.",
+    "firstPerformance": {
+      "note": "In Sokratis Kapsaskis's film «Agapi kai thyella», according to Mixani tou Chronou."
+    },
+    "famousPerformance": {
+      "note": "The version that made the song known; Giorgos Zambetas on bouzouki."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Διαμαντής Πανάρετος",
+    "note": "Στην ταινία «Αγάπη και θύελλα» του Σωκράτη Καψάσκη, σύμφωνα με τη Μηχανή του Χρόνου.",
+    "sourceLabel": "Μηχανή του Χρόνου",
+    "sourceUrl": "https://www.mixanitouxronou.gr/ime-aitos-choris-ftera-to-tragoudi-pou-erixe-i-eftichia-papagiannopoulou-kato-apo-tin-porta-tou-chatzidaki-i-proti-ektelesi-den-itan-tou-bithikotsi-alla-akoustike-se-elliniki-tenia/"
+  },
+  "famousPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης",
+    "year": "1963",
+    "note": "Η εκτέλεση που έκανε το τραγούδι γνωστό· στο μπουζούκι ο Γιώργος Ζαμπέτας.",
+    "videoUrl": "https://www.youtube.com/watch?v=-sAeA_bdvp0",
+    "videoLabel": "Γρηγόρης Μπιθικώτσης — Είμαι αητός χωρίς φτερά (ανάρτηση χρήστη στο YouTube)"
+  },
+  "caveat": "Οι στίχοι, λέει το άρθρο, έφτασαν στον Χατζιδάκι με τον τρόπο που θέλει ο «μύθος» — το περιστατικό με το χαρτί κάτω από την πόρτα δεν τεκμηριώνεται με πρωτογενή πηγή."
 }

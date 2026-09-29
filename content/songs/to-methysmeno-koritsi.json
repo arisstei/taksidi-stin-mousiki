@@ -5,11 +5,13 @@
   "lyricist": "Μ. Χατζιδάκις",
   "year": "1974",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης» (1974), «30 Νυχτερινά» (1983), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Το Μεθυσμένο Κορίτσι του κύκλου του Οδοιπόρου (Ελευθερίου–Χατζιδάκις, 1973–74).",
+  "story": [
+    "Το «Μεθυσμένο κορίτσι» είναι ο δεύτερος ήρωας του κύκλου «Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης», σε στίχους του Μάνου Ελευθερίου. Σε μια ερημιά συναντά τον Οδοιπόρο· όταν εκείνος πάει να το χαϊδέψει, βγάζει μαχαίρι και του κόβει το κεφάλι. Στη συνέχεια βυθίζεται σε ένα πηγάδι για να ενωθεί με το είδωλο — ή του Οδοιπόρου ή του Αλκιβιάδη· αυτό, λέει η αφήγηση, ποτέ δεν θα το μάθει.",
+    "Ο κύκλος ολοκληρώθηκε στην οριστική του μορφή στις 16 Ιανουαρίου 1974, κατά το σημείωμα του Χατζιδάκι."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Οδοιπόρος, Το Μεθυσμένο Κορίτσι Και Ο Αλκιβιάδης (1974)",
@@ -22,12 +24,19 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Τετράδια της Αμπάς — «Μάνος Ελευθερίου / Μάνος Χατζιδάκης: Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης»",
+      "url": "https://tetradia.blogspot.com/2016/04/Manos-Eleutheriou-Xatzidakis-O-Odoiporos-To-methysmeno-koritsi-kai-O-Alkiviadis.html"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Ο Οδοιπόρος, το Μεθυσμένο Κορίτσι και ο Αλκιβιάδης” (1974), “30 Νυχτερινά” (1983), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": [],
+    "teaser": "The Drunken Girl of the Wayfarer cycle (Eleftheriou–Hadjidakis, 1973–74).",
+    "story": [
+      "The «Drunken Girl» is the second protagonist of the cycle «The Wayfarer, the Drunken Girl and Alcibiades», with lyrics by Manos Eleftheriou. In a wasteland she meets the Wayfarer; when he goes to caress her, she pulls a knife and cuts off his head. She then sinks into a well to unite with the image — of the Wayfarer or of Alcibiades; that, the narration says, she will never know.",
+      "The cycle reached its definitive form on 16 January 1974, according to Hadjidakis's note."
+    ],
     "recording": {
       "note": "Posted by an official YouTube channel."
     }
