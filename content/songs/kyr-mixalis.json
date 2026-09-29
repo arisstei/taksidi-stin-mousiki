@@ -5,11 +5,13 @@
   "lyricist": "Ιάκωβος Καμπανέλλης",
   "year": "1962",
   "performer": "Λάκης Παππάς, χορωδία",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Οδός Ονείρων» (1962), «Δεκαπέντε Εσπερινοί» (1965), «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τη μουσική της «Οδού Ονείρων» (1962) — στον δίσκο τον λέει ο Λάκης Παππάς.",
+  "story": [
+    "Ο «Κυρ-Μιχάλης» ανήκει στα τραγούδια της «Οδού Ονείρων». Η «Οδός Ονείρων» ήταν μουσικοθεατρική παράσταση (είδος μιούζικ χολ ή επιθεώρησης) που ανέβηκε τον Ιούνιο του 1962 στο θερινό θέατρο Μετροπόλιταν της Αθήνας, με συνεργάτες τους Χατζιδάκι, Αλέξη Σολωμό, Μίνω Αργυράκη και Μανώλη Καστρινό. Είχε μεγάλη επιτυχία και θεωρήθηκε το αντίπαλο δέος της «Όμορφης Πόλης» του Θεοδωράκη, που έπαιζε λίγα μέτρα πιο κάτω, στο θέατρο Παρκ.",
+    "Στον δίσκο της παράστασης, σύμφωνα με τη Βικιπαίδεια, ο Λάκης Παππάς τραγουδά τον «Κυρ-Μιχάλη» και τη «Μανούλα μου». Ο δίσκος κυκλοφόρησε ενώ η παράσταση ακόμα παιζόταν· περιλαμβάνει κλασικά τραγούδια όπως «Ο ηθοποιός» (Δημήτρης Χορν), «Η μαύρη φορντ» (Μάρω Κοντού), «Το τρένο» (Ζωή Φυτούση), «Ο κυρ-Μιχάλης» και «Μανούλα μου» (Λάκης Παππάς). Δεν περιέχει τα τραγούδια της πρωταγωνίστριας Ρένας Βλαχοπούλου, γιατί εκείνη ανήκε σε άλλη δισκογραφική εταιρεία."
+  ],
   "sources": [
     {
       "label": "Discogs — Οδός Ονείρων (1962)",
@@ -22,11 +24,30 @@
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Βικιπαίδεια — «Οδός Ονείρων» (με παραπομπή στο Εθνικό Οπτικοακουστικό Αρχείο: πρεμιέρα, 14/06/1962)",
+      "url": "https://el.wikipedia.org/wiki/Οδός_Ονείρων"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Οδός Ονείρων” (1962), “Δεκαπέντε Εσπερινοί” (1965), “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
-  }
+    "teaser": "From the music of «Odos Oneiron» (1962) — on the record it is sung by Lakis Pappas.",
+    "story": [
+      "«Kyr-Michalis» belongs to the songs of «Odos Oneiron». «Odos Oneiron» was a musical-theatre revue (music-hall style) staged in June 1962 at the Metropolitan summer theatre in Athens, created by Hadjidakis, Alexis Solomos, Minos Argyrakis and Manolis Kastrinos. It was a big success and was seen as the rival of Theodorakis's «Omorfi Poli», playing a few metres down the same street at the Park theatre.",
+      "On the show's record, according to Wikipedia, Lakis Pappas sings «Kyr-Michalis» and «Manoula mou». The record came out while the show was still running; it includes classics such as «The Actor» (Dimitris Chorn), «The Black Ford» (Maro Kontou), «The Train» (Zoe Fytousi), «Kyr-Michalis» and «Manoula mou» (Lakis Pappas). It leaves out the songs of the lead actress Rena Vlachopoulou, because she was signed to another record company."
+    ],
+    "caveat": "Wikipedia says who sings each song on the show's record; it does not document this particular song's story separately, and its exact place on stage is not known from the source.",
+    "firstPerformance": {
+      "note": "On the «Odos Oneiron» record, per Wikipedia."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Λάκης Παππάς",
+    "year": "1962",
+    "note": "Στον δίσκο της «Οδού Ονείρων», κατά τη Βικιπαίδεια.",
+    "sourceLabel": "Βικιπαίδεια",
+    "sourceUrl": "https://el.wikipedia.org/wiki/Οδός_Ονείρων"
+  },
+  "caveat": "Η Βικιπαίδεια λέει ποιος τραγουδά κάθε τραγούδι στον δίσκο της παράστασης· δεν τεκμηριώνει ξεχωριστά την ιστορία αυτού του τραγουδιού, και ο ακριβής ρόλος του στη σκηνή δεν είναι γνωστός από την πηγή."
 }

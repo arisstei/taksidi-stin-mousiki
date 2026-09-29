@@ -5,27 +5,39 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1966",
   "performer": "Γιώργος Ρωμανός",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Μυθολογία» (1966).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Στίχοι του Γκάτσου που μεταγράφουν κείμενο του Ο'Νηλ — πρώτη εκτέλεση Γιώργος Ρωμανός, «Μυθολογία» (1966).",
+  "story": [
+    "Οι στίχοι του Νίκου Γκάτσου είναι μεταγραφή από κείμενο του Ευγένιου Ο'Νηλ, συγκεκριμένα από το έργο «Ταξίδι μακριάς μέρας μέσα στη νύχτα» (1941), με σημαντικές προσθήκες από τον στιχουργό.",
+    "Το τραγούδι πρωτοακούστηκε το 1966 από τον Γιώργο Ρωμανό, στον δίσκο «Μυθολογία». Ακολούθησαν, μεταξύ άλλων, η Νένα Βενετσάνου, ο Αλκίνοος Ιωαννίδης, ο Παύλος Παυλίδης, ο Βασίλης Παπακωνσταντίνου, ο Γιάννης Χαρούλης, η Δήμητρα Γαλάνη, η Ξανθίππη Καραθανάση, ο Μανώλης Μητσιάς, ο Πασχάλης Τερζής και ο Τζίμης Πανούσης. Η ερμηνεία της Γαλάνη έγινε επίσης τη δεκαετία του '60 αλλά δεν κυκλοφόρησε σε δίσκο πριν το 1983, στη συλλογή «30 σπάνιες ερμηνείες 1955–1965»."
+  ],
   "sources": [
     {
       "label": "Discogs — Μυθολογία (1966)",
       "url": "https://www.discogs.com/master/369527"
+    },
+    {
+      "label": "Βικιπαίδεια — «Ένας ευαίσθητος ληστής»",
+      "url": "https://el.wikipedia.org/wiki/Ένας_ευαίσθητος_ληστής"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Μυθολογία” (1966).",
-    "story": [],
+    "teaser": "Gatsos's lyrics transcribe a text by O'Neill — first performed by Giorgos Romanos on «Mythology» (1966).",
+    "story": [
+      "Nikos Gatsos's lyrics are a transcription of a text by Eugene O'Neill, specifically from «Long Day's Journey Into Night» (1941), with significant additions by the lyricist.",
+      "The song was first heard in 1966 sung by Giorgos Romanos on the album «Mythology». Later versions include Nena Venetsanou, Alkinoos Ioannidis, Pavlos Pavlidis, Vasilis Papakonstantinou, Giannis Charoulis, Dimitra Galani, Xanthippi Karathanasi, Manolis Mitsias, Pashalis Terzis and Jimmy Panousis. Galani's version was also made in the 1960s but was not released on record until 1983, on the compilation «30 Rare Performances 1955–1965»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 69"
     },
     "recording": {
       "note": "Posted by an official YouTube channel."
+    },
+    "firstPerformance": {
+      "note": "First performance, on the album «Mythology» (1966), per Wikipedia."
     }
   },
   "textSource": {
@@ -38,5 +50,12 @@
     "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
     "videoUrl": "https://www.youtube.com/watch?v=QEowtWRWK5U",
     "videoLabel": "Γιώργος Ρωμανός (live) — Ένας ευαίσθητος ληστής"
+  },
+  "firstPerformance": {
+    "performer": "Γιώργος Ρωμανός",
+    "year": "1966",
+    "note": "Πρώτη εκτέλεση, στον δίσκο «Μυθολογία» (1966), κατά τη Βικιπαίδεια.",
+    "sourceLabel": "Βικιπαίδεια",
+    "sourceUrl": "https://el.wikipedia.org/wiki/Ένας_ευαίσθητος_ληστής"
   }
 }

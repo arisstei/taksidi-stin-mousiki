@@ -5,11 +5,14 @@
   "lyricist": "Νίκος Καζαντζάκης (επιλογή κειμένων: Γεράσιμος Σταύρου)",
   "year": "1966",
   "performer": "Γιώργος Ρωμανός",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Καπετάν Μιχάλης» (1966), «Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.» (1975), «Η Φλέρυ Νταντωνάκη στα «Λειτουργικά» του Μάνου Χατζιδάκι» (1991).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ένα πεζό κείμενο από τον «Καπετάν Μιχάλη» του Καζαντζάκη, που ο Χατζιδάκις έκανε τραγούδι το 1966 για τη θεατρική διασκευή του μυθιστορήματος.",
+  "story": [
+    "Τα λόγια του τραγουδιού δεν είναι στίχοι ούτε ποίηση, αλλά πεζό κείμενο, προσαρμοσμένο από φράσεις του βιβλίου «Ο Καπετάν Μιχάλης» του Νίκου Καζαντζάκη (1953), που διαδραματίζεται στην τουρκοκρατούμενη Κρήτη. Εκφράζουν τον πόθο για ελευθερία. Ο Χατζιδάκις το έγραψε το 1966, με αφορμή τη θεατρική διασκευή του μυθιστορήματος.",
+    "Ο κύκλος «Ο καπετάν Μιχάλης» ηχογραφήθηκε και κυκλοφόρησε πρώτη φορά το 1966, με ερμηνευτή τον Γιώργο Ρωμανό. Το ίδιο το τραγούδι ηχογραφήθηκε ξανά το 1973 — αμέσως μετά την επιστροφή του συνθέτη από την Αμερική — και κυκλοφόρησε σε δίσκο το 1975 με τη Φλέρυ Νταντωνάκη. Αργότερα το τραγούδησαν η Νάνα Μούσχουρη (υπάρχει ηχογράφηση στο στούντιο του BBC το 1973), η Μαρία Φαραντούρη, ο Γιώργος Ζωγράφος, η Λίτσα Σακελλαρίου, η Μαρινέλλα και άλλοι· στα καταλανικά η Maria del Mar Bonet. Νέα ηχογράφηση όλου του έργου κυκλοφόρησε από τον Σείριο το 2006 (δίσκος «Τέσσερις θεατρικοί μύθοι»), με τον Μανώλη Λιδάκη και τον Αλκίνοο Ιωαννίδη.",
+    "Το τραγούδι στηρίζεται σε έναν μύθο: ο Μέγας Αλέξανδρος είχε μια αδελφή γοργόνα που ζούσε στα νερά γύρω από την Κρήτη και δεν δέχτηκε ποτέ τον θάνατό του· ρωτούσε τους ναυτικούς αν ζει. Αν απαντούσαν πως όχι, έκλαιγε και βύθιζε τα πλοία· αν έλεγαν πως ζει και κατακτά τον κόσμο, φούσκωνε χαρούμενη τα πανιά τους."
+  ],
   "sources": [
     {
       "label": "Discogs — Καπετάν Μιχάλης (1966)",
@@ -22,14 +25,26 @@
     {
       "label": "Discogs — Η Φλέρυ Νταντωνάκη Στα «Λειτουργικά» (1991)",
       "url": "https://www.discogs.com/master/352664"
+    },
+    {
+      "label": "Βικιπαίδεια — «Δεν ήταν νησί»",
+      "url": "https://el.wikipedia.org/wiki/Δεν_ήταν_νησί"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Καπετάν Μιχάλης” (1966), “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975), “Η Φλέρυ Νταντωνάκη στα «Λειτουργικά» του Μάνου Χατζιδάκι” (1991).",
-    "story": [],
+    "teaser": "A prose passage from Kazantzakis's «Captain Michalis», which Hadjidakis turned into a song in 1966 for the stage adaptation of the novel.",
+    "story": [
+      "The words of the song are not verse or poetry but prose, adapted from phrases in Nikos Kazantzakis's novel «Captain Michalis» (1953), set in Turkish-ruled Crete. They express the longing for freedom. Hadjidakis wrote it in 1966, prompted by the stage adaptation of the novel.",
+      "The cycle «O kapetan Michalis» was first recorded and released in 1966, with Giorgos Romanos. The song itself was recorded again in 1973 — right after the composer's return from America — and released on record in 1975 with Fleri Dantonaki. Later it was sung by Nana Mouskouri (a 1973 BBC studio recording exists), Maria Farantouri, Giorgos Zografos, Litsa Sakellariou, Marinella and others; in Catalan by Maria del Mar Bonet. A new recording of the whole work came out on Seirios in 2006 (the album «Four Theatrical Myths»), with Manolis Lidakis and Alkinoos Ioannidis.",
+      "The song rests on a legend: Alexander the Great had a mermaid sister who lived in the waters around Crete and never accepted his death; she asked passing sailors whether he was alive. If they said no, she wept and sank their ships; if they said he was alive and conquering the world, she happily filled their sails."
+    ],
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    },
+    "caveat": "Wikipedia says the text was adapted by the composer himself; other sources (and our own page) credit the selection of texts to Gerasimos Stavrou — we have not resolved the difference.",
+    "firstPerformance": {
+      "note": "First recording and release of the cycle «O kapetan Michalis» (1966), per Wikipedia. The song itself was recorded again in 1973 and issued in 1975 with Fleri Dantonaki."
     }
   },
   "recording": {
@@ -37,5 +52,13 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=Kt5bj03KZ1Q",
     "videoLabel": "Γιώργος Ρωμανός — Δεν ήταν νησί"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Γιώργος Ρωμανός",
+    "year": "1966",
+    "note": "Πρώτη ηχογράφηση και κυκλοφορία του κύκλου «Ο καπετάν Μιχάλης» (1966), κατά τη Βικιπαίδεια. Το ίδιο το τραγούδι ηχογραφήθηκε ξανά το 1973 και εκδόθηκε το 1975 με τη Φλέρυ Νταντωνάκη.",
+    "sourceLabel": "Βικιπαίδεια",
+    "sourceUrl": "https://el.wikipedia.org/wiki/Δεν_ήταν_νησί"
+  },
+  "caveat": "Η Βικιπαίδεια γράφει ότι το κείμενο το προσάρμοσε ο ίδιος ο συνθέτης· σε άλλες πηγές (και στη σελίδα μας) η επιλογή των κειμένων αποδίδεται στον Γεράσιμο Σταύρου — δεν έχουμε ξεκαθαρίσει τη διαφορά."
 }

@@ -5,20 +5,31 @@
   "lyricist": "Joe Darion",
   "year": "1967",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Illya Darling» (1967).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ο τίτλος του μιούζικαλ του Ζυλ Ντασέν για το Μπρόντγουεϊ (1967), βασισμένου στο «Ποτέ την Κυριακή», με μουσική Χατζιδάκι.",
+  "story": [
+    "Το «Illya Darling» (στα ελληνικά «Ίλια αγάπη μου») είναι μιούζικαλ του Ζυλ Ντασέν με μουσική του Μάνου Χατζιδάκι και στίχους του Τζο Ντάριον, βασισμένο στην ταινία «Ποτέ την Κυριακή» (1960) με τη Μελίνα Μερκούρη στον πρωταγωνιστικό ρόλο.",
+    "Η παράσταση έκανε πρώτα περιοδεία σε Φιλαδέλφεια, Τορόντο και Ντιτρόιτ, για εννέα εβδομάδες. Στο Μπρόντγουεϊ, στο θέατρο Mark Hellinger, ξεκίνησε στις 11 Απριλίου 1967 και έκλεισε στις 13 Ιανουαρίου 1968 μετά από 320 παραστάσεις. Σκηνοθέτης ήταν ο Ντασέν, χορογράφος η Onna White, σκηνογράφος ο Oliver Smith. Στο καστ ήταν, εκτός από τη Μερκούρη (υποψήφια για βραβείο Tony), ο Orson Bean, ο Νίκος Κούρκουλος (και αυτός υποψήφιος για Tony, στο ντεμπούτο του στο Μπρόντγουεϊ) και ο Hal Linden. Το μιούζικαλ ήταν υποψήφιο για έξι βραβεία Tony, χωρίς να πάρει κανένα."
+  ],
   "sources": [
     {
       "label": "Discogs — Illya Darling (Original Broadway Cast Album)",
       "url": "https://www.discogs.com/master/723484"
+    },
+    {
+      "label": "Βικιπαίδεια — «Illya Darling»",
+      "url": "https://el.wikipedia.org/wiki/Illya_Darling"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Illya Darling” (1967).",
-    "story": []
-  }
+    "teaser": "The title of Jules Dassin's 1967 Broadway musical, based on «Never on Sunday», with music by Hadjidakis.",
+    "story": [
+      "«Illya Darling» is a musical by Jules Dassin with music by Manos Hadjidakis and lyrics by Joe Darion, based on the 1960 film «Never on Sunday», with Melina Mercouri in the lead.",
+      "The show first toured Philadelphia, Toronto and Detroit for nine weeks. On Broadway, at the Mark Hellinger Theatre, it opened on 11 April 1967 and closed on 13 January 1968 after 320 performances. Dassin directed, Onna White choreographed and Oliver Smith designed the sets. The cast included, besides Mercouri (Tony-nominated), Orson Bean, Nikos Kourkoulos (also a Tony nominee, in his Broadway debut) and Hal Linden. The musical was nominated for six Tony Awards and won none."
+    ],
+    "caveat": "The source is about the musical as a whole; it does not say how or when the song «Illya Darling» itself was written."
+  },
+  "caveat": "Η πηγή αφορά το μιούζικαλ ως σύνολο· δεν λέει πώς ή πότε γράφτηκε το ίδιο το τραγούδι «Illya Darling»."
 }
