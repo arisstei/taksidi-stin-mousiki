@@ -23,38 +23,32 @@
     {
       "pos": "A1",
       "title": "Τρεις κοπέλες απ' τη Θήβα",
-      "song": "treis-kopeles-ap-ti-thiva",
-      "stub": true
+      "song": "treis-kopeles-ap-ti-thiva"
     },
     {
       "pos": "A2",
       "title": "Ο Ροβινσών στη Μύκονο",
-      "song": "o-rovinson-sti-mykono",
-      "stub": true
+      "song": "o-rovinson-sti-mykono"
     },
     {
       "pos": "A3",
       "title": "Ο Ιρλανδός και ο Ιουδαίος",
-      "song": "o-irlandos-kai-o-ioudaios",
-      "stub": true
+      "song": "o-irlandos-kai-o-ioudaios"
     },
     {
       "pos": "A4",
       "title": "Τα καλοτάξιδα πουλιά",
-      "song": "ta-kalotaxida-poulia",
-      "stub": true
+      "song": "ta-kalotaxida-poulia"
     },
     {
       "pos": "A5",
       "title": "Ορέστης",
-      "song": "orestis",
-      "stub": true
+      "song": "orestis"
     },
     {
       "pos": "A6",
       "title": "Αερικό",
-      "song": "aeriko",
-      "stub": true
+      "song": "aeriko"
     },
     {
       "pos": "B1",
@@ -64,14 +58,12 @@
     {
       "pos": "B2",
       "title": "Ο Τζώνης ο μπόγιας",
-      "song": "o-tzonis-o-mpogias",
-      "stub": true
+      "song": "o-tzonis-o-mpogias"
     },
     {
       "pos": "B3",
       "title": "Ήσουν παιδί σαν το Χριστό",
-      "song": "isoun-paidi-san-to-xristo",
-      "stub": true
+      "song": "isoun-paidi-san-to-xristo"
     },
     {
       "pos": "B4",
@@ -81,14 +73,12 @@
     {
       "pos": "B5",
       "title": "Νυχτερινές ειδήσεις",
-      "song": "nyxterines-eidiseis",
-      "stub": true
+      "song": "nyxterines-eidiseis"
     },
     {
       "pos": "B6",
       "title": "Lamento (Θρήνος)",
-      "song": "lamento",
-      "stub": true
+      "song": "lamento"
     }
   ],
   "sources": [

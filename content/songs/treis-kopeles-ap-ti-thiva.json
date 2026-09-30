@@ -5,27 +5,42 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1966",
   "performer": "Γιώργος Ρωμανός",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Μυθολογία» (1966).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τη «Μυθολογία» (1966) — τρεις κοπέλες, μια ερημική καλύβα και χαμένα κλειδιά.",
+  "story": [
+    "Στις «Τρεις κοπέλες απ' τη Θήβα» του κύκλου, οι τρεις κοπέλες χτίζουν μια ερημική καλύβα, αλλά χάνουν τα κλειδιά της.",
+    "Η «Μυθολογία» (Έργο 23, 1965) των Χατζιδάκι και Γκάτσου κυκλοφόρησε το 1966 με ερμηνευτή τον τότε 20χρονο Γιώργο Ρωμανό. Τα ποιήματα του Γκάτσου είναι κατά κάποιον τρόπο μικρά παραμύθια, με κοινό θέμα την απώλεια — του ονείρου, της ιστορίας, του αγαπημένου προσώπου, της ζωής — και μαζί τον αγώνα και την ελπίδα.",
+    "Ο δίσκος είχε 12 τραγούδια, αλλά ένα («Ο Τζώνης ο μπόγιας») κρίθηκε σύντομα ακατάλληλο από την επιτροπή του υπουργείου Εσωτερικών της χούντας· από τη δεύτερη έκδοση και μετά κυκλοφορούσε με 12 τίτλους στο εξώφυλλο αλλά 11 τραγούδια χαραγμένα στο βινύλιο."
+  ],
   "sources": [
     {
       "label": "Discogs — Μυθολογία (1966)",
       "url": "https://www.discogs.com/master/369527"
+    },
+    {
+      "label": "TAR — Μουσικό διαδικτυακό περιοδικό (Νίκος Παναγιωτίδης, Ιανουάριος 2016) — «Η “Μυθολογία” των Μ. Χατζιδάκι – Ν. Γκάτσου»",
+      "url": "https://www.tar.gr/mythologia_twn_xatzidaki_gkatsoy-article-5096.html?category_id=9"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Μυθολογία” (1966).",
-    "story": [],
+    "teaser": "From «Mythologia» (1966) — three girls, a lonely hut and lost keys.",
+    "story": [
+      "In «Treis kopeles ap ti Thiva», the three girls build a lonely hut but lose its keys.",
+      "«Mythologia» (Opus 23, 1965) by Hadjidakis and Gatsos was released in 1966 with the then 20-year-old Giorgos Romanos as singer. Gatsos's poems are in a way little fairy tales, sharing one theme: loss — of the dream, of history, of the loved one, of life — and with it struggle and hope.",
+      "The record had 12 songs, but one («O Tzonis o mpogias») was soon judged unsuitable by the junta's Interior Ministry committee; from the second pressing on it came out with 12 titles on the cover but only 11 songs cut into the vinyl."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 59"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    },
+    "caveat": "The article describes the cycle as a whole and gives only a brief summary of each song's theme; it does not say when or how this song was written.",
+    "firstPerformance": {
+      "note": "On the album «Mythologia» (1966), per TAR."
     }
   },
   "textSource": {
@@ -38,5 +53,13 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=mh49Ln3Tpr4",
     "videoLabel": "Γιώργος Ρωμανός — Τρεις κοπέλες απ' τη Θήβα"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Γιώργος Ρωμανός",
+    "year": "1966",
+    "note": "Στον δίσκο «Μυθολογία» (1966), κατά το TAR.",
+    "sourceLabel": "TAR",
+    "sourceUrl": "https://www.tar.gr/mythologia_twn_xatzidaki_gkatsoy-article-5096.html?category_id=9"
+  },
+  "caveat": "Το άρθρο περιγράφει τον κύκλο συνολικά και δίνει μόνο μια σύντομη περίληψη του θέματος κάθε τραγουδιού· δεν λέει πότε ή πώς γράφτηκε ξεχωριστά αυτό."
 }
