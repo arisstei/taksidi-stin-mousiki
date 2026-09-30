@@ -23,8 +23,7 @@
       "pos": "A1",
       "title": "Είμαι της Αγαύης γιος",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "eimai-tis-agayis-gios",
-      "stub": true
+      "song": "eimai-tis-agayis-gios"
     },
     {
       "pos": "A2",
@@ -44,15 +43,13 @@
       "pos": "A4",
       "title": "Αρχαία βία προγονική",
       "lyricist": "Αγ. Δημητρούκα",
-      "song": "arxaia-via-progoniki",
-      "stub": true
+      "song": "arxaia-via-progoniki"
     },
     {
       "pos": "A5",
       "title": "Ένα αερόστατο με αίμα",
       "lyricist": "Μ. Χατζιδάκις, Α. Δαβαράκης",
-      "song": "ena-aerostato-me-aima",
-      "stub": true
+      "song": "ena-aerostato-me-aima"
     },
     {
       "pos": "A6",
@@ -65,22 +62,19 @@
       "pos": "A7",
       "title": "Ερωτική άσκηση για δυο",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "erotiki-askisi-gia-dyo",
-      "stub": true
+      "song": "erotiki-askisi-gia-dyo"
     },
     {
       "pos": "A8",
       "title": "Ερωτική άσκηση για τέσσερις",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "erotiki-askisi-gia-tesseris",
-      "stub": true
+      "song": "erotiki-askisi-gia-tesseris"
     },
     {
       "pos": "B1",
       "title": "Η Μαριάνθη των ανέμων",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "i-marianthi-ton-anemon",
-      "stub": true
+      "song": "i-marianthi-ton-anemon"
     },
     {
       "pos": "B2",
@@ -93,15 +87,13 @@
       "pos": "B3",
       "title": "Δυο παιδιά μες στη βροχή",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "dyo-paidia-mes-sti-vroxi",
-      "stub": true
+      "song": "dyo-paidia-mes-sti-vroxi"
     },
     {
       "pos": "B4",
       "title": "Η πόρτα του παραδείσου",
       "lyricist": "Αγ. Δημητρούκα",
-      "song": "i-porta-tou-paradeisou",
-      "stub": true
+      "song": "i-porta-tou-paradeisou"
     },
     {
       "pos": "B5",
@@ -114,8 +106,7 @@
       "pos": "B6",
       "title": "Η μεταμόρφωση",
       "lyricist": "Μ. Χατζιδάκις",
-      "song": "i-metamorfosi",
-      "stub": true
+      "song": "i-metamorfosi"
     },
     {
       "pos": "B7",
@@ -128,8 +119,7 @@
       "pos": "B8",
       "title": "Ντόμινε",
       "lyricist": "Αγ. Δημητρούκα",
-      "song": "ntomine",
-      "stub": true
+      "song": "ntomine"
     }
   ],
   "sources": [

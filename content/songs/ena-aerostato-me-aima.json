@@ -5,20 +5,35 @@
   "lyricist": "Μ. Χατζιδάκις, Α. Δαβαράκης",
   "year": "1983",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Οι Μπαλάντες της Οδού Αθηνάς» (1983).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τις «Μπαλάντες της οδού Αθηνάς» (1983): ποιητική σπουδή του Χατζιδάκι πάνω στη βία, γραμμένη σε δύο φάσεις (1972 και 1981–83).",
+  "story": [
+    "Το τραγούδι ανήκει στις «Μπαλάντες της οδού Αθηνάς», έργο του Χατζιδάκι που κυκλοφόρησε το 1983. Σύμφωνα με το σημείωμα του συνθέτη (Νοέμβριος 1983), το πρωτοσκέφτηκε γύρω στο 1972, μετά την ηχογράφηση του «Μεγάλου Ερωτικού»: ηχογράφησε τότε πέντε κομμάτια με αυτοσχέδιους τίτλους, αλλά σταμάτησε, γιατί δεν ήξερε προς τα πού να πορευτεί.",
+    "Το ξανάπιασε το 1981 και το έπαιζε παράλληλα στις συναυλίες του, ώστε να το ξεκαθαρίσει· τη μορφή του την οριστικοποίησε δύο μήνες πριν γράψει το σημείωμα. Το περιγράφει ως ποιητική σπουδή πάνω στη βία και στη «σκοτεινή ρίζα της κραυγής» (φράση του Λόρκα, όπως την απέδωσε ο Γκάτσος), μια τελετουργική προσπάθεια να φανερωθούν οι σκοτεινές δυνάμεις μέσα μας.",
+    "Ο τίτλος παραπέμπει στην οδό Αθηνάς, που ο Χατζιδάκις την έβλεπε ως «καρδιά της Αθήνας»: δρόμο με οινομαγειρεία, πορνεία, κινηματογράφους, ξενοδοχεία και καφενεία, όπου κυκλοφορούν εργάτες, μικροέμποροι, αλήτες και πόρνες. Το έργο το αφιέρωσε στη μνήμη της μητέρας του, από την οποία, όπως έγραψε, κληρονόμησε τους γρίφους που τον απασχολούσαν.",
+    "Στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στον δίσκο."
+  ],
   "sources": [
     {
       "label": "Discogs — Οι Μπαλάντες Της Οδού Αθηνάς (1983)",
       "url": "https://www.discogs.com/master/426883"
+    },
+    {
+      "label": "Χανιώτικα Νέα — «Μάνος Χατζιδάκις: Οι Μπαλάντες της οδού Αθηνάς» (με το σημείωμα του συνθέτη, Νοέμβριος 1983)",
+      "url": "https://www.haniotika-nea.gr/manos-chatzidakis-oi-mpalantes-tis-odoy-athinas/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Οι Μπαλάντες της Οδού Αθηνάς” (1983).",
-    "story": []
-  }
+    "teaser": "From “Οι Μπαλάντες της οδού Αθηνάς” (1983): Hadjidakis’s poetic study of violence, written in two phases (1972 and 1981–83).",
+    "story": [
+      "The song belongs to “Οι Μπαλάντες της οδού Αθηνάς” (The Ballads of Athinas Street), released in 1983. According to the composer’s note (November 1983), he first conceived it around 1972, after recording “Ο Μεγάλος Ερωτικός”: he recorded five pieces with improvised titles but stopped, not knowing which way to go.",
+      "He took it up again in 1981, performing it in concerts to clarify it for himself; he fixed its final shape two months before writing the note. He describes it as a poetic study of violence and of the “dark root of the cry” (a phrase of Lorca, as rendered by Gatsos), a ritual attempt to reveal the dark forces within us.",
+      "The title refers to Athinas Street, which Hadjidakis saw as the “heart of Athens”: a street of taverns, brothels, cinemas, hotels and cafés, frequented by workers, small traders, drifters and prostitutes. He dedicated the work to the memory of his mother, from whom, he wrote, he inherited the riddles that occupied him.",
+      "The lyrics are not quoted here; the text is on the record."
+    ],
+    "caveat": "The composer’s note concerns the whole work; there is no separate account of this particular song."
+  },
+  "caveat": "Το σημείωμα του συνθέτη αφορά ολόκληρο το έργο· δεν υπάρχει ξεχωριστή μαρτυρία για αυτό το τραγούδι."
 }
