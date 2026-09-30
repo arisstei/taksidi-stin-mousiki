@@ -33,8 +33,7 @@
     {
       "pos": "Α3",
       "title": "Ενοχή",
-      "song": "enoxi",
-      "stub": true
+      "song": "enoxi"
     },
     {
       "pos": "Α4",
@@ -54,8 +53,7 @@
     {
       "pos": "Α7",
       "title": "Φως και σκοτάδι",
-      "song": "fos-kai-skotadi",
-      "stub": true
+      "song": "fos-kai-skotadi"
     },
     {
       "pos": "Α8",
@@ -70,8 +68,7 @@
     {
       "pos": "Β1",
       "title": "Διαδρομή",
-      "song": "diadromi",
-      "stub": true
+      "song": "diadromi"
     },
     {
       "pos": "Β2",
@@ -81,8 +78,7 @@
     {
       "pos": "Β3",
       "title": "Το γαϊδουράκι",
-      "song": "to-gaidouraki",
-      "stub": true
+      "song": "to-gaidouraki"
     },
     {
       "pos": "Β4",
@@ -92,14 +88,12 @@
     {
       "pos": "Β5",
       "title": "Νυχτερινό Α΄",
-      "song": "nyxterino-a",
-      "stub": true
+      "song": "nyxterino-a"
     },
     {
       "pos": "Β6",
       "title": "Νυχτερινό Γ΄",
-      "song": "nyxterino-g",
-      "stub": true
+      "song": "nyxterino-g"
     },
     {
       "pos": "Β7",

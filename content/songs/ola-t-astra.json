@@ -5,29 +5,42 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1987",
   "performer": "Μαρία Φαραντούρη",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Σκοτεινή μητέρα» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τη «Σκοτεινή μητέρα» (Έργο 45, 1985–86): Χατζιδάκις – Γκάτσος, με τη Μαρία Φαραντούρη.",
+  "story": [
+    "Η «Σκοτεινή μητέρα» είναι το Έργο 45 (1985–86) του Χατζιδάκι, σε στίχους Νίκου Γκάτσου, γραμμένο για τη Μαρία Φαραντούρη, σύμφωνα με τα Μικροπράγματα. Η ίδια η Φαραντούρη το τραγούδησε στον δίσκο και στις λίγες συναυλίες που ακολούθησαν, υπό τη διεύθυνση του συνθέτη.",
+    "Ο Γιάννης Τσαρούχης έγραψε το κείμενο του δίσκου και το κολάζ του εξωφύλλου είναι του Οδυσσέα Ελύτη. Η Φαραντούρη το περιέγραψε ως «ακριβό» λυρικό έργο, παρά την πρόθεση των δημιουργών να γράψουν «απλά» τραγούδια.",
+    "Οι στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στον δίσκο."
+  ],
   "sources": [
     {
       "label": "Discogs — Σκοτεινή Μητέρα (1987)",
       "url": "https://www.discogs.com/master/867695"
+    },
+    {
+      "label": "Μικροπράγματα (Παναγιώτης Ανδριόπουλος) — «Οι Παναγίες του Μάνου Χατζιδάκι»",
+      "url": "https://mikropragmata.lifo.gr/guest_posts/oi-panagies-tou-manou-chatzidaki/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Σκοτεινή μητέρα” (1987).",
-    "story": [],
+    "teaser": "From “Σκοτεινή μητέρα” (Opus 45, 1985–86): Hadjidakis – Gatsos, sung by Maria Farantouri.",
+    "story": [
+      "According to Mikropragmata, “Σκοτεινή μητέρα” is Hadjidakis’s Opus 45 (1985–86), on lyrics by Nikos Gatsos, written for Maria Farantouri. She sang it on the record and in the few concerts that followed, under the composer’s direction.",
+      "Yannis Tsarouchis wrote the record’s text and the cover collage is by Odysseas Elytis. Farantouri described it as an “expensive” lyrical work, despite the creators’ intention to write “simple” songs.",
+      "The lyrics are not quoted here; the text is on the record."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 395"
-    }
+    },
+    "caveat": "The source describes the cycle as a whole; there is no separate account of this particular song."
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/ola-t-astra/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 395"
-  }
+  },
+  "caveat": "Η πηγή περιγράφει τον κύκλο στο σύνολό του· δεν υπάρχει ξεχωριστή μαρτυρία για αυτό το τραγούδι."
 }

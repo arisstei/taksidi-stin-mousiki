@@ -22,8 +22,7 @@
     {
       "pos": "Α1",
       "title": "Σκοτεινή μητέρα",
-      "song": "skoteini-mitera",
-      "stub": true
+      "song": "skoteini-mitera"
     },
     {
       "pos": "Α2",
@@ -40,8 +39,7 @@
     {
       "pos": "Α4",
       "title": "Όλα τ' άστρα",
-      "song": "ola-t-astra",
-      "stub": true
+      "song": "ola-t-astra"
     },
     {
       "pos": "Α5",
@@ -52,8 +50,7 @@
     {
       "pos": "Α6",
       "title": "Πέντε γράμματα",
-      "song": "pente-grammata",
-      "stub": true
+      "song": "pente-grammata"
     },
     {
       "pos": "Α7",
@@ -87,8 +84,7 @@
     {
       "pos": "Β5",
       "title": "Χωρίς φτερά",
-      "song": "xoris-ftera",
-      "stub": true
+      "song": "xoris-ftera"
     }
   ],
   "sources": [
