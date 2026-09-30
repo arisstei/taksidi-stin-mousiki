@@ -5,29 +5,58 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1976",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Τα Παράλογα» (1976).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τα «Παράλογα» (1976): Χατζιδάκις – Γκάτσος, ειρωνικός κύκλος για την ιστορία της Ελλάδας.",
+  "story": [
+    "Σύμφωνα με προσωπικό blog, ο Γκάτσος έγραψε την «Ελλαδογραφία» σε καθαρεύουσα και σαν πεζό κείμενο, αφηγούμενο μια εκδοχή της ελληνικής ιστορίας «των αρχαιοπλήκτων ιστορικών», ενώ η φωνή του λαού ακούγεται σε δημοτική και έμμετρα· το blog τη διαβάζει ως ειρωνικό σχόλιο στο πολιτικό τραγούδι του 1976.",
+    "Το τραγούδι ανήκει στα «Παράλογα» (1976), κύκλο σε στίχους Νίκου Γκάτσου. Ο Χατζιδάκις τον περιγράφει σε σημείωμά του ως κύκλο λαϊκών τραγουδιών «για σιωπηλή και κατ’ ιδίαν ακρόαση», με θέμα την αθάνατη Ελλάδα σε όλη την ένδοξη διαδρομή της· ειρωνικά ζητά από τους ακροατές προσήλωση, θρησκευτικότητα και, αν γίνεται, νηστεία, και προσθέτει ότι η συμμετοχή τόσων «εθνικών κεφαλαίων» στην ερμηνεία κάνει τον δίσκο «γνήσια εθνικόφρονα».",
+    "Οι ερμηνευτές του δίσκου, σύμφωνα με το AWS, ήταν η Μαρία Φαραντούρη, ο Διονύσης Σαββόπουλος, ο Ηλίας Λιούγκος, η Μελίνα Μερκούρη και ο Μίκης Θεοδωράκης.",
+    "Στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στον δίσκο."
+  ],
   "sources": [
     {
       "label": "Discogs — Τα Παράλογα (1976)",
       "url": "https://www.discogs.com/master/386781"
+    },
+    {
+      "label": "Antiwar Songs (AWS) — «Τα παράλογα» (Manos Hatzidakis), με το σημείωμα του συνθέτη και σχόλια της συντακτικής ομάδας",
+      "url": "https://www.antiwarsongs.org/canzone.php?id=37249&lang=en"
+    },
+    {
+      "label": "Κυκλοδίωκτος (προσωπικό blog) — «Ελλαδογραφία Ν. Γκάτσος–Μ. Χατζιδάκις»",
+      "url": "https://akatapaustws.wordpress.com/2016/05/30/%ce%b5%ce%bb%ce%bb%ce%b1%ce%b4%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b1-%ce%bd-%ce%b3%ce%ba%ce%ac%cf%84%cf%83%ce%bf%cf%82-%ce%bc-%cf%87%ce%b1%cf%84%ce%b6%ce%b9%ce%b4%ce%ac%ce%ba%ce%b9%cf%82/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Τα Παράλογα” (1976).",
-    "story": [],
+    "teaser": "From “Τα Παράλογα” (1976): Hadjidakis – Gatsos, an ironic cycle on Greek history.",
+    "story": [
+      "According to a personal blog, Gatsos wrote “Ελλαδογραφία” in katharevousa, as prose, narrating a version of Greek history by “antiquity-struck historians”, while the people’s voice is heard in demotic verse; the blog reads it as an ironic comment on the political song of 1976.",
+      "The song belongs to “Τα Παράλογα” (1976), a cycle on lyrics by Nikos Gatsos. In a note, Hadjidakis describes it as a cycle of popular songs “for silent, private listening”, about immortal Greece along its whole glorious course; ironically he asks listeners for devotion, religiousness and, if possible, fasting, and adds that the participation of so many “national luminaries” makes the record “authentically patriotic”.",
+      "According to AWS, the record’s performers were Maria Farantouri, Dionysis Savvopoulos, Ilias Lioungos, Melina Mercouri and Mikis Theodorakis.",
+      "The lyrics are not quoted here; the text is on the record."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    },
+    "caveat": "The source describes the album as a whole; the assignment of songs to singers comes from the AWS track list, a community site rather than an official discographic source.",
+    "firstPerformance": {
+      "note": "Singer on the album “Τα Παράλογα” (1976), according to the AWS track list."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/elladographia/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Μίκης Θεοδωράκης",
+    "year": "1976",
+    "note": "Ερμηνευτής στον δίσκο «Τα Παράλογα» (1976), σύμφωνα με τον κατάλογο του AWS.",
+    "sourceLabel": "Antiwar Songs (AWS) — «Τα παράλογα» (Manos Hatzidakis), με το σημείωμα του συνθέτη και σχόλια της συντακτικής ομάδας",
+    "sourceUrl": "https://www.antiwarsongs.org/canzone.php?id=37249&lang=en"
+  },
+  "caveat": "Η πηγή περιγράφει τον δίσκο στο σύνολό του· η ανάθεση τραγουδιών σε ερμηνευτές προέρχεται από τον κατάλογο του AWS, ιστότοπου με συντακτική ομάδα και όχι επίσημη δισκογραφική πηγή."
 }
