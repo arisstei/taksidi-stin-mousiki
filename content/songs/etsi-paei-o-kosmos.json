@@ -5,28 +5,40 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1986",
   "performer": "Μανώλης Μητσιάς",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Χειμωνιάτικος ήλιος» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τον «Χειμωνιάτικο ήλιο» (1986/87): Χατζιδάκις – Γκάτσος, με τον Μανώλη Μητσιά· ο δίσκος αποσύρθηκε και επανεκδόθηκε με νέα ερμηνεία.",
+  "story": [
+    "Το τραγούδι ανήκει στον δίσκο «Χειμωνιάτικος ήλιος», με τραγούδια των Μάνου Χατζιδάκι – Νίκου Γκάτσου και ερμηνευτή τον Μανώλη Μητσιά.",
+    "Σύμφωνα με την Εφημερίδα των Συντακτών, η πρώτη έκδοση του δίσκου κυκλοφόρησε στις αρχές του 1986, αλλά ο συνθέτης ζήτησε να αποσυρθεί τον Δεκέμβριο του ίδιου έτους. Επανεκδόθηκε το 1987 με νέο εξώφυλλο, επειδή ο Χατζιδάκις αναθεώρησε, όπως είπε για καλλιτεχνικούς λόγους, την ερμηνεία και την ενορχήστρωση των τραγουδιών.",
+    "Στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στον δίσκο."
+  ],
   "sources": [
     {
       "label": "Discogs — Χειμωνιάτικος Ήλιος (1986)",
       "url": "https://www.discogs.com/master/369485"
+    },
+    {
+      "label": "Εφημερίδα των Συντακτών (Δώρα Σελλά) — «Τα παιδιά της καταιγίδας»",
+      "url": "https://www.efsyn.gr/gallery/390811_ta-paidia-tis-kataigidas/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Χειμωνιάτικος ήλιος” (1986).",
-    "story": [],
+    "teaser": "From “Χειμωνιάτικος ήλιος” (1986/87): Hadjidakis – Gatsos, sung by Manolis Mitsias; the album was withdrawn and reissued in a revised version.",
+    "story": [
+      "The song belongs to the album “Χειμωνιάτικος ήλιος”, with songs by Manos Hadjidakis and Nikos Gatsos, sung by Manolis Mitsias.",
+      "According to the newspaper Efsyn, the first edition came out in early 1986, but at the composer’s request it was withdrawn in December of that year. It was reissued in 1987 with a new cover, because Hadjidakis revised, for artistic reasons as he put it, the performance and the arrangement of the songs.",
+      "The lyrics are not quoted here; the text is on the record."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 415"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
-    }
+    },
+    "caveat": "The source describes the album as a whole; there is no separate account of how this particular song was composed."
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
@@ -38,5 +50,6 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=aLse_1vPAHs",
     "videoLabel": "Μανώλης Μητσιάς — Έτσι πάει ο κόσμος"
-  }
+  },
+  "caveat": "Η πηγή περιγράφει τον δίσκο στο σύνολό του· δεν υπάρχει ξεχωριστή μαρτυρία για τη σύνθεση αυτού του τραγουδιού."
 }
