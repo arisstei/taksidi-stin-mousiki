@@ -5,27 +5,43 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1986",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Γράφτηκε για την ταινία «America America» (1963) του Ηλία Καζάν· πρώτη εκτέλεση με στίχους Γκάτσου από τον Λάκη Παππά, Ιανουάριος 1964.",
+  "story": [
+    "Σύμφωνα με τα Μικροπράγματα, το τραγούδι γράφτηκε για την ταινία «America America» (1963) του Ηλία Καζάν, αλλά στην ταινία ακούγεται η ορχηστρική του μορφή.",
+    "Οι στίχοι είναι του Νίκου Γκάτσου. Η πρώτη εκτέλεση, από τον Λάκη Παππά, ηχογραφήθηκε τον Ιανουάριο του 1964 και είναι το μόνο τραγούδι της συλλογής «Πρώτη εκτέλεση» (τραγούδια 1961–1964) που εκδόθηκε για πρώτη φορά το 1965.",
+    "Το τραγούδι γνώρισε πολλές εκτελέσεις, μεταξύ άλλων από τον Γιώργο Μούτσιο και τον Κώστα Χατζή. Το 1986 ο Χατζιδάκις το συμπεριέλαβε στη «Ρωμαϊκή Αγορά» με νέα ενορχήστρωση και ερμηνεία του Ηλία Λιούγκου. Υπάρχει και τζαζ εκτέλεση από το κουιντέτο του Δημήτρη Καλαντζή.",
+    "Οι στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στο άρθρο των Μικροπραγμάτων και στους δίσκους."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Μικροπράγματα (Παναγιώτης Ανδριόπουλος) — «Οι Παναγίες του Μάνου Χατζιδάκι»",
+      "url": "https://mikropragmata.lifo.gr/guest_posts/oi-panagies-tou-manou-chatzidaki/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": [],
+    "teaser": "Written for Elia Kazan’s film “America America” (1963); first recorded with Gatsos’s lyrics by Lakis Pappas in January 1964.",
+    "story": [
+      "According to Mikropragmata, the song was written for Elia Kazan’s film “America America” (1963), but the film uses the instrumental version.",
+      "The lyrics are by Nikos Gatsos. The first recording, by Lakis Pappas, was made in January 1964 and is the only song on the collection “Πρώτη εκτέλεση” (songs 1961–1964) that was first released in 1965.",
+      "The song has had many recordings, including by Giorgos Moutsios and Kostas Hatzis. In 1986 Hadjidakis included it in “Ρωμαϊκή Αγορά” with a new arrangement sung by Ilias Lioungos. There is also a jazz version by the Dimitris Kalantzis quintet.",
+      "The lyrics are not quoted here; the text is in the Mikropragmata article and on the records."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 40"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    },
+    "firstPerformance": {
+      "note": "Recorded January 1964, released in 1965 on the collection “Πρώτη εκτέλεση”. The video is the same recording, posted by a user."
     }
   },
   "textSource": {
@@ -38,5 +54,14 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=ud5adH2A8wI",
     "videoLabel": "Λάκης Παππάς — Μια Παναγιά"
+  },
+  "firstPerformance": {
+    "performer": "Λάκης Παππάς",
+    "year": "1964",
+    "note": "Ηχογράφηση Ιανουαρίου 1964, κυκλοφορία 1965 στη συλλογή «Πρώτη εκτέλεση». Το βίντεο που ακολουθεί είναι η ίδια ηχογράφηση σε ανάρτηση χρήστη.",
+    "videoUrl": "https://www.youtube.com/watch?v=ud5adH2A8wI",
+    "videoLabel": "Λάκης Παππάς — Μια Παναγιά",
+    "sourceLabel": "Μικροπράγματα (Παναγιώτης Ανδριόπουλος) — «Οι Παναγίες του Μάνου Χατζιδάκι»",
+    "sourceUrl": "https://mikropragmata.lifo.gr/guest_posts/oi-panagies-tou-manou-chatzidaki/"
   }
 }

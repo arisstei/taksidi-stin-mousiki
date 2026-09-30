@@ -5,11 +5,14 @@
   "lyricist": "Μάνος Χατζιδάκις",
   "year": "1971",
   "performer": "Φλέρυ Νταντωνάκη",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Ρυθμολογία και ο Κύκλος του C.N.S.» (1971), «Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.» (1975).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τον «Κύκλο του C.N.S.» — έξι τραγούδια σε στίχους του ίδιου του Χατζιδάκι, γραμμένα το 1952.",
+  "story": [
+    "Σύμφωνα με τα Μικροπράγματα, ο «Κύκλος του C.N.S.» (Έργο 8) είναι κύκλος έξι τραγουδιών σε στίχους του ίδιου του Χατζιδάκι, για φωνή και πιάνο. Γράφτηκε το 1952, με αφορμή τον θάνατο ενός νεαρού φίλου του στις 9 Αυγούστου 1951, και χαρίστηκε σε άλλον φίλο του στη Βαρκελώνη, με αρχικά C.N.S.",
+    "Ο συνθέτης έγραψε (στη «Μυθολογία») ότι οι στίχοι γράφτηκαν μαζί με τη μουσική, με κλίμα την υγρασία ενός λιμανιού και θέμα τον χωρισμό.",
+    "Πρώτος τραγούδησε τον κύκλο ο Γιώργος Μούτσιος, με τον Χατζιδάκι στο πιάνο, τον Ιανουάριο του 1959 στην Εταιρεία Μακεδονικών Σπουδών. Η Φλέρυ Νταντωνάκη τον ηχογράφησε στη Νέα Υόρκη το καλοκαίρι του 1971, για τη «Ρυθμολογία»."
+  ],
   "sources": [
     {
       "label": "Discogs — Ρυθμολογία και ο Κύκλος του C.N.S. (1971)",
@@ -18,20 +21,40 @@
     {
       "label": "Discogs — Ο Καπετάν Μιχάλης Και Ο Κύκλος Του C.N.S. (1975)",
       "url": "https://www.discogs.com/master/1552734"
+    },
+    {
+      "label": "Μικροπράγματα (Παναγιώτης Ανδριόπουλος) — «Οι Παναγίες του Μάνου Χατζιδάκι»",
+      "url": "https://mikropragmata.lifo.gr/guest_posts/oi-panagies-tou-manou-chatzidaki/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Ρυθμολογία και ο Κύκλος του C.N.S.” (1971), “Ο Καπετάν Μιχάλης και ο Κύκλος του C.N.S.” (1975).",
-    "story": [],
+    "teaser": "From the “C.N.S. Cycle” — six songs to Hadjidakis’s own words, written in 1952.",
+    "story": [
+      "According to Mikropragmata, the “C.N.S. Cycle” (Opus 8) is a cycle of six songs to Hadjidakis’s own words, for voice and piano. It was written in 1952, prompted by the death of a young friend on 9 August 1951, and given to another friend in Barcelona whose initials were C.N.S.",
+      "The composer wrote (in “Μυθολογία”) that the words were written together with the music, with the damp air of a harbour as its climate and parting as its theme.",
+      "Giorgos Moutsios sang it first, with Hadjidakis at the piano, in January 1959 at the Society for Macedonian Studies. Fleri Dantonaki recorded it in New York in summer 1971 for “Ρυθμολογία”."
+    ],
     "recording": {
       "note": "Posted by an official YouTube channel."
-    }
+    },
+    "firstPerformance": {
+      "note": "First presentation of the cycle in Thessaloniki; the source does not say separately whether this song was included."
+    },
+    "caveat": "The source concerns the cycle as a whole, not this song specifically."
   },
   "recording": {
     "performer": "Φλέρυ Νταντωνάκη",
     "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
     "videoUrl": "https://www.youtube.com/watch?v=wkLSFjlfVb4",
     "videoLabel": "Φλέρυ Νταντωνάκη — Μια θλιμμένη αρχόντισσα"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Γιώργος Μούτσιος (πιάνο: Μάνος Χατζιδάκις)",
+    "year": "1959",
+    "note": "Πρώτη παρουσίαση του κύκλου στη Θεσσαλονίκη· δεν αναφέρεται ξεχωριστά αν ακούστηκε εκεί αυτό το τραγούδι.",
+    "sourceLabel": "Μικροπράγματα (Παναγιώτης Ανδριόπουλος) — «Οι Παναγίες του Μάνου Χατζιδάκι»",
+    "sourceUrl": "https://mikropragmata.lifo.gr/guest_posts/oi-panagies-tou-manou-chatzidaki/"
+  },
+  "caveat": "Η πηγή αφορά τον κύκλο στο σύνολό του, όχι αυτό το τραγούδι ειδικά."
 }

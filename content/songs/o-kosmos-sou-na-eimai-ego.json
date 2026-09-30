@@ -5,20 +5,33 @@
   "lyricist": null,
   "year": "1993",
   "performer": "Αλίκη Καγιαλόγλου",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Αντικατοπτρισμοί» (1993).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τους «Αντικατοπτρισμούς» (1993): ελληνική έκδοση των «Reflections» (1970) με τη φωνή της Αλίκης Καγιαλόγλου.",
+  "story": [
+    "Το τραγούδι ανήκει στους «Αντικατοπτρισμούς» (1993). Ο δίσκος προέκυψε από τα «Reflections»: το 1970 το αμερικανικό συγκρότημα New York Rock & Roll Ensemble ηχογράφησε δέκα τραγούδια του Χατζιδάκι, με τον ίδιο να επιμελείται τις ενορχηστρώσεις κατά την παραμονή του στην Αμερική.",
+    "Το 1993 ο Χατζιδάκις αποφάσισε να εκδώσει τον δίσκο στα ελληνικά. Σύμφωνα με το Ogdoo, οι ελληνικοί στίχοι είναι του Νίκου Γκάτσου, που είχε πεθάνει έναν χρόνο νωρίτερα, με εξαίρεση ένα τραγούδι της Αγαθής Δημητρούκα. Τραγουδά η Αλίκη Καγιαλόγλου· ο δίσκος κυκλοφόρησε από τον «Σείριο», με εξώφυλλο έργο του Νίκου Χατζηκυριάκου-Γκίκα.",
+    "Οι στίχοι δεν παρατίθενται εδώ· το πλήρες κείμενο και η ηχογράφηση υπάρχουν στον ίδιο τον δίσκο."
+  ],
   "sources": [
     {
       "label": "Discogs — Αντικατοπτρισμοί (1993)",
       "url": "https://www.discogs.com/master/364459"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Τα ελληνικά “Reflections” του Μάνου Χατζιδάκι και μια συνέντευξη στο περιοδικό “Ήχος”»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/ta-ellinika-reflections-tou-manou-xatzidaki-kai-mia-synentefksi-ston-ixo/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Αντικατοπτρισμοί” (1993).",
-    "story": []
-  }
+    "teaser": "From “Αντικατοπτρισμοί” (1993): the Greek edition of “Reflections” (1970), sung by Alíki Kagialóglou.",
+    "story": [
+      "The song belongs to “Αντικατοπτρισμοί” (1993). The album grew out of “Reflections”: in 1970 the American group New York Rock & Roll Ensemble recorded ten Hadjidakis songs, with the composer supervising the arrangements during his stay in America.",
+      "In 1993 Hadjidakis decided to release the album in Greek. According to Ogdoo, the Greek lyrics are by Nikos Gatsos, who had died a year earlier, except for one song by Agathi Dimitrouka. Alíki Kagialóglou sings; the album came out on Seirios, with a cover by Nikos Hatzikyriakos-Ghika.",
+      "The lyrics are not quoted here; the full text and recording are on the album itself."
+    ],
+    "caveat": "The source describes the album as a whole; there is no separate account of how this particular song was composed."
+  },
+  "caveat": "Η πηγή περιγράφει τον δίσκο στο σύνολό του· δεν υπάρχει ξεχωριστή μαρτυρία για τη σύνθεση αυτού του τραγουδιού."
 }

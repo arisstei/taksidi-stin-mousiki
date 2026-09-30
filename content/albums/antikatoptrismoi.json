@@ -23,20 +23,17 @@
     {
       "pos": "A1",
       "title": "Το τραγούδι της χαμένης Κυριακής",
-      "song": "to-tragoudi-tis-xamenis-kyriakis",
-      "stub": true
+      "song": "to-tragoudi-tis-xamenis-kyriakis"
     },
     {
       "pos": "A2",
       "title": "Πού το πήγαν το παιδί",
-      "song": "pou-to-pigan-to-paidi",
-      "stub": true
+      "song": "pou-to-pigan-to-paidi"
     },
     {
       "pos": "A3",
       "title": "Πες μου τ' όνομά σου",
-      "song": "pes-mou-t-onoma-sou",
-      "stub": true
+      "song": "pes-mou-t-onoma-sou"
     },
     {
       "pos": "A4",
@@ -45,8 +42,7 @@
     {
       "pos": "A5",
       "title": "Ο κόσμος σου να είμαι εγώ",
-      "song": "o-kosmos-sou-na-eimai-ego",
-      "stub": true
+      "song": "o-kosmos-sou-na-eimai-ego"
     },
     {
       "pos": "B1",
@@ -60,21 +56,18 @@
     {
       "pos": "Β3",
       "title": "Το τραγούδι του δρόμου",
-      "song": "to-tragoudi-tou-dromou",
-      "stub": true
+      "song": "to-tragoudi-tou-dromou"
     },
     {
       "pos": "Β4",
       "title": "Η προσευχή του ακροβάτη",
       "lyricist": "Αγαθή Δημητρούκα",
-      "song": "i-proseyxi-tou-akrovati",
-      "stub": true
+      "song": "i-proseyxi-tou-akrovati"
     },
     {
       "pos": "Β5",
       "title": "Περιμπανού",
-      "song": "perimpanou",
-      "stub": true
+      "song": "perimpanou"
     }
   ],
   "sources": [
