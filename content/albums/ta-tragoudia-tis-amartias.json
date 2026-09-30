@@ -28,8 +28,7 @@
     {
       "pos": "Α2",
       "title": "Τύψεις",
-      "song": "typseis",
-      "stub": true
+      "song": "typseis"
     },
     {
       "pos": "Α3",
@@ -40,20 +39,17 @@
     {
       "pos": "Α4",
       "title": "Έρωτας",
-      "song": "erotas",
-      "stub": true
+      "song": "erotas"
     },
     {
       "pos": "Α5",
       "title": "Αισθησιακό",
-      "song": "aisthisiako",
-      "stub": true
+      "song": "aisthisiako"
     },
     {
       "pos": "Α6",
       "title": "Ανταλλαγή",
-      "song": "antallagi",
-      "stub": true
+      "song": "antallagi"
     },
     {
       "pos": "Α7",
@@ -64,14 +60,12 @@
     {
       "pos": "Α8",
       "title": "Παράκληση",
-      "song": "paraklisi",
-      "stub": true
+      "song": "paraklisi"
     },
     {
       "pos": "Α9",
       "title": "Απόκοσμος",
-      "song": "apokosmos",
-      "stub": true
+      "song": "apokosmos"
     },
     {
       "pos": "Β1",
@@ -82,8 +76,7 @@
     {
       "pos": "Β2",
       "title": "Αναμονή",
-      "song": "anamoni",
-      "stub": true
+      "song": "anamoni"
     },
     {
       "pos": "Β3",
@@ -94,8 +87,7 @@
     {
       "pos": "Β4",
       "title": "Σαν τους αριστερούς",
-      "song": "san-tous-aristerous",
-      "stub": true
+      "song": "san-tous-aristerous"
     },
     {
       "pos": "Β5",
@@ -112,21 +104,18 @@
     {
       "pos": "Β7",
       "title": "Νεαρέ γιε του μπακάλη",
-      "song": "neare-gie-tou-mpakali",
-      "stub": true
+      "song": "neare-gie-tou-mpakali"
     },
     {
       "pos": "Β8",
       "title": "Ενός λεπτού σιγή",
-      "song": "enos-leptou-sigi",
-      "stub": true
+      "song": "enos-leptou-sigi"
     },
     {
       "pos": "Β9",
       "title": "Τύψεις",
       "performer": "Μάνος Χατζιδάκις (φωνή)",
-      "song": "typseis",
-      "stub": true
+      "song": "typseis"
     }
   ],
   "sources": [

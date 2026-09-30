@@ -5,20 +5,39 @@
   "lyricist": null,
   "year": "1996",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Τα Τραγούδια της Αμαρτίας» (1996).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τον κύκλο «Τα τραγούδια της αμαρτίας» (1996) — Χατζιδάκις, ποίηση Χριστιανόπουλου/Χρονά, φωνή Ανδρέας Καρακότας.",
+  "story": [
+    "Σύμφωνα με το Ποιείν, πρόκειται για ποίημα του Ντίνου Χριστιανόπουλου («Παράκληση — Σ’ ένα λαϊκό φίλο»). Ο Καρακότας θεωρεί ότι το «Μη βάζεις σε παρακαλώ αρώματα» έχει καθαρά ομοφυλοφιλική θεματική, όπως και ένα ακόμη τραγούδι του κύκλου.",
+    "Το τραγούδι ανήκει στα «Τραγούδια της αμαρτίας» (Έργο 50, 1992, ανολοκλήρωτο), κύκλο τραγουδιών σε ποίηση Ντίνου Χριστιανόπουλου και Γιώργου Χρονά, με υπότιτλο «Η αμαρτία είναι βυζαντινή και ο έρωτας αρχαίος». Ο Χατζιδάκις τον έγραψε στα τρία τελευταία χρόνια της ζωής του.",
+    "Στον πρόλογο εξηγεί ότι η ιδέα γεννήθηκε όταν μπήκε στη Θεσσαλονίκη το 1945, βράδυ Μεγάλης Πέμπτης, και είδε τις φωτισμένες άδειες εκκλησίες· το έργο το αφιερώνει σε όσους μπορούν ακόμη να διαβρωθούν από τη Μουσική και το Τραγούδι.",
+    "Ο Ανδρέας Καρακότας διηγείται ότι ο Χατζιδάκις συνέθετε δίπλα στο πιάνο μπροστά του· δέκα από τα τραγούδια γράφτηκαν παρουσία του. Ο συνθέτης δεν πρόλαβε να ενορχηστρώσει το έργο, που εκδόθηκε το 1996 για φωνή και πιάνο (Ανδρέας Καρακότας, Ντόρα Μπακοπούλου). Οι στίχοι δεν παρατίθενται εδώ· το πλήρες κείμενο υπάρχει στον δίσκο και σε έντυπες εκδόσεις των ποιημάτων."
+  ],
   "sources": [
     {
       "label": "Discogs — Τα Τραγούδια Της Αμαρτίας (1996)",
       "url": "https://www.discogs.com/master/792208"
+    },
+    {
+      "label": "Ποιείν (Σπύρος Αραβανής) — «Μάνος Χατζιδάκις, “Τα τραγούδια της αμαρτίας”, Σείριος, 1996»",
+      "url": "https://www.poiein.gr/2017/11/11/iuiio-aoaeeaueeo-oa-onaaiyaea-oco-aianossao-oassneio-1996/"
+    },
+    {
+      "label": "Andreas Karakotas (επίσημη ιστοσελίδα) — «Τα τραγούδια της αμαρτίας», με απόσπασμα συνέντευξης στον Αντώνη Μποσκοΐτη",
+      "url": "https://andreas-karakotas.gr/ta-tragoudia-tis-amartias/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Τα Τραγούδια της Αμαρτίας” (1996).",
-    "story": []
-  }
+    "teaser": "From the cycle “Τα τραγούδια της αμαρτίας” (1996) — Hadjidakis, poetry by Christianopoulos/Chronas, sung by Andreas Karakotas.",
+    "story": [
+      "According to Poiein, this is a poem by Dinos Christianopoulos (“Παράκληση — To a working-class friend”). Karakotas considers “Μη βάζεις σε παρακαλώ αρώματα” clearly about same-sex love, as is one more song of the cycle.",
+      "The song belongs to “Τα τραγούδια της αμαρτίας” (Opus 50, 1992, unfinished), a song cycle on poems by Dinos Christianopoulos and Giorgos Chronas, subtitled “Sin is Byzantine and love is ancient”. Hadjidakis worked on it during the last three years of his life.",
+      "In the preface he explains that the idea came when he entered Thessaloniki in 1945 on the night of Holy Thursday and saw the lit, empty churches; he dedicates the work to those who can still be corrupted by Music and Song.",
+      "Andreas Karakotas recalls that Hadjidakis composed at the piano in front of him; ten of the songs were written in his presence. The composer did not live to orchestrate the work, which was released in 1996 for voice and piano (Andreas Karakotas, Dora Bakopoulou). The lyrics are not quoted here; the full text is on the record and in printed editions of the poems."
+    ],
+    "caveat": "The song belongs to the cycle “Τα τραγούδια της αμαρτίας” (1996); the sources describe the cycle, not each song separately."
+  },
+  "caveat": "Το τραγούδι ανήκει στον κύκλο «Τα τραγούδια της αμαρτίας» (1996)· η πηγή περιγράφει τον κύκλο και όχι ξεχωριστά κάθε τραγούδι."
 }
