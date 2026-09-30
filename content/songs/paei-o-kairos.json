@@ -5,17 +5,23 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1965",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
+  "status": "documented",
+  "grade": "B",
   "origin": "lyricist",
   "archive": "paei-o-kairos",
-  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μάνος Χατζιδάκις, πρώτη δισκογράφηση 1965.",
-  "story": [],
+  "teaser": "Ένα χασάπικο του 1965 εκτός κύκλου — το απαγόρευσε η χούντα και ο Γκάτσος έγραψε γι' αυτό νέους στίχους («Πρωτομηνιά»).",
+  "story": [
+    "Το 1965 ηχογραφήθηκε ένα ξεχωριστό χασάπικο των Χατζιδάκι και Γκάτσου, που δεν ανήκει σε κάποιο κύκλο τραγουδιών: κυκλοφόρησε σε δίσκο 45 στροφών της Columbia με τραγουδιστή τον Γρηγόρη Μπιθικώτση. Στην άλλη όψη ήταν το «Στο Λαύριο γίνεται χορός», επίσης με τον Μπιθικώτση.",
+    "Δύο χρόνια μετά, το «Πάει ο καιρός» αντιμετώπισε προβλήματα λογοκρισίας από τη χούντα και απαγορεύτηκε. Έτσι, το 1971, πάνω στην ίδια μελωδία, ο Γκάτσος έγραψε νέους στίχους: είναι η «Πρωτομηνιά», που τραγούδησε ο Μανώλης Μητσιάς στον δίσκο «Της γης το χρυσάφι»."
+  ],
   "sources": [
     {
       "label": "The Gatsos Archive — Πάει ο καιρός",
       "url": "https://gatsosarchive.org/song/paei-o-kairos/"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Μάνος Χατζιδάκις & Νίκος Γκάτσος – Παράλληλες ιστορίες»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
     }
   ],
   "coverVideoUrl": null,
@@ -25,20 +31,34 @@
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 56"
   },
   "en": {
-    "teaser": "Lyrics by Nikos Gatsos — music by Μάνος Χατζιδάκις, first recorded 1965.",
-    "story": [],
+    "teaser": "A 1965 chasapiko outside any cycle — banned by the junta, after which Gatsos wrote new lyrics for it («Protomenia»).",
+    "story": [
+      "In 1965 a separate chasapiko by Hadjidakis and Gatsos was recorded, belonging to no song cycle: it came out on a Columbia 45 rpm record sung by Grigoris Bithikotsis. The other side was «Sto Lavrio ginetai choros», also with Bithikotsis.",
+      "Two years later «Paei o kairos» ran into censorship by the junta and was banned. So in 1971, over the same melody, Gatsos wrote new lyrics: «Protomenia», sung by Manolis Mitsias on the album «Tis gis to chrysafi»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 56"
     },
     "recording": {
-      "note": "Posted by an official YouTube channel."
+      "note": "Unreleased live recording from the «Zygo» club (winter 2000–2001), from Thanasis Gioglou's archive: they open with the lyrics of the first version and continue with the words of «Protomenia». Posted by Ogdoo Media."
+    },
+    "firstPerformance": {
+      "note": "Columbia 45 rpm record, 1965, per Ogdoo.gr."
     }
   },
   "recording": {
-    "performer": "Μαργαρίτα Ζορμπαλά",
-    "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
-    "videoUrl": "https://www.youtube.com/watch?v=ht5CdHZm6Y0",
-    "videoLabel": "Μαργαρίτα Ζορμπαλά — Πάει ο καιρός"
+    "performer": "Γιώργος Νταλάρας & Πάνος Κατσιμίχας",
+    "year": "2000–2001",
+    "note": "Ανέκδοτη ζωντανή ηχογράφηση από το «Ζυγό» (χειμώνας 2000–2001), από το αρχείο του Θανάση Γιώγλου: ξεκινούν με τους στίχους της πρώτης εκτέλεσης και συνεχίζουν με τα λόγια της «Πρωτομηνιάς». Ανάρτηση του Ogdoo Media.",
+    "videoUrl": "https://www.youtube.com/watch?v=uBE2fOf7Yu8",
+    "videoLabel": "Πάει ο καιρός – Πρωτομηνιά · Γιώργος Νταλάρας – Πάνος Κατσιμίχας (Ogdoo Media)"
+  },
+  "firstPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης",
+    "year": "1965",
+    "note": "Δίσκος 45 στροφών Columbia, 1965, κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
   }
 }

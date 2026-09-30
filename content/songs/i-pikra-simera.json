@@ -5,11 +5,15 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1970",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Επιστροφή» (1970), «30 Νυχτερινά» (1983), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ανοίγει την «Επιστροφή» (1970) με τη Δήμητρα Γαλάνη· ο Χατζιδάκις ήθελε την εισαγωγή σαν προσευχή μικρού παιδιού.",
+  "story": [
+    "Η «Πίκρα σήμερα» ανοίγει τον δίσκο «Επιστροφή» και τη λέει η Δήμητρα Γαλάνη. Στην αυτοβιογραφική της έκδοση θυμάται ότι ο Χατζιδάκις, από το εξωτερικό, έστελνε τις οδηγίες του σε ταινίες μαγνητοφώνου· για αυτό το τραγούδι ζητούσε η εισαγωγή να ακούγεται σαν προσευχή ενός μικρού παιδιού.",
+    "Το ίδιο τραγούδι κυκλοφόρησε και σε δίσκο 45 στροφών της Polydor με τον Γιώργο Μαρίνο, σε ενορχήστρωση Σπύρου Παπαβασιλείου, στην ίδια εποχή με τον δίσκο.",
+    "Η «Επιστροφή» κυκλοφόρησε το 1970 από την Columbia: 11 ανέκδοτα κομμάτια του Χατζιδάκι, στα οποία ο ίδιος ζήτησε από τον Γκάτσο να γράψει στίχους. Λόγω της απουσίας του συνθέτη στο εξωτερικό, την ενορχήστρωση και τη διεύθυνση ανέλαβε ο Δήμος Μούτσης· τραγούδησαν ο Γρηγόρης Μπιθικώτσης και η νεαρή τότε Δήμητρα Γαλάνη (σε ένα τραγούδι και η Αλίκη Βουγιουκλάκη), με μπουζούκια των Κώστα Παπαδόπουλου και Λάκη Καρνέζη.",
+    "Κάποιες από τις μελωδίες γράφτηκαν αρχικά για το θεατρικό ανέβασμα του κωμειδυλλίου του Δημήτρη Κορομηλά «Η τύχη της Μαρούλας» το 1960. Τέσσερα από τα τραγούδια είχαν ηχογραφηθεί την ίδια εποχή και με τη φωνή του Σταμάτη Κόκοτα, αλλά κυκλοφόρησαν τριάντα χρόνια αργότερα σε συλλογή του."
+  ],
   "sources": [
     {
       "label": "Discogs — Επιστροφή (1970)",
@@ -22,18 +26,31 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Επιστροφή” του Χατζιδάκι & του Γκάτσου με Μπιθικώτση & Γαλάνη»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/h-epistrofi-toy-xatzidaki-toy-gkatsoy-me/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Επιστροφή” (1970), “30 Νυχτερινά” (1983), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "It opens «Epistrofi» (1970) with Dimitra Galani; Hadjidakis wanted the intro to sound like a small child's prayer.",
+    "story": [
+      "«I pikra simera» opens the record «Epistrofi» and is sung by Dimitra Galani. In her autobiographical book she recalls that Hadjidakis, from abroad, sent his instructions on tape reels; for this song he asked for the intro to sound like a small child's prayer.",
+      "The same song also came out on a Polydor 45 rpm record with Giorgos Marinos, arranged by Spyros Papavasileiou, around the same time as the album.",
+      "«Epistrofi» came out in 1970 on Columbia: 11 unreleased pieces by Hadjidakis, for which he himself asked Gatsos to write lyrics. Since the composer was abroad, Dimos Moutsis handled the arrangements and conducting; the singers were Grigoris Bithikotsis and the then very young Dimitra Galani (with Aliki Vougiouklaki on one song), with bouzouki players Kostas Papadopoulos and Lakis Karnezis.",
+      "Some of the melodies were originally written for the 1960 stage production of Dimitris Koromilas's comic idyll «I tychi tis Maroulas». Four of the songs had been recorded in the same period with the voice of Stamatis Kokotas too, but were only released thirty years later on a compilation of his."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 151"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    },
+    "caveat": "The article describes the record and its background as a whole; it does not say exactly how this song was written.",
+    "firstPerformance": {
+      "note": "On the album «Epistrofi» (Columbia, 1970). A version with Giorgos Marinos (Polydor) came out around the same time; the source does not say which was heard first."
     }
   },
   "textSource": {
@@ -45,5 +62,13 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=-URVICVNuaE",
     "videoLabel": "Η πίκρα σήμερα"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Δήμητρα Γαλάνη",
+    "year": "1970",
+    "note": "Στον δίσκο «Επιστροφή» (Columbia, 1970). Την ίδια εποχή κυκλοφόρησε και εκδοχή με τον Γιώργο Μαρίνο (Polydor)· η πηγή δεν λέει ποια ακούστηκε πρώτη.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/h-epistrofi-toy-xatzidaki-toy-gkatsoy-me/"
+  },
+  "caveat": "Το άρθρο περιγράφει τον δίσκο και το ιστορικό του συνολικά· δεν λέει πώς ακριβώς γράφτηκε αυτό το τραγούδι ή ποιοι στίχοι πρωτογράφτηκαν πότε."
 }

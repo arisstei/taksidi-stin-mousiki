@@ -5,29 +5,48 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1971",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Της γης το χρυσάφι» (1971).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Ίδια μελωδία με το «Πάει ο καιρός», με νέους στίχους του Γκάτσου, όταν το πρώτο απαγορεύτηκε από τη χούντα.",
+  "story": [
+    "Η «Πρωτομηνιά» είναι η μελωδία του «Πάει ο καιρός» (1965) με νέους στίχους. Όταν η χούντα απαγόρευσε το αρχικό τραγούδι, ο Νίκος Γκάτσος έγραψε το 1971 καινούργια λόγια πάνω στην ίδια μουσική, και ο Μανώλης Μητσιάς τα τραγούδησε στον δίσκο «Της γης το χρυσάφι», που κυκλοφόρησε την ίδια χρονιά.",
+    "Ο δίσκος ηχογραφήθηκε στην Columbia χωρίς τον Χατζιδάκι, που έλειπε στην Αμερική, με ενορχηστρωτή τον Γιάννη Σπανό· μαζί με τον Μητσιά συμμετείχε και η Δήμητρα Γαλάνη. Το 1973 η «Πρωτομηνιά» κυκλοφόρησε και σε δίσκο 45 στροφών μαζί με τη «Μικρή Ραλλού»."
+  ],
   "sources": [
     {
       "label": "Discogs — Της Γης Το Χρυσάφι (1971)",
       "url": "https://www.discogs.com/master/303426"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Μάνος Χατζιδάκις & Νίκος Γκάτσος – Παράλληλες ιστορίες»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Της γης το χρυσάφι” (1971).",
-    "story": [],
+    "teaser": "The same melody as «Paei o kairos», with new lyrics by Gatsos, after the first was banned by the junta.",
+    "story": [
+      "«Protomenia» is the melody of «Paei o kairos» (1965) with new lyrics. When the junta banned the original song, Nikos Gatsos wrote new words over the same music in 1971, and Manolis Mitsias sang them on the album «Tis gis to chrysafi», released that year.",
+      "The album was recorded at Columbia without Hadjidakis, who was away in America, with Giannis Spanos as arranger; Dimitra Galani also took part alongside Mitsias. In 1973 «Protomenia» also came out on a 45 rpm record together with «I mikri Ralou»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 178"
+    },
+    "firstPerformance": {
+      "note": "On the album «Tis gis to chrysafi» (1971), per Ogdoo.gr."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/protomenia/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 178"
+  },
+  "firstPerformance": {
+    "performer": "Μανώλης Μητσιάς",
+    "year": "1971",
+    "note": "Στον δίσκο «Της γης το χρυσάφι» (1971), κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
   }
 }

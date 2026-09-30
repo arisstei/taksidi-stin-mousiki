@@ -3,29 +3,41 @@
   "title": "Η Πλατυτέρα των ουρανών",
   "composer": "Μάνος Χατζιδάκις",
   "lyricist": "Νίκος Γκάτσος",
-  "year": "1987",
+  "year": "1986",
   "performer": "Μαρία Φαραντούρη",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Σκοτεινή μητέρα» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από τη «Σκοτεινή μητέρα» (1986), τον κύκλο που έγραψαν Χατζιδάκις και Γκάτσος για τη Μαρία Φαραντούρη.",
+  "story": [
+    "Η «Πλατυτέρα των ουρανών» ανήκει στη «Σκοτεινή μητέρα» (Έργο 45, 1985–86), έναν κύκλο τραγουδιών του Χατζιδάκι σε στίχους Γκάτσου που γράφτηκε για τη Μαρία Φαραντούρη· εκείνη τον τραγούδησε στον δίσκο και στις περιορισμένες συναυλίες που ακολούθησαν, υπό τη διεύθυνση του συνθέτη. Το κείμενο του δίσκου έγραψε ο Γιάννης Τσαρούχης και το κολάζ του εξωφύλλου φιλοτέχνησε ο Οδυσσέας Ελύτης.",
+    "Ο τίτλος είναι εμπνευσμένος από την εικόνα της Παναγίας «Πλατυτέρας των Ουρανών», που αγιογραφείται στην κόγχη του Ιερού των ναών και συμβολίζει την ένωση της γης με τον ουρανό. Ο Παναγιώτης Ανδριόπουλος τη χαρακτηρίζει «θεοτόκιο» και ύμνο για κάθε μάνα· ακούγεται λίγο πάνω από ένα λεπτό, χωρίς συνοδεία οργάνων."
+  ],
   "sources": [
     {
       "label": "Discogs — Σκοτεινή Μητέρα (1987)",
       "url": "https://www.discogs.com/master/867695"
+    },
+    {
+      "label": "Μικροπράγματα / LiFO (Παναγιώτης Αντ. Ανδριόπουλος) — «Η πλατυτέρα των ουρανών» του Μάνου Χατζιδάκι και του Νίκου Γκάτσου",
+      "url": "https://mikropragmata.lifo.gr/guest_posts/i-platytera-ton-ouranon-tou-manou-chatzidaki-kai-tou-nikou-gkatsou/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Σκοτεινή μητέρα” (1987).",
-    "story": [],
+    "teaser": "From «Skoteini mitera» (1986), the cycle Hadjidakis and Gatsos wrote for Maria Farantouri.",
+    "story": [
+      "«I platytera ton ouranon» belongs to «Skoteini mitera» (Opus 45, 1985–86), a song cycle by Hadjidakis with lyrics by Gatsos, written for Maria Farantouri; she sang it on the record and in the limited concerts that followed, under the composer's direction. The record's text was written by Giannis Tsarouchis and the cover collage was made by Odysseas Elytis.",
+      "The title is inspired by the icon of the Virgin «Platytera ton Ouranon», painted in the apse of the sanctuary of churches, symbolising the union of earth and heaven. Panagiotis Andriopoulos calls it a «theotokion» and a hymn for every mother; it lasts a little over a minute, without instrumental accompaniment."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 404"
     },
     "recording": {
       "note": "Posted by an official YouTube channel."
+    },
+    "firstPerformance": {
+      "note": "On the album «Skoteini mitera» (1986), per Mikropragmata."
     }
   },
   "textSource": {
@@ -38,5 +50,12 @@
     "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
     "videoUrl": "https://www.youtube.com/watch?v=5DmUGJN8MFQ",
     "videoLabel": "Μαρία Φαραντούρη — Η Πλατυτέρα των ουρανών"
+  },
+  "firstPerformance": {
+    "performer": "Μαρία Φαραντούρη",
+    "year": "1986",
+    "note": "Στον δίσκο «Σκοτεινή μητέρα» (1986), κατά τα Μικροπράγματα.",
+    "sourceLabel": "Μικροπράγματα / LiFO",
+    "sourceUrl": "https://mikropragmata.lifo.gr/guest_posts/i-platytera-ton-ouranon-tou-manou-chatzidaki-kai-tou-nikou-gkatsou/"
   }
 }

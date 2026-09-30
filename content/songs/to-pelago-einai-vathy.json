@@ -3,22 +3,43 @@
   "title": "Το πέλαγο είναι βαθύ",
   "composer": "Μάνος Χατζιδάκις",
   "lyricist": "Νίκος Γκάτσος",
-  "year": "1986",
+  "year": "1961",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)» (1986).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Στίχοι του ίδιου του Χατζιδάκι· στην άλλη όψη του 45άρι της «Αθήνας» (1961) με Καζαντζίδη και Μαρινέλλα.",
+  "story": [
+    "Το «Πέλαγο είναι βαθύ» είναι ένα από τα τέσσερα τραγούδια του Χατζιδάκι που ηχογράφησαν το καλοκαίρι του 1961 ο Στέλιος Καζαντζίδης, η Μαρινέλλα και ο Μανώλης Χιώτης (μπουζούκι) και κυκλοφόρησαν στις 10 Αυγούστου 1961. Οι στίχοι είναι του ίδιου του συνθέτη.",
+    "Κυκλοφόρησε σε δίσκο 45 στροφών μαζί με την «Αθήνα» (HMV 7PG 3011· Odeon HGRA 885 για το εξωτερικό)."
+  ],
   "sources": [
     {
       "label": "Discogs — Ο Μάνος Χατζιδάκις Στη Ρωμαϊκή Αγορά (1986)",
       "url": "https://www.discogs.com/master/182351"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθήνα” των Χατζιδάκι & Γκάτσου σε 2 εκτελέσεις με Καζαντζίδη, Μαρινέλλα, Χιώτη»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Ο Μάνος Χατζιδάκις στη Ρωμαϊκή Αγορά (35 τραγούδια 1947–1985)” (1986).",
-    "story": []
-  }
+    "teaser": "Lyrics by Hadjidakis himself; on the other side of the «Athina» 45 (1961) with Kazantzidis and Marinella.",
+    "story": [
+      "«To pelago einai vathy» is one of four Hadjidakis songs recorded in the summer of 1961 by Stelios Kazantzidis, Marinella and Manolis Chiotis (bouzouki), released on 10 August 1961. The lyrics are by the composer himself.",
+      "It came out on a 45 rpm record together with «Athina» (HMV 7PG 3011; Odeon HGRA 885 for the export market)."
+    ],
+    "caveat": "The source only says when it was recorded and released; it does not say how the song was written, and we do not know whether it had been heard earlier.",
+    "firstPerformance": {
+      "note": "45 rpm record, 10 August 1961, per Ogdoo.gr."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+    "year": "1961",
+    "note": "Δίσκος 45 στροφών, 10 Αυγούστου 1961, κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
+  },
+  "caveat": "Η πηγή λέει μόνο πότε ηχογραφήθηκε και κυκλοφόρησε· δεν λέει πώς γράφτηκε το τραγούδι, και δεν ξέρουμε αν είχε ακουστεί νωρίτερα."
 }

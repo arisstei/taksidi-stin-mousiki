@@ -5,17 +5,23 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1960",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
+  "status": "documented",
+  "grade": "B",
   "origin": "lyricist",
   "archive": "athena",
-  "teaser": "Στίχοι Νίκου Γκάτσου — μουσική Μάνος Χατζιδάκις, πρώτη δισκογράφηση 1960.",
-  "story": [],
+  "teaser": "Πρωτακούστηκε από τη Νάνα Μούσχουρη σε ντοκιμαντέρ του 1960 — η γνωστή εκτέλεση είναι του Καζαντζίδη και της Μαρινέλλας (1961).",
+  "story": [
+    "Η «Αθήνα» των Χατζιδάκι–Γκάτσου πρωτακούστηκε το 1960 από τη Νάνα Μούσχουρη, στο ντοκιμαντέρ του Wolfgang Muller-Sehn «Ελλάς, η χώρα των ονείρων». Ένα χρόνο μετά, το καλοκαίρι του 1961, ο Στέλιος Καζαντζίδης με τη Μαρινέλλα και τον Μανώλη Χιώτη στο μπουζούκι ηχογράφησαν τέσσερα τραγούδια του Χατζιδάκι, που κυκλοφόρησαν στις 10 Αυγούστου 1961 σε δύο δίσκους 45 στροφών: «Το πέλαγο είναι βαθύ» και «Ο κυρ-Αντώνης» (στίχοι του συνθέτη), «Το κουρασμένο παλικάρι» και «Αθήνα» (στίχοι Γκάτσου). Στην ηχογράφηση έπαιξε πιάνο ο ίδιος ο Χατζιδάκις και μπάσο ο Ανδρέας Ροδουσάκης· ήταν η δεύτερη εκτέλεση του τραγουδιού.",
+    "Την ίδια χρονιά το τραγούδι ηχογράφησαν ο Πάνος Γαβαλάς με τη Ρία Κούρτη (Odeon), ο Γιάννης Βογιατζής και η Λόλα Τσακίρη· το 1962 το ντουέτο Κορώνης–Φίλανδρος. Ο Καζαντζίδης και η Μαρινέλλα ηχογράφησαν το τραγούδι δύο φορές με την ίδια ορχήστρα, με εμφανείς διαφορές στα φωνητικά και στο παίξιμο του Χιώτη· η δεύτερη λήψη μπήκε το 2008 στην κασετίνα 8 CD «Μάνος Χατζιδάκις – 100 τραγούδια» που διανεμήθηκε από Το Βήμα της Κυριακής."
+  ],
   "sources": [
     {
       "label": "The Gatsos Archive — Αθήνα",
       "url": "https://gatsosarchive.org/song/athena/"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθήνα” των Χατζιδάκι & Γκάτσου σε 2 εκτελέσεις με Καζαντζίδη, Μαρινέλλα, Χιώτη»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
     }
   ],
   "coverVideoUrl": null,
@@ -25,11 +31,34 @@
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης), σ. 17"
   },
   "en": {
-    "teaser": "Lyrics by Nikos Gatsos — music by Μάνος Χατζιδάκις, first recorded 1960.",
-    "story": [],
+    "teaser": "First heard sung by Nana Mouskouri in a 1960 documentary — the best-known version is Kazantzidis and Marinella's (1961).",
+    "story": [
+      "Hadjidakis and Gatsos's «Athina» was first sung in 1960 by Nana Mouskouri, in Wolfgang Muller-Sehn's documentary «Hellas, Land of Dreams». A year later, in the summer of 1961, Stelios Kazantzidis with Marinella and Manolis Chiotis on bouzouki recorded four Hadjidakis songs, released on 10 August 1961 on two 45 rpm records: «The sea is deep» and «Kyr-Antonis» (lyrics by the composer), «The tired lad» and «Athina» (lyrics by Gatsos). Hadjidakis himself played piano on the recording and Andreas Rodousakis bass; it was the song's second performance.",
+      "The same year the song was also recorded by Panos Gavalas with Ria Kourti (Odeon), Giannis Vogiatzis and Lola Tsakiri; in 1962 by the duo Koronis–Filandros. Kazantzidis and Marinella recorded the song twice with the same orchestra, with clear differences in the vocals and in Chiotis's playing; the second take was included in 2008 in the 8-CD box «Manos Hadjidakis – 100 songs» distributed by To Vima tis Kyriakis."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 17"
+    },
+    "firstPerformance": {
+      "note": "First performance, in the documentary «Hellas, Land of Dreams», per Ogdoo.gr."
+    },
+    "famousPerformance": {
+      "note": "45 rpm record (HMV 7PG 3011), Manolis Chiotis on bouzouki and Hadjidakis on piano. The video is titled «1st performance» — our source does not say which of the two takes was released on the record. Uploaded by a YouTube user — not an official release; the link may disappear at some point."
     }
+  },
+  "firstPerformance": {
+    "performer": "Νάνα Μούσχουρη",
+    "year": "1960",
+    "note": "Πρώτη εκτέλεση, στο ντοκιμαντέρ «Ελλάς, η χώρα των ονείρων», κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
+  },
+  "famousPerformance": {
+    "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+    "year": "1961",
+    "note": "Δίσκος 45 στροφών (HMV 7PG 3011), με τον Μανώλη Χιώτη στο μπουζούκι και τον Χατζιδάκι στο πιάνο. Το βίντεο έχει τίτλο «1η εκτέλεση» — η πηγή μας δεν λέει ποια από τις δύο λήψεις κυκλοφόρησε στον δίσκο. Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
+    "videoUrl": "https://www.youtube.com/watch?v=0qCtArY4l_g",
+    "videoLabel": "Αθήνα — Στέλιος Καζαντζίδης & Μαρινέλλα (1η εκτέλεση) · ανάρτηση χρήστη (Ξεχασμένα Διαμάντια)"
   }
 }

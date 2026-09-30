@@ -38,8 +38,7 @@
       "pos": "A3",
       "title": "Ο κυρ-Αντώνης",
       "lyricist": "Μάνος Χατζιδάκις",
-      "song": "o-kyr-antonis",
-      "stub": true
+      "song": "o-kyr-antonis"
     },
     {
       "pos": "A4",
@@ -93,8 +92,7 @@
       "pos": "C1",
       "title": "Η πίκρα σήμερα",
       "lyricist": "Νίκος Γκάτσος",
-      "song": "i-pikra-simera",
-      "stub": true
+      "song": "i-pikra-simera"
     },
     {
       "pos": "C2",
@@ -121,8 +119,7 @@
       "pos": "C5",
       "title": "Στο Λαύριο γίνεται χορός",
       "lyricist": "Νίκος Γκάτσος",
-      "song": "sto-layrio-ginetai-xoros",
-      "stub": true
+      "song": "sto-layrio-ginetai-xoros"
     },
     {
       "pos": "D1",
@@ -222,8 +219,7 @@
       "pos": "F5",
       "title": "Τα λουστράκια",
       "lyricist": "Νίκος Γκάτσος",
-      "song": "ta-loustrakia",
-      "stub": true
+      "song": "ta-loustrakia"
     }
   ],
   "sources": [

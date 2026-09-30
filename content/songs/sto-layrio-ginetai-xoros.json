@@ -3,13 +3,14 @@
   "title": "Στο Λαύριο γίνεται χορός",
   "composer": "Μάνος Χατζιδάκις",
   "lyricist": "Νίκος Γκάτσος",
-  "year": "1983",
+  "year": "1965",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «30 Νυχτερινά» (1983), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Στην άλλη όψη του 45άρι του «Πάει ο καιρός» — ηχογράφηση του 1965 με τον Μπιθικώτση.",
+  "story": [
+    "Το «Στο Λαύριο γίνεται χορός» ηχογραφήθηκε το 1965 από τον Γρηγόρη Μπιθικώτση και κυκλοφόρησε σε δίσκο 45 στροφών της Columbia, στην άλλη όψη του χασάπικου «Πάει ο καιρός» των Χατζιδάκι και Γκάτσου."
+  ],
   "sources": [
     {
       "label": "Discogs — 30 Νυχτερινά (1983)",
@@ -18,20 +19,38 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Μάνος Χατζιδάκις & Νίκος Γκάτσος – Παράλληλες ιστορίες»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “30 Νυχτερινά” (1983), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "On the other side of the «Paei o kairos» 45 — a 1965 recording with Bithikotsis.",
+    "story": [
+      "«Sto Lavrio ginetai choros» was recorded in 1965 by Grigoris Bithikotsis and released on a Columbia 45 rpm record, on the flip side of Hadjidakis and Gatsos's chasapiko «Paei o kairos»."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis)"
+    },
+    "caveat": "The source only mentions its recording and release; it says nothing about its inspiration or lyrics. The page's date was corrected to 1965.",
+    "firstPerformance": {
+      "note": "Columbia 45 rpm record, 1965, per Ogdoo.gr."
     }
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
     "url": "https://gatsosarchive.org/song/sto-laurio-ginetai-khoros-1/",
     "book": "Νίκος Γκάτσος, «Όλα τα τραγούδια» (Πατάκης)"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης",
+    "year": "1965",
+    "note": "Δίσκος 45 στροφών Columbia, 1965, κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/manos-xatzidakis-nikos-gkatsos-parallile/"
+  },
+  "caveat": "Η πηγή αναφέρει μόνο την ηχογράφηση και την κυκλοφορία του· δεν λέει τίποτα για την έμπνευση ή τους στίχους. Η χρονολογία της σελίδας διορθώθηκε στο 1965."
 }

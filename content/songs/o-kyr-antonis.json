@@ -3,13 +3,15 @@
   "title": "Ο κυρ-Αντώνης",
   "composer": "Μάνος Χατζιδάκις",
   "lyricist": "Μάνος Χατζιδάκις",
-  "year": "1965",
+  "year": "1961",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τους δίσκους «Δεκαπέντε Εσπερινοί» (1965), «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Στίχοι του ίδιου του Χατζιδάκι· ηχογραφήθηκε το 1961 από τον Καζαντζίδη και τη Μαρινέλλα.",
+  "story": [
+    "Το καλοκαίρι του 1961 ο Στέλιος Καζαντζίδης με τη Μαρινέλλα και τον Μανώλη Χιώτη στο μπουζούκι ηχογράφησαν τέσσερα τραγούδια του Χατζιδάκι, που κυκλοφόρησαν στις 10 Αυγούστου 1961 σε δύο δίσκους 45 στροφών. Ανάμεσά τους «Ο κυρ-Αντώνης» και «Το πέλαγο είναι βαθύ», σε στίχους του ίδιου του συνθέτη (τα άλλα δύο, «Το κουρασμένο παλικάρι» και η «Αθήνα», έχουν στίχους Γκάτσου).",
+    "Τον «Κυρ-Αντώνη» ηχογράφησαν την ίδια χρονιά και ο Πάνος Γαβαλάς με τη Ρία Κούρτη για την Odeon."
+  ],
   "sources": [
     {
       "label": "Discogs — Δεκαπέντε Εσπερινοί (1965)",
@@ -18,11 +20,30 @@
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Αθήνα” των Χατζιδάκι & Γκάτσου σε 2 εκτελέσεις με Καζαντζίδη, Μαρινέλλα, Χιώτη»",
+      "url": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the albums “Δεκαπέντε Εσπερινοί” (1965), “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": []
-  }
+    "teaser": "Lyrics by Hadjidakis himself; recorded in 1961 by Kazantzidis and Marinella.",
+    "story": [
+      "In the summer of 1961 Stelios Kazantzidis with Marinella and Manolis Chiotis on bouzouki recorded four Hadjidakis songs, released on 10 August 1961 on two 45 rpm records. Among them were «Kyr-Antonis» and «The sea is deep», with lyrics by the composer himself (the other two, «The tired lad» and «Athina», have lyrics by Gatsos).",
+      "«Kyr-Antonis» was also recorded that same year by Panos Gavalas with Ria Kourti for Odeon."
+    ],
+    "caveat": "The source says when the song was recorded and released, not how or when it was written. The page's date was corrected to 1961 according to it.",
+    "firstPerformance": {
+      "note": "Released on 10 August 1961. Gavalas and Kourti also recorded it that year; the source does not say which was heard first."
+    }
+  },
+  "firstPerformance": {
+    "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+    "year": "1961",
+    "note": "Κυκλοφόρησε στις 10 Αυγούστου 1961. Την ίδια χρονιά το ηχογράφησαν και ο Γαβαλάς με την Κούρτη· η πηγή δεν λέει ποιο ακούστηκε πρώτο.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/stigmes-ntokoumenta/i-athina-ton-xatzidaki-gatsou-se-2-ekteleseis-me-kazantzidi-marinella-xioti/"
+  },
+  "caveat": "Η πηγή λέει πότε ηχογραφήθηκε και κυκλοφόρησε το τραγούδι, όχι πώς ή πότε γράφτηκε. Η χρονολογία της σελίδας διορθώθηκε στο 1961 σύμφωνα με αυτήν."
 }

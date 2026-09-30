@@ -5,28 +5,38 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1987",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)» (1987).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Γράφτηκε για μια σκηνή της ταινίας «Αμέρικα, Αμέρικα» του Ελία Καζάν (1963) και έγινε αυτόνομο τραγούδι το 1987.",
+  "story": [
+    "Τα «Λουστράκια» του Χατζιδάκι, σε στίχους Γκάτσου, προέρχονται από τη μουσική για την ταινία «Αμέρικα, Αμέρικα» του Ελία Καζάν (1963) και επενδύουν μια σχετική σκηνή.",
+    "Ο Χατζιδάκις τα έκανε αυτόνομο τραγούδι στη «Λαϊκή Αγορά» (1987), με ερμηνευτές την Έλλη Πασπαλά, τον Ηλία Λιούγκο και τον Βασίλη Λέκκα. Υπάρχει και ιστορικό βίντεο από τις περίφημες εμφανίσεις του Χατζιδάκι στο «Ζουμ» της Πλάκας το 1988."
+  ],
   "sources": [
     {
       "label": "Discogs — Η Λαϊκή Αγορά (1987)",
       "url": "https://www.discogs.com/master/392002"
+    },
+    {
+      "label": "Παναγιώτης Αντ. Ανδριόπουλος (ιστολόγιο «Ιδιωτική Οδός») — «Τα λουστράκια του Μ. Χατζιδάκι και του Ν. Γκάτσου»",
+      "url": "http://panagiotisandriopoulos.blogspot.com/2010/03/blog-post_17.html"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Η Λαϊκή Αγορά (30 τραγούδια 1959–1975)” (1987).",
-    "story": [],
+    "teaser": "Written for a scene in Elia Kazan's film «America, America» (1963) and made a stand-alone song in 1987.",
+    "story": [
+      "Hadjidakis's «Ta loustrakia», with lyrics by Gatsos, comes from the music for Elia Kazan's film «America, America» (1963) and accompanies a related scene.",
+      "Hadjidakis turned it into a stand-alone song on «Laiki Agora» (1987), with Elli Paspala, Ilias Lioungos and Vasilis Lekkas as singers. There is also a historic video from Hadjidakis's famous appearances at the «Zoom» club in the Plaka in 1988."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 39"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
-    }
+    },
+    "caveat": "The source is a blog by the writer Panagiotis Andriopoulos, a short note without references; we have not checked a primary source."
   },
   "textSource": {
     "label": "Gatsos Archive — το επίσημο κείμενο",
@@ -37,5 +47,6 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=zAnb5Q0aCa0",
     "videoLabel": "Τα λουστράκια"
-  }
+  },
+  "caveat": "Η πηγή είναι ιστολόγιο του μουσικολόγου Π. Ανδριόπουλου, σύντομη σημείωση χωρίς παραπομπές· δεν έχουμε ελέγξει πρωτογενή πηγή."
 }
