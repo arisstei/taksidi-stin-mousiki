@@ -55,8 +55,7 @@
     {
       "pos": "A7",
       "title": "Never On Sunday",
-      "song": "never-on-sunday",
-      "stub": true
+      "song": "never-on-sunday"
     },
     {
       "pos": "B1",
@@ -90,14 +89,12 @@
     {
       "pos": "B7",
       "title": "Yorgo's Dance (Zebekiko)",
-      "song": "yorgo-s-dance",
-      "stub": true
+      "song": "yorgo-s-dance"
     },
     {
       "pos": "B8",
       "title": "Ya Chara",
-      "song": "ya-chara",
-      "stub": true
+      "song": "ya-chara"
     }
   ],
   "sources": [
