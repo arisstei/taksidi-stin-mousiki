@@ -5,29 +5,42 @@
   "lyricist": "Joe Darion",
   "year": "1967",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Illya Darling» (1967).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από το μιούζικαλ «Illya Darling» (Μπροντγουέι, 1967): Χατζιδάκις – Joe Darion, με τη Μελίνα Μερκούρη.",
+  "story": [
+    "Το τραγούδι ανήκει στο μιούζικαλ «Illya Darling», με μουσική Μάνου Χατζιδάκι, στίχους Joe Darion και libretto Jules Dassin, βασισμένο στην ταινία «Ποτέ την Κυριακή» (1960) του Dassin, όπως αναφέρει η Wikipedia.",
+    "Μετά από προπαρασκευαστική περιοδεία σε Φιλαδέλφεια, Τορόντο και Ντιτρόιτ, η παράσταση άνοιξε στο Μπροντγουέι (Mark Hellinger Theatre) στις 11 Απριλίου 1967 και έπαιξε 320 παραστάσεις έως τις 13 Ιανουαρίου 1968. Πρωταγωνίστρια ήταν η Μελίνα Μερκούρη, με τον Νίκο Κούρκουλο ως Τόνιο· υποψηφιότητες για Tony έλαβαν, μεταξύ άλλων, οι Χατζιδάκις και Darion για τη μουσική και τους στίχους.",
+    "Η πλοκή ακολουθεί την Illya, μια ανέμελη πόρνη του Πειραιά, και τον Αμερικανό Homer Thrace, που θέλει να την κάνει καλλιεργημένη. Στίχοι δεν παρατίθενται εδώ· το κείμενο υπάρχει στη γραπτή παρτιτούρα και την ηχογράφηση του θιάσου."
+  ],
   "sources": [
     {
       "label": "Discogs — Illya Darling (Original Broadway Cast Album)",
       "url": "https://www.discogs.com/master/723484"
+    },
+    {
+      "label": "Wikipedia — «Illya Darling»",
+      "url": "https://en.wikipedia.org/wiki/Illya_Darling"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Illya Darling” (1967).",
-    "story": [],
+    "teaser": "From the musical “Illya Darling” (Broadway, 1967): Hadjidakis – Joe Darion, starring Melina Mercouri.",
+    "story": [
+      "The song belongs to the musical “Illya Darling”, with music by Manos Hadjidakis, lyrics by Joe Darion and a book by Jules Dassin, based on Dassin’s 1960 film “Never on Sunday”, as Wikipedia reports.",
+      "After a pre-Broadway tour of Philadelphia, Toronto and Detroit, the show opened on Broadway (Mark Hellinger Theatre) on 11 April 1967 and ran for 320 performances until 13 January 1968. Melina Mercouri starred, with Nikos Kourkoulos as Tonio; Hadjidakis and Darion were among the Tony nominees for score and lyrics.",
+      "The plot follows Illya, a carefree prostitute of Piraeus, and the American Homer Thrace, who wants to make her cultured. The lyrics are not quoted here; the text is in the published score and the cast recording."
+    ],
     "recording": {
       "note": "Posted by an official YouTube channel."
-    }
+    },
+    "caveat": "The source describes the musical as a whole; there is no separate account of this particular song."
   },
   "recording": {
     "performer": "Μάνος Χατζιδάκις",
     "note": "Ανάρτηση από επίσημο κανάλι στο YouTube.",
     "videoUrl": "https://www.youtube.com/watch?v=EUEPgU9OfTE",
     "videoLabel": "Μάνος Χατζιδάκις — After Love"
-  }
+  },
+  "caveat": "Η πηγή περιγράφει το μιούζικαλ στο σύνολό του· δεν υπάρχει ξεχωριστή μαρτυρία για αυτό το τραγούδι."
 }

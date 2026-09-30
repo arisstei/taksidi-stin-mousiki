@@ -25,20 +25,17 @@
     {
       "pos": "A1",
       "title": "Bouzouki Nights",
-      "song": "bouzouki-nights",
-      "stub": true
+      "song": "bouzouki-nights"
     },
     {
       "pos": "A2",
       "title": "Piraeus, My Love",
-      "song": "piraeus-my-love",
-      "stub": true
+      "song": "piraeus-my-love"
     },
     {
       "pos": "A3",
       "title": "Golden Land",
-      "song": "golden-land",
-      "stub": true
+      "song": "golden-land"
     },
     {
       "pos": "A4",
@@ -48,14 +45,12 @@
     {
       "pos": "A5",
       "title": "Medea Tango",
-      "song": "medea-tango",
-      "stub": true
+      "song": "medea-tango"
     },
     {
       "pos": "A6",
       "title": "I'll Never Lay Down Anymore",
-      "song": "i-ll-never-lay-down-anymore",
-      "stub": true
+      "song": "i-ll-never-lay-down-anymore"
     },
     {
       "pos": "A7",
@@ -70,32 +65,27 @@
     {
       "pos": "B2",
       "title": "Love, Love, Love",
-      "song": "love-love-love",
-      "stub": true
+      "song": "love-love-love"
     },
     {
       "pos": "B3",
       "title": "I Think She Needs Me",
-      "song": "i-think-she-needs-me",
-      "stub": true
+      "song": "i-think-she-needs-me"
     },
     {
       "pos": "B4",
       "title": "Dear Mr. Schubert",
-      "song": "dear-mr-schubert",
-      "stub": true
+      "song": "dear-mr-schubert"
     },
     {
       "pos": "B5",
       "title": "Heaven Help The Sailors On A Night Like This",
-      "song": "heaven-help-the-sailors-on-a-night-like-this",
-      "stub": true
+      "song": "heaven-help-the-sailors-on-a-night-like-this"
     },
     {
       "pos": "B6",
       "title": "After Love",
-      "song": "after-love",
-      "stub": true
+      "song": "after-love"
     },
     {
       "pos": "B7",
