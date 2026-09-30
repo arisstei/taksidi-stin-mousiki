@@ -58,14 +58,12 @@
     {
       "pos": "Α7",
       "title": "Χειμωνιάτικος ήλιος",
-      "song": "xeimoniatikos-ilios",
-      "stub": true
+      "song": "xeimoniatikos-ilios"
     },
     {
       "pos": "Β1",
       "title": "Τα παιδιά της καταιγίδας",
-      "song": "ta-paidia-tis-kataigidas",
-      "stub": true
+      "song": "ta-paidia-tis-kataigidas"
     },
     {
       "pos": "Β2",
@@ -82,8 +80,7 @@
     {
       "pos": "Β4",
       "title": "Λάουρα",
-      "song": "laoura",
-      "stub": true
+      "song": "laoura"
     },
     {
       "pos": "Β5",
@@ -94,8 +91,7 @@
     {
       "pos": "Β6",
       "title": "Κύρα του κόσμου",
-      "song": "kyra-tou-kosmou",
-      "stub": true
+      "song": "kyra-tou-kosmou"
     }
   ],
   "sources": [
