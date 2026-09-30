@@ -5,27 +5,44 @@
   "lyricist": "Νίκος Γκάτσος",
   "year": "1970",
   "performer": null,
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Επιστροφή» (1970).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Από την «Επιστροφή» (1970) — Χατζιδάκις, Γκάτσος, Μπιθικώτσης.",
+  "story": [
+    "Το «Φιλντισένιο καραβάκι» ανήκει στην «Επιστροφή»· στον δίσκο το τραγουδά ο Γρηγόρης Μπιθικώτσης (β' φωνές Βούλα Γκίκα, Νίκος Καρανικόλας).",
+    "Ηχογραφήθηκε και με τον Σταμάτη Κόκοτα, αλλά κυκλοφόρησε μόλις τριάντα χρόνια αργότερα.",
+    "Η «Επιστροφή» κυκλοφόρησε το 1970 από την Columbia: 11 ανέκδοτα κομμάτια του Χατζιδάκι, στα οποία ο ίδιος ζήτησε από τον Γκάτσο να γράψει στίχους. Λόγω της απουσίας του συνθέτη στο εξωτερικό, την ενορχήστρωση και τη διεύθυνση ανέλαβε ο Δήμος Μούτσης· τραγούδησαν ο Γρηγόρης Μπιθικώτσης και η νεαρή τότε Δήμητρα Γαλάνη (σε ένα τραγούδι και η Αλίκη Βουγιουκλάκη), με μπουζούκια των Κώστα Παπαδόπουλου και Λάκη Καρνέζη.",
+    "Κάποιες από τις μελωδίες γράφτηκαν αρχικά για το θεατρικό ανέβασμα του κωμειδυλλίου του Δημήτρη Κορομηλά «Η τύχη της Μαρούλας» το 1960. Τέσσερα από τα τραγούδια είχαν ηχογραφηθεί την ίδια εποχή και με τη φωνή του Σταμάτη Κόκοτα, αλλά κυκλοφόρησαν τριάντα χρόνια αργότερα σε συλλογή του."
+  ],
   "sources": [
     {
       "label": "Discogs — Επιστροφή (1970)",
       "url": "https://www.discogs.com/master/371489"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Επιστροφή” του Χατζιδάκι & του Γκάτσου με Μπιθικώτση & Γαλάνη»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/h-epistrofi-toy-xatzidaki-toy-gkatsoy-me/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Επιστροφή” (1970).",
-    "story": [],
+    "teaser": "From «Epistrofi» (1970) — Hadjidakis, Gatsos, Bithikotsis.",
+    "story": [
+      "«Filntisenio karavaki» belongs to «Epistrofi»; on the record it is sung by Grigoris Bithikotsis (backing vocals Voula Gika, Nikos Karanikolas).",
+      "It was also recorded with Stamatis Kokotas, but released only thirty years later.",
+      "«Epistrofi» came out in 1970 on Columbia: 11 unreleased pieces by Hadjidakis, for which he himself asked Gatsos to write lyrics. Since the composer was abroad, Dimos Moutsis handled the arrangements and conducting; the singers were Grigoris Bithikotsis and the then very young Dimitra Galani (with Aliki Vougiouklaki on one song), with bouzouki players Kostas Papadopoulos and Lakis Karnezis.",
+      "Some of the melodies were originally written for the 1960 stage production of Dimitris Koromilas's comic idyll «I tychi tis Maroulas». Four of the songs had been recorded in the same period with the voice of Stamatis Kokotas too, but were only released thirty years later on a compilation of his."
+    ],
     "textSource": {
       "label": "Gatsos Archive — the official text",
       "book": "Nikos Gatsos, “Ola ta tragoudia” (Patakis), p. 158"
     },
     "recording": {
       "note": "A user upload on YouTube — not an official release; the link may be removed at some point."
+    },
+    "caveat": "The article describes the record and its background as a whole; it does not say exactly how this song was written.",
+    "firstPerformance": {
+      "note": "On the album «Epistrofi» (Columbia, 1970), per Ogdoo.gr."
     }
   },
   "textSource": {
@@ -38,5 +55,13 @@
     "note": "Ανάρτηση χρήστη στο YouTube — όχι επίσημη κυκλοφορία· ο σύνδεσμος μπορεί κάποια στιγμή να αφαιρεθεί.",
     "videoUrl": "https://www.youtube.com/watch?v=nAPUtEIvtIs",
     "videoLabel": "Γρηγόρης Μπιθικώτσης — Φιλντισένιο καραβάκι"
-  }
+  },
+  "firstPerformance": {
+    "performer": "Γρηγόρης Μπιθικώτσης",
+    "year": "1970",
+    "note": "Στον δίσκο «Επιστροφή» (Columbia, 1970), κατά το Ogdoo.gr.",
+    "sourceLabel": "Ogdoo.gr",
+    "sourceUrl": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/h-epistrofi-toy-xatzidaki-toy-gkatsoy-me/"
+  },
+  "caveat": "Το άρθρο περιγράφει τον δίσκο και το ιστορικό του συνολικά· δεν λέει πώς ακριβώς γράφτηκε αυτό το τραγούδι."
 }

@@ -5,20 +5,31 @@
   "lyricist": "Brian Corrigan",
   "year": "1970",
   "performer": "Brian Corrigan",
-  "status": "stub",
-  "grade": "C",
-  "isStub": true,
-  "teaser": "Από τον δίσκο «Reflections» (1970).",
-  "story": [],
+  "status": "documented",
+  "grade": "B",
+  "teaser": "Η μελωδία του «Χελιδόνι σε κλουβί» με αγγλικούς στίχους του συγκροτήματος New York Rock & Roll Ensemble (1970).",
+  "story": [
+    "Το «The Day» είναι η ίδια μελωδία του Χατζιδάκι που ακούγεται στα ελληνικά ως «Χελιδόνι σε κλουβί». Ηχογραφήθηκε το 1970 στον δίσκο «Reflections» του New York Rock & Roll Ensemble, με αγγλικούς στίχους γραμμένους από το ίδιο το συγκρότημα.",
+    "Την ελληνική εκδοχή, σε στίχους Γκάτσου, τραγούδησε ο Γρηγόρης Μπιθικώτσης στην «Επιστροφή» της ίδιας χρονιάς."
+  ],
   "sources": [
     {
       "label": "Discogs — Reflections (1970)",
       "url": "https://www.discogs.com/master/33490"
+    },
+    {
+      "label": "Ogdoo.gr (Θανάσης Γιώγλου) — «Η “Επιστροφή” του Χατζιδάκι & του Γκάτσου με Μπιθικώτση & Γαλάνη»",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/h-epistrofi-toy-xatzidaki-toy-gkatsoy-me/"
     }
   ],
   "coverVideoUrl": null,
   "en": {
-    "teaser": "From the album “Reflections” (1970).",
-    "story": []
-  }
+    "teaser": "The melody of «Chelidoni se klouvi» with English lyrics by the New York Rock & Roll Ensemble (1970).",
+    "story": [
+      "«The Day» is the same Hadjidakis melody that is heard in Greek as «Chelidoni se klouvi». It was recorded in 1970 on the album «Reflections» by the New York Rock & Roll Ensemble, with English lyrics written by the band itself.",
+      "The Greek version, with lyrics by Gatsos, was sung by Grigoris Bithikotsis on that year's «Epistrofi»."
+    ],
+    "caveat": "The source mentions «The Day» only through the story of «Epistrofi»; it does not say how the collaboration with the band came about."
+  },
+  "caveat": "Η πηγή μιλά για το «The Day» μόνο μέσα από την ιστορία της «Επιστροφής»· δεν λέει πώς προέκυψε η συνεργασία με το συγκρότημα."
 }
