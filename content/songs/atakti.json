@@ -1,0 +1,36 @@
+{
+  "slug": "atakti",
+  "title": "Άτακτη",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1969",
+  "performer": "Μάρκος Βαμβακάρης · Λουκάς Νταράλας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη» (1969), «Βαμβακάρης» (1974), «Τα Τελευταία Χρόνια Του Μάρκου 1963-1969» (2005) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη (1969)",
+      "url": "https://www.discogs.com/release/29346406"
+    },
+    {
+      "label": "Discogs — Βαμβακάρης (1974)",
+      "url": "https://www.discogs.com/release/6038014"
+    },
+    {
+      "label": "Discogs — Τα Τελευταία Χρόνια Του Μάρκου 1963-1969 (2005)",
+      "url": "https://www.discogs.com/release/3214433"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη” (1969), “Βαμβακάρης” (1974), “Τα Τελευταία Χρόνια Του Μάρκου 1963-1969” (2005) and 2 more.",
+    "story": []
+  }
+}

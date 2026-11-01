@@ -1,0 +1,162 @@
+{
+  "slug": "minos-emi-iv-1995",
+  "composer": "vamvakaris",
+  "title": "IV",
+  "year": 1995,
+  "type": "anthology",
+  "kind": "Συλλογή CD από τη σειρά «Συνθέτες του Ρεμπέτικου»",
+  "label": "Minos-EMI",
+  "catalog": "7243 8 52829 2 8",
+  "format": "CD, Compilation, Remastered",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Στράτος Παγιουμτζής",
+    "Έλλη Πετρίδου",
+    "Απόστολος Χατζηχρήστος",
+    "Σούλα Καλφοπούλου"
+  ],
+  "grade": "B",
+  "about": [
+    "Τέταρτο CD της σειράς της Minos-EMI για τον Βαμβακάρη, με 18 ηχογραφήσεις ανάμεσά τους «Ο Αραμπατζής», «Το 1912», «Κάντονε Σταύρο κάντονε» και τρία τραγούδια με τη Σούλα Καλφοπούλου."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο Αραμπατζής",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-arampatzis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Μικρός Αρραβωνιάστηκα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Κάντονε Σταύρο Κάντονε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kantone-stayro-kantone",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Θέλω Να Μαστούρης Να Γίνω",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "thelo-na-mastouris-na-gino",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το 1912",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "to-1912",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Καραβοτσακίσματα",
+      "performer": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "song": "karavotsakismata",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αλανιάρα Απ' Τον Πειραιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "alaniara-ap-ton-peiraia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Θα 'ρθω Να Σε Ξυπνήσω",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "tha-rtho-na-se-xypniso",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Για Σένα Υποφέρω",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "gia-sena-ypofero",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μάνα Με Μαχαιρώσανε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mana-me-maxairosane",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ο Γρουσούζης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-grousouzis",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Άδειασε Μου Τη Γωνιά",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "adeiase-mou-ti-gonia",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Σκληρόκαρδη",
+      "performer": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου",
+      "song": "sklirokardi",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Σαν Με Ιδής Και Σου Σφυρίξω",
+      "performer": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου",
+      "song": "san-me-idis-kai-sou-sfyrixo",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Κάποιο Βράδυ Με Φεγγάρι",
+      "performer": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου",
+      "song": "kapoio-vrady-me-feggari",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Αρρώστησα Στα Ξένα Μακρυά Σου",
+      "performer": "Σούλα Καλφοπούλου, Μάρκος Βαμβακάρης",
+      "song": "arrostisa-sta-xena-makrya-sou",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Φτώχεια Που Σέρνεις Τον Πόνο",
+      "performer": "Σούλα Καλφοπούλου, Μάρκος Βαμβακάρης",
+      "song": "ftoxeia-pou-serneis-ton-pono",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — IV (1995)",
+      "url": "https://www.discogs.com/release/7105479"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation from the series “Composers of Rebetiko”",
+    "about": [
+      "Fourth CD in Minos-EMI's series on Vamvakaris, with 18 recordings including “O Arabatzis”, “To 1912”, “Kantone Stavro kantone” and three songs with Soula Kalfopoulou."
+    ]
+  }
+}

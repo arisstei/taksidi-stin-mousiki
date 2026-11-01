@@ -1,0 +1,128 @@
+{
+  "slug": "mila-mou-gia-tin-lefteria",
+  "composer": "plessas",
+  "title": "Μίλα μου για τη λευτεριά",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "SYLP 3713",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Ρένα Κουμιώτη"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Τραγούδια της συνεργασίας Πλέσσα — Λευτέρη Παπαδόπουλου με τον Γιάννη Πουλόπουλο και τη Ρένα Κουμιώτη. Σύμφωνα με το Discogs, ο δίσκος κυκλοφόρησε αρχικά σε LP από τη Lyra την 1η Οκτωβρίου 1974 (SYLP 3713, ένθετο gatefold)· η έκδοση σε CD της Lyra (CD 3713) ακολούθησε το 1998."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αυτόν τον ουρανό",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "ayton-ton-ourano",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Οκτώβρης ήταν (Δεν θα περάσει ο φασισμός)",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "oktovris-itan",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Η Ουρανία",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "i-ourania",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Τζαννής",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "o-tzannis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Τζίτζικας (Στο Πήλιο)",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "o-tzitzikas",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Του σκοτωμένου αγοριού",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "tou-skotomenou-agoriou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Από πείνα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "apo-peina",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Μίλα μου για τη λευτεριά (Κι ο ήλιος θάρθει πίσω)",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "mila-mou-gia-ti-leyteria",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Η μάνα μου",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "i-mana-mou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Φεγγάρι μου φυλακισμένο",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "feggari-mou-fylakismeno",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Έξη άντρες",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "exi-antres",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Οι τελευταίες μέρες",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "oi-teleytaies-meres",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μίλα μου για τη λευτεριά, Lyra SYLP 3713, LP (1974)",
+      "url": "https://www.discogs.com/release/3353398"
+    },
+    {
+      "label": "MusicBrainz — Μίλα μου για τη λευτεριά, Lyra CD 3713 (1998)",
+      "url": "https://musicbrainz.org/release/e865331d-e493-482c-bd64-b0445834d563"
+    },
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Songs from the Plessas — Lefteris Papadopoulos partnership with Giannis Poulopoulos and Rena Koumioti. According to Discogs, the album first came out as a Lyra LP on 1 October 1974 (SYLP 3713, gatefold sleeve); the Lyra CD (CD 3713) followed in 1998."
+    ]
+  }
+}

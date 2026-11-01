@@ -1,0 +1,125 @@
+{
+  "slug": "xroniko",
+  "composer": "markopoulos",
+  "title": "Χρονικό",
+  "year": 1970,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Phonogram",
+  "performers": [
+    "Νίκος Ξυλούρης",
+    "Μαρία Δημητριάδη"
+  ],
+  "lyricists": [
+    "Κ.Χ. Μύρης (Κώστας Γεωργουσόπουλος)"
+  ],
+  "grade": "B",
+  "about": [
+    "Τα τραγούδια γράφτηκαν το 1966 για παράσταση στο θέατρο Λυκαβηττού τον Μάρτιο του 1967, που ματαιώθηκε από το πραξικόπημα. Ηχογραφήθηκαν Οκτώβριο–Νοέμβριο 1970, επί δικτατορίας, με τον Νίκο Ξυλούρη ως «Ψαρονίκο» και δωδεκαμελή ορχήστρα.",
+    "Θεωρείται από τα εμβληματικά έργα του «κινήματος επιστροφής στις ρίζες», με συνδυασμό ποντιακής και κρητικής λύρας, κλαρίνου, φλογέρας, κρητικού λαούτου και τσέλου."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Πρώτο Μέρος"
+    },
+    {
+      "pos": 2,
+      "title": "π. Χ.",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "p-x",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "1922",
+      "performer": "Μαρία Δημητριάδη",
+      "song": "1922",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "1925",
+      "performer": "Ν. Ξυλούρης - Μ. Δημητριάδη",
+      "song": "1925",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "ΑρΧάγγελος",
+      "performer": "Μαρία Δημητριάδη",
+      "song": "arxaggelos",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "1940",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "1940",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "1944",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Κ. Χ. Μύρης",
+      "song": "1944",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "1946 «Ο Γέρο Δάσκαλος»",
+      "performer": "Μαρία Δημητριάδη",
+      "song": "1946-o-gero-daskalos",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "1950",
+      "performer": "Μαρία Δημητριάδη",
+      "song": "1950",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Λιονταρόπουλο",
+      "performer": "Μαρία Δημητριάδη",
+      "song": "liontaropoulo",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Τελευταίο Μέρος",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "teleytaio-meros",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Τα Νέα — Ένας δίσκος, μια ιστορία: 1970 Χρονικό (2013)",
+      "url": "https://www.tanea.gr/2013/07/30/lifearts/enas-diskos-mia-istoria-1970-xroniko/"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "MusicBrainz — Χρονικό (κυκλοφορία 1970)",
+      "url": "https://musicbrainz.org/release/75a7f176-843a-4523-9c86-eb8acc9293c6"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "The songs were written in 1966 for a performance at the Lycabettus Theatre planned for March 1967, cancelled by the coup. They were recorded in October–November 1970, under the junta, with Nikos Xylouris as “Psaronikos” and a twelve-piece orchestra.",
+      "It is regarded as an emblematic work of the “return to roots” movement, combining Pontic and Cretan lyras, clarinet, flute, Cretan lute and cello."
+    ]
+  },
+  "catalog": "6331 010",
+  "format": "Vinyl"
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "oi-eleftheroi-poliorkimenoi",
+  "composer": "markopoulos",
+  "title": "Οι ελεύθεροι πολιορκημένοι",
+  "year": 1977,
+  "type": "cycle",
+  "kind": "Λαϊκή λειτουργία",
+  "performers": [
+    "Irene Papas",
+    "Νίκος Ξυλούρης",
+    "Λάκης Χαλκιάς",
+    "Ηλίας Κλωναρίδης"
+  ],
+  "lyricists": [
+    "Διονύσιος Σολωμός"
+  ],
+  "grade": "C",
+  "about": [
+    "Λαϊκή λειτουργία για φωνές, αφηγητή και ορχήστρα σε ποίηση Διονυσίου Σολωμού, με διεύθυνση του συνθέτη. Η Wikipedia δίνει τη χρονολογία 1976 ή 1977."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Στοχασμός - Εισαγωγή",
+      "performer": "Irene Papas"
+    },
+    {
+      "pos": 2,
+      "title": "Το Χάραμα",
+      "performer": "Irene Papas",
+      "song": "to-xarama",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Άκρα Του Τάφου Σιωπή",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "akra-tou-tafou-siopi",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Παλικαρά Και Μορφονιέ",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "palikara-kai-morfonie",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Βαρώντας Γύρου Ολόγυρα",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "varontas-gyrou-ologyra",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Ο Γιος Σου Κρίνος Με Δροσιά",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "o-gios-sou-krinos-me-drosia",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Η Θέλησή Μου Βράχος",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "i-thelisi-mou-vraxos",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Οπού 'ν' Ερμιά Και Σκοτεινιά",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "opou-n-ermia-kai-skoteinia",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Στα Μάτια Και Στο Πρόσωπο",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "sta-matia-kai-sto-prosopo",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Πριν Απ' Την Έξοδο) Μια Φούχτα Χώμα... (Έπαψαν Τα Φιλιά Στη Γη)",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "prin-ap-tin-exodo-mia-fouxta-xoma",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Οι Γυναίκες...",
+      "performer": "Irene Papas",
+      "song": "oi-gynaikes",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Μητέρα Μεγαλόψυχη",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "mitera-megalopsyxi",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Για Κοίτα Κει Χάσμα Σεισμού",
+      "performer": "Irene Papas",
+      "song": "gia-koita-kei-xasma-seismou",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Αλλ' Ήλιος Αλλ' Αόρατος",
+      "performer": "Ηλίας Κλωναρίδης",
+      "song": "all-ilios-all-aoratos",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Αραπιάς Άτι...",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "arapias-ati",
+      "stub": true
+    },
+    {
+      "pos": 16,
+      "title": "Πειρασμός",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "peirasmos",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Πολλοί 'ν' Οι Δρόμοι Πο 'χει Ο Νους",
+      "performer": "Irene Papas",
+      "song": "polloi-n-oi-dromoi-po-xei-o-nous",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Αηδονολάλειε Στήθος Μου...",
+      "performer": "Irene Papas",
+      "song": "aidonolaleie-stithos-mou",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Έξοδος - Δρόμο Να Σχίσουν Τα Σπαθιά",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "exodos-dromo-na-sxisoun-ta-spathia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "Wikipedia — Yannis Markopoulos",
+      "url": "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+    },
+    {
+      "label": "MusicBrainz — Οι Ελεύθεροι Πολιορκημένοι (κυκλοφορία 1977)",
+      "url": "https://musicbrainz.org/release/d966b386-5da2-49b1-af41-2a19d5fb06f8"
+    }
+  ],
+  "en": {
+    "kind": "Popular liturgy",
+    "about": [
+      "A popular liturgy for voices, narrator and orchestra on a poem by Dionysios Solomos, conducted by the composer. Wikipedia dates it 1976 or 1977."
+    ]
+  },
+  "label": "EMI",
+  "catalog": "7243 4 89293 2 7",
+  "format": "CD ×2"
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "o-dromos",
+  "composer": "plessas",
+  "title": "Ο Δρόμος",
+  "year": 1969,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "3561",
+  "format": "Vinyl",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Ρένα Κουμιώτη",
+    "Πόπη Αστεριάδη"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών σε μουσική Μίμη Πλέσσα και στίχους Λευτέρη Παπαδόπουλου, με κύριο ερμηνευτή τον Γιάννη Πουλόπουλο. Σύμφωνα με τη Βικιπαίδεια, παραμένει ο δίσκος με τις περισσότερες πωλήσεις στην ιστορία της ελληνικής δισκογραφίας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Γέλαγε η Μαρία",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "gelage-i-maria",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Φραγκόκλησσα",
+      "performer": "Πόπη Αστεριάδη & Γιάννης Πουλόπουλος",
+      "song": "fragkoklissa",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μέθυσε απόψε το κορίτσι μου",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "methyse-apopse-to-koritsi-mou",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο τρελός",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "o-trelos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Πρώτη φορά",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "proti-fora",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Πήρα σύννεφο δυο τόπια",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "pira-synnefo-dyo-topia",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ξημερώνει Κυριακή",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "ximeronei-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Η Μυρσίνη βάζει τ' άσπρα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "i-myrsini-vazei-t-aspra",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Δώδεκα μαντολίνα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "dodeka-mantolina",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Το άγαλμα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "to-agalma",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Δώσε μου το στόμα σου",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "dose-mou-to-stoma-sou",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Έπεφτε βαθιά σιωπή",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "epefte-vathia-siopi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Δρόμος, Lyra 3561 (1969)",
+      "url": "https://musicbrainz.org/release-group/7e9a879e-d8f2-4c79-950d-b3c43bb724ee"
+    },
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle with music by Mimis Plessas and lyrics by Lefteris Papadopoulos, led by Giannis Poulopoulos. According to Wikipedia it remains the best-selling record in the history of Greek discography."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "omorfi-thessaloniki",
+  "title": "Όμορφη Θεσσαλονίκη",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1997",
+  "performer": "Βασίλης Τσιτσάνης · Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου, Βασίλης Τσιτσάνης · Ρένα Ντάλλια, Πρόδρομος Τσαουσάκης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα Τραγούδια Του» (1997), «Τσιτσάνης» (2001), «Η Ελλάδα Του Βασίλη Τσιτσάνη» (2014).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του (1997)",
+      "url": "https://musicbrainz.org/release/78ff2816-f936-4ae2-971c-fbcea458040e"
+    },
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    },
+    {
+      "label": "MusicBrainz — Η Ελλάδα Του Βασίλη Τσιτσάνη (2014)",
+      "url": "https://musicbrainz.org/release/10cbdfd3-218f-42bb-9ac3-12c9e02d14a8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα Τραγούδια Του” (1997), “Τσιτσάνης” (2001), “Η Ελλάδα Του Βασίλη Τσιτσάνη” (2014).",
+    "story": []
+  }
+}

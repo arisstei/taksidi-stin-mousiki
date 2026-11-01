@@ -1,0 +1,24 @@
+{
+  "slug": "kapritsioza",
+  "title": "Καπριτσιόζα (Αλανιάρα)",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Γιάννης Ογδοντάκης",
+  "year": "1995",
+  "performer": "Σπύρος Λιόσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Αμάν αμήν» (1995).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αμάν αμήν (1995)",
+      "url": "https://musicbrainz.org/release-group/a80acbfa-2a58-445e-bc4c-c143ab286f48"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Αμάν αμήν” (1995).",
+    "story": []
+  }
+}

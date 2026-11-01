@@ -1,0 +1,32 @@
+{
+  "slug": "paraponemena-logia",
+  "title": "Παραπονεμένα λόγια",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Μάνος Ελευθερίου",
+  "year": "1979",
+  "performer": "Γιώργος Νταλάρας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σεργιάνι στον κόσμο» (1979), «Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση» (1984), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σεργιάνι στον κόσμο (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/8d4cb0d6-a744-41c0-aa02-3776bb2ecb2a"
+    },
+    {
+      "label": "MusicBrainz — Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση (κυκλοφορία 1984)",
+      "url": "https://musicbrainz.org/release/93a7a736-5a79-4373-9226-a36287f66fb7"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σεργιάνι στον κόσμο” (1979), “Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση” (1984), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

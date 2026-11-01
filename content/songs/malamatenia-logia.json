@@ -1,0 +1,28 @@
+{
+  "slug": "malamatenia-logia",
+  "title": "Μαλαματένια λόγια",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Μάνος Ελευθερίου",
+  "year": "1974",
+  "performer": "Λάκης Χαλκιάς, Χαράλαμπος Γαργανουράκης, Τάνια Τσανακλίδου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Θητεία» (1974), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Θητεία” (1974), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

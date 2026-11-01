@@ -1,0 +1,131 @@
+{
+  "slug": "markos-vamvakaris-1981",
+  "composer": "vamvakaris",
+  "title": "Μάρκος Βαμβακάρης",
+  "year": 1981,
+  "type": "anthology",
+  "kind": "Συλλογή 33 στροφών από τη σειρά «Οι Μεγάλοι του Ρεμπέτικου»",
+  "label": "Margophone",
+  "catalog": "MARGO 8216",
+  "format": "LP, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Έκτος δίσκος της σειράς «Οι Μεγάλοι του Ρεμπέτικου» της Margophone (Minos), με την επιμέλεια και τα κείμενα του Κώστα Χατζηδουλή. Περιλαμβάνει δεκατέσσερα τραγούδια, ανάμεσά τους ο «Κουμπάρος ο ψαράς» με τη Σοφία Καρίβαλη και το «Ταξίμι ζεϊμπέκικο» με σόλο μπουζούκι του Βαμβακάρη."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "Α2",
+      "title": "Χρόνια Στο Περαία",
+      "performer": "Μάρκος Βαμβακάρης, Ρόζα Εσκενάζυ",
+      "song": "xronia-sto-peraia",
+      "stub": true
+    },
+    {
+      "pos": "Α3",
+      "title": "Τώρα Την Καλοκαιριά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "tora-tin-kalokairia",
+      "stub": true
+    },
+    {
+      "pos": "Α4",
+      "title": "Μάνα Μου Με Σκοτώσανε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mana-mou-me-skotosane",
+      "stub": true
+    },
+    {
+      "pos": "Α5",
+      "title": "Κάθε Βράδυ Θα Σε Περιμένω",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kathe-vrady-tha-se-perimeno",
+      "stub": true
+    },
+    {
+      "pos": "Α6",
+      "title": "Μικρός Αρραβωνιάστικα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "Α7",
+      "title": "Ψεύτικος Ντουνιάς",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "pseytikos-ntounias",
+      "stub": true
+    },
+    {
+      "pos": "Β1",
+      "title": "Καλόγερος",
+      "performer": "Μάρκος Βαμβακάρης, Ρόζα Εσκενάζυ",
+      "song": "kalogeros",
+      "stub": true
+    },
+    {
+      "pos": "Β2",
+      "title": "Ο Κουμπάρος Ο Ψαράς",
+      "performer": "Σοφία Καρίβαλη",
+      "song": "o-koumparos-o-psaras",
+      "stub": true
+    },
+    {
+      "pos": "Β3",
+      "title": "Ο Γρουσούζης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-grousouzis",
+      "stub": true
+    },
+    {
+      "pos": "Β4",
+      "title": "Ταξίμι Ζεϊμπέκικο",
+      "performer": "Μάρκος Βαμβακάρης (μπουζούκι)",
+      "song": "taximi-zeimpekiko",
+      "stub": true
+    },
+    {
+      "pos": "Β5",
+      "title": "Ξελογιασμένη",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "i-xelogiasmeni",
+      "stub": true
+    },
+    {
+      "pos": "Β6",
+      "title": "Χριστίνα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "xristina",
+      "stub": true
+    },
+    {
+      "pos": "Β7",
+      "title": "Μαύρα Μάτια, Μαύρα Φρύδια",
+      "lyricist": "Γιώργος Φωτίδας",
+      "performer": "Μάρκος Βαμβακάρης, Κώστας Ρούκουνας",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    }
+  ],
+  "en": {
+    "kind": "LP compilation from the series “The Greats of Rebetiko”",
+    "about": [
+      "Number six in Margophone's (Minos) series “The Greats of Rebetiko”, edited with liner notes by Kostas Hatzidoulis. Fourteen songs, among them “O koumbaros o psaras” with Sofia Karivali and the bouzouki solo “Taximi zeimbekiko”."
+    ]
+  }
+}

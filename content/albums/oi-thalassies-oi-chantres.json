@@ -1,0 +1,135 @@
+{
+  "slug": "oi-thalassies-oi-chantres",
+  "composer": "plessas",
+  "title": "Οι θαλασσιές οι χάντρες",
+  "year": 1967,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "Lyra",
+  "catalog": "XLP 3554",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Νέλλη Μάνου",
+    "Μίμης Πλέσσας"
+  ],
+  "lyricists": [
+    "Άκος Δασκαλόπουλος",
+    "Βαγγέλης Γκούφας",
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Μουσική από την ταινία της Finos Films «Οι θαλασσιές οι χάντρες», σε σκηνοθεσία Γιάννη Δαλιανίδη. Ο δίσκος περιλαμβάνει τραγούδια με τον Γιάννη Πουλόπουλο και τις ορχηστρικές μουσικές της ταινίας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τίτλοι",
+      "performer": "Μίμης Πλέσσας"
+    },
+    {
+      "pos": "2",
+      "title": "Έκλαψα χθές",
+      "performer": "Γιάννης Πουλόπουλος",
+      "lyricist": "Άκος Δασκαλόπουλος",
+      "song": "eklapsa-xthes",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χορός της Μαίρης",
+      "performer": "Μίμης Πλέσσας"
+    },
+    {
+      "pos": "4",
+      "title": "Crazy Girl",
+      "performer": "Νέλλη Μάνου",
+      "lyricist": "Μίμης Πλέσσας",
+      "song": "crazy-girl",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το μαγαζάκι",
+      "performer": "Μίμης Πλέσσας",
+      "song": "to-magazaki",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Πίσω απ' το παράθυρο",
+      "performer": "Γιάννης Πουλόπουλος",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "piso-ap-to-parathyro",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Η βόλτα των ερωτευμένων",
+      "performer": "Μίμης Πλέσσας",
+      "song": "i-volta-ton-eroteymenon",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το κοντσέρτο του Φώτη",
+      "performer": "Μίμης Πλέσσας",
+      "song": "to-kontserto-tou-foti",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Χορός του Φώτη",
+      "performer": "Μίμης Πλέσσας"
+    },
+    {
+      "pos": "10",
+      "title": "Απόψε κάποιος θα χαθεί",
+      "performer": "Γιάννης Πουλόπουλος",
+      "lyricist": "Άκος Δασκαλόπουλος",
+      "song": "apopse-kapoios-tha-xathei",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Η γειτονιά μας",
+      "performer": "Μίμης Πλέσσας",
+      "song": "i-geitonia-mas",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Στη δεξίωση",
+      "performer": "Μίμης Πλέσσας",
+      "song": "sti-dexiosi",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Βρέχει πάλι απόψε",
+      "performer": "Μίμης Πλέσσας",
+      "song": "vrexei-pali-apopse",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Οι τσιγγάνοι",
+      "performer": "Μίμης Πλέσσας",
+      "song": "oi-tsigganoi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Οι θαλασσιές οι χάντρες, Lyra XLP 3554 (1967)",
+      "url": "https://www.discogs.com/release/3187833"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "Music from the Finos Films feature “Oi thalassies oi chantres”, directed by Giannis Dalianidis. The record holds songs sung by Giannis Poulopoulos together with the film’s orchestral themes."
+    ]
+  }
+}

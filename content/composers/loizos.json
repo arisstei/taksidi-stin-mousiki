@@ -1,0 +1,39 @@
+{
+  "slug": "loizos",
+  "name": "Μάνος Λοΐζος",
+  "fileNo": "006",
+  "born": "1937-10-22",
+  "died": "1982-09-17",
+  "lifespan": "Αλεξάνδρεια, 22 Οκτωβρίου 1937 — Μόσχα, 17 Σεπτεμβρίου 1982",
+  "tagline": "Ο συνθέτης του Σταθμού και των Τραγουδιών του δρόμου — μια από τις σημαντικότερες φωνές του ελληνικού έντεχνου τραγουδιού, που έφυγε στα 44 του.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος",
+    "https://en.wikipedia.org/wiki/Manos_Loizos"
+  ],
+  "bio": [
+    "Γεννήθηκε στην Αλεξάνδρεια στις 22 Οκτωβρίου 1937 από γονείς κυπριακής καταγωγής (άλλες πηγές αναφέρουν ως τόπο γέννησης τη Λάρνακα). Ήταν αυτοδίδακτος· σε ηλικία 17 ετών ήρθε στην Αθήνα για σπουδές, τις οποίες εγκατέλειψε για τη μουσική. Δούλεψε σε διάφορες δουλειές και σε μπουζούκια, και το 1962 κυκλοφόρησε το πρώτο του σινγκλ, «Το τραγούδι του δρόμου».",
+    "Ο πρώτος του δίσκος, «Ο Σταθμός», κυκλοφόρησε το 1968 από τη MINOS με στίχους του Λευτέρη Παπαδόπουλου. Ακολούθησαν Θαλασσογραφίες, Τα τραγούδια του δρόμου, Τα Νέγρικα (με τη Μαρία Φαραντούρη) και δίσκοι με ερμηνευτές όπως ο Νταλάρας, η Αλεξίου και ο Παπακωνσταντίνου. Ήταν αριστερός και δραστήριος αντίπαλος της δικτατορίας.",
+    "Το 1972 συνίδρυσε την Ένωση Μουσικών και Στιχουργών (ΕΜΣΕ), της οποίας έγινε πρόεδρος το 1978. Πέθανε στη Μόσχα στις 17 Σεπτεμβρίου 1982 από εγκεφαλικό. Ο τελευταίος του δίσκος, «Γράμματα στην αγαπημένη» με ποίηση Χικμέτ σε μετάφραση Ρίτσου, κυκλοφόρησε το 1983."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    }
+  ],
+  "en": {
+    "lifespan": "Alexandria, 22 October 1937 — Moscow, 17 September 1982",
+    "tagline": "The composer of O Stathmos and Ta tragoudia tou dromou — one of the most important voices of Greek art song, gone at 44.",
+    "bio": [
+      "Born in Alexandria on 22 October 1937 to parents of Cypriot descent (other accounts give Larnaca as his birthplace). Self-taught, he came to Athens at 17 to study, left his studies for music, took various jobs including in bouzouki clubs, and in 1962 released his first single, “To tragoudi tou dromou”.",
+      "His first album, O Stathmos, came out on MINOS in 1968 with lyrics by Lefteris Papadopoulos. It was followed by Thalassografies, Ta tragoudia tou dromou, Ta Negrika (with Maria Farantouri) and albums with singers such as Dalaras, Alexiou and Papakonstantinou. A man of the left, he was an active opponent of the junta.",
+      "In 1972 he co-founded the Union of Greek Composers and Lyricists (EMSE), becoming its president in 1978. He died in Moscow on 17 September 1982 of a stroke. His last album, Grammata stin agapimeni, with Hikmet poems translated by Ritsos, was released in 1983."
+    ],
+    "interviews": []
+  }
+}

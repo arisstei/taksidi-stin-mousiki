@@ -1,0 +1,44 @@
+{
+  "slug": "zambetas",
+  "name": "Γιώργος Ζαμπέτας",
+  "fileNo": "010",
+  "born": "1925-01-25",
+  "died": "1992-03-10",
+  "lifespan": "Αθήνα, 25 Ιανουαρίου 1925 — Αθήνα, 10 Μαρτίου 1992",
+  "tagline": "Ο μπουζουκοπαίκτης και συνθέτης από την Ακαδημία Πλάτωνος και το Αιγάλεω, με τα «Σήκω χόρεψε συρτάκι» και «Μάλιστα κύριε» και πάνω από 160 εμφανίσεις στον ελληνικό κινηματογράφο.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας",
+    "https://en.wikipedia.org/wiki/Giorgos_Zampetas",
+    "https://musicbrainz.org/artist/3f6f7251-c21a-468f-8e7c-ef862aa96016"
+  ],
+  "bio": [
+    "Γεννήθηκε στις 25 Ιανουαρίου 1925 στην περιοχή της Ακαδημίας Πλάτωνος στην Αθήνα, γιος του κουρέα Μιχάλη Ζαμπέτα και της Μαρίκας Μωραΐτη, με καταγωγή από την Κύθνο. Έμαθε μπουζούκι στο κουρείο του πατέρα του και το 1932 κέρδισε διαγωνισμό στο σχολείο του. Το 1938 γνώρισε τον Βασίλη Τσιτσάνη, συνάντηση που η Βικιπαίδεια θεωρεί καθοριστική για την καλλιτεχνική του πορεία.",
+    "Το 1940 εγκαταστάθηκε στο Αιγάλεω και την περίοδο της Κατοχής σχημάτισε το πρώτο του συγκρότημα. Τη δεκαετία του '50 έγραψε ρεμπέτικα και λαϊκά για τον Πρόδρομο Τσαουσάκη, τον Στέλιο Καζαντζίδη, τον Μανώλη Καναρίδη και την Πόλυ Πάνου. Η δεκαετία του '60 ήταν η κορύφωσή του: βοήθησε να ξεκινήσει η Βίκυ Μοσχολιού, συνεργάστηκε για πάνω από μια δεκαετία με τη Μανταλένα και, σύμφωνα με τη Βικιπαίδεια, εμφανίστηκε σε περισσότερες από 160 ελληνικές ταινίες.",
+    "Στη δεκαετία του '70 στράφηκε σε σατιρικά θεατρικά προγράμματα και ηχογράφησε δίσκους όπως «Μάλιστα κύριε», «Ντοκουμέντα» και «Κουλτούρα… & Σία». Η δημοτικότητά του μειώθηκε τη δεκαετία του '80 και ανέκαμψε από το 1990. Πέθανε στις 10 Μαρτίου 1992 στο νοσοκομείο «Σωτηρία» από καρκίνο των οστών· ο Δήμος Αιγάλεω τον τίμησε εν ζωή και πλατεία κοντά στο σπίτι του φέρει το όνομά του."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    },
+    {
+      "label": "Wikipedia — Giorgos Zampetas",
+      "url": "https://en.wikipedia.org/wiki/Giorgos_Zampetas"
+    },
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (δισκογραφία)",
+      "url": "https://musicbrainz.org/artist/3f6f7251-c21a-468f-8e7c-ef862aa96016"
+    }
+  ],
+  "en": {
+    "lifespan": "Athens, 25 January 1925 — Athens, 10 March 1992",
+    "tagline": "The bouzouki player and composer from Akadimia Platonos and Egaleo, behind “Sikose horepse sirtaki” and “Malista kyrie”, with more than 160 appearances in Greek cinema.",
+    "bio": [
+      "He was born on 25 January 1925 in the Akadimia Platonos district of Athens, the son of the barber Michalis Zampetas and Marika Moraiti, with family roots on Kythnos. He learned the bouzouki while helping in his father's barbershop and won a school competition in 1932. In 1938 he met Vassilis Tsitsanis, an encounter Wikipedia describes as decisive for his artistry.",
+      "In 1940 he moved to Egaleo and during the Occupation formed his first band. In the 1950s he wrote rebetiko and popular songs for Prodromos Tsaousakis, Stelios Kazantzidis, Manolis Kanaridis and Poly Panou. The 1960s were his peak: he helped launch Vicky Moscholiou, worked with Mantalena for over a decade and, according to Wikipedia, appeared in more than 160 Greek films.",
+      "In the 1970s he turned to satirical stage shows and recorded albums such as “Malista kyrie”, “Ntokoumenta” and “Koultoura… & Sia”. His popularity declined in the 1980s and revived from 1990. He died on 10 March 1992 at the Sotiria hospital of bone cancer; the municipality of Egaleo honored him during his lifetime and a square near his home bears his name."
+    ],
+    "interviews": []
+  }
+}

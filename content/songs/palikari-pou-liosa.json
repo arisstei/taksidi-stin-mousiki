@@ -1,0 +1,24 @@
+{
+  "slug": "palikari-pou-liosa",
+  "title": "Παλικάρι που 'λιωσα",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": null,
+  "year": "1996",
+  "performer": "Trio Bel Canto",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «16 τραγούδια του Σταύρου Ξαρχάκου» (1996).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 16 τραγούδια του Σταύρου Ξαρχάκου (1996)",
+      "url": "https://musicbrainz.org/release-group/3095b652-a1da-4624-86c2-59b0ddef5864"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “16 τραγούδια του Σταύρου Ξαρχάκου” (1996).",
+    "story": []
+  }
+}

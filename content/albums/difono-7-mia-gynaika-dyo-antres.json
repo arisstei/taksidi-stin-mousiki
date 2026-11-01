@@ -1,0 +1,137 @@
+{
+  "slug": "difono-7-mia-gynaika-dyo-antres",
+  "composer": "zambetas",
+  "title": "Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες",
+  "year": 1996,
+  "type": "anthology",
+  "kind": "Συλλογή (Δίφωνο)",
+  "label": "PolyGram",
+  "catalog": "298-2",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Δημήτρης Μητροπάνος"
+  ],
+  "grade": "C",
+  "about": [
+    "Τεύχος 7 της σειράς συλλογών «Δίφωνο» (PolyGram, 1996) με τρεις ερμηνευτές: τη Βίκυ Μοσχολιού, τον Δημήτρη Μητροπάνο και τον ίδιο τον Ζαμπέτα.",
+    "Ο Ζαμπέτας ερμηνεύει τέσσερα τραγούδια: «Χίλια περιστέρια», «Μάλιστα κύριε», «Το φανταράκι» και «Πού 'σαι Θανάση»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Καλοκαίρια και χειμώνες",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "kalokairia-kai-xeimones",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Έτσι ειν’ η ζωή",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "etsi-ein-i-zoi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χίλια περιστέρια",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Η σούστα πήγαινε μπροστά",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "i-sousta-pigaine-mprosta",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Θα κλείσω τα μάτια",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "tha-kleiso-ta-matia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μάλιστα κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Θεσσαλονίκη",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Να ’τανε τα πράγματα αλλιώς",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "na-tane-ta-pragmata-allios",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Το φανταράκι",
+      "song": "to-fantaraki",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Είσαι ωραία σαν αμαρτία",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "eisai-oraia-san-amartia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Πού ήσουν και χάθηκες (Όνειρο)",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "pou-isoun-kai-xathikes",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Τα πικροσάββατα",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "ta-pikrosavvata",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Πού ’σαι Θανάση",
+      "song": "pou-sai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Εγωιστής και πεισματάρης",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "egoistis-kai-peismataris",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Ο Χάρος βγήκε παγανιά",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "o-xaros-vgike-pagania",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες (1996, PolyGram 298-2 / Δίφωνο 7)",
+      "url": "https://musicbrainz.org/release/90fc4cae-05b6-4b88-a594-6f9b1a720145"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (Difono series)",
+    "about": [
+      "Issue 7 of the “Difono” compilation series (PolyGram, 1996) featuring three performers: Vicky Moscholiou, Dimitris Mitropanos and Zampetas himself.",
+      "Zampetas sings four songs: “Chilia peristeria”, “Malista kyrie”, “To fantaraki” and “Pou ’sai Thanasi”."
+    ]
+  }
+}

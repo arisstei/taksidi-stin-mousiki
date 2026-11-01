@@ -1,0 +1,247 @@
+{
+  "slug": "40-xronia-vamvakaris-no-2",
+  "composer": "vamvakaris",
+  "title": "40 Χρόνια Βαμβακάρης Νο 2",
+  "year": 1983,
+  "type": "anthology",
+  "kind": "Διπλή συλλογή: πρωτότυπες ηχογραφήσεις του 1930 και ερμηνείες άλλων",
+  "label": "Columbia",
+  "catalog": "14C 134-71290/1",
+  "format": "2xLP, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Πόλυ Πάνου",
+    "Στράτος Διονυσίου",
+    "Καίτη Γκρέυ",
+    "Άντζελα Γκρέκα"
+  ],
+  "grade": "B",
+  "about": [
+    "Δεύτερο μέρος της σειράς της Columbia/EMI του 1983 σε επιμέλεια Δημήτρη Ράνιου. Ο πρώτος δίσκος περιλαμβάνει πρωτότυπες ηχογραφήσεις του Βαμβακάρη από το 1934–1935 (το «Όταν πλύνω τουμπεκάκι» ηχογραφήθηκε στις 24 Νοεμβρίου 1933), ενώ ο δεύτερος ερμηνείες των τραγουδιών του από τους Μπιθικώτση, Πάνου, Διονυσίου, Γκρέυ, Γκρέκα και άλλους."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Η Φραγκοσυριανή",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Εφουμέρναμε Ένα Βράδυ",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "efoumername-ena-vrady",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ο Αραμπατζής",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-arampatzis",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Όταν Πλύνω Τουμπεκάκι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "otan-plyno-toumpekaki",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Χθες Το Βράδυ Στο Σκοτάδι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "xthes-to-vrady-sto-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Αλανιάρης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "alaniaris",
+      "stub": true
+    },
+    {
+      "pos": "A7",
+      "title": "Πρέπει Να Ξέρεις Μηχανή",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "prepei-na-xereis-mixani",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Μαστούρας",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mastouras",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Αλάνα Πειραιώτισσα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "alana-peiraiotissa",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Ο Ισοβίτης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-isovitis",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Μόρτισσα Χασικλού",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mortissa-xasiklou",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Η Γυναίκα Μου Ζηλεύει",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "i-gynaika-mou-zileyei",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Μάρκος Ο Συριανός",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "markos-o-syrianos",
+      "stub": true
+    },
+    {
+      "pos": "B7",
+      "title": "Ταξίμ Σερφ (Σόλο Μπουζούκι)",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "taxim-serf",
+      "stub": true
+    },
+    {
+      "pos": "C1",
+      "title": "Τα Ζηλιάρικά Σου Μάτια",
+      "performer": "Γρηγόρης Μπιθικώτσης, Π. Νέγκρι",
+      "song": "ta-ziliarika-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "C2",
+      "title": "Δεν Θέλω Πια Να Μου Μιλάς",
+      "performer": "Πόλυ Πάνου",
+      "song": "den-thelo-pia-na-mou-milas",
+      "stub": true
+    },
+    {
+      "pos": "C3",
+      "title": "Φόρα Τα Μαύρα, Φόρα Τα",
+      "performer": "Στράτος Διονυσίου",
+      "song": "fora-ta-mayra-fora-ta",
+      "stub": true
+    },
+    {
+      "pos": "C4",
+      "title": "Από Ξένο Τόπο",
+      "performer": "Καίτη Γκρέυ",
+      "song": "apo-xeno-topo",
+      "stub": true
+    },
+    {
+      "pos": "C5",
+      "title": "Ο Βράχος",
+      "performer": "Γιάννης Κουλουκάκης",
+      "song": "o-vraxos",
+      "stub": true
+    },
+    {
+      "pos": "C6",
+      "title": "Μια Κορδελιώτισσα",
+      "performer": "Άντζελα Γκρέκα",
+      "song": "mia-kordeliotissa",
+      "stub": true
+    },
+    {
+      "pos": "C7",
+      "title": "Βρε Μοίρα Δεν Κουράστηκες",
+      "performer": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου",
+      "song": "vre-moira-den-kourastikes",
+      "stub": true
+    },
+    {
+      "pos": "C8",
+      "title": "Μπουζούκι Που Ακούγεσαι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mpouzouki-pou-akougesai",
+      "stub": true
+    },
+    {
+      "pos": "D1",
+      "title": "Από Τον Κόσμο Μακρυά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "apo-ton-kosmo-makrya",
+      "stub": true
+    },
+    {
+      "pos": "D2",
+      "title": "Σε Αγαπώ Τσαχπίνα Μου",
+      "performer": "Πόλυ Πάνου",
+      "song": "se-agapo-tsaxpina-mou",
+      "stub": true
+    },
+    {
+      "pos": "D3",
+      "title": "Μια Γαλανομάτα",
+      "performer": "Βασίλης Ζαφειρόπουλος",
+      "song": "mia-galanomata",
+      "stub": true
+    },
+    {
+      "pos": "D4",
+      "title": "Ελληνοαμερικάνα",
+      "performer": "Στράτος Διονυσίου",
+      "song": "ellinoamerikana",
+      "stub": true
+    },
+    {
+      "pos": "D5",
+      "title": "Παραπονιάρικό Μου",
+      "performer": "Γιάννης Κουλουκάκης",
+      "song": "paraponiariko-mou",
+      "stub": true
+    },
+    {
+      "pos": "D6",
+      "title": "Μ' Έκαψες Τσαχπίνα Μου",
+      "performer": "Β. Γκίκα, Θεοδ. Θωμάς",
+      "song": "m-ekapses-tsaxpina-mou",
+      "stub": true
+    },
+    {
+      "pos": "D7",
+      "title": "Μπουντζαλιά",
+      "performer": "Άντζελα Γκρέκα",
+      "song": "mpountzalia",
+      "stub": true
+    },
+    {
+      "pos": "D8",
+      "title": "Μαύρα Μάτια - Μαύρα Φρύδια",
+      "performer": "Άντζελα Γκρέκα, Γρηγόρης Μπιθικώτσης",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης Νο 2 (1983)",
+      "url": "https://www.discogs.com/release/4743332"
+    }
+  ],
+  "en": {
+    "kind": "Double LP: original 1930s recordings and covers by other singers",
+    "about": [
+      "Second part of the Columbia/EMI series (1983), compiled by Dimitris Ranios. The first record holds Vamvakaris's own recordings from 1934–1935 (“Otan plyno toumbekaki” was recorded on 24 November 1933); the second has covers of his songs by Bithikotsis, Panou, Dionysiou, Grey, Grekka and others."
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "rizitika",
+  "composer": "markopoulos",
+  "title": "Ριζίτικα",
+  "year": 1971,
+  "type": "cycle",
+  "kind": "Παραδοσιακά τραγούδια της Κρήτης",
+  "label": "Columbia",
+  "performers": [
+    "Νίκος Ξυλούρης"
+  ],
+  "lyricists": [
+    "[traditional]"
+  ],
+  "grade": "C",
+  "about": [
+    "Παραδοσιακά ριζίτικα της Κρήτης σε επεξεργασία και ενορχήστρωση του Γιάννη Μαρκόπουλου, με τον Νίκο Ξυλούρη. Ανάμεσα στα τραγούδια αναφέρονται οι «Αγρίμια κι αγριμάκια μου», «Κόσμε χρυσέ», «Διγενής» και «Μάνα κι αν έρθουν οι φίλοι μου».",
+    "Ο δίσκος δοκιμάστηκε από τη λογοκρισία της δικτατορίας και κυκλοφόρησε μετά από παρέμβαση του διευθυντή της Columbia."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Πότε θα κάνη ξαστεριά",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "pote-tha-kani-xasteria",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Ίντα 'χετε γύρου γύρου",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "inta-xete-gyrou-gyrou",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Αγρίμια κι αγριμάκια μου",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "agrimia-ki-agrimakia-mou",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Μάννα κι αν έρθουν οι φίλοι μου",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "manna-ki-an-erthoun-oi-filoi-mou",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ο χορός του Σήφακα (ορχηστρικόν)",
+      "performer": "Γιάννης Μαρκόπουλος & Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "o-xoros-tou-sifaka",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Από την άκρη των ακριώ",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "apo-tin-akri-ton-akrio",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Κόσμε χρυσέ",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "kosme-xryse",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Σε ψηλό βουνό (Ο αητός)",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "se-psilo-vouno",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Ο Διγενής",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "o-digenis",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Τον πλούσιο Γιώργη ήυρηκα",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "ton-plousio-giorgi-iyrika",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Μαδάρα (ορχηστρικόν)",
+      "performer": "Γιάννης Μαρκόπουλος & Νίκος Ξυλούρης",
+      "lyricist": "[traditional]",
+      "song": "madara",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "MusicBrainz — Ριζίτικα (κυκλοφορία 1971-05)",
+      "url": "https://musicbrainz.org/release/911af3a6-cfff-4bfd-9492-4754f17c5ec2"
+    }
+  ],
+  "en": {
+    "kind": "Traditional songs of Crete",
+    "about": [
+      "Traditional Cretan rizitika songs, arranged and orchestrated by Yannis Markopoulos, sung by Nikos Xylouris. Songs mentioned include “Agrimia ki agrimakia mou”, “Kosme chryse”, “Digenis” and “Mana ki an erthoun oi filoi mou”.",
+      "The record had to get past the junta's censorship and was released after the intervention of Columbia's director."
+    ]
+  },
+  "catalog": "SCXG 69",
+  "format": "12\" Vinyl"
+}

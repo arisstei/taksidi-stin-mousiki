@@ -1,0 +1,24 @@
+{
+  "slug": "xoris-anafores",
+  "title": "Χωρίς αναφορές",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Λίνα Νικολακοπούλου",
+  "year": "1986",
+  "performer": "Γιάννης Πάριος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ξαρχάκος / Πάριος» (1986).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ξαρχάκος / Πάριος (1986)",
+      "url": "https://musicbrainz.org/release-group/97d65226-55f1-44c8-89be-b8189a2f0b04"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ξαρχάκος / Πάριος” (1986).",
+    "story": []
+  }
+}

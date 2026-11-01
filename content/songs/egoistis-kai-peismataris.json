@@ -1,0 +1,28 @@
+{
+  "slug": "egoistis-kai-peismataris",
+  "title": "Εγωιστής και πεισματάρης",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1972",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Περιπέτειες» (1972), «Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες» (1996).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περιπέτειες (1972, Olympic SBL 1083)",
+      "url": "https://musicbrainz.org/release/cce2d89f-e03a-4595-ba88-69ff449a1a77"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες (1996, PolyGram 298-2 / Δίφωνο 7)",
+      "url": "https://musicbrainz.org/release/90fc4cae-05b6-4b88-a594-6f9b1a720145"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Περιπέτειες” (1972), “Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες” (1996).",
+    "story": []
+  }
+}

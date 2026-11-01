@@ -1,0 +1,105 @@
+{
+  "slug": "diplopenies",
+  "composer": "xarchakos",
+  "title": "Διπλοπενιές",
+  "year": 2008,
+  "type": "film",
+  "kind": "Μουσική κινηματογραφικής ταινίας",
+  "format": "Digital",
+  "performers": [
+    "Δημήτρης Παπαμιχαήλ"
+  ],
+  "grade": "C",
+  "about": [
+    "Ψηφιακή έκδοση του 2008 με τη μουσική του Ξαρχάκου για τις «Διπλοπενιές»: ορχηστρικά θέματα και τρία τραγούδια με τον Δημήτρη Παπαμιχαήλ, όπως τα καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Stou Othona Ta Hronia (Instrumental)",
+      "song": "stou-othona-ta-hronia",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Matia Vourkomena (Instrumental)",
+      "song": "matia-vourkomena-2",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Argo Zeimpekiko (Instrumental)"
+    },
+    {
+      "pos": "4",
+      "title": "Oloi Sto Horo (Instrumental)"
+    },
+    {
+      "pos": "5",
+      "title": "Diplopenies (Titloi) / Diplopenies (Instrumental)"
+    },
+    {
+      "pos": "6",
+      "title": "Horos Tis Marinas (Instrumental)"
+    },
+    {
+      "pos": "7",
+      "title": "Apohairetismos",
+      "performer": "Σταύρος Ξαρχάκος feat. Δημήτρης Παπαμιχαήλ",
+      "song": "apohairetismos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "To Syrtaki Tis Marinas (Instrumental)"
+    },
+    {
+      "pos": "9",
+      "title": "Ypomoni (Instrumental)"
+    },
+    {
+      "pos": "10",
+      "title": "Matia Vourkomena",
+      "performer": "Σταύρος Ξαρχάκος feat. Δημήτρης Παπαμιχαήλ",
+      "song": "matia-vourkomena-2",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "To Zeimpekiko Tou Grigori (Instrumental)"
+    },
+    {
+      "pos": "12",
+      "title": "Stin Agora (Instrumental)"
+    },
+    {
+      "pos": "13",
+      "title": "Apohairetismos (Instrumental)",
+      "song": "apohairetismos",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Stou Othona Ta Hronia",
+      "performer": "Σταύρος Ξαρχάκος feat. Δημήτρης Παπαμιχαήλ",
+      "song": "stou-othona-ta-hronia",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Mesa Stous Dromous (Instrumental)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Διπλοπενιές (2008)",
+      "url": "https://musicbrainz.org/release-group/0d31b017-9f5e-444d-abfb-c2a256b37093"
+    }
+  ],
+  "en": {
+    "kind": "Film score",
+    "about": [
+      "A 2008 digital release of Xarchakos's music for Diplopenies: instrumental themes and three songs with Dimitris Papamichail, as listed on MusicBrainz."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pagose-i-tsiminiera",
+  "title": "Πάγωσε η τσιμινιέρα",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Φώντας Λάδης",
+  "year": "1976",
+  "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας · Γιώργος Νταλάρας · Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα τραγούδια μας» (1976), «Τα τραγούδια μας» (1976), «Πρώτες εκτελέσεις» (1987) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Πρώτες Εκτελέσεις, κυκλοφορία (1987)",
+      "url": "https://musicbrainz.org/release/f28bff71-d8e1-427e-a75c-f9cd64232722"
+    },
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του Σεβάχ (40 Ηχογραφήσεις 1966-1981), κυκλοφορία (2003)",
+      "url": "https://musicbrainz.org/release/ab9856b2-5e37-4bb6-a676-dc788d1720cb"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα τραγούδια μας” (1976), “Τα τραγούδια μας” (1976), “Πρώτες εκτελέσεις” (1987) and 2 more.",
+    "story": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "hommage-a-tsitsanis",
+  "composer": "vassilis-tsitsanis",
+  "title": "Hommage à Tsitsanis",
+  "year": 2001,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "Ocora",
+  "catalog": "C582010",
+  "format": "CD",
+  "performers": [
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος «Hommage à Tsitsanis» της Ocora, 14 κομμάτια, με κυκλοφορία το 2001."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Taqsim",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Se mazepsa, se symmassa, \"Je t'ai recueillie, je t'ai gardée\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "se-mazepsa-se-symmassa-je-t-ai-recueillie-je-t-ai-gardee",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Taqsim et danse aptalikos",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim-et-danse-aptalikos",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "San apokliros gyrizo, \"J'erre comme un damné\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "san-apokliros-gyrizo-j-erre-comme-un-damne",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Taqsim et danse à 5/8",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim-et-danse-a-5-8",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Baxe tsifliki, \"À la taverne Baxe Tsifliki\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "baxe-tsifliki-a-la-taverne-baxe-tsifliki",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Taqsim",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Synnefiasmeni kyriaki, \"Dimanche au ciel couvert\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "synnefiasmeni-kyriaki-dimanche-au-ciel-couvert",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Taqsim et danse karsilamas",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim-et-danse-karsilamas",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Pira ti strata k'erkhomai, \"J'ai pris la route pour te retrouver\" - Paixe Khristo to bouzouki, \"Joue, Christo, du bouzouki\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "pira-ti-strata-k-erkhomai-j-ai-pris-la-route-pour-te-retrouver-paixe-khristo-to-bouzouki-joue-christo-du-bouzouki",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Taqsim sur le rythme khassapikos",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim-sur-le-rythme-khassapikos",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Sakaflias, \"La mort de Sakaflias\"",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "sakaflias-la-mort-de-sakaflias",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Taqsim",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Taqsim et danse karsilamas",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taqsim-et-danse-karsilamas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Hommage à Tsitsanis (2001)",
+      "url": "https://musicbrainz.org/release/df6bc86e-4852-41ab-a843-5fc9d879eda3"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "An Ocora \"Hommage à Tsitsanis\" disc, 14 tracks, released in 2001."
+    ]
+  }
+}

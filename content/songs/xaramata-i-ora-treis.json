@@ -1,0 +1,36 @@
+{
+  "slug": "xaramata-i-ora-treis",
+  "title": "Χαράματα Η Ώρα Τρείς",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1974",
+  "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου · Δυνάμεις Του Αιγαίου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα Πέριξ» (1974), «Μάρκος Ο Συριανός» (1997), «Δυο Εποχές, Απ' Το '30 Στο '60» (2003) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Τα Πέριξ",
+      "url": "https://www.discogs.com/master/525759"
+    },
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    },
+    {
+      "label": "Discogs — Δυο Εποχές, Απ' Το '30 Στο '60 (2003)",
+      "url": "https://www.discogs.com/release/2620102"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα Πέριξ” (1974), “Μάρκος Ο Συριανός” (1997), “Δυο Εποχές, Απ' Το '30 Στο '60” (2003) and 2 more.",
+    "story": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "the-jazz-side-of-mimis-plessas",
+  "composer": "plessas",
+  "title": "The Jazz Side of Mimis Plessas (Complete Recordings 1981–1985)",
+  "year": 2005,
+  "type": "instrumental",
+  "kind": "Τζαζ συλλογή",
+  "label": "Blue Note / Minos-EMI",
+  "catalog": "7243 477341 2 0",
+  "format": "2×CD, Compilation",
+  "performers": [
+    "Mimis Plessas and his Quartet"
+  ],
+  "grade": "B",
+  "about": [
+    "Συγκεντρωτική έκδοση του 2005 με τις ηχογραφήσεις του κουαρτέτου του Πλέσσα την περίοδο 1981–1985: στον πρώτο δίσκο μελωδίες του σε τζαζ ανάγνωση και στον δεύτερο standards όπως «Night and Day» και «Caravan»."
+  ],
+  "tracks": [
+    {
+      "pos": "1.1",
+      "title": "Η βροχούλα"
+    },
+    {
+      "pos": "1.2",
+      "title": "Πόσο λίγο μ' αγαπούσες"
+    },
+    {
+      "pos": "1.3",
+      "title": "Είσαι ένας έρωτας παράξενος"
+    },
+    {
+      "pos": "1.4",
+      "title": "Σαν αγαπάς"
+    },
+    {
+      "pos": "1.5",
+      "title": "Συννεφιές"
+    },
+    {
+      "pos": "1.6",
+      "title": "Θέμα 1"
+    },
+    {
+      "pos": "1.7",
+      "title": "Χτες το βράδυ ονειρεύτηκα"
+    },
+    {
+      "pos": "1.8",
+      "title": "Μη μου πεις τίποτα"
+    },
+    {
+      "pos": "1.9",
+      "title": "Είναι στιγμές"
+    },
+    {
+      "pos": "1.10",
+      "title": "Ν' ανθίσει τ' όνειρό σου κάποιο δείλι"
+    },
+    {
+      "pos": "1.11",
+      "title": "Η λήθη"
+    },
+    {
+      "pos": "1.12",
+      "title": "Ξέρω κάποιο ατέρι (Αστέρι-αστεράκι)"
+    },
+    {
+      "pos": "1.13",
+      "title": "Εγώ θα σ' αγαπώ και μη σε νοιάζει"
+    },
+    {
+      "pos": "1.14",
+      "title": "Χαρά μου"
+    },
+    {
+      "pos": "1.15",
+      "title": "Η αγάπη μας"
+    },
+    {
+      "pos": "1.16",
+      "title": "Ήταν καμάρι της αυγής",
+      "song": "itan-kamari-tis-aygis",
+      "stub": true
+    },
+    {
+      "pos": "1.17",
+      "title": "Θάλασσα πλατειά",
+      "song": "thalassa-plateia",
+      "stub": true
+    },
+    {
+      "pos": "1.18",
+      "title": "Ποια νύχτα σ' έκλεψε",
+      "song": "poia-nyxta-s-eklepse",
+      "stub": true
+    },
+    {
+      "pos": "1.19",
+      "title": "Όλα δικά σου"
+    },
+    {
+      "pos": "1.20",
+      "title": "Μου λες"
+    },
+    {
+      "pos": "1.21",
+      "title": "Πάγωσε η γωνιά"
+    },
+    {
+      "pos": "1.22",
+      "title": "Εδώ τελειώνει ο ουρανός"
+    },
+    {
+      "pos": "2.1",
+      "title": "Theme A"
+    },
+    {
+      "pos": "2.2",
+      "title": "Broadway"
+    },
+    {
+      "pos": "2.3",
+      "title": "Blues in F"
+    },
+    {
+      "pos": "2.4",
+      "title": "How High the Moon"
+    },
+    {
+      "pos": "2.5",
+      "title": "Django"
+    },
+    {
+      "pos": "2.6",
+      "title": "Night and Day"
+    },
+    {
+      "pos": "2.7",
+      "title": "Bernie's Tune"
+    },
+    {
+      "pos": "2.8",
+      "title": "Mile's Stone"
+    },
+    {
+      "pos": "2.9",
+      "title": "Tribute to John Coltrane"
+    },
+    {
+      "pos": "2.10",
+      "title": "Fly Me to the Moon (In Other Words)"
+    },
+    {
+      "pos": "2.11",
+      "title": "Caravan"
+    },
+    {
+      "pos": "2.12",
+      "title": "Tribute to Errol Gagner"
+    },
+    {
+      "pos": "2.13",
+      "title": "Cheek to Cheek"
+    },
+    {
+      "pos": "2.14",
+      "title": "The Simple Theme"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — The Jazz Side of Mimis Plessas (2005)",
+      "url": "https://musicbrainz.org/release-group/be74db0e-38bb-4a15-81d4-cb8fd134d5d6"
+    }
+  ],
+  "en": {
+    "kind": "Jazz compilation",
+    "about": [
+      "A 2005 compilation of the recordings of Plessas's quartet from 1981–1985: his melodies in jazz readings on the first disc and standards such as “Night and Day” and “Caravan” on the second."
+    ]
+  }
+}

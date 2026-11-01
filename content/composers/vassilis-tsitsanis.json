@@ -1,0 +1,39 @@
+{
+  "slug": "vassilis-tsitsanis",
+  "name": "Βασίλης Τσιτσάνης",
+  "fileNo": "008",
+  "born": "1915-01-18",
+  "died": "1984-01-18",
+  "lifespan": "Τρίκαλα, 18 Ιανουαρίου 1915 — Λονδίνο, 18 Ιανουαρίου 1984",
+  "tagline": "Ο μπουζουξής και συνθέτης που θεωρείται ένας από τους θεμελιωτές του σύγχρονου ρεμπέτικου και του λαϊκού τραγουδιού.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Βασίλης_Τσιτσάνης",
+    "https://en.wikipedia.org/wiki/Vassilis_Tsitsanis"
+  ],
+  "bio": [
+    "Γεννήθηκε στα Τρίκαλα στις 18 Ιανουαρίου 1915, από γονείς με καταγωγή από τα Άγραφα, και πέθανε στο Λονδίνο, ανήμερα των γενεθλίων του, το 1984, έπειτα από εγχείρηση στους πνεύμονες. Αυτοδίδακτος στο μαντολίνο και το μπουζούκι, εγκαταστάθηκε στην Αθήνα και ηχογράφησε το 1936 το πρώτο του δικό του ρεμπέτικο.",
+    "Την περίοδο 1942–1946 διατηρούσε στη Θεσσαλονίκη το «Ουζερί ο Τσιτσάνης», όπου έγραψε αρκετά από τα πιο γνωστά του τραγούδια. Το 1946 γύρισε στην Αθήνα και ηχογράφησε τις συνθέσεις του με ερμηνευτές όπως η Σωτηρία Μπέλλου, η Μαρίκα Νίνου, η Ιωάννα Γεωργακοπούλου και ο Πρόδρομος Τσαουσάκης.",
+    "Έγραψε πάνω από 500 τραγούδια. Στην προπολεμική του δισκογραφία (1936–1940) ανήκουν η «Αρχόντισσα» και το «Την Κυριακή το δειλινό». Μετά τη Μεταπολίτευση έδωσε μεγάλες συναυλίες σε στάδια. Ο κατάλογος εδώ είναι επιλεκτικός και συμπληρώνεται σταδιακά, μόνο με δίσκους που έχουν επαληθευτεί."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Βασίλης Τσιτσάνης",
+      "url": "https://el.wikipedia.org/wiki/Βασίλης_Τσιτσάνης"
+    },
+    {
+      "label": "Wikipedia — Vassilis Tsitsanis",
+      "url": "https://en.wikipedia.org/wiki/Vassilis_Tsitsanis"
+    }
+  ],
+  "en": {
+    "lifespan": "Trikala, 18 January 1915 — London, 18 January 1984",
+    "tagline": "The bouzouki player and composer widely regarded as one of the founders of modern rebetiko and laiko song.",
+    "bio": [
+      "Born in Trikala on 18 January 1915 to parents from Agrafa, he died in London on his birthday in 1984 after lung surgery. Self-taught on mandolin and bouzouki, he settled in Athens and in 1936 recorded his first rebetiko of his own composition.",
+      "From 1942 to 1946 he ran the “Ouzeri o Tsitsanis” in Thessaloniki, where he wrote several of his best-known songs. He returned to Athens in 1946 and recorded his compositions with singers such as Sotiria Bellou, Marika Ninou, Ioanna Georgakopoulou and Prodromos Tsaousakis.",
+      "He wrote more than 500 songs. His pre-war recordings (1936–1940) include “Archontissa” and “Tin Kyriaki to deilino”. After the fall of the junta he gave large stadium concerts. This catalogue is selective and grows gradually, with only verified albums."
+    ],
+    "interviews": []
+  }
+}

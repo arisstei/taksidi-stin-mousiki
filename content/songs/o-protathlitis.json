@@ -1,0 +1,28 @@
+{
+  "slug": "o-protathlitis",
+  "title": "Ο πρωταθλητής",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1984",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «30 χρόνια» (1984), «Τα κινηματογραφικά» (2006).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 30 χρόνια (1984, EMI 14C 045 1700472)",
+      "url": "https://musicbrainz.org/release/63e20415-818f-47ee-a33b-2f427e30d885"
+    },
+    {
+      "label": "MusicBrainz — Τα κινηματογραφικά (2006, EMI Soundtracks 374160 2)",
+      "url": "https://musicbrainz.org/release/7ab486bb-0c5b-418f-b750-439904dbe484"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “30 χρόνια” (1984), “Τα κινηματογραφικά” (2006).",
+    "story": []
+  }
+}

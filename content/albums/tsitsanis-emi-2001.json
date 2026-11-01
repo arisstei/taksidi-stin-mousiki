@@ -1,0 +1,180 @@
+{
+  "slug": "tsitsanis-emi-2001",
+  "composer": "vassilis-tsitsanis",
+  "title": "Τσιτσάνης",
+  "year": 2001,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "EMI",
+  "catalog": "7243 4 83939 2 0",
+  "format": "CD",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Βούλα Γκίκα",
+    "Πόλυ Πάνου",
+    "Βασίλης Τσιτσάνης",
+    "Πάνος Γαβαλάς",
+    "Καίτη Γκρέυ",
+    "Αντώνης Ρεπάνης",
+    "Καίτη Θύμη",
+    "Μανώλης Χιώτης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 20 κομματιών της EMI με τίτλο «Τσιτσάνης» (2001)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Πάλιωσε Το Σακκάκι Μου",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βούλα Γκίκα",
+      "song": "paliose-to-sakkaki-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πέφτουν Της Βροχής Οι Στάλες",
+      "performer": "Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "peftoun-tis-vroxis-oi-stales",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Γιατί Με Ξύπνησες Πρωΐ",
+      "performer": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "giati-me-xypnises-proi",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Σερσέ Λα Φαμ",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βούλα Γκίκα, Βασίλης Τσιτσάνης",
+      "song": "serse-la-fam",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Γύρνα Μόνος",
+      "performer": "Πάνος Γαβαλάς, Βούλα Γκίκα",
+      "song": "gyrna-monos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κάνε Λιγάκι Υπομονή",
+      "performer": "Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "kane-ligaki-ypomoni",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Θα Πάω Στην Αραπιά",
+      "performer": "Καίτη Γκρέυ, Βασίλης Τσιτσάνης",
+      "song": "tha-pao-stin-arapia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Νύχτες Μαγικές",
+      "performer": "Αντώνης Ρεπάνης, Βασίλης Τσιτσάνης",
+      "song": "nyxtes-magikes",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μπαξέ Τσιφλίκι",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+      "song": "mpaxe-tsifliki",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Αθηναίισσα",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+      "song": "athinaiisa",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Όμορφη Θεσσαλονίκη",
+      "performer": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "omorfi-thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Αραμπάς Περνά",
+      "performer": "Γρηγόρης Μπιθικώτσης, Καίτη Γκρέυ, Βασίλης Τσιτσάνης",
+      "song": "arampas-perna",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Αντιλαλούνε Τα Βουνά",
+      "performer": "Πόλυ Πάνου, Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+      "song": "antilaloune-ta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Στην Καλαμπάκα Μια Βραδυά",
+      "performer": "Καίτη Γκρέυ, Βασίλης Τσιτσάνης",
+      "song": "stin-kalampaka-mia-vradya",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Το Σκαλοπάτι",
+      "performer": "Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "to-skalopati",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Δεν Με Στεφανώνεσαι",
+      "performer": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+      "song": "den-me-stefanonesai",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Χωρίσαμε Ένα Δειλινό",
+      "performer": "Γρηγόρης Μπιθικώτσης, Καίτη Θύμη",
+      "song": "xorisame-ena-deilino",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Απόψε Κάνεις Μπαμ",
+      "performer": "Καίτη Γκρέυ, Βασίλης Τσιτσάνης",
+      "song": "apopse-kaneis-mpam",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Ντερμπεντέρισσα",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+      "song": "ntermpenterissa",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Σε Τούτο Το Παληόσπιτο",
+      "performer": "Καίτη Γκρέυ, Μανώλης Χιώτης",
+      "song": "se-touto-to-paliospito",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A 20-track EMI compilation titled \"Tsitsanis\" (2001)."
+    ]
+  }
+}

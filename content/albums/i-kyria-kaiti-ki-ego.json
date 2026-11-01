@@ -1,0 +1,117 @@
+{
+  "slug": "i-kyria-kaiti-ki-ego",
+  "composer": "xarchakos",
+  "title": "Η κυρία Καίτη κι εγώ",
+  "year": 2005,
+  "type": "anthology",
+  "kind": "Δίσκος με τραγούδια",
+  "label": "Legend Recordings",
+  "format": "CD",
+  "grade": "C",
+  "about": [
+    "Έκδοση του 2005 της Legend Recordings με 15 κομμάτια σε μουσική Ξαρχάκου, ανάμεσά τους «Το δίχτυ», «Κιλκίς» και «Τα καβουράκια», όπως τα καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Παιδί του δρόμου",
+      "song": "paidi-tou-dromou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Η ένοχη",
+      "song": "enoxi"
+    },
+    {
+      "pos": "3",
+      "title": "Τι έχεις, άνθρωπέ μου",
+      "song": "ti-exeis-anthrope-mou",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Βασανιστήρια μου έκανες πολλά",
+      "song": "vasanistiria-mou-ekanes-polla",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Μη μου ξαναφύγεις πια",
+      "song": "mi-mou-xanafygeis-pia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Περιπλάνηση",
+      "song": "periplanisi",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το δίχτυ",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ξενύχτη, μάνα μου",
+      "song": "xenyxti-mana-mou",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Η παραστρατημένη",
+      "song": "i-parastratimeni",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Κιλκίς",
+      "song": "kilkis",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Χωρίς τον ξενοδόχο λογαριάζαμε",
+      "song": "xoris-ton-xenodoxo-logariazame",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Τα ματόκλαδά σου λάμπουν",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Μάχαιρα έδωσες",
+      "song": "maxaira-edoses",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Ντερμπεντέρισσα",
+      "song": "ntermpenterissa",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Τα καβουράκια",
+      "song": "ta-kavourakia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η κυρία Καίτη κι εγώ (2005)",
+      "url": "https://musicbrainz.org/release-group/67fe5d51-75ce-4442-b064-147da3fd103f"
+    }
+  ],
+  "en": {
+    "kind": "Album of songs",
+    "about": [
+      "A 2005 Legend Recordings release of 15 pieces by Xarchakos, including To dichti, Kilkis and Ta kavouakia, as listed on MusicBrainz."
+    ]
+  }
+}

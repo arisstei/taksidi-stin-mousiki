@@ -1,0 +1,24 @@
+{
+  "slug": "pavana-gia-mia-kyriaki",
+  "title": "Παβάνα για μια Κυριακή",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": null,
+  "year": "1968",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Χρώματα» (1968).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Χρώματα (1968)",
+      "url": "https://musicbrainz.org/release-group/264a19bc-1aaf-4e8d-956c-5068b9c15eaf"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Χρώματα” (1968).",
+    "story": []
+  }
+}

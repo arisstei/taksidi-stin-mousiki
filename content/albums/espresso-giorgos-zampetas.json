@@ -1,0 +1,119 @@
+{
+  "slug": "espresso-giorgos-zampetas",
+  "composer": "zambetas",
+  "title": "Γιώργος Ζαμπέτας (Espresso)",
+  "year": 2008,
+  "type": "anthology",
+  "kind": "Συλλογή (έκδοση εφημερίδας)",
+  "label": "Espresso (Newspaper)",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Μαρινέλλα",
+    "Βίκυ Μοσχολιού",
+    "Δημήτρης Μητροπάνος",
+    "Μανώλης Καναρίδης",
+    "Δούκισσα",
+    "Πάνος Τζανετής"
+  ],
+  "grade": "C",
+  "about": [
+    "Συλλογή 12 τραγουδιών που κυκλοφόρησε το 2008 με την εφημερίδα Espresso, σύμφωνα με τη MusicBrainz.",
+    "Περιλαμβάνει ερμηνείες του Ζαμπέτα («Χίλια περιστέρια», «Μάλιστα κύριε») και τραγούδια σε ερμηνεία των Μαρινέλλας, Βίκυς Μοσχολιού, Δημήτρη Μητροπάνου, Μανώλη Καναρίδη και άλλων."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Χίλια Περιστέρια",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ήρθα Κι Απόψε Στα Σκαλοπάτια Σου",
+      "performer": "Πάνος Τζανετής",
+      "song": "irtha-ki-apopse-sta-skalopatia-sou",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τι Να Φταίει",
+      "performer": "Μαρινέλλα",
+      "song": "ti-na-ftaiei",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Αράπης",
+      "performer": "Μανώλης Καναρίδης",
+      "song": "o-arapis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Που 'Σαι Θανάση",
+      "song": "pou-sai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Αλήτη",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "aliti",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Θεσσαλονίκη",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Πιο Καλός Ο Μαθητής",
+      "performer": "Μανώλης Καναρίδης",
+      "song": "o-pio-kalos-o-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σταλιά Σταλιά",
+      "performer": "Μαρινέλλα",
+      "song": "stalia-stalia",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Στο Λευκό Τον Πύργο",
+      "song": "sto-leyko-ton-pyrgo",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Που Πας Χωρίς Αγάπη",
+      "performer": "Δούκισσα",
+      "song": "pou-pas-xoris-agapi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μάλιστα Κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Espresso) (2008, Espresso)",
+      "url": "https://musicbrainz.org/release/449ec124-4905-4aab-9ec3-c7c826055809"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (newspaper issue)",
+    "about": [
+      "A 12-song compilation released in 2008 with the newspaper Espresso, per MusicBrainz.",
+      "It includes Zampetas’s own “Chilia peristeria” and “Malista kyrie” and songs sung by Marinella, Vicky Moscholiou, Dimitris Mitropanos, Manolis Kanaridis and others."
+    ]
+  }
+}

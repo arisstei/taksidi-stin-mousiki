@@ -1,0 +1,32 @@
+{
+  "slug": "arampas-perna",
+  "title": "Αραμπάς Περνά",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1997",
+  "performer": "Βασίλης Τσιτσάνης · Γρηγόρης Μπιθικώτσης, Καίτη Γκρέυ, Βασίλης Τσιτσάνης · Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα Τραγούδια Του» (1997), «Τσιτσάνης» (2001), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του (1997)",
+      "url": "https://musicbrainz.org/release/78ff2816-f936-4ae2-971c-fbcea458040e"
+    },
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα Τραγούδια Του” (1997), “Τσιτσάνης” (2001), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

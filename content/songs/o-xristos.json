@@ -1,0 +1,24 @@
+{
+  "slug": "o-xristos",
+  "title": "Ο Χρήστος",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1983",
+  "performer": "Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης» (1983).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης (1983)",
+      "url": "https://musicbrainz.org/release/a23ca4e9-2168-42a8-a6a0-2e009a5927f4"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης” (1983).",
+    "story": []
+  }
+}

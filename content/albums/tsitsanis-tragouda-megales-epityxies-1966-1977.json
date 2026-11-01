@@ -1,0 +1,123 @@
+{
+  "slug": "tsitsanis-tragouda-megales-epityxies-1966-1977",
+  "composer": "vassilis-tsitsanis",
+  "title": "Ο Βασίλης Τσιτσάνης Τραγουδά Μεγάλες Επιτυχίες Του (1966-1977)",
+  "year": 1977,
+  "type": "anthology",
+  "kind": "Συλλογή με ερμηνείες του συνθέτη",
+  "label": "Columbia",
+  "catalog": "14C 056-70853",
+  "format": "LP",
+  "performers": [
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Columbia με 13 τραγούδια, με τίτλο «Ο Βασίλης Τσιτσάνης τραγουδά μεγάλες επιτυχίες του (1966–1977)»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Με Παρέσυρε Το Ρέμα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "me-paresyre-to-rema",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Δε Ρωτώ Ποια Είσαι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "de-roto-poia-eisai",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Το Βαπόρι Απ' Τη Περσία",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-vapori-ap-ti-persia",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Κορίτσι Μου Όλα Για Σένα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "koritsi-mou-ola-gia-sena",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Ο Μάγκας Κάνει Δύο Δουλειές",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "o-magkas-kanei-dyo-douleies",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Παρηγόρα Με Μπουζούκι Μου",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "parigora-me-mpouzouki-mou",
+      "stub": true
+    },
+    {
+      "pos": "A7",
+      "title": "Τα Μούρα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "ta-moura",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Απόψε Στις Ακρογαλιές",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "apopse-stis-akrogalies",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Για Να Σε Κάνω Άνθρωπο",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "gia-na-se-kano-anthropo",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Όταν Θα Σμίξης",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "otan-tha-smixis",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Καλύτερα Σ' Ένα Κελί",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "kalytera-s-ena-keli",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Στην Απάνω Σκάλα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "stin-apano-skala",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Δείρε Με Και Μάλωσε Με",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "deire-me-kai-malose-me",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Βασίλης Τσιτσάνης Τραγουδά Μεγάλες Επιτυχίες Του (1966-1977) (1977)",
+      "url": "https://musicbrainz.org/release/8fa03381-a5d7-41ce-a105-d4a82a39cbfc"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of the composer's own performances",
+    "about": [
+      "A Columbia LP of 13 songs titled \"Vassilis Tsitsanis sings his great hits (1966–1977)\"."
+    ]
+  }
+}

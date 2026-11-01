@@ -1,0 +1,28 @@
+{
+  "slug": "xronia-ston-peraia",
+  "title": "Χρόνια Στον Περαία",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "2003",
+  "performer": "Μάρκος Βαμβακάρης, Ρόζα Εσκενάζυ · Αθηναϊκή Κομπανία",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Δυο Εποχές, Απ' Το '30 Στο '60» (2003), «Τα Μεγάλα Τραγούδια» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Δυο Εποχές, Απ' Το '30 Στο '60 (2003)",
+      "url": "https://www.discogs.com/release/2620102"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Δυο Εποχές, Απ' Το '30 Στο '60” (2003), “Τα Μεγάλα Τραγούδια” (2016).",
+    "story": []
+  }
+}

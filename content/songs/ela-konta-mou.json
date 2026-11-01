@@ -1,0 +1,24 @@
+{
+  "slug": "ela-konta-mou",
+  "title": "Έλα κοντά μου",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Γιώργος Παπαστεφάνου",
+  "year": "1968",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κορίτσια στον ήλιο» (1968).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κορίτσια στον ήλιο (1968)",
+      "url": "https://musicbrainz.org/release-group/1e62736c-1099-4544-b7b6-10b51bbd67cc"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κορίτσια στον ήλιο” (1968).",
+    "story": []
+  }
+}

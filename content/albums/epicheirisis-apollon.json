@@ -1,0 +1,115 @@
+{
+  "slug": "epicheirisis-apollon",
+  "composer": "markopoulos",
+  "title": "Επιχείρησις Απόλλων",
+  "year": 1968,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών και μουσικής",
+  "label": "Polydor",
+  "catalog": "2421 007",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 14 κομμάτια, που κυκλοφόρησε το 1968 από τη Polydor. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Διογένης",
+      "song": "diogenis",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Τρομπόνια",
+      "song": "tromponia",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Ζαβαρακατρανέμια",
+      "song": "zavarakatranemia",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Γειτονοπούλα",
+      "song": "geitonopoula",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Τα Ποδήλατα",
+      "song": "ta-podilata",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Χορός Κάτω Από Την Ακρόπολη",
+      "song": "xoros-kato-apo-tin-akropoli",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Γάμος",
+      "song": "gamos",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Συρτός Γρήγορος",
+      "song": "syrtos-grigoros",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Νοσταλγία",
+      "song": "nostalgia",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Στην Κέρκυρα",
+      "song": "stin-kerkyra",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Φεγγάρι",
+      "song": "feggari",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Ζαβαρακατρανέμια (Μουσική)",
+      "song": "zavarakatranemia",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": 14,
+      "title": "Εκδρομικό Τραγούδι",
+      "song": "ekdromiko-tragoudi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Επιχείρησις Απόλλων (κυκλοφορία 1968)",
+      "url": "https://musicbrainz.org/release/60f2cf30-1955-41ce-ad46-dd3688264cc7"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Album of songs and music",
+    "about": [
+      "Album with music by Yannis Markopoulos, 14 tracks, released in 1968 on Polydor. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

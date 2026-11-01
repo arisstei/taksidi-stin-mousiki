@@ -1,0 +1,24 @@
+{
+  "slug": "xelogiastra",
+  "title": "Ξελογιάστρα",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1976",
+  "performer": "Δημήτρης Περδικόπουλος, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Βασίλης Τσιτσάνης 1937-1952» (1976).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Βασίλης Τσιτσάνης 1937-1952 (1976)",
+      "url": "https://musicbrainz.org/release/c4b04006-6d9a-4f1e-87b5-b6da0ea87215"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Βασίλης Τσιτσάνης 1937-1952” (1976).",
+    "story": []
+  }
+}

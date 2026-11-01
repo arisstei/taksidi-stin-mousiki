@@ -1,0 +1,85 @@
+{
+  "slug": "who-pays-the-ferryman",
+  "composer": "markopoulos",
+  "title": "Who Pays the Ferryman? (Ο Βαρκάρης)",
+  "year": 1978,
+  "type": "film",
+  "kind": "Μουσική τηλεοπτικής σειράς (BBC)",
+  "performers": [],
+  "lyricists": [],
+  "grade": "C",
+  "about": [
+    "Η μουσική του Μαρκόπουλου για τη σειρά του BBC έφερε τη διεθνή αναγνώριση. Η ελληνική Βικιπαίδεια δίνει το έτος 1978, η αγγλική 1977."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Angel With A Gun"
+    },
+    {
+      "pos": 2,
+      "title": "Annika's Theme"
+    },
+    {
+      "pos": 3,
+      "title": "Erofile"
+    },
+    {
+      "pos": 4,
+      "title": "Fanfare For Charon"
+    },
+    {
+      "pos": 5,
+      "title": "Matala"
+    },
+    {
+      "pos": 6,
+      "title": "Minoic Dance"
+    },
+    {
+      "pos": 7,
+      "title": "Rebel Minds"
+    },
+    {
+      "pos": 8,
+      "title": "Shadows Of The Moon"
+    },
+    {
+      "pos": 9,
+      "title": "The Canyon"
+    },
+    {
+      "pos": 10,
+      "title": "The Sea"
+    },
+    {
+      "pos": 11,
+      "title": "Who Pays The Ferryman?"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "Wikipedia — Yannis Markopoulos",
+      "url": "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "MusicBrainz — Who Pays The Ferryman? (κυκλοφορία 2013-09-17)",
+      "url": "https://musicbrainz.org/release/d5ad9efa-feeb-4a58-a676-c4ba97d2690f"
+    }
+  ],
+  "en": {
+    "kind": "BBC television series score",
+    "about": [
+      "Markopoulos's music for the BBC series brought him international recognition. Greek Wikipedia gives 1978, English Wikipedia 1977."
+    ]
+  },
+  "format": "CD"
+}

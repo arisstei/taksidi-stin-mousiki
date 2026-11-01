@@ -1,0 +1,28 @@
+{
+  "slug": "kratisa-ti-zoi-mou",
+  "title": "Κράτησα τη ζωή μου",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Γιώργος Σεφέρης",
+  "year": "1962",
+  "performer": "Γρηγόρης Μπιθικώτσης · Μαργαρίτα Ζορμπαλά",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Επιφάνια» (1962), «Τρεις κύκλοι» (1979).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Ο Μίκης και οι ποιητές: Επιτάφιος / Επιφάνια (1960/1962)",
+      "url": "https://diskovolos58.blogspot.com/2020/06/19601962.html"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/ff1b1dc5-8ece-45f6-b7f6-95b308e67fb1"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Επιφάνια” (1962), “Τρεις κύκλοι” (1979).",
+    "story": []
+  }
+}

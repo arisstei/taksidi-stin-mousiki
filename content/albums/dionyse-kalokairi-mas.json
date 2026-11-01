@@ -1,0 +1,112 @@
+{
+  "slug": "dionyse-kalokairi-mas",
+  "composer": "xarchakos",
+  "title": "Διόνυσε καλοκαίρι μας",
+  "year": 1972,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia Records",
+  "catalog": "SCXG 87",
+  "format": "LP",
+  "performers": [
+    "Νίκος Ξυλούρης",
+    "Αφροδίτη Μάνου"
+  ],
+  "lyricists": [
+    "Βασίλης Ανδρεόπουλος",
+    "Κώστας Κινδύνης",
+    "Δημήτρης Χριστοδούλου",
+    "Παύλος Μάτεσις",
+    "Δημήτρης Κορτέσης"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος της Columbia του 1972 με τραγούδια του Ξαρχάκου σε στίχους διαφορετικών στιχουργών (Κώστας Κινδύνης, Βασίλης Ανδρεόπουλος, Παύλος Μάτεσις, Δημήτρης Κορτέσης), σε ερμηνείες του Νίκου Ξυλούρη και της Αφροδίτης Μάνου."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Αυτόν τον κόσμο τον καλό",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Βασίλης Ανδρεόπουλος",
+      "song": "ayton-ton-kosmo-ton-kalo",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Ήταν τα λόγια σου φωτιά",
+      "performer": "Αφροδίτη Μάνου",
+      "lyricist": "Κώστας Κινδύνης",
+      "song": "itan-ta-logia-sou-fotia",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Πώς να σωπάσω",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Κώστας Κινδύνης",
+      "song": "pos-na-sopaso",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Βουτηγμένο αστέρι",
+      "performer": "Αφροδίτη Μάνου",
+      "lyricist": "Κώστας Κινδύνης",
+      "song": "voutigmeno-asteri",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Ωραίος που 'σαι Αυγερινέ",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "oraios-pou-sai-aygerine",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Διόνυσε καλοκαίρι μας",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "dionyse-kalokairi-mas",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Έγυραν τα μάτια σου",
+      "performer": "Αφροδίτη Μάνου",
+      "lyricist": "Δημήτρης Κορτέσης",
+      "song": "egyran-ta-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Γυρνάν αμίλητα παιδιά",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Κώστας Κινδύνης",
+      "song": "gyrnan-amilita-paidia",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Γιατί κυλάει ο καιρός",
+      "performer": "Αφροδίτη Μάνου",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "giati-kylaei-o-kairos",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Διόνυσε καλοκαίρι μας (1972)",
+      "url": "https://musicbrainz.org/release-group/6bcfa58f-6f21-43d6-aa82-0243fddd6b40"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1972 Columbia album of songs by Xarchakos with lyrics by several writers (Kostas Kindynis, Vasilis Andreopoulos, Pavlos Matesis, Dimitris Kortesis), sung by Nikos Xylouris and Afroditi Manou."
+    ]
+  }
+}

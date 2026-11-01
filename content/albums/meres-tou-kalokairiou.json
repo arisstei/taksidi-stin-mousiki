@@ -1,0 +1,121 @@
+{
+  "slug": "meres-tou-kalokairiou",
+  "composer": "plessas",
+  "title": "Μέρες του καλοκαιριού",
+  "year": 1970,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "SYLP 3570",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Ρένα Κουμιώτη",
+    "Γιάννης Θωμόπουλος"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της συνεργασίας Πλέσσα — Λευτέρη Παπαδόπουλου, ένα χρόνο μετά τον «Δρόμο», με τον Γιάννη Πουλόπουλο, τη Ρένα Κουμιώτη και τον Γιάννη Θωμόπουλο. Τα στοιχεία προέρχονται από την ελληνική έκδοση της Lyra."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Πέρα στα παλιά σεράγια",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "pera-sta-palia-seragia",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Νάμουν αγέρας",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "namoun-ageras",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Αλλοίμονο σε μένα",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "alloimono-se-mena",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το παιδί που σ' αγαπάει",
+      "performer": "Γιάννης Θωμόπουλος",
+      "song": "to-paidi-pou-s-agapaei",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τα χέρια μου ανοίξανε",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "ta-xeria-mou-anoixane",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μέρες του καλοκαιριού",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "meres-tou-kalokairiou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το γλυκό τ' αηδόνι",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "to-glyko-t-aidoni",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Βοήθησέ με",
+      "performer": "Γιάννης Πουλόπουλος & Ρένα Κουμιώτη",
+      "song": "voithise-me",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ένα κορίτσι της προκοπής",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "ena-koritsi-tis-prokopis",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ένα καράβι",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "ena-karavi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Πάρε το κλειδί",
+      "performer": "Γιάννης Θωμόπουλος",
+      "song": "pare-to-kleidi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ποια νύχτα σ' έκλεψε",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "poia-nyxta-s-eklepse",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μέρες του καλοκαιριού, Lyra SYLP 3570 (1970)",
+      "url": "https://www.discogs.com/release/3534096"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A record of the Plessas — Lefteris Papadopoulos partnership, a year after “O Dromos”, sung by Giannis Poulopoulos, Rena Koumioti and Giannis Thomopoulos. Details are from the Greek Lyra edition."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "i-anamnisi",
+  "title": "Η ανάμνηση",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "1971",
+  "performer": "Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ευδοκία» (1971).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ευδοκία” (1971).",
+    "story": []
+  }
+}

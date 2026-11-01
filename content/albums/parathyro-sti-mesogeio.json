@@ -1,0 +1,89 @@
+{
+  "slug": "parathyro-sti-mesogeio",
+  "composer": "markopoulos",
+  "title": "Παράθυρο Στη Μεσόγειο",
+  "year": 1983,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 464",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 10 κομμάτια, που κυκλοφόρησε το 1983 από τη Minos. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Προσκυνώ Τη Χάρη Σου Λαέ Μου",
+      "song": "proskyno-ti-xari-sou-lae-mou",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Οικογένεια",
+      "song": "oikogeneia",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Παράθυρο Στη Μεσόγειο (Ορχηστρικό)"
+    },
+    {
+      "pos": 4,
+      "title": "Ξένος Στρατιώτης",
+      "song": "xenos-stratiotis",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ως Τον Ύστατο Χτύπο",
+      "song": "os-ton-ystato-xtypo",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Πες Μου Τι Σε Τυρανάει",
+      "song": "pes-mou-ti-se-tyranaei",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Χαϊμαλίνα",
+      "song": "xaimalina",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Χειραψία (Ορχηστρικό)"
+    },
+    {
+      "pos": 9,
+      "title": "Μην Κλαίς",
+      "song": "min-klais",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Τραγούδι Της Ειρήνης (Χορωδία)",
+      "song": "tragoudi-tis-eirinis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Παράθυρο Στη Μεσόγειο (κυκλοφορία 1983)",
+      "url": "https://musicbrainz.org/release/455dd2dd-01c2-4295-a74f-019192589716"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 10 tracks, released in 1983 on Minos. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

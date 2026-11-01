@@ -1,0 +1,113 @@
+{
+  "slug": "kosme-agapi-mou",
+  "composer": "xarchakos",
+  "title": "Κόσμε αγάπη μου",
+  "year": 1969,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "format": "LP",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Βίκυ Μοσχολιού",
+    "Σταμάτης Κόκοτας"
+  ],
+  "lyricists": [
+    "Ιάκωβος Καμπανέλλης"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος του 1969 με τραγούδια του Ξαρχάκου αποκλειστικά σε στίχους του Ιάκωβου Καμπανέλλη, σε ερμηνείες των Γρηγόρη Μπιθικώτση, Βίκυς Μοσχολιού και Σταμάτη Κόκοτα."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μην πιείς νερό",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "min-pieis-nero",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα ρολόγια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "ta-rologia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τ' απόγευμα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "t-apogeyma",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μη γυρίσεις πίσω",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "mi-gyriseis-piso",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Αφιέρωμα στο Μάνο",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "afieroma-sto-mano",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Δυο αδέλφια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "dyo-adelfia",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αστέρι στο παράθυρο",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "asteri-sto-parathyro",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Άσπρος τοίχος",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "aspros-toixos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Νανούρισμα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "nanourisma"
+    },
+    {
+      "pos": "10",
+      "title": "Τα ρολόγια",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "ta-rologia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κόσμε αγάπη μου (1969)",
+      "url": "https://musicbrainz.org/release-group/a384ec6b-f47f-47ca-ab88-05f576403867"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1969 album of songs by Xarchakos set exclusively to lyrics by Iakovos Kambanellis, sung by Grigoris Bithikotsis, Viki Mosholiou and Stamatis Kokotas."
+    ]
+  }
+}

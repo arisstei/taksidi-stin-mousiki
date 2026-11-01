@@ -1,0 +1,24 @@
+{
+  "slug": "nea-ionia",
+  "title": "Νέα Ιωνία",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1992",
+  "performer": "Βασιλική Λαβίνα",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κύκλοι” (1992).",
+    "story": []
+  }
+}

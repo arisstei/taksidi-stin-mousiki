@@ -1,0 +1,147 @@
+{
+  "slug": "16-spanies-ichografiseis",
+  "composer": "zambetas",
+  "title": "16 Σπάνιες Ηχογραφήσεις / 1964-1972",
+  "year": 1996,
+  "type": "anthology",
+  "kind": "Συλλογή σπάνιων ηχογραφήσεων",
+  "label": "Mercury Records",
+  "catalog": "532 614-2",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Μαρινέλλα",
+    "Τόλης Βοσκόπουλος",
+    "Μανταλένα",
+    "Μανώλης Καναρίδης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή του 1996 με 16 ηχογραφήσεις της περιόδου 1964–1972, που η MusicBrainz καταχωρεί στη δισκογραφία του Ζαμπέτα.",
+    "Στα τραγούδια συμμετέχουν, μεταξύ άλλων, οι Μαρινέλλα, Βίκυ Μοσχολιού, Τόλης Βοσκόπουλος, Μανταλένα και Μανώλης Καναρίδης, ενώ ο ίδιος ο Ζαμπέτας ερμηνεύει το «Ταξίμι με ζεϊμπέκικο» και τον «Τζακ ο Χάρα»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ταξίμι Με Ζεϊμπέκικο"
+    },
+    {
+      "pos": "2",
+      "title": "Ήρθα Κι Απόψε Στα Σκαλοπάτια Σου",
+      "performer": "Πάνος Τζανετής",
+      "song": "irtha-ki-apopse-sta-skalopatia-sou",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Δε Συμφωνήσαμε",
+      "performer": "Μαρινέλλα",
+      "song": "de-symfonisame",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το Αδιέξοδο",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "adiexodo",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Έχασες Το Τρένο",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "exases-to-treno",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Να Πας, Εκεί Που Πας",
+      "performer": "Δούκισσα",
+      "song": "na-pas-ekei-pou-pas",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το Καράβι",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "to-karavi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ανεβαίνω Και Δε Φτάνω",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "anevaino-kai-de-ftano",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Είχα Τον Ήλιο Συντροφιά",
+      "performer": "Ζωζώ Σαπουντζάκη",
+      "song": "eixa-ton-ilio-syntrofia",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τα Δειλινά",
+      "performer": "Σία Ροζάκη",
+      "song": "ta-deilina",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μόνη Σε Διπλό Κρεβάτι",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "moni-se-diplo-krevati",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Βαρυχειμωνιές",
+      "performer": "Μανταλένα",
+      "song": "varyxeimonies",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ο Αράπης (Μελαμψές Βεδουΐνες)",
+      "performer": "Μανώλης Καναρίδης",
+      "song": "o-arapis",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Κατινίτσα, Κατινούλα, Κατινάκι Μου",
+      "performer": "Πέτρος Αναγνωστάκης",
+      "song": "katinitsa-katinoula-katinaki-mou",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Η Ψιχάλα",
+      "performer": "Αννα Χρυσάφη, Διαμαντής Πανάρετος",
+      "song": "i-psixala",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Τζακ Ο Χάρα",
+      "song": "o-tzak-o-xara",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — 16 Σπάνιες Ηχογραφήσεις / 1964-1972 (1996, Mercury 532 614-2)",
+      "url": "https://musicbrainz.org/release/3e428920-979f-41c5-ab79-fb8d99c3ad6a"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of rare recordings",
+    "about": [
+      "1996 compilation of 16 recordings from 1964–1972, listed by MusicBrainz in Zampetas’s discography.",
+      "Singers on the album include Marinella, Vicky Moscholiou, Tolis Voskopoulos, Mantalena and Manolis Kanaridis, while Zampetas himself performs “Taxim me zeibekiko” and “Tzak o Hara”."
+    ]
+  }
+}

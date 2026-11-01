@@ -1,0 +1,24 @@
+{
+  "slug": "parea-me-tous-iroes",
+  "title": "Παρέα με τους ήρωες",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Αγαθή Δημητρούκα",
+  "year": "1994",
+  "performer": "Νάνα Μούσχουρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Αγάπη είν' η ζωή» (1994).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αγάπη είν' η ζωή (1994)",
+      "url": "https://musicbrainz.org/release-group/8945bbe7-c031-4e2a-9cb8-184e816767d3"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Αγάπη είν' η ζωή” (1994).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "alexandriani-mou",
+  "title": "Αλεξανδριανή Μου",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1992",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992), «Τα Μεγάλα Τραγούδια» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992), “Τα Μεγάλα Τραγούδια” (2016).",
+    "story": []
+  }
+}

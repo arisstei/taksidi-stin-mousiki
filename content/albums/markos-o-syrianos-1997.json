@@ -1,0 +1,161 @@
+{
+  "slug": "markos-o-syrianos-1997",
+  "composer": "vamvakaris",
+  "title": "Μάρκος Ο Συριανός",
+  "year": 1997,
+  "type": "anthology",
+  "kind": "CD συλλογή της Πανδώρας",
+  "label": "Πανδώρα Μουσικές Εκδόσεις",
+  "catalog": "CP PAN-215",
+  "format": "CD, Compilation",
+  "grade": "C",
+  "about": [
+    "CD των εκδόσεων Πανδώρα με 22 τραγούδια του Βαμβακάρη, από τη «Μια όμορφη μελαχροινή» και τη «Σύρο» ώς το «Ταξίμ ζεϊμπέκικο»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μια Όμορφη Μελαχροινή",
+      "song": "mia-omorfi-melaxroini",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Η Σύρος",
+      "song": "syros",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χαράματα Η Ώρα Τρείς",
+      "song": "xaramata-i-ora-treis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Αλάνα Πειραιώτισσα",
+      "song": "alana-peiraiotissa",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ήθενα Ναμουν Ηρακλής",
+      "song": "ithena-namoun-iraklis",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Είσαι Αφράτη Σαν Φραντζόλα",
+      "song": "eisai-afrati-san-frantzola",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Πρέπει Να Ξέρης Μηχανή",
+      "song": "prepei-na-xereis-mixani",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μαύρα Μάτια Μαύρα Φρύδια",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Στο Φάληρο Που Πλένεσαι",
+      "song": "sto-faliro-pou-plenesai",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μάρκος Ο Συριανός",
+      "song": "markos-o-syrianos",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τα Δυό Σου Χέρια Πήρανε",
+      "song": "ta-dyo-sou-xeria-pirane",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Νόστιμο Τρελλό Μικρό Μου",
+      "song": "nostimo-trello-mikro-mou",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Ο Καλόγηρος",
+      "song": "kalogiros",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Μικρός Αρραβωνιάστηκα",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Η Ζηλιάρα",
+      "song": "ziliara",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Παιχνιδιάρα Μου",
+      "song": "paixnidiara-mou",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Μπουζούκι Γλέντι Του Ντουνιά",
+      "song": "mpouzouki-glenti-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "21",
+      "title": "Η Φραγκοσυριανή",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "22",
+      "title": "Ταξίμ Ζεϊμπέκικο",
+      "song": "taxim-zeimpekiko",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation on Pandora",
+    "about": [
+      "A Pandora CD of 22 Vamvakaris tracks, from “Mia omorfi melachroini” and “I Syros” to “Taxim zeimbekiko”."
+    ]
+  }
+}

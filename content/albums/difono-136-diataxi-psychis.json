@@ -1,0 +1,124 @@
+{
+  "slug": "difono-136-diataxi-psychis",
+  "composer": "zambetas",
+  "title": "Συλλογή Δίφωνο, 136: Διάταξη ψυχής",
+  "year": 2006,
+  "type": "anthology",
+  "kind": "Συλλογή (Δίφωνο)",
+  "label": "Δίφωνο",
+  "catalog": "136",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "C",
+  "about": [
+    "Τεύχος 136 της σειράς «Δίφωνο» (2006) με 15 τραγούδια σε ερμηνεία του ίδιου του Ζαμπέτα.",
+    "Περιλαμβάνει, μεταξύ άλλων, τα «Χίλια περιστέρια», «Πού 'σαι Θανάση», «Μάλιστα κύριε», «Στο λευκό τον πύργο» και «Το σαραβαλάκι»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Χίλια περιστέρια",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πού 'σαι Θανάση",
+      "song": "pou-sai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Η παλιοπαρέα",
+      "song": "i-palioparea",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μάλιστα Κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Οι θαλασσινοί (Πάρε ναυτάκι Συριανό)",
+      "song": "i-thalassini",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Περαία μου",
+      "song": "peraia-mou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Στο λευκό τον πύργο",
+      "song": "sto-leyko-ton-pyrgo",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Αποσπάσματα από έρωτες",
+      "song": "apospasmata-apo-erotes",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Είσαι Γιώργο ερωτιάρης",
+      "song": "eisai-giorgo-erotiaris",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο απόγονος",
+      "song": "o-apogonos",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Το φιλοσόφησα πολύ",
+      "song": "to-filosofisa-poly",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ήρθαν τόσοι κι άλλοι τόσοι",
+      "song": "irthan-tosoi-ki-alloi-tosoi",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ο Τζάκ Ο' Χάρα",
+      "song": "o-tzak-o-xara",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Πολυξένη",
+      "song": "polyxeni",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Το σαραβαλάκι",
+      "song": "to-saravalaki",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 136: Διάταξη ψυχής (2006, Δίφωνο 136)",
+      "url": "https://musicbrainz.org/release/efa130ac-d5c1-421f-98b5-daddc935ce23"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (Difono series)",
+    "about": [
+      "Issue 136 of the “Difono” series (2006) with 15 songs performed by Zampetas himself.",
+      "It includes “Chilia peristeria”, “Pou ’sai Thanasi”, “Malista kyrie”, “Sto lefko ton pyrgo” and “To saravalaki”."
+    ]
+  }
+}

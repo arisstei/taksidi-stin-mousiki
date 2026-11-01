@@ -1,0 +1,224 @@
+{
+  "slug": "thessalikos-kyklos",
+  "composer": "markopoulos",
+  "title": "Θεσσαλικός Κύκλος",
+  "year": 1979,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "performers": [
+    "Βασίλης Τσιτσάνης",
+    "Παύλος Σιδηρόπουλος",
+    "Λάκης Χαλκιάς",
+    "Λιζέττα Νικολάου",
+    "Βίκυ Μοσχολιού",
+    "Χαράλαμπος Γαργανουράκης"
+  ],
+  "lyricists": [
+    "Κώστας Βίρβος"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 29 κομμάτια, που κυκλοφόρησε το 1979. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Πρόλογος",
+      "performer": "Βασίλης Τσιτσάνης"
+    },
+    {
+      "pos": 2,
+      "title": "Εισαγωγή - Τελάλης",
+      "performer": "Παύλος Σιδηρόπουλος"
+    },
+    {
+      "pos": 3,
+      "title": "Ροζαμούντα"
+    },
+    {
+      "pos": 4,
+      "title": "Αλεπούδες - Κόρακες",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "alepoudes-korakes",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ο Σιδηρόδρομος",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "o-sidirodromos",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Τα Φαντάσματα",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "ta-fantasmata",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Ο Πάτερ Γυμνάσιος"
+    },
+    {
+      "pos": 8,
+      "title": "Ο Κλεφτοκοτάς"
+    },
+    {
+      "pos": 9,
+      "title": "Ο Αρκουδιάρης",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Κώστας Βίρβος",
+      "song": "o-arkoudiaris",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Το Τηλέφωνο",
+      "performer": "Παύλος Σιδηρόπουλος",
+      "song": "to-tilefono",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Η Βασίλω",
+      "performer": "Παύλος Σιδηρόπουλος",
+      "song": "i-vasilo",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Το Παζάρι",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "to-pazari",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Η Προξενήτρα",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "i-proxenitra",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Ζωή Στα Κατσ'κομούλαρά Μας",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "zoi-sta-kats-komoulara-mas",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Ο Ζαλούκας"
+    },
+    {
+      "pos": 16,
+      "title": "Ο Αντύπας",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "o-antypas",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Ο Δάσκαλος",
+      "performer": "Λάκης Χαλκιάς",
+      "lyricist": "Κώστας Βίρβος",
+      "song": "o-daskalos",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Αν Είσαι Άνδρας Τσιφλικά",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "an-eisai-andras-tsiflika",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Χορός Καπετανέϊκος"
+    },
+    {
+      "pos": 20,
+      "title": "Στα Χειμωνιάτικα Νυχτέρια",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "sta-xeimoniatika-nyxteria",
+      "stub": true
+    },
+    {
+      "pos": 21,
+      "title": "Το Γράμμα",
+      "performer": "Παύλος Σιδηρόπουλος",
+      "song": "to-gramma",
+      "stub": true
+    },
+    {
+      "pos": 22,
+      "title": "Ο Μαυρομίχος",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "o-mayromixos",
+      "stub": true
+    },
+    {
+      "pos": 23,
+      "title": "Νάβγαινα Μάναμ' Στο Κλαρί",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "navgaina-manam-sto-klari",
+      "stub": true
+    },
+    {
+      "pos": 24,
+      "title": "Ο Φτεροπόδαρος",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "o-fteropodaros",
+      "stub": true
+    },
+    {
+      "pos": 25,
+      "title": "Νύχτα Στον Κάμπο"
+    },
+    {
+      "pos": 26,
+      "title": "Ο Σταύρος Ο Σταχτοφωτιάς",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "o-stayros-o-staxtofotias",
+      "stub": true
+    },
+    {
+      "pos": 27,
+      "title": "Βγήκε Ο Ήλιος",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "vgike-o-ilios",
+      "stub": true
+    },
+    {
+      "pos": 28,
+      "title": "Ο Λόγος (Παραμύθι)",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "o-logos",
+      "stub": true
+    },
+    {
+      "pos": 29,
+      "title": "Το Άλογο",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "to-alogo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θεσσαλικός Κύκλος (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/865c7517-a0db-4157-a91b-e10a961a3fd0"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 29 tracks, released in 1979. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

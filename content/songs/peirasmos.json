@@ -1,0 +1,28 @@
+{
+  "slug": "peirasmos",
+  "title": "Πειρασμός",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Διονύσιος Σολωμός",
+  "year": "1977",
+  "performer": "Νίκος Ξυλούρης · Αλίκη Βουγιουκλάκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Οι ελεύθεροι πολιορκημένοι» (1977), «Ο πειρασμός» (1996).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "MusicBrainz — Ο πειρασμός (1996)",
+      "url": "https://musicbrainz.org/release-group/92893db3-36ea-4722-82a8-8134fa7dacac"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Οι ελεύθεροι πολιορκημένοι” (1977), “Ο πειρασμός” (1996).",
+    "story": []
+  }
+}

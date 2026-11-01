@@ -1,0 +1,83 @@
+{
+  "slug": "i-geitonia-mou",
+  "composer": "plessas",
+  "title": "Η γειτονιά μου (λαϊκή σουίτα)",
+  "year": 1968,
+  "type": "instrumental",
+  "kind": "Λαϊκή σουίτα για ορχήστρα και μπουζούκι",
+  "label": "Vedetta",
+  "catalog": "ΒΕΝ LP.503",
+  "format": "LP",
+  "performers": [
+    "Μίμης Πλέσσας",
+    "Στέλιος Ζαφειρίου"
+  ],
+  "grade": "B",
+  "about": [
+    "Σουίτα για λαϊκή ορχήστρα και μπουζούκι σε μουσική και διεύθυνση Μίμη Πλέσσα· το μπουζούκι παίζει ο Στέλιος Ζαφειρίου. Το σημείωμα στο οπισθόφυλλο, όπως το καταγράφει το Discogs, παρουσιάζει το άλμπουμ ως σουίτα για λαϊκή ορχήστρα και μπουζούκι· η ηχογράφηση έγινε στο στούντιο SIFILMS της Αθήνας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ξημέρωμα"
+    },
+    {
+      "pos": "2",
+      "title": "Βόλτα στη γειτονιά"
+    },
+    {
+      "pos": "3",
+      "title": "Το ζευγαράκι"
+    },
+    {
+      "pos": "4",
+      "title": "Γέλαγε η Μαρία",
+      "song": "gelage-i-maria",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Οι ασίκηδες"
+    },
+    {
+      "pos": "6",
+      "title": "Η γόησσα"
+    },
+    {
+      "pos": "7",
+      "title": "Λεβέντικος χορός"
+    },
+    {
+      "pos": "8",
+      "title": "Το κορίτσι μου"
+    },
+    {
+      "pos": "9",
+      "title": "Ο Γιάννης"
+    },
+    {
+      "pos": "10",
+      "title": "Εσπερινός"
+    },
+    {
+      "pos": "11",
+      "title": "Στο ταβερνάκι μας"
+    },
+    {
+      "pos": "12",
+      "title": "Νύχτα καλή"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Η γειτονιά μου, Vedetta ΒΕΝ LP.503 (1968)",
+      "url": "https://www.discogs.com/release/7384420"
+    }
+  ],
+  "en": {
+    "kind": "Popular suite for orchestra and bouzouki",
+    "about": [
+      "Suite for popular orchestra and bouzouki, composed and conducted by Mimis Plessas, with Stelios Zafeiriou on bouzouki. The back-sleeve note quoted on Discogs presents the album as a suite for popular orchestra and bouzouki, recorded at the SIFILMS studio in Athens."
+    ]
+  }
+}

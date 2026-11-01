@@ -1,0 +1,32 @@
+{
+  "slug": "ti-exei-kai-klaiei-to-paidi",
+  "title": "Τι έχει και κλαίει το παιδί",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ευτυχία Παπαγιαννοπούλου",
+  "year": "1964",
+  "performer": "Μελίνα Μερκούρη · Γρηγόρης Μπιθικώτσης · Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Ελλάδα της Μελίνας» (1964), «Η Ελλάδα της Μελίνας» (1964), «Ελλήσποντος» (1966) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η Ελλάδα της Μελίνας (1964)",
+      "url": "https://musicbrainz.org/release-group/bd13141f-c5de-4e58-a9de-821bacf72405"
+    },
+    {
+      "label": "MusicBrainz — Ελλήσποντος (1966)",
+      "url": "https://musicbrainz.org/release-group/11e7a57a-dc02-4fd8-a1b7-9f4c182c39c9"
+    },
+    {
+      "label": "MusicBrainz — Τραγούδια της Ευτυχίας Παπαγιαννοπούλου (1982)",
+      "url": "https://musicbrainz.org/release-group/3bd8ddbb-66f5-4187-b11b-a8f7c9eba54a"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Ελλάδα της Μελίνας” (1964), “Η Ελλάδα της Μελίνας” (1964), “Ελλήσποντος” (1966) and 1 more.",
+    "story": []
+  }
+}

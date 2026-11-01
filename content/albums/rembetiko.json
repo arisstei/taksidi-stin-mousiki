@@ -1,0 +1,121 @@
+{
+  "slug": "rembetiko",
+  "composer": "xarchakos",
+  "title": "Ρεμπέτικο",
+  "year": 1983,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "format": "LP",
+  "performers": [
+    "Νίκος Δημητράτος",
+    "Κώστας Τσίγκος"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Παραδοσιακό",
+    "Κώστας Φέρρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική για την ταινία «Ρεμπέτικο» (1983) του Κώστα Φέρρη, με στίχους του Νίκου Γκάτσου. Η ταινία κέρδισε τέσσερα βραβεία στο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης, μεταξύ των οποίων και το ειδικό βραβείο μουσικής (Βικιπαίδεια).",
+    "Ξεχωρίζουν τα «Μάνα μου Ελλάς», «Το δίχτυ», «Μπουρνοβαλιά» και «Στου Θωμά» — τραγούδια που ο Ξαρχάκος ξαναπαρουσίασε στη συναυλία του 1988 και στις επετειακές συναυλίες «Ρεμπέτικο» το 2023."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μάνα μου Ελλάς",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mana-mou-ellas",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα παιδιά της Άμυνας",
+      "lyricist": "Παραδοσιακό",
+      "song": "ta-paidia-tis-amynas",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Στης πίκρας τα ξερονήσια"
+    },
+    {
+      "pos": "4",
+      "title": "Στου Θωμά",
+      "performer": "Κώστας Τσίγκος",
+      "lyricist": "Κώστας Φέρρης",
+      "song": "stou-thoma",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Χασάπικο 22"
+    },
+    {
+      "pos": "6",
+      "title": "Καίγομαι - καίγομαι",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "kaigomai-kaigomai",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ιμιτλερίμ",
+      "lyricist": "Παραδοσιακό",
+      "song": "imitlerim",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Μπουρνοβαλιά",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mpournovalia",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Εμένα λόγια μη μου λες"
+    },
+    {
+      "pos": "10",
+      "title": "Στην Αμφιάλη"
+    },
+    {
+      "pos": "11",
+      "title": "Το δίχτυ",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Στη Σαλαμίνα"
+    },
+    {
+      "pos": "13",
+      "title": "Το πρακτορείο",
+      "performer": "Σταύρος Ξαρχάκος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-praktoreio",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ρεμπέτικο (1983)",
+      "url": "https://musicbrainz.org/release-group/f533bcc7-88cf-4ca7-b8ae-a1fcdc9c30b7"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The music for Kostas Ferris's film Rebetiko (1983), with lyrics by Nikos Gatsos. The film won four awards at the Thessaloniki Film Festival, including the special music award (Wikipedia).",
+      "Among the standouts are \"Mana mou Ellas\", \"To diktyo\", \"Bournovalia\" and \"Stou Thoma\" - songs Xarchakos revisited in the 1988 concert and in the anniversary \"Rebetiko\" concerts of 2023."
+    ]
+  }
+}

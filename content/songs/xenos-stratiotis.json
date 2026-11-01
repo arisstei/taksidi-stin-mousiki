@@ -1,0 +1,24 @@
+{
+  "slug": "xenos-stratiotis",
+  "title": "Ξένος Στρατιώτης",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1983",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Παράθυρο Στη Μεσόγειο» (1983).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Παράθυρο Στη Μεσόγειο (κυκλοφορία 1983)",
+      "url": "https://musicbrainz.org/release/455dd2dd-01c2-4295-a74f-019192589716"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Παράθυρο Στη Μεσόγειο” (1983).",
+    "story": []
+  }
+}

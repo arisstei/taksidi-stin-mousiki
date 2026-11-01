@@ -1,0 +1,28 @@
+{
+  "slug": "delfini-delfinaki",
+  "title": "Δελφίνι δελφινάκι",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1968",
+  "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής · Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Σταθμός» (1968), «Τα τραγούδια του Σεβάχ» (2003).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του Σεβάχ (40 Ηχογραφήσεις 1966-1981), κυκλοφορία (2003)",
+      "url": "https://musicbrainz.org/release/ab9856b2-5e37-4bb6-a676-dc788d1720cb"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Σταθμός” (1968), “Τα τραγούδια του Σεβάχ” (2003).",
+    "story": []
+  }
+}

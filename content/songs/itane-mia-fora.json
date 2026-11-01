@@ -1,0 +1,24 @@
+{
+  "slug": "itane-mia-fora",
+  "title": "Ήτανε μια φορά",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Κώστας Φέρρης",
+  "year": "1978",
+  "performer": "Νίκος Ξυλούρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Στο Λυκαβηττό» (1978).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Στο Λυκαβηττό (1978)",
+      "url": "https://musicbrainz.org/release-group/0bd4e6a5-30cd-474c-be60-bf9fe8213a7d"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Στο Λυκαβηττό” (1978).",
+    "story": []
+  }
+}

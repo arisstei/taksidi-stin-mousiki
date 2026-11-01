@@ -1,0 +1,24 @@
+{
+  "slug": "patriotakia-tou-iliou",
+  "title": "Πατριωτάκια Του Ήλιου",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Οδυσσέας Ελύτης",
+  "year": "1969",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ήλιος ο πρώτος» (1969).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ήλιος ο πρώτος” (1969).",
+    "story": []
+  }
+}

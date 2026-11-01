@@ -1,0 +1,125 @@
+{
+  "slug": "ta-tragoudia-tou",
+  "composer": "vassilis-tsitsanis",
+  "title": "Τα Τραγούδια Του",
+  "year": 1997,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "ALFA-MI",
+  "catalog": "CD 02",
+  "format": "CD",
+  "performers": [
+    "Αξιώτης Κεχαγιάς",
+    "Ρένα Ντάλλια",
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 13 τραγουδιών της ALFA-MI με τίτλο «Τα τραγούδια του»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Αξιώτης Κεχαγιάς, Ρένα Ντάλλια",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Της Ταβέρνας Το Ρολόι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "tis-tavernas-to-roloi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τα Καβουράκια",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "ta-kavourakia",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ίσως Αύριο",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "isos-ayrio",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Όμορφη Θεσσαλονίκη",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "omorfi-thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Σε Τούτο Το Παληόσπιτο",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "se-touto-to-paliospito",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αραμπάς Περνά",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "arampas-perna",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Γεια Σου Τσολιά Μου",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "geia-sou-tsolia-mou",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Το Σκαλοπάτι Σου",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-skalopati-sou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Στρώσε Μου Να Κοιμηθώ",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "strose-mou-na-koimitho",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Το Ντιβάνι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-ntivani",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Δε Ρωτώ Ποια Είσαι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "de-roto-poia-eisai",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ακρογιαλιές-Δειλινά",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "akrogialies-deilina",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του (1997)",
+      "url": "https://musicbrainz.org/release/78ff2816-f936-4ae2-971c-fbcea458040e"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A 13-track ALFA-MI compilation titled \"His Songs\"."
+    ]
+  }
+}

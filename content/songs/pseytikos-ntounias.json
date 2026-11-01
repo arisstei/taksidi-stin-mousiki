@@ -1,0 +1,28 @@
+{
+  "slug": "pseytikos-ntounias",
+  "title": "Ψεύτικος Ντουνιάς",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1981",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος Βαμβακάρης» (1981), «Μουσική Αυτοβιογραφία 1932-1968» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    },
+    {
+      "label": "Discogs — Μουσική Αυτοβιογραφία 1932-1968 (2016)",
+      "url": "https://www.discogs.com/release/14223431"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος Βαμβακάρης” (1981), “Μουσική Αυτοβιογραφία 1932-1968” (2016).",
+    "story": []
+  }
+}

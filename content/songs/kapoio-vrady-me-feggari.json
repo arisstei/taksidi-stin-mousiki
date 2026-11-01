@@ -1,0 +1,28 @@
+{
+  "slug": "kapoio-vrady-me-feggari",
+  "title": "Κάποιο Βράδυ Με Φεγγάρι",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1979",
+  "performer": "Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ρεμπέτικα Θεμέλια Νο 1» (1979), «IV» (1995).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ρεμπέτικα Θεμέλια Νο 1 (1979)",
+      "url": "https://www.discogs.com/release/4266094"
+    },
+    {
+      "label": "Discogs — IV (1995)",
+      "url": "https://www.discogs.com/release/7105479"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ρεμπέτικα Θεμέλια Νο 1” (1979), “IV” (1995).",
+    "story": []
+  }
+}

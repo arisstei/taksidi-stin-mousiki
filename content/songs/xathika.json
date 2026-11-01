@@ -1,0 +1,28 @@
+{
+  "slug": "xathika",
+  "title": "Χάθηκα",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Γιάννης Θεοδωράκης",
+  "year": "1974",
+  "performer": "Ντόρα Γιαννακοπούλου · Μαργαρίτα Ζορμπαλά",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μικρές Κυκλάδες / Λιποτάκτες» (1974), «Τρεις κύκλοι» (1979).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/acb8ce1a-63f9-41bc-9036-b4e57156c840"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/ff1b1dc5-8ece-45f6-b7f6-95b308e67fb1"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μικρές Κυκλάδες / Λιποτάκτες” (1974), “Τρεις κύκλοι” (1979).",
+    "story": []
+  }
+}

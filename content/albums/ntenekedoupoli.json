@@ -1,0 +1,163 @@
+{
+  "slug": "ntenekedoupoli",
+  "composer": "markopoulos",
+  "title": "Ντενεκεδούπολη",
+  "year": 1980,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "catalog": "MSM 394",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 22 κομμάτια, που κυκλοφόρησε το 1980 από τη Μίνως Μάτσας & Υιός Α.Ε.. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": 2,
+      "title": "Αποθήκη",
+      "song": "apothiki",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Ελατήρια",
+      "song": "elatiria",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Καλαμάρης",
+      "song": "kalamaris",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Μελένιος",
+      "song": "melenios",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Ζουληχτής",
+      "song": "zoulixtis",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Σκιάχτρο",
+      "song": "skiaxtro",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Σαρδέλλας",
+      "song": "sardellas",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Μηλίτσα",
+      "song": "militsa",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Βουτυρένιος",
+      "song": "voutyrenios",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Σοφός",
+      "song": "sofos",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Ο κ. μπαμ μπαμ",
+      "song": "o-k-mpam-mpam",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Νετενεκεδούπολη",
+      "song": "netenekedoupoli",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Καταστροφή",
+      "song": "katastrofi",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Κακάο",
+      "song": "kakao",
+      "stub": true
+    },
+    {
+      "pos": 16,
+      "title": "Κρασί",
+      "song": "krasi",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Τσίχλα",
+      "song": "tsixla",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Το πλούσιο φυσερό",
+      "song": "to-plousio-fysero",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Έι, ντενεκεδάκια",
+      "song": "ei-ntenekedakia",
+      "stub": true
+    },
+    {
+      "pos": 20,
+      "title": "Καμινάδες",
+      "song": "kaminades",
+      "stub": true
+    },
+    {
+      "pos": 21,
+      "title": "Ποιος να τοκανε ποιος",
+      "song": "poios-na-tokane-poios",
+      "stub": true
+    },
+    {
+      "pos": 22,
+      "title": "Στη φωτιά",
+      "song": "sti-fotia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ντενεκεδούπολη (κυκλοφορία 1980)",
+      "url": "https://musicbrainz.org/release/5ec527b7-48fb-4960-abb3-c11c1d2dfcd8"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 22 tracks, released in 1980 on Μίνως Μάτσας & Υιός Α.Ε.. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

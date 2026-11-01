@@ -1,0 +1,101 @@
+{
+  "slug": "tsitsanis-no4-1938-1955",
+  "composer": "vassilis-tsitsanis",
+  "title": "Βασίλης Τσιτσάνης 4",
+  "year": 1976,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "Columbia",
+  "catalog": "2J 056-70293",
+  "format": "LP",
+  "grade": "B",
+  "about": [
+    "Δίσκος της Columbia με 12 τραγούδια του Τσιτσάνη από την περίοδο 1938–1955."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Γιατί Με Ξύπνησες Πρωι",
+      "song": "giati-me-xypnises-proi",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Στον Αγιο Κωνσταντίνο",
+      "song": "ston-agio-konstantino",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Η Σεράχ",
+      "song": "i-serax",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Παίξε Χρήστο Το Μπουζούκι",
+      "song": "paixe-xristo-to-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Κάθε Βράδυ Αγαπημένη",
+      "song": "kathe-vrady-agapimeni",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Ο Τρελός Τσιγγάνος",
+      "song": "o-trelos-tsigganos",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Αντιλαλούνε Τα Βουνά",
+      "song": "antilaloune-ta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Οτι Κι Αν Πω Δεν Σε Ξεχνώ",
+      "song": "oti-ki-an-po-den-se-xexno",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Γι' Αυτά Τα Μαύρα Μάτια Σου",
+      "song": "gi-ayta-ta-mayra-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ντροπιασμένος Στη Ζωή",
+      "song": "ntropiasmenos-sti-zoi",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Οι Φάμπρικες",
+      "song": "oi-famprikes",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Εγώ Πληρώνω Τα Μάτια Π' Αγαπώ",
+      "song": "ego-plirono-ta-matia-p-agapo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Βασίλης Τσιτσάνης 4 = Vassilis Tsitsanis No.4 (1938-1955) (1976)",
+      "url": "https://www.discogs.com/master/738652"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A Columbia LP of 12 Tsitsanis songs from the period 1938–1955."
+    ]
+  }
+}

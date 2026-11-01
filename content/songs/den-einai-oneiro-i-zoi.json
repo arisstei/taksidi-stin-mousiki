@@ -1,0 +1,28 @@
+{
+  "slug": "den-einai-oneiro-i-zoi",
+  "title": "Δεν είναι όνειρο η ζωή",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "2008",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 χρόνια: 1938-1978» (2008), «Η Ελλάδα Του Βασίλη Τσιτσάνη» (2014).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    },
+    {
+      "label": "MusicBrainz — Η Ελλάδα Του Βασίλη Τσιτσάνη (2014)",
+      "url": "https://musicbrainz.org/release/10cbdfd3-218f-42bb-9ac3-12c9e02d14a8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 χρόνια: 1938-1978” (2008), “Η Ελλάδα Του Βασίλη Τσιτσάνη” (2014).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "xathikes",
+  "title": "Χάθηκες",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1984",
+  "performer": "Γιώργος Ζαμπέτας · Πάνος Τζανετής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «30 χρόνια» (1984), «Ο πιο καλός ο μαθητής…» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 30 χρόνια (1984, EMI 14C 045 1700472)",
+      "url": "https://musicbrainz.org/release/63e20415-818f-47ee-a33b-2f427e30d885"
+    },
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο μαθητής… (1992, EMI 14C 145 1704602/12)",
+      "url": "https://musicbrainz.org/release/178ee38e-c3ca-49b8-ab26-e50aff62adf1"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “30 χρόνια” (1984), “Ο πιο καλός ο μαθητής…” (1992).",
+    "story": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "grammata-stin-agapimeni",
+  "composer": "loizos",
+  "title": "Γράμματα στην αγαπημένη",
+  "year": 1983,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών (μεταθανάτια έκδοση)",
+  "label": "Minos EMI",
+  "format": "LP",
+  "performers": [
+    "Μάνος Λοΐζος"
+  ],
+  "lyricists": [
+    "Ναζίμ Χικμέτ (μτφρ. Γιάννης Ρίτσος)"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο τελευταίος δίσκος του Λοΐζου, σε στίχους Ναζίμ Χικμέτ μεταφρασμένους από τον Γιάννη Ρίτσο. Κυκλοφόρησε το 1983, μετά τον θάνατό του."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μονάκριβή μου",
+      "performer": "Μάνος Λοΐζος",
+      "song": "monakrivi-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Για τη ζωή",
+      "performer": "Μάνος Λοΐζος",
+      "song": "gia-ti-zoi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Το δίχτυ",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Απερίγραπτη, λένε",
+      "performer": "Μάνος Λοΐζος",
+      "song": "aperigrapti-lene",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Στηθάγχη",
+      "performer": "Μάνος Λοΐζος",
+      "song": "stithagxi",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κατά τις λάμψεις πέρα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "kata-tis-lampseis-pera",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Χλιαροί και παλλόμενοι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "xliaroi-kai-pallomenoi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Λίγα γαρούφαλα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "liga-garoufala",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Όπως ο Κερέμ",
+      "performer": "Μάνος Λοΐζος",
+      "song": "opos-o-kerem",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τι όμορφο που 'ναι να σε συλλογιέμαι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "ti-omorfo-pou-nai-na-se-syllogiemai",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Αν με τη μεσολάβηση",
+      "performer": "Μάνος Λοΐζος",
+      "song": "an-me-ti-mesolavisi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Η πιο όμορφη θάλασσα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "i-pio-omorfi-thalassa",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ένα κρεβάτι εκστρατείας",
+      "performer": "Μάνος Λοΐζος",
+      "song": "ena-krevati-ekstrateias",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Ο άνεμος κυλάει",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-anemos-kylaei",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Γράμματα στην αγαπημένη, κυκλοφορία (1983)",
+      "url": "https://musicbrainz.org/release/3c2bef6d-94e7-49c3-9598-c54c1f1c8bbc"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle (posthumous release)",
+    "about": [
+      "Loizos's last album, set to poems by Nazim Hikmet translated into Greek by Yannis Ritsos. Released in 1983, after his death."
+    ]
+  }
+}

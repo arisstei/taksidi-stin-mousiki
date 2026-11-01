@@ -1,0 +1,121 @@
+{
+  "slug": "peripeteies",
+  "composer": "zambetas",
+  "title": "Περιπέτειες",
+  "year": 1972,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Olympic",
+  "catalog": "SBL 1083",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1972 στον οποίο τα τραγούδια μοιράζονται ανάμεσα στον Ζαμπέτα και τη Βίκυ Μοσχολιού, τη φωνή που η Βικιπαίδεια λέει ότι βοήθησε να ξεκινήσει τη δεκαετία του '60."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ο Κρητικός κι η κοπελλιά",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "o-kritikos-ki-i-kopellia",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Ο Λουκάς",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-loukas",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Παιδί της νύχτας",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "paidi-tis-nyxtas",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Δεκαεννιάρι μου",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "dekaenniari-mou",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Με το χρήμα με το χρήμα",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "me-to-xrima-me-to-xrima",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Όταν δήτε",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "otan-dite",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ο πενηντάρης",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-penintaris",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Νάτανε τα πράγματα αλλοιώς",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "natane-ta-pragmata-alloios",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Το γραμμόφωνο",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "to-grammofono",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ο Τζακ",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-tzak",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Εγωιστής και πεισματάρης",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "egoistis-kai-peismataris",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Ποιος τα θυμάται",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "poios-ta-thymatai",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περιπέτειες (1972, Olympic SBL 1083)",
+      "url": "https://musicbrainz.org/release/cce2d89f-e03a-4595-ba88-69ff449a1a77"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1972 record on which the songs are shared between Zampetas and Vicky Moscholiou, whom Wikipedia says he helped launch in the 1960s."
+    ]
+  }
+}

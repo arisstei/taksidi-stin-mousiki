@@ -1,0 +1,24 @@
+{
+  "slug": "giati-tharreis-me-kefi",
+  "title": "Γιατί θαρρείς με κέφι",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1970",
+  "performer": "Σταμάτης Κόκοτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ξαρχάκος + Κόκοτας» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ξαρχάκος + Κόκοτας (1970)",
+      "url": "https://musicbrainz.org/release-group/354bc259-a595-4189-93bf-27a8755b3a07"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ξαρχάκος + Κόκοτας” (1970).",
+    "story": []
+  }
+}

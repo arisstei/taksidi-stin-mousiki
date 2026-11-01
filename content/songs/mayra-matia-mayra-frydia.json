@@ -1,0 +1,36 @@
+{
+  "slug": "mayra-matia-mayra-frydia",
+  "title": "Μαύρα Μάτια Μαύρα Φρύδια",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": "Γιώργος Φωτίδας",
+  "year": "1966",
+  "performer": "Βαγγέλης Περπινιάδης · Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης, Κώστας Ρούκουνας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Ρεμπέτικα Θεμέλια Νο 1» (1979), «Μάρκος Βαμβακάρης» (1981) και 9 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Discogs — Ρεμπέτικα Θεμέλια Νο 1 (1979)",
+      "url": "https://www.discogs.com/release/4266094"
+    },
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης Νο 2 (1983)",
+      "url": "https://www.discogs.com/release/4743332"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Ρεμπέτικα Θεμέλια Νο 1” (1979), “Μάρκος Βαμβακάρης” (1981) and 9 more.",
+    "story": []
+  }
+}

@@ -1,15 +1,14 @@
 import Link from "next/link";
 import RecordSleeve from "@/components/RecordSleeve";
 import { getDiscDict } from "@/lib/discDict";
+import FilterableList from "@/components/FilterableList";
 
 // Κάρτες-φάκελοι συνθετών, με ένα "ράφι" από εξώφυλλα. Χρησιμοποιείται στην
 // αρχική σελίδα και στη σελίδα /composers.
-export default function ComposersIndex({ composers, lang = "el", compact = false }) {
+export default function ComposersIndex({ composers, lang = "el", compact = false, filterable = false }) {
   const t = getDiscDict(lang);
   const basePath = lang === "en" ? "/en" : "";
-  return (
-    <div className="grid gap-10">
-      {composers.map((c) => {
+  const renderCard = (c) => {
         const shelf = c.albums.filter((a) => a.type !== "anthology").slice(0, compact ? 5 : 8);
         return (
           <Link key={c.slug} href={c.href || `${basePath}/composer/${c.slug}`} className="group block archive-folder">
@@ -52,7 +51,10 @@ export default function ComposersIndex({ composers, lang = "el", compact = false
             </div>
           </Link>
         );
-      })}
-    </div>
-  );
+  };
+  if (filterable) {
+    const items = composers.map((c) => ({ id: c.slug, name: c.name, node: renderCard(c) }));
+    return <FilterableList items={items} lang={lang} className="grid gap-10" />;
+  }
+  return <div className="grid gap-10">{composers.map(renderCard)}</div>;
 }

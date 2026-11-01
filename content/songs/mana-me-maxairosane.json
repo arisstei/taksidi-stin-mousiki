@@ -1,0 +1,28 @@
+{
+  "slug": "mana-me-maxairosane",
+  "title": "Μάνα Με Μαχαιρώσανε",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "Μάρκος Βαμβακάρης · Γιάννης Κυριαζής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «IV» (1995), «Ο Δάσκαλός Μας» (2012).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — IV (1995)",
+      "url": "https://www.discogs.com/release/7105479"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “IV” (1995), “Ο Δάσκαλός Μας” (2012).",
+    "story": []
+  }
+}

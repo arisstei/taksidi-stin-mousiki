@@ -1,0 +1,28 @@
+{
+  "slug": "taqsim-et-danse-karsilamas",
+  "title": "Taqsim et danse karsilamas",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Hommage à Tsitsanis: bouzouki» (1987), «Hommage à Tsitsanis: bouzouki» (1987), «Hommage à Tsitsanis» (2001) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Hommage à Tsitsanis: bouzouki (1987)",
+      "url": "https://musicbrainz.org/release/16ff35c8-1665-4258-b6a9-2321910cef4f"
+    },
+    {
+      "label": "MusicBrainz — Hommage à Tsitsanis (2001)",
+      "url": "https://musicbrainz.org/release/df6bc86e-4852-41ab-a843-5fc9d879eda3"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Hommage à Tsitsanis: bouzouki” (1987), “Hommage à Tsitsanis: bouzouki” (1987), “Hommage à Tsitsanis” (2001) and 1 more.",
+    "story": []
+  }
+}

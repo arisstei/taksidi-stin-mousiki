@@ -1,0 +1,36 @@
+{
+  "slug": "nostimo-trello-mikro-mou",
+  "title": "Νόστιμο Τρελλό Μικρό Μου",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αυθεντικές Εκτελέσεις» (1987), «Μάρκος Ο Συριανός» (1997), «Bouzouki Pioneer, 1932-1940» (1998) και 3 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    },
+    {
+      "label": "Discogs — Μια Φούντωση Μια Φλόγα (1998)",
+      "url": "https://www.discogs.com/release/3451105"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αυθεντικές Εκτελέσεις” (1987), “Μάρκος Ο Συριανός” (1997), “Bouzouki Pioneer, 1932-1940” (1998) and 3 more.",
+    "story": []
+  }
+}

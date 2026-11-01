@@ -1,0 +1,209 @@
+{
+  "slug": "akousate-akousate",
+  "composer": "xarchakos",
+  "title": "Ακούσατε ακούσατε",
+  "year": 1992,
+  "type": "anthology",
+  "kind": "Ανθολογία τραγουδιών",
+  "label": "Minos-EMI S.A.",
+  "catalog": "7243 4 78773 2 2",
+  "format": "CD",
+  "performers": [
+    "Νίκος Ξυλούρης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Ευγένιος Σπαθάρης",
+    "Νίκος Μαραγκόπουλος",
+    "Κώστας Τσίγκος",
+    "Γιάννης Πάριος",
+    "Βίκυ Μοσχολιού",
+    "Χορωδία"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Λευτέρης Παπαδόπουλος",
+    "Ματθαίος Μουντές",
+    "Βαγγέλης Γκούφας",
+    "Γιώργος Παπαστεφάνου",
+    "Παύλος Μάτεσις",
+    "Χρήστος Στίπας",
+    "Ιάκωβος Καμπανέλλης"
+  ],
+  "grade": "C",
+  "about": [
+    "Ανθολογία με είκοσι τραγούδια του Ξαρχάκου σε ερμηνείες πολλών τραγουδιστών: Μελίνα Μερκούρη, Νίκος Ξυλούρης, Γρηγόρης Μπιθικώτσης, Βίκυ Μοσχολιού, Χάρις Αλεξίου, Γιάννης Πάριος, Δήμητρα Γαλάνη, Αλίκη Βουγιουκλάκη, Στράτος Παγιουμτζής και άλλοι· ανάμεσά τους δύο σκηνές καραγκιόζη με τον Ευγένιο Σπαθάρη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο Καραγκιόζης και ο Τέως",
+      "performer": "Ευγένιος Σπαθάρης, Νίκος Μαραγκόπουλος & Κώστας Τσίγκος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-karagkiozis-kai-o-teos",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Το δίχτυ",
+      "performer": "Τάκης Μπίνης, Χάρις Αλεξίου & Γιάννης Πάριος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Παλληκαράκι που λιωσα",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "pallikaraki-pou-liosa",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Χαμένη αγάπη",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Ματθαίος Μουντές",
+      "song": "xameni-agapi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Να με θυμάσαι",
+      "performer": "Μελίνα Μερκούρη",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "na-me-thymasai",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μάτια μπλε",
+      "performer": "Γιάννης Πάριος",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "matia-mple",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Κλάψτε ουρανοί κι αστέρια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "klapste-ouranoi-ki-asteria",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ένα πρωινό (Άνναμπελ)",
+      "performer": "Μαρία Δημητριάδη",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "ena-proino",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Με τι καρδιά τον κόσμο ν’ αρνηθώ",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "me-ti-kardia-ton-kosmo-n-arnitho",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Αγόρι αφίλητο",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "agori-afilito",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ο Καραγκιόζης και τα τούβλα",
+      "performer": "Ευγένιος Σπαθάρης, Νίκος Μαραγκόπουλος & Κώστας Τσίγκος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-karagkiozis-kai-ta-touvla",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Στου Δεληβοριά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "stou-delivoria",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τρεις μάγκες, τρεις γερόμαγκες",
+      "performer": "Στράτος Παγιουμτζής",
+      "lyricist": "Χρήστος Στίπας",
+      "song": "treis-magkes-treis-geromagkes",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Παλληκάρι στα Σφακιά",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "palikari-sta-sfakia",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Κόκκινα τριαντάφυλλα για μένα",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "kokkina-triantafylla-gia-mena",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Φίλοι κι αδέλφια",
+      "performer": "Νίκος Ξυλούρης & Χορωδία",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "filoi-ki-adelfia",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Νυν και αεί",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "nyn-kai-aei",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Προσκύνημα",
+      "performer": "Νίκος Δημητράτος, Τζένη Καρέζη, Κώστας Καζάκος & Χορωδία",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "proskynima",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Σαββατόβραδο στην Καισαριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "savvatovrado-stin-kaisariani",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Μαύρος ήλιος",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-mayros-ilios",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ακούσατε ακούσατε (1992)",
+      "url": "https://musicbrainz.org/release-group/eabb6982-aeb7-40ca-b2f1-caae63813560"
+    }
+  ],
+  "en": {
+    "kind": "Anthology of songs",
+    "about": [
+      "An anthology of twenty Xarchakos songs sung by many performers: Melina Mercouri, Nikos Xylouris, Grigoris Bithikotsis, Viki Mosholiou, Haris Alexiou, Yiannis Parios, Dimitra Galani, Aliki Vougiouklaki, Stratos Pagioumtzis and others - plus two Karagiozis scenes with Evgenios Spatharis."
+    ]
+  }
+}

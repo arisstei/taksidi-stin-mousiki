@@ -1,0 +1,24 @@
+{
+  "slug": "paidi-tou-dromou",
+  "title": "Παιδί του δρόμου",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": null,
+  "year": "2005",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Η κυρία Καίτη κι εγώ» (2005).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η κυρία Καίτη κι εγώ (2005)",
+      "url": "https://musicbrainz.org/release-group/67fe5d51-75ce-4442-b064-147da3fd103f"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Η κυρία Καίτη κι εγώ” (2005).",
+    "story": []
+  }
+}

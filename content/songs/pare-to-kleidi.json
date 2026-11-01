@@ -1,0 +1,24 @@
+{
+  "slug": "pare-to-kleidi",
+  "title": "Πάρε το κλειδί",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1970",
+  "performer": "Γιάννης Θωμόπουλος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μέρες του καλοκαιριού» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μέρες του καλοκαιριού, Lyra SYLP 3570 (1970)",
+      "url": "https://www.discogs.com/release/3534096"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μέρες του καλοκαιριού” (1970).",
+    "story": []
+  }
+}

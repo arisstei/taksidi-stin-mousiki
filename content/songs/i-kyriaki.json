@@ -1,0 +1,24 @@
+{
+  "slug": "i-kyriaki",
+  "title": "Η Κυριακή",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1984",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «30 χρόνια» (1984).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 30 χρόνια (1984, EMI 14C 045 1700472)",
+      "url": "https://musicbrainz.org/release/63e20415-818f-47ee-a33b-2f427e30d885"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “30 χρόνια” (1984).",
+    "story": []
+  }
+}

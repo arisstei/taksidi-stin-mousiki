@@ -1,0 +1,28 @@
+{
+  "slug": "xameni-agapi",
+  "title": "Χαμένη αγάπη",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ματθαίος Μουντές",
+  "year": "1971",
+  "performer": "Νίκος Ξυλούρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αυτή είναι η Ελλάδα» (1971), «Ακούσατε ακούσατε» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αυτή είναι η Ελλάδα, Rally 333003 / MeloPhone SMEL 15 (1971)",
+      "url": "https://www.discogs.com/release/22577888"
+    },
+    {
+      "label": "MusicBrainz — Ακούσατε ακούσατε (1992)",
+      "url": "https://musicbrainz.org/release-group/eabb6982-aeb7-40ca-b2f1-caae63813560"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αυτή είναι η Ελλάδα” (1971), “Ακούσατε ακούσατε” (1992).",
+    "story": []
+  }
+}

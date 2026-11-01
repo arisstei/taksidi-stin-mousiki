@@ -1,0 +1,32 @@
+{
+  "slug": "o-xarmanis",
+  "title": "Ο Χαρμάνης",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1994",
+  "performer": "Μάρκος Βαμβακάρης · Δημήτρης Ευσταθίου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ι» (1994), «Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)» (2010), «Ο Δάσκαλός Μας» (2012).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ι (1994)",
+      "url": "https://www.discogs.com/release/10043161"
+    },
+    {
+      "label": "Discogs — Master Of Rembetika (2010)",
+      "url": "https://www.discogs.com/release/4768730"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ι” (1994), “Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)” (2010), “Ο Δάσκαλός Μας” (2012).",
+    "story": []
+  }
+}

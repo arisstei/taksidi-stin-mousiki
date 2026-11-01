@@ -1,0 +1,24 @@
+{
+  "slug": "ti-mas-melei",
+  "title": "Τι μας μέλει",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ζάχος Χατζηφωτίου",
+  "year": "1970",
+  "performer": "Σταμάτης Κόκοτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ξαρχάκος + Κόκοτας» (1970), «Ξαρχάκος + Κόκοτας» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ξαρχάκος + Κόκοτας (1970)",
+      "url": "https://musicbrainz.org/release-group/354bc259-a595-4189-93bf-27a8755b3a07"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ξαρχάκος + Κόκοτας” (1970), “Ξαρχάκος + Κόκοτας” (1970).",
+    "story": []
+  }
+}

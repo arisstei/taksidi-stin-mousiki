@@ -1,0 +1,131 @@
+{
+  "slug": "o-peirasmos",
+  "composer": "xarchakos",
+  "title": "Ο πειρασμός",
+  "year": 1996,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Lyra",
+  "catalog": "3723",
+  "format": "CD",
+  "performers": [
+    "Αλίκη Βουγιουκλάκη",
+    "Βασίλης Τσιβιλίκας"
+  ],
+  "lyricists": [
+    "Παύλος Μάτεσις"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Ξαρχάκου για την παράσταση «Ο πειρασμός» του Γρηγορίου Ξενόπουλου (1976), με πρωταγωνίστρια την Αλίκη Βουγιουκλάκη. Σύμφωνα με τη Βικιπαίδεια ο ομότιτλος δίσκος εκδόθηκε αρχικά το 1977· εδώ περιγράφεται η έκδοση σε CD της Lyra (1996)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Έναρξη",
+      "song": "enarxi",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Δουλικά οργανωθείτε",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "song": "doulika-organotheite",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Αγόρι αφίλητο",
+      "song": "agori-afilito",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Αχ Μήτσο",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "song": "ax-mitso",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Χορός του εξορκισμού"
+    },
+    {
+      "pos": "6",
+      "title": "Ο πειρασμός",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "song": "peirasmos",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ιντερμέδιο",
+      "song": "intermedio",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ω! Καλλιόπη Απήνης",
+      "performer": "Βασίλης Τσιβιλίκας",
+      "song": "o-kalliopi-apinis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αγόρι αφίλητο",
+      "performer": "Αλίκη Βουγιουκλάκη",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "agori-afilito",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Εξορκισμός",
+      "song": "exorkismos",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Νοκτούρνο",
+      "song": "noktourno",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Εμείς οι παρακατιανοί",
+      "song": "emeis-oi-parakatianoi",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Χορός των οικιακών βοηθών"
+    },
+    {
+      "pos": "14",
+      "title": "Δεν περνάει ο πειρασμός",
+      "song": "den-pernaei-o-peirasmos",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Φινάλε",
+      "performer": "Αλίκη Βουγιουκλάκη"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο πειρασμός (1996)",
+      "url": "https://musicbrainz.org/release-group/92893db3-36ea-4722-82a8-8134fa7dacac"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Xarchakos's music for Grigorios Xenopoulos's play O peirasmos (1976), starring Aliki Vougiouklaki. According to Wikipedia the title album was first released in 1977; this entry describes the 1996 CD edition on Lyra."
+    ]
+  }
+}

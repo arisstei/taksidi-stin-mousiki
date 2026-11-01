@@ -23,8 +23,21 @@ MANUAL_EXCLUDE = {"Η σφαγή", "Κερκέζικο τραγούδι (Το μ
 CREATE_TYPES = {"cycle", "theatre", "anthology", "film", "rebetiko", "instrumental"}
 LINK_ONLY_ALBUMS = {"dekapente-esperinoi", "30-nyxterina", "to-xamogelo-tis-tzokontas", "pasxalies-mesa-apo-ti-nekri-gi", "o-skliros-aprilis-tou-45", "ta-perix", "gia-mia-mikri-leyki-axivada", "topkapi", "blue", "memed-geraki-mou"}
 
-albums = [json.load(open(f)) for f in sorted(glob.glob(os.path.join(ALB, "*.json")))]
+albums = [json.load(open(f, encoding="utf-8")) for f in sorted(glob.glob(os.path.join(ALB, "*.json")))]
 albums.sort(key=lambda a: (int(a.get("year") or 0), a["slug"]))
+
+# όνομα συνθέτη από content/composers/<album.composer>.json (πεδίο name)
+CMP = os.path.join(ROOT, "content", "composers")
+DEFAULT_COMPOSER = "Μάνος Χατζιδάκις"
+_composer_names = {}
+def composer_name(slug):
+    if slug not in _composer_names:
+        name = None
+        fp = os.path.join(CMP, f"{slug}.json") if slug else None
+        if fp and os.path.exists(fp):
+            name = json.load(open(fp, encoding="utf-8")).get("name")
+        _composer_names[slug] = name or DEFAULT_COMPOSER
+    return _composer_names[slug]
 
 # υπάρχοντα άρθρα-ιστορίες
 stories = {}
@@ -79,7 +92,7 @@ for album in albums:
             while slug in used_slugs:
                 slug = f"{base}-{n}"; n += 1
             used_slugs.add(slug)
-            songs[k] = {"slug": slug, "title": title, "albums": [], "performers": [], "lyricist": None, "year": album["year"]}
+            songs[k] = {"slug": slug, "title": title, "albums": [], "performers": [], "lyricist": None, "year": album["year"], "composer": composer_name(album.get("composer"))}
 
 # Πέρασμα 2: σύνδεση ΚΑΘΕ κομματιού κάθε δίσκου με τη σελίδα του (αν υπάρχει)
 for album in albums:
@@ -113,7 +126,7 @@ for k, s in songs.items():
     names_en = ", ".join(f"“{a[1]}” ({a[2]})" for a in s["albums"][:3])
     more = len(s["albums"]) - 3
     d = {
-        "slug": s["slug"], "title": s["title"], "composer": "Μάνος Χατζιδάκις",
+        "slug": s["slug"], "title": s["title"], "composer": s["composer"],
         "lyricist": s["lyricist"], "year": str(first[2]),
         "performer": " · ".join(s["performers"][:3]) or None,
         "status": "stub", "grade": "C", "isStub": True,

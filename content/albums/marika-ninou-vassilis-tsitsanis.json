@@ -1,0 +1,117 @@
+{
+  "slug": "marika-ninou-vassilis-tsitsanis",
+  "composer": "vassilis-tsitsanis",
+  "title": "Μαρίκα Νίνου-Βασίλης Τσιτσάνης",
+  "year": 2015,
+  "type": "anthology",
+  "kind": "Συλλογή ηχογραφήσεων Νίνου – Τσιτσάνη",
+  "label": "Cobalt Music",
+  "catalog": "052069 990091 6",
+  "format": "CD",
+  "performers": [
+    "Μαρίκα Νίνου",
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 12 τραγουδιών με τη Μαρίκα Νίνου και τον Τσιτσάνη, που κυκλοφόρησε το 2015 από την Cobalt Music."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Γεια σου καΐκι μου Άη-Νικόλα",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "geia-sou-kaiki-mou-ai-nikola",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Γεννήθηκα για να πονώ",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "gennithika-gia-na-pono",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τα καβουράκια",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "ta-kavourakia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Έλα όπως είσαι",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "ela-opos-eisai",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Δυο χοροί αλέγκροι",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "dyo-xoroi-alegkroi",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Χασαποσέρβικοι χοροί",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "xasaposervikoi-xoroi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Απόψε κάνεις μπαμ",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "apopse-kaneis-mpam",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σόλο μπουζούκι",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "solo-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μπαρμπαριά",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "mparmparia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Σόλο μινόρε",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "solo-minore",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ζαΐρα",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "zaira-2",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μαρίκα Νίνου-Βασίλης Τσιτσάνης (2015)",
+      "url": "https://musicbrainz.org/release/47ec93ea-0274-4af9-b523-9d8b1eb74ffc"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of Ninou–Tsitsanis recordings",
+    "about": [
+      "A 2015 Cobalt Music compilation of 12 songs with Marika Ninou and Tsitsanis."
+    ]
+  }
+}

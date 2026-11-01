@@ -1,0 +1,36 @@
+{
+  "slug": "paixe-xristo-to-mpouzouki",
+  "title": "Παίξε Χρήστο το μπουζούκι",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1965",
+  "performer": "Στέλιος Καζαντζίδης · Βασίλης Τσιτσάνης · Στέλιος Καζαντζίδης, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Συννεφιασμένη Κυριακή» (1965), «Βασίλης Τσιτσάνης 4» (1976), «Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη» (1991) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Βασίλης Τσιτσάνης: Συννεφιασμένη Κυριακή (1965)",
+      "url": "https://diskovolos58.blogspot.com/2019/03/1965.html"
+    },
+    {
+      "label": "Discogs — Βασίλης Τσιτσάνης 4 = Vassilis Tsitsanis No.4 (1938-1955) (1976)",
+      "url": "https://www.discogs.com/master/738652"
+    },
+    {
+      "label": "MusicBrainz — Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη (1991)",
+      "url": "https://musicbrainz.org/release/f99754d3-d8ee-45ee-a929-8324121e0d27"
+    },
+    {
+      "label": "MusicBrainz — Δισκογραφία Τσιτσάνη Νο 10 (1994)",
+      "url": "https://musicbrainz.org/release/c49791f1-28e6-41f8-965e-794265459b0f"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Συννεφιασμένη Κυριακή” (1965), “Βασίλης Τσιτσάνης 4” (1976), “Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη” (1991) and 2 more.",
+    "story": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "zontani-ixografisi-sto-vrana-1961",
+  "composer": "vamvakaris",
+  "title": "Ζωντανή Ηχογράφηση Στου \"Βρανά\" Την Άνοιξη Του 1961",
+  "year": 1982,
+  "type": "rebetiko",
+  "kind": "Ζωντανή ηχογράφηση σε ταβέρνα (με τον Στράτο Παγιουμτζή)",
+  "label": "Αδελφοί Φαληρέα",
+  "catalog": "ΑΦ 12",
+  "format": "LP",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Στράτος Παγιουμτζής",
+    "Βασίλης Ξενάκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Ζωντανή ηχογράφηση στην ταβέρνα του Βρανά την άνοιξη του 1961, με τον Βαμβακάρη και τον Στράτο Παγιουμτζή (και τον Βασίλη Ξενάκη στο ταξίμι και σε ένα τραγούδι), που κυκλοφόρησε το 1982 από τους Αδελφούς Φαληρέα. Στο οπισθόφυλλο υπάρχει απομαγνητοφώνηση συνέντευξης του Βαμβακάρη στη Βέτα και τον Γιάννη Κουνάδη (Μάρτιος 1971)."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Απ' Τον Καιρό Που Άρχισα",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "ap-ton-kairo-pou-arxisa",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Γιατί Ρωτάτε Να Σας Πω",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "giati-rotate-na-sas-po",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Σακαφλιάς",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "sakaflias",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Όταν Πεθάνω Θάφτε Με",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "otan-pethano-thafte-me",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Τον Χάρο Τον Αντάμωσαν",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "ton-xaro-ton-antamosan",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Κάντονε Σταύρο Κάντονε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kantone-stayro-kantone",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Ο Δάσκαλος",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-daskalos",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Ταξίμι",
+      "performer": "Βασίλης Ξενάκης",
+      "song": "taximi",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Παλάτια Χρυσοστόλιστα",
+      "performer": "Βασίλης Ξενάκης",
+      "song": "palatia-xrysostolista",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Ο Κάβουρας",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-kavouras",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Βαθιά Στη Θάλασσα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "vathia-sti-thalassa",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ζωντανή Ηχογράφηση Στου Βρανά Την Άνοιξη Του 1961 (1982)",
+      "url": "https://www.discogs.com/release/3652591"
+    }
+  ],
+  "en": {
+    "kind": "Live tavern recording (with Stratos Pagioumtzis)",
+    "about": [
+      "A live recording at the Vranas tavern in spring 1961 with Vamvakaris and Stratos Pagioumtzis (and Vasilis Xenakis on one taxim and one song), released in 1982 by the Faliraia Brothers. The back sleeve carries a transcript of Vamvakaris's interview with Veta and Yiannis Kounadis (March 1971)."
+    ]
+  }
+}

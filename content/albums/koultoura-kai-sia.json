@@ -1,0 +1,108 @@
+{
+  "slug": "koultoura-kai-sia",
+  "composer": "zambetas",
+  "title": "Κουλτούρα… & Σία",
+  "year": 1975,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "catalog": "MSM 258",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1975 με δώδεκα τραγούδια, ανάμεσά τους «Αν μας σπάσουν το μπουζούκι», «Η κουλτούρα» και «Ο καφετζής». Η Βικιπαίδεια σημειώνει ότι στη δεκαετία του '70 ο Ζαμπέτας στράφηκε σε σατιρικά θεατρικά προγράμματα."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αν μας σπάσουν το μπουζούκι",
+      "song": "an-mas-spasoun-to-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Εξουσία αν μου δίνανε",
+      "song": "exousia-an-mou-dinane",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο Τζώννυ ο φιγουρατζής",
+      "song": "o-tzonny-o-figouratzis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο μπατίρης",
+      "song": "o-mpatiris",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο φουκαράς",
+      "song": "o-foukaras",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ο καφετζής",
+      "song": "o-kafetzis",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Η κουλτούρα",
+      "song": "i-koultoura",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Της στεριάς οι ναυαγοί",
+      "song": "tis-sterias-oi-nayagoi",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ξαδερφούλα-ξαδερφούλα",
+      "song": "xaderfoula-xaderfoula",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο Μιστόκλης",
+      "song": "o-mistoklis",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Γιώργο-Γιωργάκη",
+      "song": "giorgo-giorgaki",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Το τελευταίο δειλινό",
+      "song": "to-teleytaio-deilino",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κουλτούρα… & Σία (1975, Μίνως Μάτσας & Υιός MSM 258)",
+      "url": "https://musicbrainz.org/release/6cd07f43-9ab2-453d-ba96-387f1b6eb86c"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1975 record of twelve songs, including “An mas spasoun to mpouzouki”, “I koultoura” and “O kafetzis”. Wikipedia notes that in the 1970s Zampetas turned to satirical stage shows."
+    ]
+  }
+}

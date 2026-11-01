@@ -1,0 +1,131 @@
+{
+  "slug": "o-pio-kalos-o-daskalos",
+  "composer": "zambetas",
+  "title": "Ο πιο καλός ο... δάσκαλος",
+  "year": 1998,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "Minos-EMI",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Μπέμπα Μπλανς",
+    "Σταμάτης Κόκοτας",
+    "Στέλιος Καζαντζίδης",
+    "Μαρινέλλα",
+    "Στράτος Παγιουμτζής"
+  ],
+  "grade": "C",
+  "about": [
+    "Συλλογή του 1998 (Minos-EMI) με 14 τραγούδια, με τίτλο που παραπέμπει στο «Ο πιο καλός ο μαθητής…».",
+    "Ανοίγει με έξι ερμηνείες του Ζαμπέτα και συνεχίζει με τους Σταμάτη Κόκοτα, Βίκυ Μοσχολιού, Μπέμπα Μπλανς, Στέλιο Καζαντζίδη με Μαρινέλλα, και Στράτο Παγιουμτζή."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο μαθητής",
+      "song": "o-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ο αράπης",
+      "song": "o-arapis",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο κυρ-Αλέκος",
+      "song": "o-kyr-alekos",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πατέρα κάτσε φρόνιμα",
+      "song": "patera-katse-fronima",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Αποσπάσματα από έρωτες (Part II)",
+      "song": "apospasmata-apo-erotes",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Η κουλτούρα",
+      "song": "i-koultoura",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ρωμιός αγάπησε Ρωμιά",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "romios-agapise-romia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Πάει, πάει",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "paei-paei",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αγάπη μου",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "agapi-mou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τα δειλινά",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "ta-deilina",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μιας πεντάρας νιάτα",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "mias-pentaras-niata",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Με το βοριά",
+      "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+      "song": "me-to-voria",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Μεσάνυχτα πού να σε βρω",
+      "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+      "song": "mesanyxta-pou-na-se-vro",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Ρεμπέτικη σερενάτα",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "rempetiki-serenata",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο... δάσκαλος (1998, Minos-EMI)",
+      "url": "https://musicbrainz.org/release/08dc5971-6583-4af4-952e-80a3ee91bae2"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "1998 Minos-EMI compilation with 14 songs, its title echoing “O pio kalos o mathitis…”.",
+      "It opens with six performances by Zampetas and continues with Stamatis Kokotas, Vicky Moscholiou, Bebba Blanc, Stelios Kazantzidis with Marinella, and Stratos Pagioumtzis."
+    ]
+  }
+}

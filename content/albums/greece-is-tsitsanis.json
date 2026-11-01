@@ -1,0 +1,101 @@
+{
+  "slug": "greece-is-tsitsanis",
+  "composer": "vassilis-tsitsanis",
+  "title": "Greece Is .... Tsitsanis",
+  "year": 1974,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "Aris",
+  "catalog": "LARS 2041",
+  "format": "LP",
+  "grade": "B",
+  "about": [
+    "Δίσκος της Aris με 12 κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Seashores And Sunsets",
+      "song": "seashores-and-sunsets",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "The Letter",
+      "song": "the-letter",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "I Love A Married Woman",
+      "song": "i-love-a-married-woman",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "You Make Mistakes",
+      "song": "you-make-mistakes",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "The Dream Of My Sister",
+      "song": "the-dream-of-my-sister",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Woman From Kalambaka",
+      "song": "woman-from-kalambaka",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "The Handsome Young Man",
+      "song": "the-handsome-young-man",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Even My Mother Disowns Me",
+      "song": "even-my-mother-disowns-me",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "The \"Magiora\"",
+      "song": "the-magiora",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Rowing Close To The Shore",
+      "song": "rowing-close-to-the-shore",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Zaïra",
+      "song": "zaira",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "She Is Sad Every Night",
+      "song": "she-is-sad-every-night",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Greece Is .... Tsitsanis (1974)",
+      "url": "https://www.discogs.com/master/764664"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "An Aris LP of 12 tracks."
+    ]
+  }
+}

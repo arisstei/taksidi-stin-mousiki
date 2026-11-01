@@ -1,0 +1,128 @@
+{
+  "slug": "loukianou-nekrikoi-dialogoi",
+  "composer": "plessas",
+  "title": "Λουκιανού Νεκρικοί Διάλογοι",
+  "year": 1974,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Philips",
+  "catalog": "6331065",
+  "format": "LP",
+  "performers": [
+    "Αντώνης Καλογιάννης",
+    "Πασχάλης",
+    "Λήδα Χαλκιαδάκη",
+    "Λιλάντα Λυκιαρδοπούλου",
+    "Γιώργος Μαρίνος",
+    "Σπύρος Βλασσόπουλος",
+    "Δημήτρης Μητροπάνος",
+    "Κατιάνα Μπαλανίκα"
+  ],
+  "lyricists": [
+    "Κώστας Βίρβος"
+  ],
+  "grade": "B",
+  "about": [
+    "Τραγούδια σε στίχους Κώστα Βίρβου πάνω στους «Νεκρικούς διαλόγους» του Λουκιανού, με πολλούς ερμηνευτές και χορωδία."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Στην Αχερουσία"
+    },
+    {
+      "pos": "2",
+      "title": "Μένιππος",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "menippos",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Οι δυνατοί της γης",
+      "performer": "Πασχάλης",
+      "song": "oi-dynatoi-tis-gis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Ευκράτης",
+      "performer": "Λήδα Χαλκιαδάκη",
+      "song": "o-eykratis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Τειρεσίας",
+      "performer": "Λιλάντα Λυκιαρδοπούλου",
+      "song": "o-teiresias",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τα χρέη",
+      "performer": "Γιώργος Μαρίνος & Σπύρος Βλασσόπουλος",
+      "song": "ta-xrei",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο στρατιώτης με το δόρυ"
+    },
+    {
+      "pos": "8",
+      "title": "Ο Λάμπιχος"
+    },
+    {
+      "pos": "9",
+      "title": "Πρωτεσίλαος",
+      "performer": "Δημήτρης Μητροπάνος & Κατιάνα Μπαλανίκα & Λιλάντα Λυκιαρδοπούλου",
+      "song": "protesilaos",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ήτανε δυο εφοπλιστές",
+      "performer": "Γιώργος Μαρίνος & Κατιάνα Μπαλανίκα",
+      "song": "itane-dyo-efoplistes",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Λύδοι και Φρύγες",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "lydoi-kai-fryges",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ω! γυναίκες ωραίες",
+      "performer": "Πασχάλης & Λήδα Χαλκιαδάκη & Κατιάνα Μπαλανίκα & Λιλάντα Λυκιαρδοπούλου",
+      "song": "o-gynaikes-oraies",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ο Τάλαντος",
+      "performer": "Αντώνης Καλογιάννης & Λιλάντα Λυκιαρδοπούλου",
+      "song": "o-talantos",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Σε 2.000 χρόνια"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Λουκιανού Νεκρικοί Διάλογοι, Philips 6331065 (1974)",
+      "url": "https://www.discogs.com/release/3296609"
+    }
+  ],
+  "en": {
+    "kind": "Music for the theatre",
+    "about": [
+      "Songs to lyrics by Kostas Virvos on Lucian’s “Dialogues of the Dead”, with many singers and a chorus."
+    ]
+  }
+}

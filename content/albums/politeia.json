@@ -1,0 +1,145 @@
+{
+  "slug": "politeia",
+  "composer": "theodorakis",
+  "title": "Πολιτεία",
+  "year": 1961,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "performers": [
+    "Στέλιος Καζαντζίδης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Μαρινέλλα",
+    "Μανώλης Χιώτης (μπουζούκι)"
+  ],
+  "lyricists": [
+    "Δημήτρης Χριστοδούλου",
+    "Τάσος Λειβαδίτης"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο πρώτος κύκλος «Πολιτεία» (1961), με στίχους των Δημήτρη Χριστοδούλου και Τάσου Λειβαδίτη, γράφτηκε την ίδια περίοδο με το «Αρχιπέλαγος» αλλά είναι πιο σκοτεινός: αστικός, με ζεϊμπέκικα και χασάπικα. Τραγουδούν ο Στέλιος Καζαντζίδης, ο Γρηγόρης Μπιθικώτσης και η Μαρινέλλα, με μπουζούκι του Μανώλη Χιώτη.",
+    "Ο δεύτερος κύκλος (1964) έχει στίχους των Βάρναλη, Γκάτσου, Χριστοδούλου και Κοκκινόπουλου, με κύριο τραγουδιστή τον Μπιθικώτση. Το 1976 οι δύο κύκλοι κυκλοφόρησαν μαζί σε LP. Η σειρά συνεχίστηκε αργότερα με την «Πολιτεία Γ΄» και την «Πολιτεία Δ΄»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Καϋμός",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "kaymos",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Βρέχει στη φτωχογειτονιά",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "vrexei-sti-ftoxogeitonia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Παράπονο",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "parapono",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Γωνιά - γωνιά",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "gonia-gonia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Είναι μακρύς ο δρόμος σου",
+      "lyricist": "Πάνος Κοκκινόπουλος",
+      "song": "einai-makrys-o-dromos-sou",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μετανάστης",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "metanastis",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Μάνα μου και Παναγιά",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "mana-mou-kai-panagia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Αυτούς που βλέπεις",
+      "lyricist": "Μιχάλης Κατσαρός",
+      "song": "aytous-pou-vlepeis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Οι μοιραίοι",
+      "lyricist": "Κώστας Βάρναλης",
+      "song": "oi-moiraioi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Η μπαλάντα του Αντρίκου",
+      "lyricist": "Κώστας Βάρναλης",
+      "song": "i-mpalanta-tou-antrikou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Σαββατόβραδο",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "savvatovrado",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Έχω μι' αγάπη",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "exo-mi-agapi",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Δραπετσώνα",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "drapetsona",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Βράχο - βράχο",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "vraxo-vraxo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Μίκης Θεοδωράκης: Πολιτεία (1961-64/1976)",
+      "url": "https://diskovolos58.blogspot.com/2020/10/1961-641976.html"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 40, MT 47)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/74e5a3d7-9bec-4c8e-ae05-a5a1a68afa72"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "The first Politeia cycle (1961), with lyrics by Dimitris Christodoulou and Tasos Leivaditis, was written in the same period as Archipelagos but is darker: urban, built on zeibekiko and chasapiko rhythms. Stelios Kazantzidis, Grigoris Bithikotsis and Marinella sing, with bouzouki by Manolis Chiotis.",
+      "The second cycle (1964) has lyrics by Varnalis, Gatsos, Christodoulou and Kokkinopoulos, with Bithikotsis as lead singer. In 1976 the two cycles were issued together on LP. The series continued later with Politeia C and Politeia D."
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "lysistrati",
+  "composer": "xarchakos",
+  "title": "Λυσιστράτη",
+  "year": 2006,
+  "type": "film",
+  "kind": "Μουσική και τραγούδια από την ταινία",
+  "label": "Legend Recordings",
+  "catalog": "LEGEND 22011",
+  "format": "CD",
+  "performers": [
+    "Τζένη Καρέζη",
+    "Άννα Μαντζουράνη",
+    "Μαρία Μαρμαρινού",
+    "Κατιάνα Μπαλανίκα"
+  ],
+  "grade": "C",
+  "about": [
+    "Έκδοση του 2006 της Legend Recordings με τη μουσική του Ξαρχάκου για τη «Λυσιστράτη», με τραγούδια των Τζένης Καρέζη, Άννας Μαντζουράνη, Μαρίας Μαρμαρινού και Κατιάνας Μπαλανίκα, όπως τα καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": "2",
+      "title": "Όρκος",
+      "performer": "Τζένη Καρέζη",
+      "song": "orkos",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Όλες στο χορό",
+      "performer": "Άννα Μαντζουράνη",
+      "song": "oles-sto-xoro",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Είσοδος γερόντων"
+    },
+    {
+      "pos": "5",
+      "title": "Χαράμι τα βυζάκια μας",
+      "performer": "Τζένη Καρέζη",
+      "song": "xarami-ta-vyzakia-mas",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Σφιχτείτε, κρατηθείτε",
+      "performer": "Τζένη Καρέζη",
+      "song": "sfixteite-kratitheite",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Βουλή γυναικών"
+    },
+    {
+      "pos": "8",
+      "title": "Λυσιστράτη, Λυσιστράτη",
+      "performer": "Μαρία Μαρμαρινού",
+      "song": "lysistrati-lysistrati",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Παρέλαση γυναικών"
+    },
+    {
+      "pos": "10",
+      "title": "Φαντάροι και λοχίες",
+      "performer": "Κατιάνα Μπαλανίκα",
+      "song": "fantaroi-kai-loxies",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Η είσοδος του Κινησία"
+    },
+    {
+      "pos": "12",
+      "title": "Πανστρατιά γυναικών"
+    },
+    {
+      "pos": "13",
+      "title": "Επινίκια",
+      "song": "epinikeia",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Κόκκινη κλωστή δεμένη",
+      "performer": "Τζένη Καρέζη",
+      "song": "kokkini-klosti-demeni",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Λυσιστράτη (2006)",
+      "url": "https://musicbrainz.org/release-group/7ac29514-4bd5-4054-bee1-4b24d05d117d"
+    }
+  ],
+  "en": {
+    "kind": "Music and songs from the film",
+    "about": [
+      "A 2006 Legend Recordings release of Xarchakos's music for Lysistrati, with songs by Jenny Karezi, Anna Mantzourani, Maria Marmarinou and Katiana Balanika, as listed on MusicBrainz."
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "slug": "kykloi",
+  "composer": "markopoulos",
+  "title": "Κύκλοι",
+  "year": 1992,
+  "type": "anthology",
+  "kind": "Διπλή ανθολογία τραγουδιών",
+  "label": "EMI",
+  "catalog": "14C 045 1704552",
+  "format": "CD ×2",
+  "performers": [
+    "Θέμης Ανδρεάδης",
+    "Λιλίκα Χριστοδούλου",
+    "Βίκυ Μοσχολιού",
+    "Κώστας Χατζής",
+    "Μαρινέλλα",
+    "Στέλιος Καζαντζίδης",
+    "Μέμη Σπυράτου",
+    "Μαρία Δημητριάδη"
+  ],
+  "lyricists": [
+    "Ερρίκος Θαλασσινός",
+    "Άκος Δασκαλόπουλος",
+    "Οδυσσέας Ελύτης",
+    "Γιώργος Χρονάς",
+    "Γιώργος Σεφέρης",
+    "Κώστας Γεωργουσόπουλος",
+    "Μιχάλης Φακίνος",
+    "Κ. Χ. Μύρης"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 40 κομμάτια, που κυκλοφόρησε το 1992 από τη EMI. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Όχι, Δεν Πρέπει",
+      "performer": "Θέμης Ανδρεάδης, Λιλίκα Χριστοδούλου",
+      "song": "oxi-den-prepei",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Πέρα Από Τη Θάλασσα",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "pera-apo-ti-thalassa",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Γκρεμισμένα Σπίτια",
+      "performer": "Κώστας Χατζής",
+      "song": "gkremismena-spitia",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Τα Παλληκάρια",
+      "performer": "Μαρινέλλα",
+      "lyricist": "Άκος Δασκαλόπουλος",
+      "song": "ta-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ποιος Δρόμος",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "poios-dromos",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Σουρλάντα - Νταγιάντα",
+      "performer": "Μέμη Σπυράτου",
+      "song": "sourlanta-ntagianta",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Who Pays the Ferryman (O Bαρκάρης)"
+    },
+    {
+      "pos": 8,
+      "title": "Κάτω Στης Μαργαρίτας Τ' Αλωνάκι",
+      "performer": "Μαρία Δημητριάδη",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "kato-stis-margaritas-t-alonaki",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Έντιμο Αίμα (Τα Παιδιά)",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "entimo-aima",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Λένγκω (Ελλάδα)",
+      "performer": "Χάρις Αλεξίου",
+      "song": "lengko",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Τα Λόγια Και Τα Χρόνια",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "ta-logia-kai-ta-xronia",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Μαλαματένια Λόγια",
+      "song": "malamatenia-logia",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Το Πέραμα",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Γιώργος Χρονάς",
+      "song": "to-perama",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Ο Τόπος Μας Είναι Κλειστός",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "o-topos-mas-einai-kleistos",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Είδα Τον Παππούλη Μου",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Κώστας Γεωργουσόπουλος",
+      "song": "eida-ton-pappouli-mou",
+      "stub": true
+    },
+    {
+      "pos": 16,
+      "title": "Τραγουδώ Τραγουδώ",
+      "performer": "Βασιλική Λαβίνα",
+      "song": "tragoudo-tragoudo",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Ο Ταρζάν",
+      "performer": "Θέμης Ανδρεάδης",
+      "song": "o-tarzan",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Η Ρόζα Η Ναζιάρα",
+      "performer": "Χάρις Αλεξίου",
+      "lyricist": "Μιχάλης Φακίνος",
+      "song": "i-roza-i-naziara",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Την Εικόνα Σου (Χρώματα Κι Αρώματα)",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "tin-eikona-sou",
+      "stub": true
+    },
+    {
+      "pos": 20,
+      "title": "Καφενείον: Η Ελλάς",
+      "performer": "Μαρία Δημητριάδη",
+      "lyricist": "Κ. Χ. Μύρης",
+      "song": "to-kafeneion-i-ellas",
+      "stub": true
+    },
+    {
+      "pos": 21,
+      "title": "Παραπονεμένα Λόγια",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "paraponemena-logia",
+      "stub": true
+    },
+    {
+      "pos": 22,
+      "title": "Αν Ήταν Άστρα Τα Φιλιά Σου",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "an-itan-astra-ta-filia-sou",
+      "stub": true
+    },
+    {
+      "pos": 23,
+      "title": "Κλείσε Την Πόρτα",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "kleise-tin-porta",
+      "stub": true
+    },
+    {
+      "pos": 24,
+      "title": "Η Φάμπρικα",
+      "performer": "Λάκης Χαλκιάς",
+      "lyricist": "Γιώργος Σκούρτης",
+      "song": "i-famprika",
+      "stub": true
+    },
+    {
+      "pos": 25,
+      "title": "Σειρήνες Ανατολίτισσες",
+      "song": "seirines-anatolitisses",
+      "stub": true
+    },
+    {
+      "pos": 26,
+      "title": "Φιλικός Χορός",
+      "song": "filikos-xoros",
+      "stub": true
+    },
+    {
+      "pos": 27,
+      "title": "Ο Ψάλτης",
+      "performer": "Θεόδωρος Βασιλικός",
+      "song": "psaltis",
+      "stub": true
+    },
+    {
+      "pos": 28,
+      "title": "Νέα Ιωνία",
+      "performer": "Βασιλική Λαβίνα",
+      "song": "nea-ionia",
+      "stub": true
+    },
+    {
+      "pos": 29,
+      "title": "Ο Χορός Του Σήφακα",
+      "lyricist": "[traditional]",
+      "song": "o-xoros-tou-sifaka",
+      "stub": true
+    },
+    {
+      "pos": 30,
+      "title": "Ο Ανίκητος",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "o-anikitos",
+      "stub": true
+    },
+    {
+      "pos": 31,
+      "title": "Να 'Μαι Ιησού, Κρίσνα, Μωυσή",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "na-mai-iisou-krisna-moysi",
+      "stub": true
+    },
+    {
+      "pos": 32,
+      "title": "Εισαγωγή Οροπέδιου"
+    },
+    {
+      "pos": 33,
+      "title": "Η Μάνα Του Αλέξανδρου",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "i-mana-tou-alexandrou",
+      "stub": true
+    },
+    {
+      "pos": 34,
+      "title": "Γύρω Γύρω Στην Πλατεία",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "gyro-gyro-stin-plateia",
+      "stub": true
+    },
+    {
+      "pos": 35,
+      "title": "Όσο Κρατήσει Η Ζωή",
+      "performer": "Χάρις Αλεξίου",
+      "song": "oso-kratisei-i-zoi",
+      "stub": true
+    },
+    {
+      "pos": 36,
+      "title": "Ζάβαρα - Κάτρα - Νέμια",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "zavara-katra-nemia",
+      "stub": true
+    },
+    {
+      "pos": 37,
+      "title": "Οι Οχθροί",
+      "song": "oi-oxthroi",
+      "stub": true
+    },
+    {
+      "pos": 38,
+      "title": "Αλεξάνδρεια",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Γιώργος Χρονάς",
+      "song": "alexandreia",
+      "stub": true
+    },
+    {
+      "pos": 39,
+      "title": "Μητέρα Μεγαλόψυχη",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Διονύσιος Σολωμός",
+      "song": "mitera-megalopsyxi",
+      "stub": true
+    },
+    {
+      "pos": 40,
+      "title": "Κι Όλο Πηγαίνω Στις Πηγές",
+      "performer": "Μανώλης Μητσιάς",
+      "lyricist": "Νίκος Καρούζος",
+      "song": "ki-olo-pigaino-stis-piges",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Double anthology of songs",
+    "about": [
+      "Album with music by Yannis Markopoulos, 40 tracks, released in 1992 on EMI. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

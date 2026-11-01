@@ -1,0 +1,36 @@
+{
+  "slug": "rixe-tsiggana-ta-xartia",
+  "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1966",
+  "performer": "Πρόδρομος Τσαουσάκης · Σπύρος Ζαγοραίος · Γιώργος Νταλάρας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Αφιέρωμα Στο Μάρκο» (1972), «Τα Πέριξ» (1974) και 7 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο (1972)",
+      "url": "https://www.discogs.com/release/5421260"
+    },
+    {
+      "label": "Discogs — Τα Πέριξ",
+      "url": "https://www.discogs.com/master/525759"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Αφιέρωμα Στο Μάρκο” (1972), “Τα Πέριξ” (1974) and 7 more.",
+    "story": []
+  }
+}

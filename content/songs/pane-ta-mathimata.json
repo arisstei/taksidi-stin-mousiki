@@ -1,0 +1,24 @@
+{
+  "slug": "pane-ta-mathimata",
+  "title": "Πάνε Τα Μαθήματα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Στράτος Διονυσίου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «40 Χρόνια Βαμβακάρης» (1980).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “40 Χρόνια Βαμβακάρης” (1980).",
+    "story": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "den-me-stefanonesai",
+  "title": "Δεν Με Στεφανώνεσαι",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "2001",
+  "performer": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τσιτσάνης» (2001).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τσιτσάνης” (2001).",
+    "story": []
+  }
+}

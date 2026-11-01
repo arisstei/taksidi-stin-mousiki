@@ -1,0 +1,28 @@
+{
+  "slug": "apo-ton-kosmo-makrya",
+  "title": "Από Τον Κόσμο Μακρυά",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1983",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης Νο 2» (1983), «Τα Μεγάλα Τραγούδια» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης Νο 2 (1983)",
+      "url": "https://www.discogs.com/release/4743332"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης Νο 2” (1983), “Τα Μεγάλα Τραγούδια” (2016).",
+    "story": []
+  }
+}

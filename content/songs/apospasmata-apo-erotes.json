@@ -1,0 +1,36 @@
+{
+  "slug": "apospasmata-apo-erotes",
+  "title": "Αποσπάσματα από έρωτες",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1973",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάλιστα κύριε» (1973), «Τα τραγούδια μου» (1989), «Ο πιο καλός ο μαθητής…» (1992) και 3 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάλιστα κύριε (1973, Olympic SBL 1906)",
+      "url": "https://musicbrainz.org/release/ebe3bd54-7316-4fee-abba-5fefea658ec8"
+    },
+    {
+      "label": "MusicBrainz — Τα τραγούδια μου (1989, Philips 842180-1)",
+      "url": "https://musicbrainz.org/release/563f0f33-c82c-4dd7-bf10-eed964251593"
+    },
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο μαθητής… (1992, EMI 14C 145 1704602/12)",
+      "url": "https://musicbrainz.org/release/178ee38e-c3ca-49b8-ab26-e50aff62adf1"
+    },
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο... δάσκαλος (1998, Minos-EMI)",
+      "url": "https://musicbrainz.org/release/08dc5971-6583-4af4-952e-80a3ee91bae2"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάλιστα κύριε” (1973), “Τα τραγούδια μου” (1989), “Ο πιο καλός ο μαθητής…” (1992) and 3 more.",
+    "story": []
+  }
+}

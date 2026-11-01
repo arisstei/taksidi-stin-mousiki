@@ -1,0 +1,457 @@
+{
+  "slug": "ta-megala-tragoudia-2016",
+  "composer": "vamvakaris",
+  "title": "Τα Μεγάλα Τραγούδια",
+  "year": 2016,
+  "type": "anthology",
+  "kind": "Σετ 4 CD της Minos-EMI/Universal",
+  "label": "Minos-EMI, Universal",
+  "catalog": "06025 4725617 1",
+  "format": "4xCD, Compilation, Remastered",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Πρόδρομος Τσαουσάκης",
+    "Άντζελα Γκρέκα",
+    "Ρόζα Εσκενάζυ",
+    "Ρίτα Αμπατζή",
+    "Καίτη Γκρέυ",
+    "Πόλυ Πάνου"
+  ],
+  "grade": "B",
+  "about": [
+    "Τετραπλό CD των Minos-EMI/Universal με 60 κομμάτια σε επανέκδοση-ανακαίνιση ήχου, από την εισαγωγή με τη φωνή του Μάρκου ώς ερμηνείες του Μπιθικώτση και της Αθηναϊκής Κομπανίας. Στα credits ο Βαμβακάρης εμφανίζεται ως συνθέτης και στιχουργός, μαζί με τους Φωτίδα, Καμβύση και Παγιουμτζή."
+  ],
+  "tracks": [
+    {
+      "pos": "1-1",
+      "title": "Εισαγωγή",
+      "performer": "Μάρκος Βαμβακάρης"
+    },
+    {
+      "pos": "1-2",
+      "title": "Φραγκοσυριανή",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "1-3",
+      "title": "Τα Ματόκλαδά Σου Λάμπουν",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "1-4",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "1-5",
+      "title": "Να Πεθάνεις",
+      "performer": "Μάρκος Βαμβακάρης, Άντζελα Γκρέκα",
+      "song": "na-pethaneis",
+      "stub": true
+    },
+    {
+      "pos": "1-6",
+      "title": "Κορόιδο Άδικα Γυρνάς",
+      "performer": "Ρόζα Εσκενάζυ",
+      "song": "koroido-adika-gyrnas",
+      "stub": true
+    },
+    {
+      "pos": "1-7",
+      "title": "Σαν Είσαι Μάγκας Και Νταής",
+      "performer": "Ρίτα Αμπατζή, Μάρκος Βαμβακάρης",
+      "song": "san-eisai-magkas-kai-ntais",
+      "stub": true
+    },
+    {
+      "pos": "1-8",
+      "title": "Αντιλαλούν Οι Φυλακές",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "antilaloun-oi-fylakes",
+      "stub": true
+    },
+    {
+      "pos": "1-9",
+      "title": "Μάγκικο Τα Δυο Σου Μάτια",
+      "performer": "Καίτη Γκρέυ",
+      "song": "magkiko-ta-dyo-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "1-10",
+      "title": "Απελπίστηκα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "apelpistika",
+      "stub": true
+    },
+    {
+      "pos": "1-11",
+      "title": "Ο Αραμπατζής",
+      "performer": "Πόλυ Πάνου",
+      "song": "o-arampatzis",
+      "stub": true
+    },
+    {
+      "pos": "1-12",
+      "title": "Από Τον Κόσμο Μακριά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "apo-ton-kosmo-makrya",
+      "stub": true
+    },
+    {
+      "pos": "1-13",
+      "title": "Μ' Έκανες Και Χώρισα",
+      "performer": "Δημήτρης Ευσταθίου",
+      "song": "m-ekanes-kai-xorisa",
+      "stub": true
+    },
+    {
+      "pos": "1-14",
+      "title": "Η Ξελογιασμένη",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "i-xelogiasmeni",
+      "stub": true
+    },
+    {
+      "pos": "1-15",
+      "title": "Αλανιάρης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "alaniaris",
+      "stub": true
+    },
+    {
+      "pos": "2-1",
+      "title": "Τα Δυο Σου Χέρια Πήρανε (Βεργούλες)",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-dyo-sou-xeria-pirane",
+      "stub": true
+    },
+    {
+      "pos": "2-2",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "2-3",
+      "title": "Ο Μαθητής",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "o-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "2-4",
+      "title": "Μια Γαλανομάτα Στην Αθήνα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mia-galanomata-stin-athina",
+      "stub": true
+    },
+    {
+      "pos": "2-5",
+      "title": "Σ' Αγάπησα Να 'Χω Ζωή",
+      "performer": "Γιώτα Λύδια",
+      "song": "s-agapisa-na-xo-zoi",
+      "stub": true
+    },
+    {
+      "pos": "2-6",
+      "title": "Σ' Αγαπώ Τσαχπίνα Μου",
+      "performer": "Πόλυ Πάνου",
+      "song": "s-agapo-tsaxpina-mou",
+      "stub": true
+    },
+    {
+      "pos": "2-7",
+      "title": "Μαύρα Μάτια Μαύρα Φρύδια",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    },
+    {
+      "pos": "2-8",
+      "title": "Θέλω Μαστούρης Να Γίνω",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "thelo-mastouris-na-gino",
+      "stub": true
+    },
+    {
+      "pos": "2-9",
+      "title": "Τα Ζηλιάρικά Σου Μάτια",
+      "performer": "Πίτσα Νέγκρι, Γρηγόρης Μπιθικώτσης",
+      "song": "ta-ziliarika-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "2-10",
+      "title": "Μόρτισα",
+      "performer": "Ανθούλα Αλιφραγκή",
+      "song": "mortissa",
+      "stub": true
+    },
+    {
+      "pos": "2-11",
+      "title": "Ώρες Με Θρέφει Ο Λουλάς",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ores-me-threfei-o-loulas",
+      "stub": true
+    },
+    {
+      "pos": "2-12",
+      "title": "Σ' Αυτόν Τον Κόσμο Τον Κακό",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "s-ayton-ton-kosmo-ton-kako",
+      "stub": true
+    },
+    {
+      "pos": "2-13",
+      "title": "Αγγελοκαμωμένη Μου",
+      "performer": "Μάρκος Βαμβακάρης, Καίτη Γκρέυ",
+      "song": "aggelokamomeni-mou",
+      "stub": true
+    },
+    {
+      "pos": "2-14",
+      "title": "Καλέ Μάνα Δε Μπορώ",
+      "performer": "Καίτη Γκρέυ",
+      "song": "kale-mana-de-mporo",
+      "stub": true
+    },
+    {
+      "pos": "2-15",
+      "title": "Στο Φάληρο Που Πλένεσαι",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "sto-faliro-pou-plenesai",
+      "stub": true
+    },
+    {
+      "pos": "3-1",
+      "title": "Οι Πρωθυπουργοί",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "oi-prothypourgoi",
+      "stub": true
+    },
+    {
+      "pos": "3-2",
+      "title": "Αλεξανδριανή Μου",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "alexandriani-mou",
+      "stub": true
+    },
+    {
+      "pos": "3-3",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "3-4",
+      "title": "Το Συμφέρον",
+      "performer": "Γιώτα Λύδια",
+      "song": "to-symferon",
+      "stub": true
+    },
+    {
+      "pos": "3-5",
+      "title": "Ήθελα Να 'Μουν Ηρακλής",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "ithela-na-moun-iraklis",
+      "stub": true
+    },
+    {
+      "pos": "3-6",
+      "title": "Τα Ζηλιάρικά Σου Μάτια",
+      "performer": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "song": "ta-ziliarika-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "3-7",
+      "title": "Έρχομαι Κρυφά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "erxomai-kryfa",
+      "stub": true
+    },
+    {
+      "pos": "3-8",
+      "title": "Δε Θέλω Πια Να Μου Μιλάς",
+      "performer": "Πόλυ Πάνου",
+      "song": "de-thelo-pia-na-mou-milas",
+      "stub": true
+    },
+    {
+      "pos": "3-9",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "3-10",
+      "title": "Αγαπώ Τα Μαύρα Μάτια",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "agapo-ta-mayra-matia",
+      "stub": true
+    },
+    {
+      "pos": "3-11",
+      "title": "Μικρός Αρραβωνιάστηκα",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βούλα Γκίκα",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "3-12",
+      "title": "Έχει Όμορφες Αφράτες",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "exei-omorfes-afrates",
+      "stub": true
+    },
+    {
+      "pos": "3-13",
+      "title": "Τα Όμορφα Τα Γαλανά Σου Μάτια",
+      "performer": "Δημήτρης Ευσταθίου",
+      "song": "ta-omorfa-ta-galana-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "3-14",
+      "title": "Από Ξένο Τόπο Και Μακρινό",
+      "performer": "Καίτη Γκρέυ",
+      "song": "apo-xeno-topo-kai-makrino",
+      "stub": true
+    },
+    {
+      "pos": "3-15",
+      "title": "Άδικα Με Κατακρίνουν",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "adika-me-katakrinoun",
+      "stub": true
+    },
+    {
+      "pos": "4-1",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "4-2",
+      "title": "Το Μπουζούκι Στο Παρίσι",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "to-mpouzouki-sto-parisi",
+      "stub": true
+    },
+    {
+      "pos": "4-3",
+      "title": "Ο Γρουσούζης (Βρε Γρουσούζη)",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "o-grousouzis",
+      "stub": true
+    },
+    {
+      "pos": "4-4",
+      "title": "Σου 'Δωσα Διαζύγιο",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "sou-dosa-diazygio",
+      "stub": true
+    },
+    {
+      "pos": "4-5",
+      "title": "Φοράς Φουστάνι Βυσσινί",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "foras-foustani-vyssini",
+      "stub": true
+    },
+    {
+      "pos": "4-6",
+      "title": "Να Μ' Αξιώσει Ο Θεός",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "na-m-axiosei-o-theos",
+      "stub": true
+    },
+    {
+      "pos": "4-7",
+      "title": "Σόλο Μπουζούκι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "solo-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "4-8",
+      "title": "Ο Κάβουρας",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "o-kavouras",
+      "stub": true
+    },
+    {
+      "pos": "4-9",
+      "title": "Καραβοτσακίσματα",
+      "performer": "Δημήτρης Ευσταθίου, Πόπη Ρίνα",
+      "song": "karavotsakismata",
+      "stub": true
+    },
+    {
+      "pos": "4-10",
+      "title": "Θα 'Ρθω Να Σε Ξυπνήσω",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "tha-rtho-na-se-xypniso",
+      "stub": true
+    },
+    {
+      "pos": "4-11",
+      "title": "Βρε Μοίρα Δεν Κουράστηκες",
+      "performer": "Πόλυ Πάνου, Γρηγόρης Μπιθικώτσης",
+      "song": "vre-moira-den-kourastikes",
+      "stub": true
+    },
+    {
+      "pos": "4-12",
+      "title": "Κάθε Βράδυ Θα Σε Περιμένω",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "kathe-vrady-tha-se-perimeno",
+      "stub": true
+    },
+    {
+      "pos": "4-13",
+      "title": "Γαϊτανοφρυδούσα (Έλα Να Πάμε Εκεί)",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "gaitanofrydousa",
+      "stub": true
+    },
+    {
+      "pos": "4-14",
+      "title": "Μάνα Όπου Με Γέννησες",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "mana-opou-me-gennises",
+      "stub": true
+    },
+    {
+      "pos": "4-15",
+      "title": "Χρόνια Στον Περαία",
+      "performer": "Αθηναϊκή Κομπανία",
+      "song": "xronia-ston-peraia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "en": {
+    "kind": "Four-CD remastered set",
+    "about": [
+      "A four-CD set from Minos-EMI/Universal with 60 remastered tracks, from the spoken introduction by Markos to performances by Bithikotsis and the Athenian Kompania. Credits list Vamvakaris as composer and lyricist alongside Fotidas, Kamvysis and Pagioumtzis."
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "ta-mortika",
+  "composer": "plessas",
+  "title": "Τα μόρτικα",
+  "year": 1975,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Polydor",
+  "catalog": "2421 053",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Ντουνιάς",
+    "Χαρούλα Λαμπράκη",
+    "Δημήτρης Ξενίδης",
+    "Michalis Yennítsaris"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος σε μουσική και διεύθυνση Μίμη Πλέσσα, με δεύτερο όνομα στο εξώφυλλο τον Γιώργο Καλαμαριώτη. Η έκδοση περιλαμβάνει ένθετο με σημειώσεις και φωτογραφίες από το αρχείο του Ηλία Πετρόπουλου· το Discogs καταγράφει τον Γιάννη Μπιθικώτση στο μπουζούκι."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μόρτικα κι' αλανιάρικα",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "mortika-ki-alaniarika",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Και την πατήσαμε...",
+      "performer": "Michalis Yennítsaris",
+      "song": "kai-tin-patisame",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο χάρος σκύβει πλάι μου",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "o-xaros-skyvei-plai-mou",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το τραγούδι του Βαρδάρη",
+      "performer": "Χαρούλα Λαμπράκη",
+      "song": "to-tragoudi-tou-vardari",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Χτύπα το σίδερο στ' αμόνι",
+      "performer": "Δημήτρης Ξενίδης",
+      "song": "xtypa-to-sidero-st-amoni",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το ταράφι και η πιάτσα",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "to-tarafi-kai-i-piatsa",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Του κόσμου τα παράθυρα κλειστά",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "tou-kosmou-ta-parathyra-kleista",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο μπαλωματής ο χρόνος",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "o-mpalomatis-o-xronos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Πέντε δρόμοι...",
+      "performer": "Χαρούλα Λαμπράκη",
+      "song": "pente-dromoi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ε, ρε και πως γουστάρω",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "e-re-kai-pos-goustaro",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ξέχνα, μανούλα μου",
+      "performer": "Δημήτρης Ξενίδης",
+      "song": "xexna-manoula-mou",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Το βέρτζινο μαγκάκι",
+      "performer": "Michalis Yennítsaris",
+      "song": "to-vertzino-magkaki",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα μόρτικα, Polydor 2421 053 (1975)",
+      "url": "https://www.discogs.com/release/5679233"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A record composed and conducted by Mimis Plessas, with Giorgos Kalamariotis credited as second name on the cover. The edition includes an insert with notes and photographs from Ilias Petropoulos’s archive; Discogs credits Giannis Bithikotsis on bouzouki."
+    ]
+  }
+}

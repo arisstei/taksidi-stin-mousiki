@@ -1,0 +1,24 @@
+{
+  "slug": "oute-ena-eyxaristo",
+  "title": "Ούτε ένα ευχαριστώ",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1963",
+  "performer": "Τζένη Καρέζη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κόκκινα φανάρια» (1963).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κόκκινα φανάρια (1963)",
+      "url": "https://musicbrainz.org/release-group/5c290b6e-1c7d-4df1-bcb3-384433b82026"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κόκκινα φανάρια” (1963).",
+    "story": []
+  }
+}

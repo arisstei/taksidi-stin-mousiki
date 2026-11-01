@@ -1,0 +1,36 @@
+{
+  "slug": "ntermpenterissa",
+  "title": "Ντερμπεντέρισσα",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1976",
+  "performer": "Μάρκος Βαμβακάρης, Στέλλα Χασκήλ, Βασίλης Τσιτσάνης · Βασίλης Τσιτσάνης · Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Βασίλης Τσιτσάνης 1937-1952» (1976), «Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης» (1983), «Τσιτσάνης» (2001) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Βασίλης Τσιτσάνης 1937-1952 (1976)",
+      "url": "https://musicbrainz.org/release/c4b04006-6d9a-4f1e-87b5-b6da0ea87215"
+    },
+    {
+      "label": "MusicBrainz — Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης (1983)",
+      "url": "https://musicbrainz.org/release/a23ca4e9-2168-42a8-a6a0-2e009a5927f4"
+    },
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    },
+    {
+      "label": "MusicBrainz — Η κυρία Καίτη κι εγώ (2005)",
+      "url": "https://musicbrainz.org/release-group/67fe5d51-75ce-4442-b064-147da3fd103f"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Βασίλης Τσιτσάνης 1937-1952” (1976), “Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης” (1983), “Τσιτσάνης” (2001) and 2 more.",
+    "story": []
+  }
+}

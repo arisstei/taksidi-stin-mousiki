@@ -1,0 +1,28 @@
+{
+  "slug": "enarxis",
+  "title": "Έναρξις",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1971",
+  "performer": "Τζένη Καρέζη - Κώστας Καζάκος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Το κοροϊδάκι της πριγκηπέσσας» (1971), «Το μεγάλο μας τσίρκο» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Το κοροϊδάκι της πριγκηπέσσας, Columbia SCXG 72 (1971)",
+      "url": "https://www.discogs.com/release/3816084"
+    },
+    {
+      "label": "MusicBrainz — Το μεγάλο μας τσίρκο (1974)",
+      "url": "https://musicbrainz.org/release-group/9e4e4721-03fe-4e49-8627-c2006d2f6c34"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Το κοροϊδάκι της πριγκηπέσσας” (1971), “Το μεγάλο μας τσίρκο” (1974).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pira-ti-strata-ki-erxomai",
+  "title": "Πήρα Τη Στράτα Κι Έρχομαι",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1974",
+  "performer": "Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Σκληρός Απρίλης του '45» (1974), «Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη» (1991).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Σκληρός Απρίλης Του '45 (1974)",
+      "url": "https://www.discogs.com/master/302510"
+    },
+    {
+      "label": "MusicBrainz — Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη (1991)",
+      "url": "https://musicbrainz.org/release/f99754d3-d8ee-45ee-a929-8324121e0d27"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Σκληρός Απρίλης του '45” (1974), “Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη” (1991).",
+    "story": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "to-filosofise-poli",
+  "composer": "zambetas",
+  "title": "Το φιλοσόφησε πολύ!",
+  "year": 1997,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "PolyGram",
+  "catalog": "ΜΕΤΡΟ 16",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Μαρινέλλα",
+    "Δημήτρης Μητροπάνος",
+    "Τόλης Βοσκόπουλος",
+    "Πάνος Τζανετής",
+    "Δούκισσα"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή του 1997 της σειράς «Μέτρο» της PolyGram με 15 τραγούδια, τίτλος της το «Το φιλοσόφησε πολύ».",
+    "Περιλαμβάνει ερμηνείες του ίδιου του Ζαμπέτα («Μάλιστα κύριε», «Πού 'σαι Θανάση», «Οι θαλασσινοί») και ερμηνείες των Βίκυς Μοσχολιού, Μαρινέλλας, Δημήτρη Μητροπάνου, Τόλη Βοσκόπουλου, Πάνου Τζανετή και Δούκισσας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μάλιστα Κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πού 'Σαι Θανάση",
+      "song": "pou-sai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τι Σού ΄Κανα Και Μ' Εγκατέλειψες",
+      "performer": "Πάνος Τζανετής",
+      "song": "ti-sou-kana-kai-m-egkateleipses",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Ξενύχτης",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "o-xenyxtis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τι Να Φταίει",
+      "performer": "Μαρινέλλα",
+      "song": "ti-na-ftaiei",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Οι Θαλασσινοί",
+      "song": "i-thalassini",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το Γράμμα Και Η Φωτογραφία",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "to-gramma-kai-i-fotografia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Παλιά Αγάπη",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "palia-agapi",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αλήτη",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "aliti",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Η Παγωνιά",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "i-pagonia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Που Πας Χωρίς Αγάπη",
+      "performer": "Δούκισσα",
+      "song": "pou-pas-xoris-agapi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Που Ήσουν Και Χάθηκες (Όνειρο)",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "pou-isoun-kai-xathikes",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Σταλιά Σταλιά",
+      "performer": "Μαρινέλλα",
+      "song": "stalia-stalia",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Το Αδιέξοδο",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "adiexodo",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Το Φιλοσόφησε Πολύ"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το φιλοσόφησε πολύ! (1997, PolyGram 377-2 / ΜΕΤΡΟ 16)",
+      "url": "https://musicbrainz.org/release/663aa925-7119-42db-ac5d-0c56761bca13"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "1997 compilation from PolyGram’s “Metro” series with 15 songs, named after “To filosofise poli”.",
+      "It includes Zampetas’s own performances (“Malista kyrie”, “Pou ’sai Thanasi”, “Oi thalassinoi”) and versions by Vicky Moscholiou, Marinella, Dimitris Mitropanos, Tolis Voskopoulos, Panos Tzanetis and Doukissa."
+    ]
+  }
+}

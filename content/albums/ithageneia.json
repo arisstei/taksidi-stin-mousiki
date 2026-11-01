@@ -1,0 +1,33 @@
+{
+  "slug": "ithageneia",
+  "composer": "markopoulos",
+  "title": "Ιθαγένεια",
+  "year": 1972,
+  "type": "cycle",
+  "kind": "Έργο για φωνές και ορχήστρα",
+  "performers": [],
+  "lyricists": [
+    "Κ.Χ. Μύρης"
+  ],
+  "grade": "C",
+  "about": [
+    "Έργο για φωνές και ορχήστρα σε στίχους του Κ.Χ. Μύρη, από τη μελοποιημένη ποίηση του Μαρκόπουλου."
+  ],
+  "tracks": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    }
+  ],
+  "en": {
+    "kind": "Work for voices and orchestra",
+    "about": [
+      "A work for voices and orchestra to words by K.Ch. Myris, part of Markopoulos's output of set poetry."
+    ]
+  }
+}

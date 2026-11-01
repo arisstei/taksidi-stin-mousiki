@@ -1,0 +1,28 @@
+{
+  "slug": "to-fantaraki",
+  "title": "Το φανταράκι",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1989",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα τραγούδια μου» (1989), «Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες» (1996).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα τραγούδια μου (1989, Philips 842180-1)",
+      "url": "https://musicbrainz.org/release/563f0f33-c82c-4dd7-bf10-eed964251593"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες (1996, PolyGram 298-2 / Δίφωνο 7)",
+      "url": "https://musicbrainz.org/release/90fc4cae-05b6-4b88-a594-6f9b1a720145"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα τραγούδια μου” (1989), “Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες” (1996).",
+    "story": []
+  }
+}

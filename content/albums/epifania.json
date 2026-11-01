@@ -1,0 +1,72 @@
+{
+  "slug": "epifania",
+  "composer": "theodorakis",
+  "title": "Επιφάνια",
+  "year": 1962,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "format": "EP, 45 rpm",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης"
+  ],
+  "lyricists": [
+    "Γιώργος Σεφέρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Τέσσερα ποιήματα του Γιώργου Σεφέρη, που ο Θεοδωράκης μελοποίησε στο Παρίσι το 1960, από τις συλλογές «Στροφή» (1931) και «Τετράδιο γυμνασμάτων» (1940), ανάμεσά τους το ποίημα «Επιφάνεια 1937».",
+    "Τραγουδά ο Γρηγόρης Μπιθικώτσης, με τα μπουζούκια υπό τους Λάκη Καρνέζη και Κώστα Παπαδόπουλο. Ηχογραφήθηκε στις αρχές του 1962 και κυκλοφόρησε ως EP στις 45 στροφές· το 1974 περιλήφθηκε στην επανέκδοση του «Επιταφίου» σε LP."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Στο περγιάλι το κρυφό",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "sto-pergiali-to-kryfo",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Κράτησα τη ζωή μου",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "kratisa-ti-zoi-mou",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Άνθη της πέτρας",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "anthi-tis-petras",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μέσα στις θαλασσινές σπηλιές",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "mesa-stis-thalassines-spilies",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Ο Μίκης και οι ποιητές: Επιτάφιος / Επιφάνια (1960/1962)",
+      "url": "https://diskovolos58.blogspot.com/2020/06/19601962.html"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 42)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/eea2148a-35a8-38b5-8312-17ea681ba4a1"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Four poems by Giorgos Seferis that Theodorakis set in Paris in 1960, drawn from the collections Strophi (1931) and Tetradio gymnasmaton (1940), among them the poem “Epifania 1937”.",
+      "Grigoris Bithikotsis sings, with the bouzoukis led by Lakis Karnezis and Kostas Papadopoulos. It was recorded in early 1962 and released as a 45 rpm EP; in 1974 it was included in the LP reissue of Epitafios."
+    ]
+  }
+}

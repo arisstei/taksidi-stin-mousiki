@@ -1,0 +1,36 @@
+{
+  "slug": "magkiko-ta-dyo-sou-matia",
+  "title": "Μάγκικο Τα Δυο Σου Μάτια",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Καίτη Γκρέυ · Δομένικος Βαμβακάρης, Βάκια Βάλβη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης» (1980), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992), «Ο Δάσκαλός Μας» (2012) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης” (1980), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992), “Ο Δάσκαλός Μας” (2012) and 1 more.",
+    "story": []
+  }
+}

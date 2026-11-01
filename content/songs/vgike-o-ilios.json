@@ -1,0 +1,24 @@
+{
+  "slug": "vgike-o-ilios",
+  "title": "Βγήκε Ο Ήλιος",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Κώστας Βίρβος",
+  "year": "1979",
+  "performer": "Λιζέττα Νικολάου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Θεσσαλικός Κύκλος» (1979).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θεσσαλικός Κύκλος (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/865c7517-a0db-4157-a91b-e10a961a3fd0"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Θεσσαλικός Κύκλος” (1979).",
+    "story": []
+  }
+}

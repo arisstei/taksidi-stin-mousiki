@@ -1,0 +1,28 @@
+{
+  "slug": "efoumaram-ena-vrady",
+  "title": "Εφούμαραμ' Ενα Βράδυ",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1998",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Bouzouki Pioneer, 1932-1940» (1998), «Μουσική Αυτοβιογραφία 1932-1968» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    },
+    {
+      "label": "Discogs — Μουσική Αυτοβιογραφία 1932-1968 (2016)",
+      "url": "https://www.discogs.com/release/14223431"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Bouzouki Pioneer, 1932-1940” (1998), “Μουσική Αυτοβιογραφία 1932-1968” (2016).",
+    "story": []
+  }
+}

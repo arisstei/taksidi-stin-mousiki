@@ -1,0 +1,24 @@
+{
+  "slug": "pira-synnefo-dyo-topia",
+  "title": "Πήρα σύννεφο δυο τόπια",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1969",
+  "performer": "Γιάννης Πουλόπουλος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο Δρόμος» (1969).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Δρόμος, Lyra 3561 (1969)",
+      "url": "https://musicbrainz.org/release-group/7e9a879e-d8f2-4c79-950d-b3c43bb724ee"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο Δρόμος” (1969).",
+    "story": []
+  }
+}

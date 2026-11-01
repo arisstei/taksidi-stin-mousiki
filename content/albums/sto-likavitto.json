@@ -1,0 +1,155 @@
+{
+  "slug": "sto-likavitto",
+  "composer": "xarchakos",
+  "title": "Στο Λυκαβηττό",
+  "year": 1978,
+  "type": "anthology",
+  "kind": "Ζωντανή ηχογράφηση",
+  "label": "Columbia Records",
+  "catalog": "14C 062-70897",
+  "format": "LP",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Βίκυ Μοσχολιού",
+    "Νίκος Ξυλούρης",
+    "Σταμάτης Κόκοτας",
+    "Πάνος Γαβαλάς",
+    "Νίκος Δημητράτος"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Λευτέρης Παπαδόπουλος",
+    "Βαγγέλης Γκούφας",
+    "Βασίλης Ανδρεόπουλος",
+    "Κώστας Φέρρης"
+  ],
+  "grade": "C",
+  "about": [
+    "Ζωντανή ηχογράφηση της Columbia (1978) με επιλογή από τα τραγούδια του Ξαρχάκου — «Μάτια βουρκωμένα», «Μεγάλη Παρασκευή», «Άπονη ζωή», «Χάθηκε το φεγγάρι» — σε ερμηνείες των Γρηγόρη Μπιθικώτση, Βίκυς Μοσχολιού, Νίκου Ξυλούρη, Σταμάτη Κόκοτα και άλλων."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Μάτια βουρκωμένα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "matia-vourkomena",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Μεγάλη Παρασκευή",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "megali-paraskeyi",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Άπονη ζωή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "aponi-zoi"
+    },
+    {
+      "pos": "A4",
+      "title": "Όνειρο δεμένο",
+      "performer": "Πάνος Γαβαλάς",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "oneiro-demeno",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Παλικάρι στα Σφακιά",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "palikari-sta-sfakia",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Μαύρος ο ήλιος",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mayros-o-ilios",
+      "stub": true
+    },
+    {
+      "pos": "A7",
+      "title": "Στου Όθωνα τα χρόνια",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "stou-othona-ta-xronia",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Με τι καρδιά τον κόσμο ν' αρνηθώ",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "me-ti-kardia-ton-kosmo-n-arnitho",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Χάθηκε το φεγγάρι",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "xathike-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Αυτόν τον κόσμο",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Βασίλης Ανδρεόπουλος",
+      "song": "ayton-ton-kosmo",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Σαββατόβραδο στην Καισαριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "savvatovrado-stin-kaisariani",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Νυν και αεί",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "nyn-kai-aei",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Ήτανε μια φορά",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Κώστας Φέρρης",
+      "song": "itane-mia-fora",
+      "stub": true
+    },
+    {
+      "pos": "B7",
+      "title": "Άσπρη μέρα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "aspri-mera",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Στο Λυκαβηττό (1978)",
+      "url": "https://musicbrainz.org/release-group/0bd4e6a5-30cd-474c-be60-bf9fe8213a7d"
+    }
+  ],
+  "en": {
+    "kind": "Live recording",
+    "about": [
+      "A live Columbia recording (1978) of a selection of Xarchakos songs - \"Matia vourkomena\", \"Megali Paraskevi\", \"Aponi zoi\", \"Chathike to feggari\" - performed by Grigoris Bithikotsis, Viki Mosholiou, Nikos Xylouris, Stamatis Kokotas and others."
+    ]
+  }
+}

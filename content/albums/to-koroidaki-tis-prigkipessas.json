@@ -1,0 +1,111 @@
+{
+  "slug": "to-koroidaki-tis-prigkipessas",
+  "composer": "plessas",
+  "title": "Το κοροϊδάκι της πριγκηπέσσας",
+  "year": 1971,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia",
+  "catalog": "SCXG 72",
+  "format": "LP",
+  "performers": [
+    "Στράτος Διονυσίου",
+    "Σταύρος Παράβας",
+    "Μαίρη Χρονοπούλου",
+    "Ελένη Προκοπίου",
+    "Dimitri Tambossis"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος με τη μουσική του Μίμη Πλέσσα για το θεατρικό έργο «Το κοροϊδάκι της πριγκηπέσσας», με τραγούδια σε δύο πράξεις. Το Discogs δεν καταγράφει στιχουργούς ή άλλα συντελεστικά στοιχεία γι’ αυτή την έκδοση."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Έναρξις",
+      "song": "enarxis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Όσο φεύγουν τα καράβια",
+      "performer": "Στράτος Διονυσίου",
+      "song": "oso-feygoun-ta-karavia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Θα γίνης ταίρι μου",
+      "performer": "Σταύρος Παράβας",
+      "song": "tha-ginis-tairi-mou",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πάρε χαρτί μελάνι",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "pare-xarti-melani",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Χορός της σταρ"
+    },
+    {
+      "pos": "6",
+      "title": "Δος μου πίσω το παιδί μου",
+      "performer": "Ελένη Προκοπίου",
+      "song": "dos-mou-piso-to-paidi-mou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Πριγκηπέσσα μου",
+      "performer": "Σταύρος Παράβας",
+      "song": "prigkipessa-mou",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Έναρξις 2ας πράξεως"
+    },
+    {
+      "pos": "9",
+      "title": "Πες μου ζωή τι φταίξαμε",
+      "performer": "Σταύρος Παράβας",
+      "song": "pes-mou-zoi-ti-ftaixame",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ήρθε η ώρα",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "irthe-i-ora",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Search for Love",
+      "performer": "Dimitri Tambossis",
+      "song": "search-for-love",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Φινάλε",
+      "performer": "Σταύρος Παράβας & Μαίρη Χρονοπούλου"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Το κοροϊδάκι της πριγκηπέσσας, Columbia SCXG 72 (1971)",
+      "url": "https://www.discogs.com/release/3816084"
+    }
+  ],
+  "en": {
+    "kind": "Music for the theatre",
+    "about": [
+      "Record of Mimis Plessas’s music for the stage work “To koroidaki tis prigkipessas”, with songs in two acts. Discogs lists no lyricist or further credits for this edition."
+    ]
+  }
+}

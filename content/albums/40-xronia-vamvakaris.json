@@ -1,0 +1,250 @@
+{
+  "slug": "40-xronia-vamvakaris",
+  "composer": "vamvakaris",
+  "title": "40 Χρόνια Βαμβακάρης",
+  "year": 1980,
+  "type": "anthology",
+  "kind": "Διπλή συλλογή με τα τραγούδια του Βαμβακάρη σε ερμηνείες της Columbia",
+  "label": "Columbia",
+  "catalog": "14C 134-71126",
+  "format": "2xLP, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Καίτη Γκρέυ",
+    "Πόλυ Πάνου",
+    "Βίκυ Μοσχολιού",
+    "Στράτος Διονυσίου",
+    "Σταμάτης Κόκοτας",
+    "Άντζελα Γκρέκα",
+    "Αντώνης Ρεπάνης",
+    "Γιώτα Λύδια"
+  ],
+  "grade": "B",
+  "about": [
+    "Διπλό άλμπουμ της Columbia του 1980 με 30 τραγούδια του Βαμβακάρη: ο πρώτος δίσκος είναι ερμηνείες του Γρηγόρη Μπιθικώτση, ενώ ο δεύτερος ανήκει στους Καίτη Γκρέυ, Πόλυ Πάνου, Βίκυ Μοσχολιού, Στράτο Διονυσίου, Σταμάτη Κόκοτα, Άντζελα Γκρέκα και άλλους, με τον ίδιο τον Βαμβακάρη σε μερικά κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Τα Ματόκλαδα Σου Λάμπουν",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Αλεξανδριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "alexandriani",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Αντιλαλούν Οι Φυλακές",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "antilaloun-oi-fylakes",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Μάνα Όπου Με Γέννησες",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "mana-opou-me-gennises",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Ο Κάβουρας",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "o-kavouras",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Τα Δυό Σου Χέρια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-dyo-sou-xeria",
+      "stub": true
+    },
+    {
+      "pos": "A7",
+      "title": "Μικρός Αρραβωνιάστικα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "A8",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Απελπίστικα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "apelpistika",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Έρχομαι Κρυφά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "erxomai-kryfa",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Σ' Αυτόν Τον Κόσμο Τον Κακό",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "s-ayton-ton-kosmo-ton-kako",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Η Ξελογιασμένη",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "i-xelogiasmeni",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Το Μπουζούκι Στο Παρίσι",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "to-mpouzouki-sto-parisi",
+      "stub": true
+    },
+    {
+      "pos": "B7",
+      "title": "Φραγκοσυριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "C1",
+      "title": "Αγγελοκαμωμένη Μου",
+      "performer": "Καίτη Γκρέυ, Μάρκος Βαμβακάρης",
+      "song": "aggelokamomeni-mou",
+      "stub": true
+    },
+    {
+      "pos": "C2",
+      "title": "Ο Αραμπατζής",
+      "performer": "Πόλυ Πάνου",
+      "song": "o-arampatzis",
+      "stub": true
+    },
+    {
+      "pos": "C3",
+      "title": "Ο Καλόγηρος",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "kalogiros",
+      "stub": true
+    },
+    {
+      "pos": "C4",
+      "title": "Οι Πρωθυπουργοί",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "oi-prothypourgoi",
+      "stub": true
+    },
+    {
+      "pos": "C5",
+      "title": "Σου Δώσα Διαζύγιο",
+      "performer": "Αντώνης Ρεπάνης",
+      "song": "sou-dosa-diazygio",
+      "stub": true
+    },
+    {
+      "pos": "C6",
+      "title": "Φεγγάρι Αν Είσαι Λαμπερό",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "feggari-an-eisai-lampero",
+      "stub": true
+    },
+    {
+      "pos": "C7",
+      "title": "Καλέ Μάνα Δεν Μπορώ",
+      "performer": "Καίτη Γκρέυ",
+      "song": "kale-manna-den-mporo",
+      "stub": true
+    },
+    {
+      "pos": "C8",
+      "title": "Πάνε Τα Μαθήματα",
+      "performer": "Στράτος Διονυσίου",
+      "song": "pane-ta-mathimata",
+      "stub": true
+    },
+    {
+      "pos": "D1",
+      "title": "Να Πεθάνεις",
+      "performer": "Άντζελα Γκρέκα, Μάρκος Βαμβακάρης",
+      "song": "na-pethaneis",
+      "stub": true
+    },
+    {
+      "pos": "D2",
+      "title": "Μη Περάσεις Απ' Τη Γειτονιά Μου",
+      "performer": "Πόλυ Πάνου",
+      "song": "mi-peraseis-ap-ti-geitonia-mou",
+      "stub": true
+    },
+    {
+      "pos": "D3",
+      "title": "Μάγκικο Τα Δυο Σου Μάτια",
+      "performer": "Καίτη Γκρέυ",
+      "song": "magkiko-ta-dyo-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "D4",
+      "title": "Ο Γρουσούζης",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "o-grousouzis",
+      "stub": true
+    },
+    {
+      "pos": "D5",
+      "title": "Γαϊτανοφρυδούσα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "gaitanofrydousa",
+      "stub": true
+    },
+    {
+      "pos": "D6",
+      "title": "Σ' Αγάπησα Νάχω Ζωή",
+      "performer": "Γιώτα Λύδια",
+      "song": "s-agapisa-naxo-zoi",
+      "stub": true
+    },
+    {
+      "pos": "D7",
+      "title": "Σόλο Μπουζούκι",
+      "song": "solo-mpouzouki",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    }
+  ],
+  "en": {
+    "kind": "Double LP of Vamvakaris songs from the Columbia catalogue",
+    "about": [
+      "A 1980 double album from Columbia with 30 Vamvakaris songs: the first record is sung by Grigoris Bithikotsis, while the second is by Kaiti Grey, Poly Panou, Vicky Mosholiou, Stratos Dionysiou, Stamatis Kokotas, Angela Grekka and others, with Vamvakaris himself on a few tracks."
+    ]
+  }
+}

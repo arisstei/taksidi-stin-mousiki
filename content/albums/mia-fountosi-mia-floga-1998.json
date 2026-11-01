@@ -1,0 +1,123 @@
+{
+  "slug": "mia-fountosi-mia-floga-1998",
+  "composer": "vamvakaris",
+  "title": "Μια Φούντωση Μια Φλόγα",
+  "year": 1998,
+  "type": "anthology",
+  "kind": "CD συλλογή της Μέτρο/Minos-EMI",
+  "label": "ΜΕΤΡΟ, Minos-EMI",
+  "catalog": "ΜΕΤΡΟ 30",
+  "format": "CD, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Έλλη Πετρίδου",
+    "Πρόδρομος Τσαουσάκης",
+    "Στράτος Παγιουμτζής",
+    "Βίκυ Μοσχολιού",
+    "Γιώργος Ζαμπέτας",
+    "Άντζελα Γκρέκα",
+    "Γρηγόρης Μπιθικώτσης"
+  ],
+  "grade": "C",
+  "about": [
+    "CD της σειράς Μέτρο (Minos-EMI) με 12 τραγούδια του Βαμβακάρη, με ερμηνείες και από τους Έλλη Πετρίδου και Πρόδρομο Τσαουσάκη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Θα 'ρθώ Να Σε Ξυπνήσω",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "tha-rtho-na-se-xypniso",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Φραγκοσυριανή",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χθες Το Βράδυ Στο Σκοτάδι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "xthes-to-vrady-sto-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Νόστιμο Τρελό Μικρό Μου",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "nostimo-trello-mikro-mou",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τα Καραβοτσακίσματα",
+      "performer": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "song": "karavotsakismata",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο Μάρκος Υουργός",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-markos-yourgos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Τα Μπλε Παράθυρά Σου",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ta-mple-parathyra-sou",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αλεξανδριανή",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "alexandriani",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Να Μ' Αξιώσει Ο Θεός",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "na-m-axiosei-o-theos",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μαύρα Μάτια - Μαύρα Φρύδια",
+      "performer": "Άντζελα Γκρέκα, Γρηγόρης Μπιθικώτσης",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Γαϊτανοφρυδούσα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "gaitanofrydousa",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μια Φούντωση Μια Φλόγα (1998)",
+      "url": "https://www.discogs.com/release/3451105"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation on Metro/Minos-EMI",
+    "about": [
+      "A Metro/Minos-EMI CD of 12 Vamvakaris songs, with Elli Petridou and Prodromos Tsaousakis among the singers."
+    ]
+  }
+}

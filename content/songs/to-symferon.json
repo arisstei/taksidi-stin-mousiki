@@ -1,0 +1,36 @@
+{
+  "slug": "to-symferon",
+  "title": "Το συμφέρον",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Αργύρης Βαμβακάρης, Μάρκος Βαμβακάρης",
+  "year": "1968",
+  "performer": "Γιώτα Λύδια · Στέλλα Χασκίλ, Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος ο δάσκαλός μας» (1968), «Αφιέρωμα Στο Μάρκο» (1972), «Βαμβακάρης» (1974) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο (1972)",
+      "url": "https://www.discogs.com/release/5421260"
+    },
+    {
+      "label": "Discogs — Βαμβακάρης (1974)",
+      "url": "https://www.discogs.com/release/6038014"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος ο δάσκαλός μας” (1968), “Αφιέρωμα Στο Μάρκο” (1972), “Βαμβακάρης” (1974) and 2 more.",
+    "story": []
+  }
+}

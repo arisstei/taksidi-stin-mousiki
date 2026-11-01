@@ -1,0 +1,206 @@
+{
+  "slug": "protes-ekteleseis",
+  "composer": "loizos",
+  "title": "Πρώτες εκτελέσεις",
+  "year": 1987,
+  "type": "anthology",
+  "kind": "Συλλογή (CD)",
+  "label": "Minos",
+  "catalog": "MCD 15001",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Νταλάρας",
+    "Γιάννης Καλατζής",
+    "Χάρις Αλεξίου",
+    "Μ. Λοΐζος",
+    "Μάνος Λοΐζος",
+    "Βασίλης Παπακωνσταντίνου",
+    "Μ. Φαραντούρη",
+    "Δήμητρα Γαλάνη",
+    "Κ. Σμοκοβίτης",
+    "Αλ. Αλιμπέρτη",
+    "Γ. Νταλάρας"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 23 τραγουδιών του Λοΐζου στις πρώτες τους εκτελέσεις από διαφορετικούς ερμηνευτές (Νταλάρας, Αλεξίου, Καλατζής, Παπακωνσταντίνου, Γαλάνη, Φαραντούρη). Η Βικιπαίδεια αναφέρει τίτλο «Πρώτες εκτελέσεις» με έτος 1979· η έκδοση CD που καταγράφει η MusicBrainz φέρει έτος 1987."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αχ Χελιδόνι Μου",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "ax-xelidoni-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Γοργόνα",
+      "performer": "Γιάννης Καλατζής",
+      "song": "i-gorgona",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μια Καλημέρα",
+      "performer": "Χάρις Αλεξίου",
+      "song": "mia-kalimera",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Δέκα Παλληκάρια",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "deka-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Σεβάχ Ο Θαλασσινός",
+      "performer": "Μ. Λοΐζος",
+      "song": "sevax-o-thalassinos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τζαμάικα",
+      "performer": "Γιάννης Καλατζής",
+      "song": "tzamaika",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Έχω Ένα Καφενέ",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "exo-ena-kafene",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Δρόμος",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-dromos"
+    },
+    {
+      "pos": "9",
+      "title": "Όλα Σε Θυμίζουν",
+      "performer": "Χάρις Αλεξίου",
+      "song": "ola-se-thymizoun",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο Στρατιώτης",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "o-stratiotis",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Τίποτα Δεν Πάει Χαμένο",
+      "performer": "Χάρις Αλεξίου",
+      "song": "tipota-den-paei-xameno",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Πάγωσε Η Τσιμινιέρα",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "pagose-i-tsiminiera",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τ' Ακορντεόν",
+      "performer": "Μ. Λοΐζος",
+      "song": "t-akornteon",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Ο Γέρο Νέγκρο-Τζιμ",
+      "performer": "Μ. Φαραντούρη",
+      "song": "o-gero-negkro-tzim",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Παποράκι",
+      "performer": "Γιάννης Καλατζής",
+      "song": "paporaki",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Το Παλιό Ρολόϊ",
+      "performer": "Γιάννης Καλατζής",
+      "song": "to-palio-roloi",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Κουτσή Κιθάρα",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "koutsi-kithara",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Ο Αρχηγός",
+      "performer": "Χάρις Αλεξίου",
+      "song": "o-arxigos",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Παραμυθάκι Μου",
+      "performer": "Γιάννης Καλατζής",
+      "song": "paramythaki-mou",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Κι Εγώ Σαν Πόλη",
+      "performer": "Χάρις Αλεξίου",
+      "song": "ki-ego-san-poli",
+      "stub": true
+    },
+    {
+      "pos": "21",
+      "title": "Σε Ψάχνω",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "se-psaxno",
+      "stub": true
+    },
+    {
+      "pos": "22",
+      "title": "Καλημέρα Ήλιε",
+      "performer": "Κ. Σμοκοβίτης & Αλ. Αλιμπέρτη",
+      "song": "kalimera-ilie",
+      "stub": true
+    },
+    {
+      "pos": "23",
+      "title": "Ήλιε Μου Σε Παρακαλώ",
+      "performer": "Γ. Νταλάρας",
+      "song": "ilie-mou-se-parakalo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Πρώτες Εκτελέσεις, κυκλοφορία (1987)",
+      "url": "https://musicbrainz.org/release/f28bff71-d8e1-427e-a75c-f9cd64232722"
+    },
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (CD)",
+    "about": [
+      "Compilation of 23 Loizos songs in their first recordings by various singers (Dalaras, Alexiou, Kalatzis, Papakonstantinou, Galani, Farantouri). Greek Wikipedia lists a title “Protes ekteleseis” under 1979; the CD edition documented on MusicBrainz is dated 1987."
+    ]
+  }
+}

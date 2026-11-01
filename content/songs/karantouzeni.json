@@ -1,0 +1,28 @@
+{
+  "slug": "karantouzeni",
+  "title": "Καραντουζένι",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «ΙΙ» (1995), «Bouzouki Pioneer, 1932-1940» (1998).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “ΙΙ” (1995), “Bouzouki Pioneer, 1932-1940” (1998).",
+    "story": []
+  }
+}

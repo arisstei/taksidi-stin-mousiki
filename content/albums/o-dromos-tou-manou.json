@@ -1,0 +1,26 @@
+{
+  "slug": "o-dromos-tou-manou",
+  "composer": "loizos",
+  "title": "Ο δρόμος του Μάνου",
+  "year": 1985,
+  "type": "anthology",
+  "kind": "Μεταθανάτια έκδοση",
+  "label": "Minos EMI",
+  "grade": "C",
+  "about": [
+    "Μεταθανάτια κυκλοφορία του 1985 στη δισκογραφία του Λοΐζου, όπως τη δίνει η Βικιπαίδεια. Δεν βρέθηκε ανοιχτή πηγή με τη λίστα τραγουδιών."
+  ],
+  "tracks": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "en": {
+    "kind": "Posthumous release",
+    "about": [
+      "A 1985 posthumous release in Loizos’s discography as listed on Greek Wikipedia. No open source with the track list was found."
+    ]
+  }
+}

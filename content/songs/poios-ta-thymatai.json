@@ -1,0 +1,24 @@
+{
+  "slug": "poios-ta-thymatai",
+  "title": "Ποιος τα θυμάται",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1972",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Περιπέτειες» (1972).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περιπέτειες (1972, Olympic SBL 1083)",
+      "url": "https://musicbrainz.org/release/cce2d89f-e03a-4595-ba88-69ff449a1a77"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Περιπέτειες” (1972).",
+    "story": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "ap-ta-kainourgia-sta-palia",
+  "composer": "zambetas",
+  "title": "Απ' τα καινούργια στα παλιά",
+  "year": 1977,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Olympic",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1977 με δώδεκα τραγούδια σε ερμηνεία Ζαμπέτα, ανάμεσά τους «Ο Φραγγούλης» και «Γιατί ξημέρωσε». Επανεκδόθηκε σε CD το 1996 από τη Mercury."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ο Φραγγούλης",
+      "song": "o-fraggoulis",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Επί τόπου",
+      "song": "epi-topou",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Να ξανακούσω τη λατέρνα",
+      "song": "na-xanakouso-ti-laterna",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Για 'μένα οι δρόμοι ερήμωσαν",
+      "song": "gia-mena-oi-dromoi-erimosan",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Πού να 'σαι τώρα",
+      "song": "pou-na-sai-tora",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Το τηλεφώνημα",
+      "song": "to-tilefonima",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ένα τραγούδι χωρισμού",
+      "song": "ena-tragoudi-xorismou",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Παραπονιάρα μου",
+      "song": "paraponiara-mou",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Άσε με να κοιμηθώ",
+      "song": "ase-me-na-koimitho",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Έχει η ζωή γυρίσματα",
+      "song": "exei-i-zoi-gyrismata",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Γιατί ξημέρωσε",
+      "song": "giati-ximerose",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Ήρθαν τόσοι κι άλλοι τόσοι",
+      "song": "irthan-tosoi-ki-alloi-tosoi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Απ' τα καινούργια στα παλιά (1977, Olympic)",
+      "url": "https://musicbrainz.org/release/7d41c0ab-d7f4-4cf0-88dd-2ee1c8bb2fe0"
+    },
+    {
+      "label": "MusicBrainz — Απ' τα καινούργια στα παλιά (επανέκδοση CD 1996, Mercury)",
+      "url": "https://musicbrainz.org/release/2773d0da-3c0d-4783-a070-812e8f099325"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1977 record of twelve songs performed by Zampetas, including “O Fragkoulis” and “Giati ximerose”. Reissued on CD in 1996 by Mercury."
+    ]
+  }
+}

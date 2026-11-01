@@ -1,0 +1,146 @@
+{
+  "slug": "afieroma-moreas-1995",
+  "composer": "vamvakaris",
+  "title": "Αφιέρωμα",
+  "year": 1995,
+  "type": "anthology",
+  "kind": "CD συλλογή της Moreas (BMG)",
+  "label": "Moreas, BMG Music",
+  "catalog": "MR 2046.2",
+  "format": "CD, Compilation",
+  "performers": [
+    "Σπύρος Ζαγοραίος",
+    "Απόστολος Νικολαΐδης",
+    "Νίκος Παπαδάτος",
+    "Γιώργος Κυράνος",
+    "Ν. Μαρκόπουλος",
+    "Μπάμπης Μπακάλης"
+  ],
+  "grade": "C",
+  "about": [
+    "CD των εκδόσεων Moreas/BMG με 15 τραγούδια του Βαμβακάρη σε ερμηνείες άλλων τραγουδιστών (Σπύρος Ζαγοραίος, Απόστολος Νικολαΐδης, Νίκος Παπαδάτος, Μπάμπης Μπακάλης κ.ά.)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Όσοι Έχουνε Πολλά Λεφτά",
+      "performer": "Σπύρος Ζαγοραίος",
+      "song": "osoi-exoune-polla-lefta",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Μάνα Μου Σε Σκοτώσανε",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "mana-mou-se-skotosane",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Κάντονε Σταύρο Κάντονε",
+      "performer": "Νίκος Παπαδάτος",
+      "song": "kantone-stayro-kantone",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Χαρμάνης Είναι Από Το Πρωί",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "xarmanis-einai-apo-to-proi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Χρόνια Στον Πειραιά",
+      "performer": "Σπύρος Ζαγοραίος",
+      "song": "xronia-ston-peiraia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ο Πρωθυπουργός",
+      "performer": "Νίκος Παπαδάτος",
+      "song": "o-prothypourgos",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αν Μ' Αξιώσει Ο Θεός",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "an-m-axiosi-o-theos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Όταν Πίνω Τουμπεκάκι",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "otan-pino-toumpekaki",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Οι Γκόμενες Φορέσανε Τραγιάσκες",
+      "performer": "Σπύρος Ζαγοραίος",
+      "song": "oi-gkomenes-foresane-tragiaskes",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Σε Γελάσανε",
+      "performer": "Γιώργος Κυράνος",
+      "song": "se-gelasane",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Στη Φυλακή",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "sti-fylaki",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μωρή Το Γινάτι Σου",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "mori-to-ginati-sou",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Γιατί Μικρούλα Μου",
+      "performer": "Γιώργος Κυράνος",
+      "song": "giati-mikroula-mou",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Φραγκοσυριανή",
+      "performer": "Ν. Μαρκόπουλος",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Τα Ματίκλαδα Σου Λάμπουν",
+      "performer": "Μπάμπης Μπακάλης",
+      "song": "ta-matiklada-sou-lampoun",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα (1995)",
+      "url": "https://www.discogs.com/release/11575065"
+    },
+    {
+      "label": "Discogs — Αφιέρωμα (master)",
+      "url": "https://www.discogs.com/master/2412793"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation on Moreas/BMG",
+    "about": [
+      "A Moreas/BMG CD of 15 Vamvakaris songs sung by other singers, among them Spyros Zagoraios, Apostolos Nikolaidis, Nikos Papadatos and Babis Bakalis."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "i-plimmyra",
+  "title": "Η Πλημμύρα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αυθεντικές Εκτελέσεις» (1987), «Ι» (1994), «Bouzouki Pioneer, 1932-1940» (1998) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Ι (1994)",
+      "url": "https://www.discogs.com/release/10043161"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    },
+    {
+      "label": "Discogs — Master Of Rembetika (2010)",
+      "url": "https://www.discogs.com/release/4768730"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αυθεντικές Εκτελέσεις” (1987), “Ι” (1994), “Bouzouki Pioneer, 1932-1940” (1998) and 1 more.",
+    "story": []
+  }
+}

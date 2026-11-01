@@ -1,0 +1,333 @@
+{
+  "slug": "o-pio-kalos-o-mathitis",
+  "composer": "zambetas",
+  "title": "Ο πιο καλός ο μαθητής…",
+  "year": 1992,
+  "type": "anthology",
+  "kind": "Διπλή ανθολογία",
+  "label": "EMI",
+  "catalog": "14C 145 1704602/12",
+  "format": "2×CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Μαρινέλλα",
+    "Στέλιος Καζαντζίδης",
+    "Δημήτρης Μητροπάνος",
+    "Σταμάτης Κόκοτας",
+    "Τόλης Βοσκόπουλος",
+    "Πάνος Τζανετής",
+    "Δούκισσα",
+    "Μπέμπα Μπλανς"
+  ],
+  "grade": "B",
+  "about": [
+    "Διπλός δίσκος που κυκλοφόρησε το 1992, χρονιά θανάτου του Ζαμπέτα, και συγκεντρώνει σαράντα δύο τραγούδια του στις φωνές του ίδιου και των ερμηνευτών που τα τραγούδησαν: Βίκυ Μοσχολιού, Μαρινέλλα, Στέλιο Καζαντζίδη, Δημήτρη Μητροπάνο, Τόλη Βοσκόπουλο και άλλων."
+  ],
+  "tracks": [
+    {
+      "pos": "1-1",
+      "title": "Τα δειλινά",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "ta-deilina",
+      "stub": true
+    },
+    {
+      "pos": "1-2",
+      "title": "Ρωμιός αγάπησα Ρωμιά",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "romios-agapisa-romia",
+      "stub": true
+    },
+    {
+      "pos": "1-3",
+      "title": "Χάθηκες (Δεν έχει δρόμο να διαβώ)",
+      "performer": "Πάνος Τζανετής",
+      "song": "xathikes",
+      "stub": true
+    },
+    {
+      "pos": "1-4",
+      "title": "Η μοντέρνα η Αθήνα",
+      "performer": "Δούκισσα",
+      "song": "i-monterna-i-athina",
+      "stub": true
+    },
+    {
+      "pos": "1-5",
+      "title": "Μάλιστα κύριε",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "1-6",
+      "title": "Θεσσαλονίκη",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "1-7",
+      "title": "Ποιος ειν' αυτός",
+      "performer": "Μαρινέλλα",
+      "song": "poios-ein-aytos",
+      "stub": true
+    },
+    {
+      "pos": "1-8",
+      "title": "Αγωνία",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "agonia",
+      "stub": true
+    },
+    {
+      "pos": "1-9",
+      "title": "Πάει-πάει",
+      "performer": "Βίκυ Μοσχολιού & Γιώργος Ζαμπέτας",
+      "song": "paei-paei",
+      "stub": true
+    },
+    {
+      "pos": "1-10",
+      "title": "Μιας πεντάρας νιάτα",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "mias-pentaras-niata",
+      "stub": true
+    },
+    {
+      "pos": "1-11",
+      "title": "Ο πενηντάρης",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-penintaris",
+      "stub": true
+    },
+    {
+      "pos": "1-12",
+      "title": "Ήρθα κι απόψε στα σκαλοπάτια σου",
+      "performer": "Πέτρος Αναγνωστάκης",
+      "song": "irtha-ki-apopse-sta-skalopatia-sou",
+      "stub": true
+    },
+    {
+      "pos": "1-13",
+      "title": "Ο ξενύχτης",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "o-xenyxtis",
+      "stub": true
+    },
+    {
+      "pos": "1-14",
+      "title": "Αποσπάσματα από έρωτες",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "apospasmata-apo-erotes",
+      "stub": true
+    },
+    {
+      "pos": "1-15",
+      "title": "Ο μαθητής",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "1-16",
+      "title": "Το θέμα είναι να τη βρω",
+      "performer": "Σταμάτης Κόκοτας"
+    },
+    {
+      "pos": "1-17",
+      "title": "Ξημερώματα",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "ximeromata",
+      "stub": true
+    },
+    {
+      "pos": "1-18",
+      "title": "Τι σου 'κανα και μ' εγκατέλειψες",
+      "performer": "Πάνος Τζανετής",
+      "song": "ti-sou-kana-kai-m-egkateleipses",
+      "stub": true
+    },
+    {
+      "pos": "1-19",
+      "title": "Οι ουρανοί",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "oi-ouranoi",
+      "stub": true
+    },
+    {
+      "pos": "1-20",
+      "title": "Με το βοριά",
+      "performer": "Στέλιος Καζαντζίδης & Μαρινέλλα",
+      "song": "me-to-voria",
+      "stub": true
+    },
+    {
+      "pos": "1-21",
+      "title": "Αν μου σπάσουν το μπουζούκι",
+      "performer": "Γιώργος Ζαμπέτας, Ρία Κούρτη",
+      "song": "an-mou-spasoun-to-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "2-1",
+      "title": "Σταλιά-σταλιά",
+      "performer": "Μαρινέλλα",
+      "song": "stalia-stalia",
+      "stub": true
+    },
+    {
+      "pos": "2-2",
+      "title": "Θα τραγουδήσω για σένα",
+      "performer": "Πάνος Τζανετής",
+      "song": "tha-tragoudiso-gia-sena",
+      "stub": true
+    },
+    {
+      "pos": "2-3",
+      "title": "Τι γλυκό να σ' αγαπούν",
+      "performer": "Χάρις Αλεξίου",
+      "song": "ti-glyko-na-s-agapoun",
+      "stub": true
+    },
+    {
+      "pos": "2-4",
+      "title": "Μεταξουργείο",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "metaxourgeio",
+      "stub": true
+    },
+    {
+      "pos": "2-5",
+      "title": "Η βαλίτσα",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "i-valitsa",
+      "stub": true
+    },
+    {
+      "pos": "2-6",
+      "title": "Που ήσουν και χάθηκες",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "pou-isoun-kai-xathikes",
+      "stub": true
+    },
+    {
+      "pos": "2-7",
+      "title": "Πατέρα κάτσε φρόνιμα",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "patera-katse-fronima",
+      "stub": true
+    },
+    {
+      "pos": "2-8",
+      "title": "Αλήτη",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "aliti",
+      "stub": true
+    },
+    {
+      "pos": "2-9",
+      "title": "Που πας χωρίς αγάπη",
+      "performer": "Δούκισσα",
+      "song": "pou-pas-xoris-agapi",
+      "stub": true
+    },
+    {
+      "pos": "2-10",
+      "title": "Έρχομαι-έρχομαι",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "erxomai-erxomai",
+      "stub": true
+    },
+    {
+      "pos": "2-11",
+      "title": "Κυρ' Αλέκο",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "kyr-aleko",
+      "stub": true
+    },
+    {
+      "pos": "2-12",
+      "title": "Το καράβι",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "to-karavi",
+      "stub": true
+    },
+    {
+      "pos": "2-13",
+      "title": "Το ανθρωπάκι",
+      "performer": "Ελένη Ροδά",
+      "song": "to-anthropaki",
+      "stub": true
+    },
+    {
+      "pos": "2-14",
+      "title": "Όταν θα λάβεις αυτό το γράμμα",
+      "performer": "Μανώλης Καναρίδης",
+      "song": "otan-tha-laveis-ayto-to-gramma",
+      "stub": true
+    },
+    {
+      "pos": "2-15",
+      "title": "Χίλια περιστέρια",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "2-16",
+      "title": "Τα δάκρυα",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "ta-dakrya",
+      "stub": true
+    },
+    {
+      "pos": "2-17",
+      "title": "Τι να φταίει",
+      "performer": "Μαρινέλλα",
+      "song": "ti-na-ftaiei",
+      "stub": true
+    },
+    {
+      "pos": "2-18",
+      "title": "Έχασες το τρένο",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "exases-to-treno",
+      "stub": true
+    },
+    {
+      "pos": "2-19",
+      "title": "Άκου τ' αηδόνια",
+      "performer": "Μαίρη Λίντα",
+      "song": "akou-t-aidonia",
+      "stub": true
+    },
+    {
+      "pos": "2-20",
+      "title": "Ο αράπης",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "o-arapis",
+      "stub": true
+    },
+    {
+      "pos": "2-21",
+      "title": "Σαν σήμερα-σαν σήμερα",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "san-simera-san-simera",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο μαθητής… (1992, EMI 14C 145 1704602/12)",
+      "url": "https://musicbrainz.org/release/178ee38e-c3ca-49b8-ab26-e50aff62adf1"
+    }
+  ],
+  "en": {
+    "kind": "Double anthology",
+    "about": [
+      "A double album released in 1992, the year of Zampetas's death, collecting forty-two of his songs in the voices of the composer himself and of the singers who performed them, among them Vicky Moscholiou, Marinella, Stelios Kazantzidis, Dimitris Mitropanos and Tolis Voskopoulos."
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "plessas",
+  "name": "Μίμης Πλέσσας",
+  "fileNo": "007",
+  "born": "1924-10-12",
+  "died": "2024-10-04",
+  "lifespan": "Αθήνα, 12 Οκτωβρίου 1924 — Καλλιτεχνούπολη Αττικής, 4 Οκτωβρίου 2024",
+  "tagline": "Ο συνθέτης του «Δρόμου» και του «Ραντεβού στον αέρα» και εκατοντάδων κινηματογραφικών και θεατρικών μελωδιών — ένας χημικός που έγινε ένας από τους πιο αγαπημένους μελωδούς της χώρας.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας",
+    "https://en.wikipedia.org/wiki/Mimis_Plessas"
+  ],
+  "bio": [
+    "Γεννήθηκε στην Αθήνα στις 12 Οκτωβρίου 1924 ως Δημήτριος Πλέσσας. Σπούδασε Χημεία στο Πανεπιστήμιο Αθηνών και συνέχισε στις ΗΠΑ, όπου πήρε διδακτορικό στη Χημεία από το Cornell· παράλληλα ήταν από νωρίς σολίστ πιάνου στο Εθνικό Ίδρυμα Ραδιοφωνίας.",
+    "Από το 1956 εργάστηκε ως μαέστρος και συνθέτης. Η Βικιπαίδεια του αποδίδει μουσική για 104 ταινίες και 70 θεατρικές παραστάσεις. Το όνομά του έμεινε δεμένο με το «Ραντεβού στον αέρα» (1966) και με τον «Δρόμο» (1969), σε στίχους Λευτέρη Παπαδόπουλου και με κύριο ερμηνευτή τον Γιάννη Πουλόπουλο, που παραμένει ο δίσκος με τις περισσότερες πωλήσεις στην ελληνική δισκογραφία.",
+    "Συνεργάστηκε, μεταξύ άλλων, με τους Νανά Μούσχουρη, Βίκυ Λέανδρος, Γιάννη Πουλόπουλο, Μαρινέλλα και Ρένα Κουμιώτη. Από το 1986 ως το 1988 συμπαρουσίαζε στην ΕΡΤ το «Καλλιτεχνικό καφενείο». Τιμήθηκε με τον Χρυσό Σταυρό του Τάγματος του Φοίνικα (2001) και με επίτιμο διδακτορικό από το Τμήμα Χημείας του Πανεπιστημίου Πατρών (2010). Πέθανε λίγες μέρες πριν από τα 100 του χρόνια· η Βικιπαίδεια δίνει ως ημερομηνία θανάτου την 4η Οκτωβρίου 2024."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    },
+    {
+      "label": "Wikipedia — Mimis Plessas",
+      "url": "https://en.wikipedia.org/wiki/Mimis_Plessas"
+    },
+    {
+      "label": "ertnews.gr — Πέθανε σε ηλικία 100 ετών ο σπουδαίος συνθέτης Μίμης Πλέσσας (2024)",
+      "url": "https://www.ertnews.gr/eidiseis/politismos/pethane-se-ilikia-100-eton-o-spoudaios-synthetis-mimis-plessas/"
+    }
+  ],
+  "en": {
+    "lifespan": "Athens, 12 October 1924 — Kallitechnoupoli, Attica, 4 October 2024",
+    "tagline": "The composer of “O Dromos” and “Rendezvous in the Air” and of hundreds of film and stage melodies — a chemist who became one of Greece's best-loved melodists.",
+    "bio": [
+      "Born in Athens on 12 October 1924 as Dimitrios Plessas. He studied chemistry at the University of Athens and continued in the USA, earning a doctorate in chemistry from Cornell; from an early age he was also a piano soloist at the National Broadcasting Foundation.",
+      "From 1956 he worked as a conductor and composer. Greek Wikipedia credits him with music for 104 films and 70 stage productions. His name is tied to “Rendezvous in the Air” (1966) and to “O Dromos” (1969), with lyrics by Lefteris Papadopoulos and Giannis Poulopoulos as lead singer, which remains the best-selling record in Greek discography.",
+      "He worked with, among others, Nana Mouskouri, Vicky Leandros, Giannis Poulopoulos, Marinella and Rena Koumioti. From 1986 to 1988 he co-presented the ERT show “Kallitechniko kafenio”. He received the Gold Cross of the Order of the Phoenix (2001) and an honorary doctorate from the University of Patras Department of Chemistry (2010). He died days before turning 100; Wikipedia gives the date of death as 4 October 2024."
+    ],
+    "interviews": []
+  }
+}

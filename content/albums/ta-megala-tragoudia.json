@@ -1,0 +1,154 @@
+{
+  "slug": "ta-megala-tragoudia",
+  "composer": "vassilis-tsitsanis",
+  "title": "Τα μεγάλα τραγούδια",
+  "year": 2002,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "Alpha Records",
+  "catalog": "CD-15011",
+  "format": "CD",
+  "performers": [
+    "Αξιώτης Κεχαγιάς",
+    "Ελένη Ροδά",
+    "Θάνος Νικολάου",
+    "Ρένα Ντάλλια",
+    "Μιχάλης Βασιλίκης",
+    "Ντίνος Δολιανίτης",
+    "Άννα Μελίτη",
+    "Σωτηρία Λεονάρδου",
+    "Μπέμπα Μπλανς",
+    "Πόλυ Πάνου",
+    "Απόστολος Νικολαΐδης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 16 τραγουδιών της Alpha Records με τίτλο «Τα μεγάλα τραγούδια» (2002)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Αξιώτης Κεχαγιάς",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ακρογιαλιές δειλινά",
+      "performer": "Ελένη Ροδά",
+      "song": "akrogialies-deilina",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Με παρέσυρε το ρέμα",
+      "performer": "Θάνος Νικολάου",
+      "song": "me-paresyre-to-rema",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τα καβουράκια",
+      "performer": "Ρένα Ντάλλια",
+      "song": "ta-kavourakia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Δεν ρωτώ ποια είσαι",
+      "performer": "Μιχάλης Βασιλίκης, Ντίνος Δολιανίτης",
+      "song": "den-roto-poia-eisai",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κάνε λιγάκι υπομονή",
+      "performer": "Άννα Μελίτη",
+      "song": "kane-ligaki-ypomoni",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Όταν στα κέντρα σε πηγαίνω",
+      "performer": "Σωτηρία Λεονάρδου",
+      "song": "otan-sta-kentra-se-pigaino",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Αραπίνες",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "arapines",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σερσέ λα φαμ",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "serse-la-fam",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Στρώσε μου να κοιμηθώ",
+      "performer": "Ντίνος Δολιανίτης",
+      "song": "strose-mou-na-koimitho",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Της ταβέρνας το ρολόι",
+      "performer": "Πόλυ Πάνου",
+      "song": "tis-tavernas-to-roloi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Σε τούτο το παλιόσπιτο",
+      "performer": "Ντίνος Δολιανίτης",
+      "song": "se-touto-to-paliospito",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Το ντιβάνι",
+      "performer": "Ρένα Ντάλλια",
+      "song": "to-ntivani",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Χωρίσαμε ένα δειλινό",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "xorisame-ena-deilino",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Μπρος στο ρημαγμένο σπίτι",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "mpros-sto-rimagmeno-spiti",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Όταν συμβεί στα πέριξ",
+      "performer": "Απόστολος Νικολαΐδης",
+      "song": "otan-symvi-sta-perix",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα μεγάλα τραγούδια (2002)",
+      "url": "https://musicbrainz.org/release/dc75dbc6-1c14-46ce-a7f8-bc705c7ba8d1"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A 16-track Alpha Records compilation titled \"The Great Songs\" (2002)."
+    ]
+  }
+}

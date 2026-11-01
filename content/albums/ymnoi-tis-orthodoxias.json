@@ -1,0 +1,170 @@
+{
+  "slug": "ymnoi-tis-orthodoxias",
+  "composer": "markopoulos",
+  "title": "ΥΜΝΟΙ ΤΗΣ ΟΡΘΟΔΟΞΙΑΣ",
+  "year": 2005,
+  "type": "cycle",
+  "kind": "Ύμνοι της Ορθοδοξίας",
+  "label": "Seistron Music",
+  "format": "CD",
+  "performers": [
+    "Γιάννης Μαρκόπουλος",
+    "The Greek Byzantine Choir",
+    "Γιάννης Δαμαρλάκης"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 19 κομμάτια, που κυκλοφόρησε το 2005 από τη Seistron Music. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Κύριε, ελέησον -τεριρέμ-τενενά",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "kyrie-eleison-terirem-tenena",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Σώσον Κύριε τον λαόν σου(Απολυτίκιο υψώσεως του Σταυρού)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "soson-kyrie-ton-laon-sou",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Η Παρθένος σήμερον (Κοντάκιο των Χριστουγέννων)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "i-parthenos-simeron",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Ον παίδες ευλογείτε(Απο τον κανόνα του επιταφίου θρήνου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "on-paides-eylogeite",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ανοίξω το στόμα μου(Ειρμός της Ά ωδής του Ακαθίστου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "anoixo-to-stoma-mou",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Τη Υπερμάχω(Κοντάκιο του Ακαθίστου Ύμνου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "ti-ypermaxo",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Την Ωραιότητα (Από την Ακαθίστο Ύμνο)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "tin-oraiotita",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Ιδού ο Νύμφιος έρχεται(Από την ακολουθία του Νυμφίου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "idou-o-nymfios-erxetai",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Τον Νυμφώνα σου βλέπω(Εξαποστειλάριο του Νυμφίου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "ton-nymfona-sou-vlepo",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Εξέδυσάν με τα ιμάτια μου (Δοξαστικό της ακολουθίας των Παθών)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "exedysan-me-ta-imatia-mou",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Η ζωή εν τάφω(Απο την Ά Στάση των εγκωμίων Επιτάφιος θρήνος)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "i-zoi-en-tafo",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Άξιον εστί(Απο την Β' Στάση των εγκωμίων Επιτάφιος θρήνος)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "axion-esti",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Αι γενεαί αι πάσαι(Απο την Γ' Στάση των εγκωμίων Επιτάφιος θρήνος)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "ai-geneai-ai-pasai",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Χριστός Ανέστη(Απολυτίκιο Αναστάσεως)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "xristos-anesti",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Ευλογητός ει Χριστέ ο Θεός ημών(Απολυτίκιο Πεντηκοστής)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "eylogitos-ei-xriste-o-theos-imon",
+      "stub": true
+    },
+    {
+      "pos": 16,
+      "title": "Την τιμιωτέραν των Χερουβείμ(Θ' ωδή της Θεοτόκου)",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "tin-timioteran-ton-xerouveim",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Επιστολή Παύλου προς Κορινθίους",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "epistoli-paylou-pros-korinthious",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Δοξολογία",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "doxologia",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Απολυτίκιο του Αγίου Μηνά",
+      "performer": "Γιάννης Μαρκόπουλος, The Greek Byzantine Choir & Γιάννης Δαμαρλάκης",
+      "song": "apolytikio-tou-agiou-mina",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — ΥΜΝΟΙ ΤΗΣ ΟΡΘΟΔΟΞΙΑΣ (κυκλοφορία 2005-05)",
+      "url": "https://musicbrainz.org/release/a078a27d-a3be-4523-be09-22a79144b7fc"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Hymns of the Orthodox Church",
+    "about": [
+      "Album with music by Yannis Markopoulos, 19 tracks, released in 2005 on Seistron Music. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

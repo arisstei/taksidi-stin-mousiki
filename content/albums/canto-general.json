@@ -1,0 +1,95 @@
+{
+  "slug": "canto-general",
+  "composer": "theodorakis",
+  "title": "Canto General",
+  "year": 1975,
+  "type": "cycle",
+  "kind": "Καντάτα",
+  "label": "Columbia",
+  "performers": [
+    "Μαρία Φαραντούρη",
+    "Πέτρος Πάνδης",
+    "Percussions de Strasbourg",
+    "Chœur national (Paris)"
+  ],
+  "lyricists": [
+    "Pablo Neruda"
+  ],
+  "grade": "B",
+  "about": [
+    "Το «Canto General» του Πάμπλο Νερούδα σε μουσική Θεοδωράκη, για δύο σολίστ, χορωδία και ορχήστρα. Η πρώτη παρουσίαση το 1974 περιελάμβανε επτά μέρη· η πλήρης μορφή των δεκατριών μερών παρουσιάστηκε το 1981 στο Ανατολικό Βερολίνο και διαρκεί περίπου 110 λεπτά.",
+    "Η έκδοση του 1975 της Columbia / Pathé Marconi (EMI France) έχει τη Μαρία Φαραντούρη και τον Πέτρο Πάνδη, με τους Percussions de Strasbourg και την Εθνική Χορωδία της Γαλλίας, υπό τη διεύθυνση του συνθέτη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Algunas Bestias (Μερικά ζωντανά)",
+      "lyricist": "Pablo Neruda",
+      "song": "algunas-bestias",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Voy a Vivir (Θέλω να ζήσω)",
+      "lyricist": "Pablo Neruda",
+      "song": "voy-a-vivir",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Los Libertadores (Οι ελευθερωτές)",
+      "lyricist": "Pablo Neruda",
+      "song": "los-libertadores",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "La United Fruit Co. (Εταιρεία φρούτων)",
+      "lyricist": "Pablo Neruda",
+      "song": "la-united-fruit-co",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Vienen Los Pajaros (Έρχονται τα πουλιά)",
+      "lyricist": "Pablo Neruda",
+      "song": "vienen-los-pajaros",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Vegetaciones (Βλαστήσεις)",
+      "lyricist": "Pablo Neruda",
+      "song": "vegetaciones",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "America Insurrecta (Ξεσηκωμένη Αμερική)",
+      "lyricist": "Pablo Neruda",
+      "song": "america-insurrecta",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia — Canto General (Theodorakis)",
+      "url": "https://en.wikipedia.org/wiki/Canto_General_(Theodorakis)"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/a693a371-d42b-4293-94d4-6520f100800a"
+    }
+  ],
+  "en": {
+    "kind": "Cantata",
+    "about": [
+      "Pablo Neruda's Canto General set by Theodorakis for two soloists, chorus and orchestra. The first performance in 1974 included seven movements; the complete thirteen-movement form was presented in 1981 in East Berlin and runs about 110 minutes.",
+      "The 1975 Columbia / Pathé Marconi (EMI France) edition features Maria Farantouri and Petros Pandis, with the Percussions de Strasbourg and the French National Choir, under the composer."
+    ]
+  }
+}

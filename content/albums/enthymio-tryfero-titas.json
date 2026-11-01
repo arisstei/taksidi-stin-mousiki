@@ -1,0 +1,125 @@
+{
+  "slug": "enthymio-tryfero-titas",
+  "composer": "loizos",
+  "title": "Ενθύμιο τρυφερότητας",
+  "year": 1997,
+  "type": "anthology",
+  "kind": "Συλλογή (Δίφωνο, 24)",
+  "label": "Minos EMI",
+  "catalog": "24",
+  "format": "CD",
+  "performers": [
+    "Μάνος Λοΐζος",
+    "Μαρία Φαραντούρη",
+    "Μαρίζα Κωχ",
+    "Αλέκα Αλιμπέρτη",
+    "Δήμητρα Γαλάνη",
+    "Κώστας Σμοκοβίτης",
+    "Δώρα Σιτζάνη"
+  ],
+  "grade": "B",
+  "about": [
+    "Τεύχος 24 της σειράς συλλογών «Δίφωνο» (Minos EMI), με 12 τραγούδια του Λοΐζου σε ερμηνείες των Φαραντούρη, Κωχ, Αλιμπέρτη, Γαλάνη, Σμοκοβίτη, Σιτζάνη και του ίδιου του συνθέτη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Σεβάχ ο θαλασσινός",
+      "performer": "Μάνος Λοΐζος",
+      "song": "sevax-o-thalassinos",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ο γέρο-νέγρο Τζιμ",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "o-gero-negro-tzim",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τ' ακορντεόν",
+      "performer": "Μάνος Λοΐζος",
+      "song": "t-akornteon",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Νανούρισμα",
+      "performer": "Μάνος Λοΐζος & Μαρίζα Κωχ",
+      "song": "nanourisma"
+    },
+    {
+      "pos": "5",
+      "title": "Ο αρχηγός",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "o-arxigos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κουτσή κιθάρα",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "koutsi-kithara",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Χτύπησαν αργά",
+      "performer": "Μάνος Λοΐζος & Κώστας Σμοκοβίτης",
+      "song": "xtypisan-arga",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Πόσο σ' αγαπώ",
+      "performer": "Μάνος Λοΐζος & Δώρα Σιτζάνη",
+      "song": "poso-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σε ψάχνω",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "se-psaxno",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Δώδεκα παιδιά",
+      "performer": "Μάνος Λοΐζος & Κώστας Σμοκοβίτης",
+      "song": "dodeka-paidia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Σ' ακολουθώ",
+      "performer": "Μάνος Λοΐζος",
+      "song": "s-akoloutho",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Η μέρα εκείνη δε θ' αργήσει",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "i-mera-ekeini-de-th-argisei",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 24: Ενθύμιο τρυφερότητας, κυκλοφορία (1997)",
+      "url": "https://musicbrainz.org/release/0e93952a-f9ab-4f16-b6c4-8db6f2360c87"
+    },
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (Difono series, no. 24)",
+    "about": [
+      "Issue no. 24 of the “Difono” compilation series (Minos EMI), with 12 Loizos songs sung by Farantouri, Koch, Aliberti, Galani, Smokovitis, Sitzani and the composer himself."
+    ]
+  }
+}

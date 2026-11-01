@@ -1,0 +1,24 @@
+{
+  "slug": "edo-stin-xeni-xora",
+  "title": "Εδώ Στην Ξένη Χώρα",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Γιώργος Σκούρτης",
+  "year": "1974",
+  "performer": "Λάκης Χαλκιάς",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μετανάστες» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μετανάστες” (1974).",
+    "story": []
+  }
+}

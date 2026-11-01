@@ -1,0 +1,36 @@
+{
+  "slug": "ta-matia-sou-t-arapika",
+  "title": "Τα Μάτια Σου Τ' Αράπικα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αυθεντικές Εκτελέσεις» (1987), «ΙΙ» (1995), «Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)» (2010) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Discogs — Master Of Rembetika (2010)",
+      "url": "https://www.discogs.com/release/4768730"
+    },
+    {
+      "label": "Discogs — Είναι Πικρός Ο Θάνατος = Death Is Bitter (2022)",
+      "url": "https://www.discogs.com/release/25071406"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αυθεντικές Εκτελέσεις” (1987), “ΙΙ” (1995), “Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)” (2010) and 1 more.",
+    "story": []
+  }
+}

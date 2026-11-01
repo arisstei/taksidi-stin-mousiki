@@ -1,0 +1,119 @@
+{
+  "slug": "ena-mesimeri",
+  "composer": "xarchakos",
+  "title": "Ένα μεσημέρι",
+  "year": 1966,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Columbia Records",
+  "catalog": "33GSX 21",
+  "format": "LP",
+  "performers": [
+    "Βίκυ Μοσχολιού",
+    "Γρηγόρης Μπιθικώτσης",
+    "Σταμάτης Κόκοτας"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Columbia του 1966 με έξι τραγούδια σε στίχους Νίκου Γκάτσου — «Μάτια βουρκωμένα», «Στου Όθωνα τα χρόνια», «Άσπρη μέρα και για μας», «Ο Λευτέρης», «Με τι καρδιά τον κόσμο ν' αρνηθώ» και «Η νύχτα» — και ορχηστρικά ανάμεσά τους.",
+    "Σύμφωνα με τη Βικιπαίδεια, τα «Μάτια βουρκωμένα», «Στου Όθωνα τα χρόνια» και «Με τι καρδιά (Αποχαιρετισμός)» ακούγονται στην ταινία «Διπλοπενιές» (1966) του Γιώργου Σκαλενάκη, για την οποία ο Ξαρχάκος έγραψε τη μουσική."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Μάτια βουρκωμένα",
+      "performer": "Γρηγόρης Μπιθικώτσης & Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "matia-vourkomena",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Στου Όθωνα τα χρόνια",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "stou-othona-ta-xronia",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ζεμπέκικο"
+    },
+    {
+      "pos": "A4",
+      "title": "Άσπρη μέρα και για μας",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "aspri-mera-kai-gia-mas",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Τσιφτετέλι",
+      "song": "tsifteteli",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Φινάλε πρώτου μέρους"
+    },
+    {
+      "pos": "B1",
+      "title": "Ο Λευτέρης",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-leyteris",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Χασάπικο",
+      "song": "xasapiko",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Με τι καρδιά τον κόσμο ν' αρνηθώ",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "me-ti-kardia-ton-kosmo-n-arnitho",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "5/8"
+    },
+    {
+      "pos": "B5",
+      "title": "Η νύχτα",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-nyxta",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Φινάλε δεύτερου μέρους"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ένα μεσημέρι (1966)",
+      "url": "https://musicbrainz.org/release-group/7a133af8-be5f-4b44-9ca7-3e59cfe9e393"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "A 1966 Columbia album with six songs to lyrics by Nikos Gatsos - \"Matia vourkomena\", \"Stou Othona ta chronia\", \"Aspri mera kai gia mas\", \"O Lefteris\", \"Me ti kardia ton kosmo n' arnitho\" and \"I nychta\" - with instrumentals in between.",
+      "According to Wikipedia, \"Matia vourkomena\", \"Stou Othona ta chronia\" and \"Me ti kardia (Apochairetismos)\" are heard in the film Diplopenies (1966), directed by Giorgos Skalenakis, for which Xarchakos wrote the music."
+    ]
+  }
+}

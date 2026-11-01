@@ -1,0 +1,28 @@
+{
+  "slug": "koroido-adika-gyrnas",
+  "title": "Κορόιδο Άδικα Γυρνάς",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Μάρκος Βαμβακάρης · Ρόζα Εσκενάζυ",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αυθεντικές Εκτελέσεις» (1987), «Τα Μεγάλα Τραγούδια» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αυθεντικές Εκτελέσεις” (1987), “Τα Μεγάλα Τραγούδια” (2016).",
+    "story": []
+  }
+}

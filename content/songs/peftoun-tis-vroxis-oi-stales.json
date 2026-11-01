@@ -1,0 +1,28 @@
+{
+  "slug": "peftoun-tis-vroxis-oi-stales",
+  "title": "Πέφτουν Της Βροχής Οι Στάλες",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "2001",
+  "performer": "Πόλυ Πάνου, Βασίλης Τσιτσάνης · Πρόδρομος Τσαουσάκης, Ιωάννα Γεωργακοπούλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τσιτσάνης» (2001), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τσιτσάνης (2001)",
+      "url": "https://musicbrainz.org/release/12cbd6e3-6efd-4372-ab01-11e2ebd1fbcf"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τσιτσάνης” (2001), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

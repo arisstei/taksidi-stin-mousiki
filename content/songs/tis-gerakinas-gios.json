@@ -1,0 +1,32 @@
+{
+  "slug": "tis-gerakinas-gios",
+  "title": "Της γερακίνας γιος",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Κώστας Βίρβος",
+  "year": "1995",
+  "performer": "Πόλυ Πάνου · Βασίλης Τσιτσάνης, Λιζέττα Νικολάου · Βασίλης Τσιτσάνης, Λιζέτα Καλημέρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αμάν αμήν» (1995), «40 χρόνια: 1938-1978» (2008), «Η Ελλάδα Του Βασίλη Τσιτσάνη» (2014).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αμάν αμήν (1995)",
+      "url": "https://musicbrainz.org/release-group/a80acbfa-2a58-445e-bc4c-c143ab286f48"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    },
+    {
+      "label": "MusicBrainz — Η Ελλάδα Του Βασίλη Τσιτσάνη (2014)",
+      "url": "https://musicbrainz.org/release/10cbdfd3-218f-42bb-9ac3-12c9e02d14a8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αμάν αμήν” (1995), “40 χρόνια: 1938-1978” (2008), “Η Ελλάδα Του Βασίλη Τσιτσάνη” (2014).",
+    "story": []
+  }
+}

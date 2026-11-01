@@ -1,0 +1,84 @@
+{
+  "slug": "ta-kinimatografika",
+  "composer": "zambetas",
+  "title": "Τα κινηματογραφικά",
+  "year": 2006,
+  "type": "film",
+  "kind": "Τραγούδια από ταινίες",
+  "label": "EMI Soundtracks",
+  "catalog": "374160 2",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή του 2006 με δέκα τραγούδια του Ζαμπέτα από ελληνικές ταινίες, όπως «Τα κόκκινα φανάρια», «5000 ψέματα», «Πάρε, κόσμε» και «Θέλω να ζήσω στον ήλιο». Σύμφωνα με τη Βικιπαίδεια, ο Ζαμπέτας εμφανίστηκε ο ίδιος σε περισσότερες από 160 ελληνικές ταινίες."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο μαθητής (από: Τα κόκκινα φανάρια)",
+      "song": "o-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πατέρα κάτσε φρόνιμα (από: ομώνυμη ταινία)",
+      "song": "patera-katse-fronima",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο πρωταθλητής (από: 5000 ψέματα)",
+      "song": "o-protathlitis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Αγαθοκλής (από: Πάρε, κόσμε)"
+    },
+    {
+      "pos": "5",
+      "title": "Ο Γιαννάκης (από: Γαμπρός από το Λονδίνο)"
+    },
+    {
+      "pos": "6",
+      "title": "Ο πιτσιρικάς (από: Μιας πεντάρας νιάτα)"
+    },
+    {
+      "pos": "7",
+      "title": "Δεν μου καίγεται καρφάκι (από: Ο γαμπρός μου ο προικοθήρας)"
+    },
+    {
+      "pos": "8",
+      "title": "Ο αράπης (από: Η Αθήνα μετά τα μεσάνυχτα)",
+      "song": "o-arapis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Το ταβερνάκι (από: Θέλω να ζήσω στον ήλιο)"
+    },
+    {
+      "pos": "10",
+      "title": "Θα γλεντήσω στου Ζαμπέτα (από: Θέλω να ζήσω στον ήλιο)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα κινηματογραφικά (2006, EMI Soundtracks 374160 2)",
+      "url": "https://musicbrainz.org/release/7ab486bb-0c5b-418f-b750-439904dbe484"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    }
+  ],
+  "en": {
+    "kind": "Songs from films",
+    "about": [
+      "A 2006 compilation of ten Zampetas songs from Greek films, including Ta kokkina fanaria, 5000 psemata, Pare kosme and Thelo na ziso ston ilio. According to Wikipedia, Zampetas himself appeared in more than 160 Greek films."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sto-leyko-ton-pyrgo",
+  "title": "Στο λευκό τον πύργο",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "2006",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Συλλογή Δίφωνο, 136: Διάταξη ψυχής» (2006), «Γιώργος Ζαμπέτας (Espresso)» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 136: Διάταξη ψυχής (2006, Δίφωνο 136)",
+      "url": "https://musicbrainz.org/release/efa130ac-d5c1-421f-98b5-daddc935ce23"
+    },
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Espresso) (2008, Espresso)",
+      "url": "https://musicbrainz.org/release/449ec124-4905-4aab-9ec3-c7c826055809"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Συλλογή Δίφωνο, 136: Διάταξη ψυχής” (2006), “Γιώργος Ζαμπέτας (Espresso)” (2008).",
+    "story": []
+  }
+}

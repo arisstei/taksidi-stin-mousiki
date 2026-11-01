@@ -1,0 +1,166 @@
+{
+  "slug": "minos-emi-ii-1995",
+  "composer": "vamvakaris",
+  "title": "ΙΙ",
+  "year": 1995,
+  "type": "anthology",
+  "kind": "Συλλογή CD από τη σειρά «Συνθέτες του Ρεμπέτικου»",
+  "label": "Minos-EMI",
+  "catalog": "7243 4 80698 2",
+  "format": "CD, Compilation, Remastered",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Απόστολος Χατζηχρήστος",
+    "Στράτος Παγιουμτζής",
+    "Κορίνα Θεσσαλονικιά",
+    "Έλλη Πετρίδου"
+  ],
+  "grade": "B",
+  "about": [
+    "Δεύτερο CD της σειράς της Minos-EMI για τον Βαμβακάρη, με 18 ηχογραφήσεις 1932–1940, ανάμεσά τους το «Καραντουζένι» (1933), πρώτο εμπορικά επιτυχημένο τραγούδι με μπουζούκι, και το «Αράπ ζεϊμπέκικο». Επιμέλεια Παναγιώτη Κουνάδη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Καραντουζένι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "karantouzeni",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ώρες Με Θρέφει Ο Λουλάς",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ores-me-threfei-o-loulas",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τα Μάτια Σου Τ' Αράπικα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ta-matia-sou-t-arapika",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Κάποτε Ήμουνα Κι Εγώ",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kapote-imouna-ki-ego",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Συνάχης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-synaxis",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Όταν Πίνω Τουμπεκάκι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "otan-pino-toumpekaki",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Μάρκος Ο Συριανός (Όπου Μπαίνω Με Κοιτούνε)",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "markos-o-syrianos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Κούλα Φραγκοσυριανή",
+      "performer": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης",
+      "song": "koula-fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Κάτω 'κει Στη Δραπετσώνα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kato-kei-sti-drapetsona",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μπαμπέσικα Μου Τα 'φερες",
+      "performer": "Στέλιος Κερομύτης, Ιωάννα Γεωργακοπούλου",
+      "song": "mpampesika-mou-ta-feres",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Γιατί Γιατί Μου Το 'κρυψες",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "giati-giati-mou-to-krypses",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Καβαλιώτισσα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kavaliotissa",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Είσαι Μελαχροινό Και Νόστιμο",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "eisai-melaxroino-kai-nostimo",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Δεν Παύει Πια Το Στόμα Σου",
+      "performer": "Κορίνα Θεσσαλονικιά, Μάρκος Βαμβακάρης",
+      "song": "den-payei-pia-to-stoma-sou",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Στης Νύχτας Το Σκοτάδι",
+      "performer": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "song": "stis-nyxtas-to-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Μια Όμορφη Μελαχροινή",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "mia-omorfi-melaxroini",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Είσαι Αφράτη Σαν Φρατζόλα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "eisai-afrati-san-fratzola",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Αράπ-Ζεϊμπέκικο",
+      "performer": "\"Αράπ-Ζεϊμπέκικο\" Orchestra",
+      "song": "arap-zeimpekiko",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Βικιπαίδεια — Μάρκος Βαμβακάρης",
+      "url": "https://el.wikipedia.org/wiki/Μάρκος_Βαμβακάρης"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation from the series “Composers of Rebetiko”",
+    "about": [
+      "Second CD in Minos-EMI's series on Vamvakaris: 18 recordings from 1932–1940, including “Karantouzeni” (1933) and “Arap zeimbekiko”. Compiled by Panagiotis Kounadis."
+    ]
+  }
+}

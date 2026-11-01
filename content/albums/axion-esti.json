@@ -1,0 +1,135 @@
+{
+  "slug": "axion-esti",
+  "composer": "theodorakis",
+  "title": "Άξιον Εστί",
+  "year": 1964,
+  "type": "cycle",
+  "kind": "Λαϊκό ορατόριο",
+  "label": "His Master's Voice",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Μάνος Κατράκης (αναγνώστης)",
+    "Θεόδωρος Δημήτριεφ (ψάλτης)"
+  ],
+  "lyricists": [
+    "Οδυσσέας Ελύτης"
+  ],
+  "grade": "A",
+  "about": [
+    "Το «Άξιον Εστί» του Οδυσσέα Ελύτη, σε μουσική Θεοδωράκη, σε τρία μέρη — Γένεση, Πάθη, Δοξαστικόν. Ο συνθέτης το ξεκίνησε το 1960 και, όπως ο ίδιος σημειώνει, χρειάστηκε τρία ακόμη χρόνια για να το ολοκληρώσει· παρουσιάστηκε στο κοινό στο θέατρο Ρεξ το 1964 και κυκλοφόρησε μετά την πρεμιέρα.",
+    "Στον δίσκο ο Γρηγόρης Μπιθικώτσης τραγουδά με τη λαϊκή ορχήστρα (ηχογράφηση στο στούντιο Columbia), ο βαρύτονος Θεόδωρος Δημήτριεφ ψάλλει με χορωδία και τη Μικρή Ορχήστρα Αθηνών (στο στούντιο Άλφα) και ο Μάνος Κατράκης είναι ο αναγνώστης. Το εξώφυλλο είναι του Γιάννη Τσαρούχη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Η γένεσις: Τότε είπε",
+      "song": "i-genesis-tote-eipe",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα πάθη: Ιδού εγώ λοιπόν",
+      "song": "ta-pathi-idou-ego-loipon",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τα πάθη: Η πορεία προς το μέτωπο",
+      "song": "ta-pathi-i-poreia-pros-to-metopo",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τα πάθη: Ένα το χελιδόνι",
+      "song": "ta-pathi-ena-to-xelidoni",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τα πάθη: Τα θεμέλιά μου στα βουνά",
+      "song": "ta-pathi-ta-themelia-mou-sta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τα πάθη: Με το λύχνο του άστρου",
+      "song": "ta-pathi-me-to-lyxno-tou-astrou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τα πάθη: Η μεγάλη έξοδος",
+      "song": "ta-pathi-i-megali-exodos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Τα πάθη: Της δικαιοσύνης ήλιε",
+      "song": "ta-pathi-tis-dikaiosynis-ilie",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τα πάθη: Ναοί στο σχήμα τ' ουρανού (ορχηστρικό)",
+      "song": "ta-pathi-naoi-sto-sxima-t-ouranou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τα πάθη: Της αγάπης αίματα",
+      "song": "ta-pathi-tis-agapis-aimata",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Τα πάθη: Ναοί στο σχήμα τ' ουρανού",
+      "song": "ta-pathi-naoi-sto-sxima-t-ouranou",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Τα πάθη: Προφητικόν",
+      "song": "ta-pathi-profitikon",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τα πάθη: Ανοίγω το στόμα μου",
+      "song": "ta-pathi-anoigo-to-stoma-mou",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Τα πάθη: Σε χώρα μακρινή",
+      "song": "ta-pathi-se-xora-makrini",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Το δοξαστικόν",
+      "song": "to-doxastikon",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Άξιον Εστί (δίσκος 1964, κατάλογος κομματιών)",
+      "url": "https://www.mikistheodorakis.gr/el/music/listen/byalbum/?albumid=175"
+    },
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Άξιον Εστί (εργογραφία: σύνθεση, δομή, ηχογράφηση)",
+      "url": "https://www.mikistheodorakis.gr/el/music/ergography/popularoratorios/?nid=4582"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Χρονολόγιο 1961–1970 (1964)",
+      "url": "https://mikisguide.gr/xronologio-1961-1970/"
+    }
+  ],
+  "en": {
+    "kind": "Popular oratorio",
+    "about": [
+      "Odysseas Elytis's Axion Esti set by Theodorakis in three parts — Genesis, Passions, Doxastikon. The composer began it in 1960 and, by his own account, needed three more years to finish it; it was presented to the public at the Rex theatre in 1964 and released after the premiere.",
+      "On the record Grigoris Bithikotsis sings with the popular orchestra (recorded at Columbia studio), the baritone Theodoros Dimitriev chants with chorus and the Little Orchestra of Athens (recorded at Alfa studio), and Manos Katrakis is the narrator. The cover is by Yiannis Tsarouchis."
+    ]
+  }
+}

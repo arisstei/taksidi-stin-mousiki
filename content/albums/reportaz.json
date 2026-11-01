@@ -1,0 +1,91 @@
+{
+  "slug": "reportaz",
+  "composer": "markopoulos",
+  "title": "Ρεπορτάζ",
+  "year": 1985,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 603",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 10 κομμάτια, που κυκλοφόρησε το 1985 από τη Minos. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Γύρω Γύρω Στην Πλατεία",
+      "song": "gyro-gyro-stin-plateia",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Το Φίδι Κι Ο Αλέξανδρος",
+      "song": "to-fidi-ki-o-alexandros",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Ώρα Μηδέν",
+      "song": "ora-miden",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Οδυσσέας ΄85",
+      "song": "odysseas-85",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Διπλό Σχόλιο"
+    },
+    {
+      "pos": 6,
+      "title": "Πως Ήρθανε Τα Πράγματα",
+      "song": "pos-irthane-ta-pragmata",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Μισάνοιχτο Παράθυρο",
+      "song": "misanoixto-parathyro",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Ατέλειωτες Κουβέντες",
+      "song": "ateleiotes-kouventes",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Η Κουμαντάρα",
+      "song": "i-koumantara",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Στο Πεδίον Του Άρεως",
+      "song": "sto-pedion-tou-areos",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ρεπορτάζ (κυκλοφορία 1985)",
+      "url": "https://musicbrainz.org/release/eb8e5e84-ba98-4e63-a0c7-60e3a0757e37"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 10 tracks, released in 1985 on Minos. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

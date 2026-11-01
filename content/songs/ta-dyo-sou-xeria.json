@@ -1,0 +1,36 @@
+{
+  "slug": "ta-dyo-sou-xeria",
+  "title": "Τα Δυο Σου Χέρια",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": "Μάρκος Βαμβακάρης",
+  "year": "1966",
+  "performer": "Βαγγέλης Περπινιάδης · Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Μάρκος ο δάσκαλός μας» (1968), «40 Χρόνια Βαμβακάρης» (1980) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Μάρκος ο δάσκαλός μας” (1968), “40 Χρόνια Βαμβακάρης” (1980) and 2 more.",
+    "story": []
+  }
+}

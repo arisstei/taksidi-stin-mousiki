@@ -1,0 +1,24 @@
+{
+  "slug": "i-vezyropoula",
+  "title": "Η Βεζυροπούλα",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": "Κώστας Βίρβος",
+  "year": "1971",
+  "performer": "Γιάννης Καλατζής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ζει;» (1971).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ζει;, Minos MSM 141, LP (1971)",
+      "url": "https://www.discogs.com/release/3540666"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ζει;” (1971).",
+    "story": []
+  }
+}

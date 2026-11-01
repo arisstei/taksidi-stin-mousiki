@@ -1,0 +1,32 @@
+{
+  "slug": "poia-nyxta-s-eklepse",
+  "title": "Ποια νύχτα σ' έκλεψε",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1970",
+  "performer": "Γιάννης Πουλόπουλος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μέρες του καλοκαιριού» (1970), «Ιωβηλαίον» (2002), «The Jazz Side of Mimis Plessas (Complete Recordings 1981–1985)» (2005).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μέρες του καλοκαιριού, Lyra SYLP 3570 (1970)",
+      "url": "https://www.discogs.com/release/3534096"
+    },
+    {
+      "label": "MusicBrainz — Ιωβηλαίον, Minos-EMI (2002)",
+      "url": "https://musicbrainz.org/release/6bcedeb9-0e57-4dc7-9d2e-a8a6bb14bddd"
+    },
+    {
+      "label": "MusicBrainz — The Jazz Side of Mimis Plessas (2005)",
+      "url": "https://musicbrainz.org/release-group/be74db0e-38bb-4a15-81d4-cb8fd134d5d6"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μέρες του καλοκαιριού” (1970), “Ιωβηλαίον” (2002), “The Jazz Side of Mimis Plessas (Complete Recordings 1981–1985)” (2005).",
+    "story": []
+  }
+}

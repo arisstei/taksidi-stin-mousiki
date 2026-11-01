@@ -1,0 +1,24 @@
+{
+  "slug": "taxideyoume-aderfia",
+  "title": "Ταξιδεύουμε αδέρφια",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ματθαίος Μουντές",
+  "year": "1976",
+  "performer": "Δήμητρα Γαλάνη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Η συμφωνία της Γιάλτας και της πικρής αγάπης τα τραγούδια» (1976).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η συμφωνία της Γιάλτας και της πικρής αγάπης τα τραγούδια (1976)",
+      "url": "https://musicbrainz.org/release-group/926d3aa0-bf44-4c90-ab4e-7c0d32b3d412"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Η συμφωνία της Γιάλτας και της πικρής αγάπης τα τραγούδια” (1976).",
+    "story": []
+  }
+}

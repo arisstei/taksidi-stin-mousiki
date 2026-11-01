@@ -1,0 +1,95 @@
+{
+  "slug": "diafanos-stavros",
+  "composer": "plessas",
+  "title": "Διάφανος σταυρός",
+  "year": 2016,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Ελεύθερος Τύπος",
+  "format": "CD",
+  "performers": [
+    "Θάνος Ολύμπιος",
+    "Δέσποινα Ολυμπίου",
+    "Ραλλία Χρηστίδου"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος με μουσική του Μίμη Πλέσσα και ερμηνευτή τον Θάνο Ολύμπιο, με συμμετοχές της Δέσποινας Ολυμπίου και της Ραλλίας Χρηστίδου. Κυκλοφόρησε σε περιορισμένη έκδοση CD από την εφημερίδα «Ελεύθερος Τύπος» στις 2 Απριλίου 2016."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Άλλο ένα Σάββατο",
+      "song": "allo-ena-savvato",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Στον αγέρα σ’ αγκαλιάζω",
+      "song": "ston-agera-s-agkaliazo",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ώρες του χθες",
+      "performer": "Ραλλία Χρηστίδου",
+      "song": "ores-tou-xthes",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Όσες και όσοι",
+      "song": "oses-kai-osoi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Διάφανος σταυρός",
+      "song": "diafanos-stayros",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ονειρέψου με",
+      "performer": "Δέσποινα Ολυμπίου",
+      "song": "oneirepsou-me",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αχ και να μπορούσα",
+      "song": "ax-kai-na-mporousa",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Δυο μήνες μόνο",
+      "song": "dyo-mines-mono",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μη μ’ αφήσεις να φύγω",
+      "song": "mi-m-afiseis-na-fygo",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Εσύ μιλάς",
+      "song": "esy-milas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Διάφανος σταυρός, Ελεύθερος Τύπος (2016)",
+      "url": "https://www.discogs.com/release/14870854"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A record of music by Mimis Plessas with Thanos Olympios as singer, featuring Despina Olympiou and Rallia Christidou. Issued as a limited-edition CD by the newspaper Eleftheros Typos on 2 April 2016."
+    ]
+  }
+}

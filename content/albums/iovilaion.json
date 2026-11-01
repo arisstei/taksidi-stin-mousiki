@@ -1,0 +1,230 @@
+{
+  "slug": "iovilaion",
+  "composer": "plessas",
+  "title": "Ιωβηλαίον",
+  "year": 2002,
+  "type": "anthology",
+  "kind": "Ζωντανή ηχογράφηση — ανθολογία",
+  "label": "Minos-EMI",
+  "catalog": "7243 5 81565 2 2",
+  "format": "2×CD",
+  "performers": [
+    "Μίμης Πλέσσας",
+    "Ελευθερία Αρβανιτάκη",
+    "Μαρινέλλα",
+    "Δημήτρης Μητροπάνος"
+  ],
+  "grade": "B",
+  "about": [
+    "Διπλός δίσκος του 2002 (καταχωρισμένος ως live) με επιλογές από το έργο του Πλέσσα — από τη «Μικρή σουίτα για την Ελεάνα» και θέματα της «μεγάλης οθόνης» ως τραγούδια όπως «Άνοιξε πέτρα» και «Θα πιω απόψε το φεγγάρι», με συμμετοχές των Ελευθερίας Αρβανιτάκη, Μαρινέλλας και Δημήτρη Μητροπάνου."
+  ],
+  "tracks": [
+    {
+      "pos": "1.1",
+      "title": "Αστέρι αστεράκι",
+      "song": "asteri-asteraki",
+      "stub": true
+    },
+    {
+      "pos": "1.2",
+      "title": "Θέμα Α'"
+    },
+    {
+      "pos": "1.3",
+      "title": "Αυτοσχεδιασμός στα 9/8",
+      "song": "aytosxediasmos-sta-9-8",
+      "stub": true
+    },
+    {
+      "pos": "1.4",
+      "title": "Αν σ' αρνηθώ αγάπη μου",
+      "song": "an-s-arnitho-agapi-mou",
+      "stub": true
+    },
+    {
+      "pos": "1.5",
+      "title": "Από σένα αρχίζουν όλα",
+      "song": "apo-sena-arxizoun-ola",
+      "stub": true
+    },
+    {
+      "pos": "1.6",
+      "title": "Τι κρίμα",
+      "song": "ti-krima",
+      "stub": true
+    },
+    {
+      "pos": "1.7",
+      "title": "Μικρή σουίτα για την Ελεάνα",
+      "song": "mikri-souita-gia-tin-eleana",
+      "stub": true
+    },
+    {
+      "pos": "1.8",
+      "title": "Στιγμές από τη μεγάλη οθόνη",
+      "song": "stigmes-apo-ti-megali-othoni",
+      "stub": true
+    },
+    {
+      "pos": "1.9",
+      "title": "Η πρώτη μας νύχτα",
+      "song": "i-proti-mas-nyxta",
+      "stub": true
+    },
+    {
+      "pos": "1.10",
+      "title": "Ένας ουρανός μ' αστέρια",
+      "song": "enas-ouranos-m-asteria",
+      "stub": true
+    },
+    {
+      "pos": "1.11",
+      "title": "Μοιρολόι",
+      "song": "moiroloi",
+      "stub": true
+    },
+    {
+      "pos": "1.12",
+      "title": "Αητέ και παλικάρι",
+      "song": "aite-kai-palikari",
+      "stub": true
+    },
+    {
+      "pos": "1.13",
+      "title": "Τραγούδια που δεν έχουν εποχές",
+      "song": "tragoudia-pou-den-exoun-epoxes",
+      "stub": true
+    },
+    {
+      "pos": "2.1",
+      "title": "Παραλλαγές με θέμα το φεγγάρι"
+    },
+    {
+      "pos": "2.2",
+      "title": "Ποιος το ξέρει",
+      "song": "poios-to-xerei",
+      "stub": true
+    },
+    {
+      "pos": "2.3",
+      "title": "Σταμάτησε του ρολογιού τους δείκτες",
+      "performer": "Ελευθερία Αρβανιτάκη",
+      "song": "stamatise-tou-rologiou-tous-deiktes",
+      "stub": true
+    },
+    {
+      "pos": "2.4",
+      "title": "Αν είναι η αγάπη αμαρτία",
+      "song": "an-einai-i-agapi-amartia",
+      "stub": true
+    },
+    {
+      "pos": "2.5",
+      "title": "Καμαρούλα",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "kamaroula",
+      "stub": true
+    },
+    {
+      "pos": "2.6",
+      "title": "Άγαλμα",
+      "song": "to-agalma",
+      "stub": true
+    },
+    {
+      "pos": "2.7",
+      "title": "Έπεφτε βαθιά σιωπή",
+      "song": "epefte-vathia-siopi",
+      "stub": true
+    },
+    {
+      "pos": "2.8",
+      "title": "Ποια νύχτα σ' έκλεψε",
+      "song": "poia-nyxta-s-eklepse",
+      "stub": true
+    },
+    {
+      "pos": "2.9",
+      "title": "Βρέχει φωτιά στη στράτα μου",
+      "song": "vrexei-fotia-sti-strata-mou",
+      "stub": true
+    },
+    {
+      "pos": "2.10",
+      "title": "Άνοιξε πέτρα",
+      "performer": "Μαρινέλλα",
+      "song": "anoixe-petra",
+      "stub": true
+    },
+    {
+      "pos": "2.11",
+      "title": "Άμα δείτε το φεγγάρι",
+      "song": "ama-deite-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "2.12",
+      "title": "Απόψε σε θέλω",
+      "song": "apopse-se-thelo",
+      "stub": true
+    },
+    {
+      "pos": "2.13",
+      "title": "Σε βλέπω στο ποτήρι μου",
+      "performer": "Μαρινέλλα",
+      "song": "se-vlepo-sto-potiri-mou",
+      "stub": true
+    },
+    {
+      "pos": "2.14",
+      "title": "Θα πιω απόψε το φεγγάρι",
+      "performer": "Μαρινέλλα",
+      "song": "tha-pio-apopse-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "2.15",
+      "title": "Τι σου 'κανα και πίνεις",
+      "song": "ti-sou-kana-kai-pineis",
+      "stub": true
+    },
+    {
+      "pos": "2.16",
+      "title": "Το φεγγάρι πάνωθέ μου",
+      "song": "to-feggari-panothe-mou",
+      "stub": true
+    },
+    {
+      "pos": "2.17",
+      "title": "Βρέχει πάλι απόψε",
+      "song": "vrexei-pali-apopse",
+      "stub": true
+    },
+    {
+      "pos": "2.18",
+      "title": "Έκλαψα χθες",
+      "performer": "Ελευθερία Αρβανιτάκη & Μαρινέλλα",
+      "song": "eklapsa-xthes",
+      "stub": true
+    },
+    {
+      "pos": "2.19",
+      "title": "Μη του μιλάτε του παιδιού",
+      "performer": "Ελευθερία Αρβανιτάκη, Μαρινέλλα & Δημήτρης Μητροπάνος",
+      "song": "mi-tou-milate-tou-paidiou",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ιωβηλαίον, Minos-EMI (2002)",
+      "url": "https://musicbrainz.org/release/6bcedeb9-0e57-4dc7-9d2e-a8a6bb14bddd"
+    }
+  ],
+  "en": {
+    "kind": "Live recording — anthology",
+    "about": [
+      "A 2002 double album (listed as live) of selections from Plessas's work, from the “Small suite for Eleana” and screen themes to songs such as “Anoixe petra” and “Tha pio apopse to feggari”, with Eleftheria Arvanitaki, Marinella and Dimitris Mitropanos."
+    ]
+  }
+}

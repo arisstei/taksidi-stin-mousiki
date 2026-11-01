@@ -1,0 +1,89 @@
+{
+  "slug": "zorba-the-greek-ost",
+  "composer": "theodorakis",
+  "title": "Zorba the Greek (Original Soundtrack Album)",
+  "year": 1964,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "20th Century Fox Records",
+  "grade": "B",
+  "about": [
+    "Η μουσική του Θεοδωράκη για την ταινία «Αλέξης Ζορμπάς» (Zorba the Greek, 1964) του Μιχάλη Κακογιάννη. Το χορευτικό θέμα της, γνωστό ως «χορός του Ζορμπά» και «συρτάκι», βγήκε σε δίσκο 45 στροφών το 1965 και έγινε επιτυχία σε πολλές χώρες.",
+    "Το συρτάκι δημιουργήθηκε για την ταινία: συνδυάζει το αργό χασάπικο με το γρήγορο χασαποσέρβικο, ενώ η μουσική είναι διασκευή ενός παραδοσιακού κρητικού συρτού του Γιώργη Κουτσουρέλη. Η χούντα απαγόρευσε το κομμάτι, όπως και το υπόλοιπο έργο του συνθέτη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Theme From Zorba the Greek"
+    },
+    {
+      "pos": "2",
+      "title": "The Full Catastrophe"
+    },
+    {
+      "pos": "3",
+      "title": "Life Goes On"
+    },
+    {
+      "pos": "4",
+      "title": "The One Unforgivable Sin"
+    },
+    {
+      "pos": "5",
+      "title": "Questions Without Answers"
+    },
+    {
+      "pos": "6",
+      "title": "Zorba's Dance"
+    },
+    {
+      "pos": "7",
+      "title": "The Fire Inside"
+    },
+    {
+      "pos": "8",
+      "title": "Clever People and Grocers"
+    },
+    {
+      "pos": "9",
+      "title": "Always Look for Trouble"
+    },
+    {
+      "pos": "10",
+      "title": "Life Goes On (reprise)"
+    },
+    {
+      "pos": "11",
+      "title": "Free"
+    },
+    {
+      "pos": "12",
+      "title": "That's Me - Zorba!"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia — Zorba's Dance",
+      "url": "https://en.wikipedia.org/wiki/Zorba%27s_Dance"
+    },
+    {
+      "label": "Wikipedia — Mikis Theodorakis (κινηματογραφική μουσική)",
+      "url": "https://en.wikipedia.org/wiki/Mikis_Theodorakis"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Χρονολόγιο 1961–1970 (1964)",
+      "url": "https://mikisguide.gr/xronologio-1961-1970/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/f6524c23-3cba-32dd-abb6-5d9e2157e8da"
+    }
+  ],
+  "en": {
+    "kind": "Film score",
+    "about": [
+      "Theodorakis's score for Michael Cacoyannis's film Zorba the Greek (1964). Its dance theme, known as “Zorba's Dance” or sirtaki, came out as a single in 1965 and became a hit in many countries.",
+      "The sirtaki was created for the film: it combines the slow hasapiko with the fast hasaposerviko, and the tune is adapted from a traditional Cretan syrtos by Giorgis Koutsourelis. The junta banned the piece, along with the rest of the composer's work."
+    ]
+  }
+}

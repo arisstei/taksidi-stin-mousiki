@@ -1,0 +1,121 @@
+{
+  "slug": "i-mpalanta-tou-mautxaouzen",
+  "composer": "theodorakis",
+  "title": "Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη",
+  "year": 1966,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "His Master's Voice",
+  "performers": [
+    "Μαρία Φαραντούρη"
+  ],
+  "lyricists": [
+    "Ιάκωβος Καμπανέλλης",
+    "Νίκος Γκάτσος",
+    "Δημήτρης Χριστοδούλου",
+    "Τάσος Λειβαδίτης",
+    "Γεράσιμος Σταύρου"
+  ],
+  "grade": "A",
+  "about": [
+    "Ο δίσκος που ένωσε τέσσερα ποιήματα του Ιάκωβου Καμπανέλλη από το «Μαουτχάουζεν» — «Άσμα Ασμάτων», «Ο Αντώνης», «Ο δραπέτης», «Όταν τελειώσει ο πόλεμος» — με έξι ακόμη τραγούδια, τον λεγόμενο Κύκλο Φαραντούρη, με στίχους των Γκάτσου, Χριστοδούλου, Λειβαδίτη και Σταύρου. Όλα τραγουδά η Μαρία Φαραντούρη.",
+    "Σύμφωνα με την εργογραφία του Ιδρύματος, η Φαραντούρη ηχογράφησε τα τραγούδια στο στούντιο Columbia με μηχανικό τον Νίκο Κανελλόπουλο· στο πιάνο ο Γιάννης Διδίλης, μπουζούκια οι Κώστας Παπαδόπουλος και Λάκης Καρνέζης, βιολοντσέλο ο Σωτήρης Ταχιάτης, φλάουτο ο Σπύρος Ρέγγιος. Το έργο παρουσιάστηκε το 1988 στο ίδιο το στρατόπεδο του Μαουτχάουζεν, και αργότερα ηχογραφήθηκε σε ελληνική, εβραϊκή και αγγλική εκδοχή."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Άσμα Ασμάτων",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "asma-asmaton",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ο Αντώνης",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "o-antonis",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο δραπέτης",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "o-drapetis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Όταν τελειώσει ο πόλεμος",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "otan-teleiosei-o-polemos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Κουράστηκα να σε κρατώ",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "kourastika-na-se-krato",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ο ίσκιος έπεσε βαρύς",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "o-iskios-epese-varys",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Πήρα τους δρόμους τ' ουρανού",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "pira-tous-dromous-t-ouranou",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στου κόσμου την ανηφοριά",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "stou-kosmou-tin-aniforia",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Το εκκρεμές",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "to-ekkremes",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τ' όνειρο καπνός (Στης νύχτας το μπαλκόνι)",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "t-oneiro-kapnos",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη (κατάλογος κομματιών)",
+      "url": "https://www.mikistheodorakis.gr/el/music/listen/byalbum/?albumid=291"
+    },
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Η Μπαλάντα του Μαουτχάουζεν (εργογραφία: ηχογράφηση, μουσικοί)",
+      "url": "https://www.mikistheodorakis.gr/el/music/ergography/beforedictatorship/?nid=4695"
+    },
+    {
+      "label": "Wikipedia — Mauthausen Trilogy",
+      "url": "https://en.wikipedia.org/wiki/Mauthausen_Trilogy"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Χρονολόγιο 1961–1970 (1966)",
+      "url": "https://mikisguide.gr/xronologio-1961-1970/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "The record that joined four poems from Iakovos Kambanellis's Mauthausen — “Asma Asmaton”, “O Antonis”, “O drapetis”, “Otan teleiosi o polemos” — with six further songs, the so-called Farantouri Cycle, with lyrics by Gatsos, Christodoulou, Leivaditis and Stavrou. Maria Farantouri sings all of them.",
+      "According to the Foundation's catalogue Farantouri recorded the songs at Columbia studio with engineer Nikos Kanellopoulos; Giannis Didilis played piano, Kostas Papadopoulos and Lakis Karnezis bouzouki, Sotiris Tachiatis cello and Spyros Reggios flute. The work was presented in 1988 at the Mauthausen camp itself, and later recorded in Greek, Hebrew and English versions."
+    ]
+  }
+}

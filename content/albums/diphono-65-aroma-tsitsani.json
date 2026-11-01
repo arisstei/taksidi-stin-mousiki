@@ -1,0 +1,141 @@
+{
+  "slug": "diphono-65-aroma-tsitsani",
+  "composer": "vassilis-tsitsanis",
+  "title": "Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη",
+  "year": 2001,
+  "type": "anthology",
+  "kind": "Συλλογή Δίφωνο",
+  "label": "Δίφωνο",
+  "catalog": "65",
+  "format": "CD",
+  "performers": [
+    "Στράτος Παγιουμτζής",
+    "Βασίλης Τσιτσάνης",
+    "Πρόδρομος Τσαουσάκης",
+    "Μαρίκα Νίνου",
+    "Σωτηρία Μπέλλου",
+    "Στέλιος Καζαντζίδης",
+    "Γρηγόρης Μπιθικώτσης",
+    "Πόλυ Πάνου",
+    "Καίτη Γκρέυ",
+    "Πάνος Γαβαλάς",
+    "Χαρούλα Λαμπράκη",
+    "Βίκυ Μοσχολιού"
+  ],
+  "grade": "B",
+  "about": [
+    "Το τεύχος 65 της σειράς συλλογών Δίφωνο, αφιερωμένο στον Τσιτσάνη, με 14 κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μες στην πολλή σκοτούρα μου",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "mes-stin-polli-skotoura-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Αράπικο λουλούδι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "arapiko-louloudi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χωρίσαμε ένα δειλινό",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "xorisame-ena-deilino",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Κι αν πάθεις και καμιά ζημιά (Απόψε το μπουζούκι σου)",
+      "performer": "Μαρίκα Νίνου",
+      "song": "ki-an-patheis-kai-kamia-zimia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Με βρήκε το ξημέρωμα στους δρόμους",
+      "performer": "Σωτηρία Μπέλλου",
+      "song": "me-vrike-to-ximeroma-stous-dromous",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το πουκάμισο (Άσπρο πουκάμισο φορώ)",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "to-poukamiso",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ότι κι αν πω δεν σε ξεχνώ",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "oti-ki-an-po-den-se-xexno",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το τέλος σου ποιο θα 'ναι",
+      "performer": "Πόλυ Πάνου",
+      "song": "to-telos-sou-poio-tha-nai",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Για κοίτα, κόσμε, ένα κορμί",
+      "performer": "Καίτη Γκρέυ",
+      "song": "gia-koita-kosme-ena-kormi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μείνε, αγάπη μου, κοντά μου",
+      "performer": "Πάνος Γαβαλάς",
+      "song": "meine-agapi-mou-konta-mou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Για να σε κάνω άνθρωπο",
+      "performer": "Καίτη Γκρέυ",
+      "song": "gia-na-se-kano-anthropo",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Κορίτσι μου, όλα για σένα",
+      "performer": "Χαρούλα Λαμπράκη",
+      "song": "koritsi-mou-ola-gia-sena",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Αστροφεγγιά",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "astrofeggia",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Το βαπόρι απ' την Περσία",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "to-vapori-ap-tin-persia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη (2001)",
+      "url": "https://musicbrainz.org/release/fbd91989-dbce-4eaa-b135-eed07e7fab13"
+    }
+  ],
+  "en": {
+    "kind": "Diphono compilation",
+    "about": [
+      "Issue 65 of the Diphono compilation series, devoted to Tsitsanis, with 14 tracks."
+    ]
+  }
+}

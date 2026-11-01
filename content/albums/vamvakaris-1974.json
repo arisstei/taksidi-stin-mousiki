@@ -1,0 +1,104 @@
+{
+  "slug": "vamvakaris-1974",
+  "composer": "vamvakaris",
+  "title": "Βαμβακάρης",
+  "year": 1974,
+  "type": "rebetiko",
+  "kind": "Δίσκος 33 στροφών",
+  "label": "Pan-Vox",
+  "catalog": "X 33 SPV 10168",
+  "format": "LP, Album",
+  "performers": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Pan-Vox του 1974 με δώδεκα τραγούδια του Βαμβακάρη, με ενορχήστρωση του Δομένικου Βαμβακάρη και επίβλεψη του Λευτέρη Κλάψα."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Η Άτακτη",
+      "song": "atakti",
+      "stub": true
+    },
+    {
+      "pos": "Α2",
+      "title": "Τα Ζηλιάρικα Σου Μάτια",
+      "song": "ta-ziliarika-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "Α3",
+      "title": "Τα Δυο Σου Χέρια Πήρανε",
+      "song": "ta-dyo-sou-xeria-pirane",
+      "stub": true
+    },
+    {
+      "pos": "Α4",
+      "title": "Στο Φάληρο Που Πλένεσαι",
+      "song": "sto-faliro-pou-plenesai",
+      "stub": true
+    },
+    {
+      "pos": "Α5",
+      "title": "Τα Ματόκλαδα Σου Λάμπουν",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "Α6",
+      "title": "Ψεύτικος Είναι Ο Ντουνιάς",
+      "song": "pseytikos-einai-o-ntounias",
+      "stub": true
+    },
+    {
+      "pos": "Β1",
+      "title": "Μάγκικα Τα Δυο Σου Μάτια",
+      "song": "magkika-ta-dyo-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "Β2",
+      "title": "Για Σένα Μαυρομάτα Μου",
+      "song": "gia-sena-mayromata-mou",
+      "stub": true
+    },
+    {
+      "pos": "Β3",
+      "title": "Εγώ Για Σε Βρε Πονηρή",
+      "song": "ego-gia-se-vre-poniri",
+      "stub": true
+    },
+    {
+      "pos": "Β4",
+      "title": "Ξεκινούν Απ' Το Κολωνάκι",
+      "song": "xekinoun-ap-to-kolonaki",
+      "stub": true
+    },
+    {
+      "pos": "Β5",
+      "title": "Τα Όμορφα Τα Γαλανά Σου Μάτια",
+      "song": "ta-omorfa-ta-galana-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "Β6",
+      "title": "Το Συμφέρον",
+      "song": "to-symferon",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Βαμβακάρης (1974)",
+      "url": "https://www.discogs.com/release/6038014"
+    }
+  ],
+  "en": {
+    "kind": "LP",
+    "about": [
+      "A 1974 Pan-Vox LP of twelve Vamvakaris songs, orchestrated by Domenikos Vamvakaris and supervised by Lefteris Klapsas."
+    ]
+  }
+}

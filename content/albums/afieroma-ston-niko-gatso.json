@@ -1,0 +1,188 @@
+{
+  "slug": "afieroma-ston-niko-gatso",
+  "composer": "xarchakos",
+  "title": "Αφιέρωμα στον Νίκο Γκάτσο",
+  "year": 2003,
+  "type": "anthology",
+  "kind": "Ζωντανή ηχογράφηση — αφιέρωμα (διπλό CD)",
+  "label": "Legend Recordings",
+  "format": "2xCD",
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "C",
+  "about": [
+    "Ζωντανή ηχογράφηση του 2003 από τη Legend Recordings, αφιερωμένη στον στιχουργό Νίκο Γκάτσο: δύο CD με 28 τραγούδια, όπως τα καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Χάρτινο το φεγγαράκι",
+      "song": "xartino-to-feggaraki"
+    },
+    {
+      "pos": "2",
+      "title": "Ένας ευαίσθητος ληστής",
+      "song": "enas-eyaisthitos-listis"
+    },
+    {
+      "pos": "3",
+      "title": "Η πίκρα σήμερα",
+      "song": "i-pikra-simera"
+    },
+    {
+      "pos": "4",
+      "title": "Μίλησέ μου",
+      "song": "milise-mou"
+    },
+    {
+      "pos": "5",
+      "title": "Νυν και αεί",
+      "song": "nyn-kai-aei",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Η νύχτα",
+      "song": "i-nyxta",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο Ξένος",
+      "song": "o-xenos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Παλληκάρι στα Σφακιά",
+      "song": "palikari-sta-sfakia",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τ' αστέρι του βοριά",
+      "song": "t-asteri-tou-voria",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Με την Ελλάδα καραβοκύρη",
+      "song": "me-tin-ellada-karavokyri"
+    },
+    {
+      "pos": "11",
+      "title": "Ήταν του Μάη το πρόσωπο",
+      "song": "itan-tou-mai-to-prosopo"
+    },
+    {
+      "pos": "12",
+      "title": "Άσπρο περιστέρι",
+      "song": "aspro-peristeri",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Δάκρυα του φθινοπώρου",
+      "song": "dakrya-tou-fthinoporou",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Αύριο πάλι",
+      "song": "ayrio-pali",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Περιμπανού (ορχηστρικό)",
+      "song": "perimpanou"
+    },
+    {
+      "pos": "16",
+      "title": "Είχα φυτέψει μια καρδιά",
+      "song": "eixa-fytepsei-mia-kardia",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Σε πότισα ροδόσταμο",
+      "song": "se-potisa-rodostamo",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Αν θυμηθείς τ' όνειρό μου",
+      "song": "an-thymitheis-t-oneiro-mou",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Ο Γιάννης ο φονιάς",
+      "song": "o-giannis-o-fonias"
+    },
+    {
+      "pos": "20",
+      "title": "Κεμάλ",
+      "song": "kemal-2"
+    },
+    {
+      "pos": "21",
+      "title": "Η χοντρομπαλού",
+      "song": "i-xontrompalou",
+      "stub": true
+    },
+    {
+      "pos": "22",
+      "title": "Γεια σου χαρά σου Βενετιά",
+      "song": "geia-sou-xara-sou-venetia",
+      "stub": true
+    },
+    {
+      "pos": "23",
+      "title": "Αθανασία",
+      "song": "athanasia"
+    },
+    {
+      "pos": "24",
+      "title": "Περιμπανού",
+      "song": "perimpanou"
+    },
+    {
+      "pos": "25",
+      "title": "Μπουρνοβάλια",
+      "song": "mpournovalia",
+      "stub": true
+    },
+    {
+      "pos": "26",
+      "title": "Το δίχτυ",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "27",
+      "title": "Το πρακτορείο",
+      "song": "to-praktoreio",
+      "stub": true
+    },
+    {
+      "pos": "28",
+      "title": "Έλα σε μένα",
+      "song": "ela-se-mena",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αφιέρωμα στον Νίκο Γκάτσο (2003)",
+      "url": "https://musicbrainz.org/release-group/cfaa06e1-ef61-4f3e-8ff1-da05d755220b"
+    }
+  ],
+  "en": {
+    "kind": "Live recording — tribute (2 CD)",
+    "about": [
+      "A 2003 live recording from Legend Recordings in tribute to the lyricist Nikos Gatsos: two CDs with 28 songs, as listed on MusicBrainz."
+    ]
+  }
+}

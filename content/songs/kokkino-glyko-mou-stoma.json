@@ -1,0 +1,24 @@
+{
+  "slug": "kokkino-glyko-mou-stoma",
+  "title": "Κόκκινο γλυκό μου στόμα",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1970",
+  "performer": "Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Θαλασσογραφίες» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Θαλασσογραφίες” (1970).",
+    "story": []
+  }
+}

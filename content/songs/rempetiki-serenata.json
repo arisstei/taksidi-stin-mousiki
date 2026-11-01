@@ -1,0 +1,28 @@
+{
+  "slug": "rempetiki-serenata",
+  "title": "Ρεμπέτικη σερενάτα",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1984",
+  "performer": "Γιώργος Ζαμπέτας · Στράτος Παγιουμτζής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «30 χρόνια» (1984), «Ο πιο καλός ο... δάσκαλος» (1998).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — 30 χρόνια (1984, EMI 14C 045 1700472)",
+      "url": "https://musicbrainz.org/release/63e20415-818f-47ee-a33b-2f427e30d885"
+    },
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο... δάσκαλος (1998, Minos-EMI)",
+      "url": "https://musicbrainz.org/release/08dc5971-6583-4af4-952e-80a3ee91bae2"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “30 χρόνια” (1984), “Ο πιο καλός ο... δάσκαλος” (1998).",
+    "story": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "mia-kyria-sta-mpouzoukia",
+  "composer": "plessas",
+  "title": "Μια κυρία στα μπουζούκια",
+  "year": 1967,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "Lyra",
+  "catalog": "XLP 3557",
+  "format": "LP",
+  "performers": [
+    "Μαίρη Χρονοπούλου",
+    "Γιάννης Πουλόπουλος",
+    "Στέλιος Ζαφειρίου"
+  ],
+  "lyricists": [
+    "Γιάννης Δαλιανίδης",
+    "Κώστας Πρετεντέρης",
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Μουσική και τραγούδια από την έγχρωμη ταινία της Finos Films «Μια κυρία στα μπουζούκια», σε σκηνοθεσία Γιάννη Δαλιανίδη, με τη Μαίρη Χρονοπούλου και τον Γιάννη Πουλόπουλο στα τραγούδια."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": "2",
+      "title": "Είμαι γυναίκα",
+      "lyricist": "Γιάννης Δαλιανίδης",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "eimai-gynaika",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Εποχές (αρχαϊκό-βυζαντινό-σύγχρονο)"
+    },
+    {
+      "pos": "4",
+      "title": "Απόψε κλαίει ο ουρανός",
+      "lyricist": "Κώστας Πρετεντέρης",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "apopse-klaiei-o-ouranos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Πειραιάς - ναυπηγεία"
+    },
+    {
+      "pos": "6",
+      "title": "Tell Me (Shake)"
+    },
+    {
+      "pos": "7",
+      "title": "Μην του μιλάτε του παιδιού",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "min-tou-milate-tou-paidiou",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στο πάρτυ"
+    },
+    {
+      "pos": "9",
+      "title": "Του αγοριού απέναντι",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "tou-agoriou-apenanti",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Στο γήπεδο"
+    },
+    {
+      "pos": "11",
+      "title": "Φινάλε (ο μπάλλος-η κουμπάρα-τα νεαρά ζευγάρια-το γλέντι)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Μια κυρία στα μπουζούκια, Lyra XLP 3557 (1967)",
+      "url": "https://www.discogs.com/release/6046451"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "Music and songs from the Finos Films colour feature “Mia kyria sta mpouzoukia”, directed by Giannis Dalianidis, with Mary Chronopoulou and Giannis Poulopoulos singing."
+    ]
+  }
+}

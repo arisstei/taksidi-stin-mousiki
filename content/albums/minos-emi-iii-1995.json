@@ -1,0 +1,162 @@
+{
+  "slug": "minos-emi-iii-1995",
+  "composer": "vamvakaris",
+  "title": "ΙΙΙ",
+  "year": 1995,
+  "type": "anthology",
+  "kind": "Συλλογή CD από τη σειρά «Συνθέτες του Ρεμπέτικου»",
+  "label": "Minos-EMI",
+  "catalog": "7243 8 52828 2 9",
+  "format": "CD, Compilation, Remastered",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Στράτος Παγιουμτζής",
+    "Απόστολος Χατζηχρήστος",
+    "Σοφία Καρίβαλη",
+    "Στελλάκης Περπινιάδης"
+  ],
+  "grade": "B",
+  "about": [
+    "Τρίτο CD της σειράς της Minos-EMI για τον Βαμβακάρη, με 18 ηχογραφήσεις, ανάμεσά τους «Φραγκοσυριανή», «Ο Μάρκος μαθητής», «Μη με πεισματώνεις» και «Γεια σας φανταράκια μας»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Φραγκοσυριανή",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Χτες Βράδυ Στο Σκοτάδι",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "xtes-vrady-sto-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μας Ήρθες Βασιληά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mas-irthes-vasilia",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πρέπει Να Χτίσω Ένα Τζαμί",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "prepei-na-xtiso-ena-tzami",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Μάρκος Μαθητής",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-markos-mathitis",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Γέρασες Και Πια Δεν Σ' Αγαπώ",
+      "performer": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "song": "gerases-kai-pia-den-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Με Μια Μονάχα Σου Ματιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "me-mia-monaxa-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Μη Με Πεισματώνεις",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mi-me-peismatoneis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Λειώνω Μυστικά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "leiono-mystika",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Σε Ξέχασα Δεν Σ' Αγαπώ",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "se-xexasa-den-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μονάχος Μεσ' Τη Μοναξιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "monaxos-mes-ti-monaxia",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Νόστιμη Μαυροματού",
+      "performer": "Μάρκος Βαμβακάρης, Στελλάκης Περπινιάδης",
+      "song": "nostimi-mayromatou",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τότε Που Τάχα Τα Λεφτά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "tote-pou-taxa-ta-lefta",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Πεισματάρα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "peismatara",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Δεν Τον Θέλω Μάνα Μου",
+      "performer": "Μάρκος Βαμβακάρης, Σοφία Καρίβαλη",
+      "song": "den-ton-thelo-mana-mou",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Δυο Μεράκια Στην Καρδιά Μου",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "dyo-merakia-stin-kardia-mou",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Γεια Σας Φανταράκια Μας",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "geia-sas-fantarakia-mas",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Μουσολίνι Άλλαξε Γνώμη",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "mousolini-allaxe-gnomi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — ΙΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7105429"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation from the series “Composers of Rebetiko”",
+    "about": [
+      "Third CD in Minos-EMI's series on Vamvakaris, with 18 recordings including “Fragosyriani”, “O Markos mathitis”, “Mi me peismatonis” and “Gia sas fantarakia mas”."
+    ]
+  }
+}

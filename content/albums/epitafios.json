@@ -1,0 +1,106 @@
+{
+  "slug": "epitafios",
+  "composer": "theodorakis",
+  "title": "Επιτάφιος",
+  "year": 1960,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "SCDG 2778-2781",
+  "format": "4 × 7\", 45 rpm",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Μανώλης Χιώτης (μπουζούκι)",
+    "Νανά Μούσχουρη"
+  ],
+  "lyricists": [
+    "Γιάννης Ρίτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο «Επιτάφιος» του Γιάννη Ρίτσου, γραμμένος τον Μάιο του 1936 με αφορμή τη φωτογραφία μιας μάνας που θρηνεί τον γιο της μετά την καταστολή της απεργίας των καπνεργατών στη Θεσσαλονίκη. Ο Θεοδωράκης τον μελοποίησε το 1958–60· πρεμιέρα στην Ελευσίνα στις 5 Οκτωβρίου 1960.",
+    "Κυκλοφόρησαν δύο εκδοχές με λίγες εβδομάδες διαφορά. Η λυρική, με ενορχήστρωση του Μάνου Χατζιδάκι και τη Νανά Μούσχουρη, ηχογραφήθηκε τον Αύγουστο του 1960. Η λαϊκή, με τον Θεοδωράκη, τον Μανώλη Χιώτη στο μπουζούκι και τον Γρηγόρη Μπιθικώτση, βγήκε πρώτα σε τέσσερα 45άρια (SCDG 2778–2781) και μετά σε EP. Το 1974, μετά τη μεταπολίτευση, η Columbia το επανέκδωσε σε LP μαζί με τα «Επιφάνια»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Πού πέταξε το αγόρι μου",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "pou-petaxe-to-agori-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Χείλι μου μοσκομυριστό",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "xeili-mou-moskomyristo",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μέρα Μαγιού μου μίσεψες",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "mera-magiou"
+    },
+    {
+      "pos": "4",
+      "title": "Βασίλεψες αστέρι μου",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "vasilepses-asteri-mou",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ήσουν καλός κι ήσουν γλυκός",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "isoun-kalos-ki-isoun-glykos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Στο παραθύρι στεκόσουν",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "sto-parathyri-stekosoun",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Νάχα το αθάνατο νερό",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "naxa-to-athanato-nero",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Γλυκέ μου συ δεν χάθηκες",
+      "lyricist": "Γιάννης Ρίτσος",
+      "song": "glyke-mou-sy-den-xathikes",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Ο Μίκης και οι ποιητές: Επιτάφιος / Επιφάνια (1960/1962)",
+      "url": "https://diskovolos58.blogspot.com/2020/06/19601962.html"
+    },
+    {
+      "label": "Wikipedia — Epitaphios (Ritsos)",
+      "url": "https://en.wikipedia.org/wiki/Epitaphios_(Ritsos)"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 30)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/a35d569b-d376-4afe-b4b0-feb3e775d690"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Yannis Ritsos's Epitaphios, written in May 1936 after a photograph of a mother mourning her son following the suppression of the tobacco workers' strike in Thessaloniki. Theodorakis set it in 1958–60; it premiered in Elefsina on 5 October 1960.",
+      "Two versions came out weeks apart. The lyrical one, arranged by Manos Hadjidakis and sung by Nana Mouschouri, was recorded in August 1960. The popular one, with Theodorakis, Manolis Chiotis on bouzouki and Grigoris Bithikotsis, was issued first as four 45s (SCDG 2778–2781) and then as an EP. In 1974, after the fall of the junta, Columbia reissued it as an LP together with Epifania."
+    ]
+  }
+}

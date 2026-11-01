@@ -1,0 +1,24 @@
+{
+  "slug": "xaraze",
+  "title": "Χάραζε",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1967",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Το Πιο Λαμπρό Αστέρι» (1967).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το Πιο Λαμπρό Αστέρι (κυκλοφορία 1967)",
+      "url": "https://musicbrainz.org/release/90ff9fa6-b3a6-4840-bb75-50ba72f8f7cc"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Το Πιο Λαμπρό Αστέρι” (1967).",
+    "story": []
+  }
+}

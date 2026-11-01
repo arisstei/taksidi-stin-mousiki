@@ -1,0 +1,123 @@
+{
+  "slug": "thalassografies",
+  "composer": "loizos",
+  "title": "Θαλασσογραφίες",
+  "year": 1970,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 127",
+  "format": "LP",
+  "performers": [
+    "Μάνος Λοΐζος",
+    "Γιώργος Νταλάρας",
+    "Γιάννης Καλατζής",
+    "Γιάννης Πάριος",
+    "Μαρίζα Κωχ"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δεύτερος δίσκος του Λοΐζου με στίχους του Λευτέρη Παπαδόπουλου, σε ερμηνεία του ίδιου του συνθέτη και των Νταλάρα, Καλατζή, Πάριου και Μαρίζας Κωχ."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Σ' αγαπώ - Σ' αγαπώ",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "s-agapo-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Κόκκινο γλυκό μου στόμα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "kokkino-glyko-mou-stoma",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ένα γέρικο καράβι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Πάριος",
+      "song": "ena-geriko-karavi",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Η γοργόνα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "i-gorgona",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Νανούρισμα",
+      "performer": "Μάνος Λοΐζος & Μαρίζα Κωχ",
+      "song": "nanourisma"
+    },
+    {
+      "pos": "6",
+      "title": "Δέκα παλληκάρια",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "deka-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τζαμάικα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "tzamaika",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Έχω ένα καφενέ",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "exo-ena-kafene",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σεβάχ ο θαλασσινός",
+      "performer": "Μάνος Λοΐζος",
+      "song": "sevax-o-thalassinos",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Το μήνυμα",
+      "performer": "Μάνος Λοΐζος & Μαρίζα Κωχ",
+      "song": "to-minyma",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μάννα δεν φυτέψαμε",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "manna-den-fytepsame",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Θαλασσογραφίες, κυκλοφορία (1970)",
+      "url": "https://musicbrainz.org/release/f2b0ad59-be97-4ae1-bdfb-fcee1d2d4dfe"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "His second album, with lyrics by Lefteris Papadopoulos, sung by the composer himself together with Dalaras, Kalatzis, Parios and Mariza Koch."
+    ]
+  }
+}

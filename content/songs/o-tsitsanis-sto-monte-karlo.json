@@ -1,0 +1,28 @@
+{
+  "slug": "o-tsitsanis-sto-monte-karlo",
+  "title": "Ο Τσιτσάνης στο Μόντε-Κάρλο",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1985",
+  "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Βασίλης Τσιτσάνης για πάντα Νο1 - Αυθεντικές εκτελέσεις 1937-1940» (1985), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Βασίλης Τσιτσάνης για πάντα Νο1 - Αυθεντικές εκτελέσεις 1937-1940 (1985)",
+      "url": "https://musicbrainz.org/release/f55a90ff-a0f6-4139-8680-175ca0e2c243"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Βασίλης Τσιτσάνης για πάντα Νο1 - Αυθεντικές εκτελέσεις 1937-1940” (1985), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

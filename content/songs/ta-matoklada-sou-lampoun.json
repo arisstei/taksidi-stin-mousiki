@@ -1,0 +1,36 @@
+{
+  "slug": "ta-matoklada-sou-lampoun",
+  "title": "Τα Ματόκλαδά Σου Λάμπουν",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": "Μάρκος Βαμβακάρης",
+  "year": "1966",
+  "performer": "Δημήτρης Ευσταθίου · Γρηγόρης Μπιθικώτσης · Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Μάρκος ο δάσκαλός μας» (1968), «Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη» (1969) και 13 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη (1969)",
+      "url": "https://www.discogs.com/release/29346406"
+    },
+    {
+      "label": "Discogs — Ο Σκληρός Απρίλης Του '45 (1974)",
+      "url": "https://www.discogs.com/master/302510"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Μάρκος ο δάσκαλός μας” (1968), “Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη” (1969) and 13 more.",
+    "story": []
+  }
+}

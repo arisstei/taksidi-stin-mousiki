@@ -1,0 +1,154 @@
+{
+  "slug": "sergiani-ston-kosmo",
+  "composer": "markopoulos",
+  "title": "Σεργιάνι στον κόσμο",
+  "year": 1979,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "catalog": "MSM 350",
+  "format": "12\" Vinyl",
+  "performers": [
+    "Γιάννης Μαρκόπουλος",
+    "Γιώργος Νταλάρας",
+    "Γιούλη Τσίρου",
+    "Βασιλική Λαβίνα"
+  ],
+  "lyricists": [
+    "Πάνος Θεοδωρίδης",
+    "Μελέτης Κυριακού",
+    "Μάνος Ελευθερίου"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 14 κομμάτια, που κυκλοφόρησε το 1979 από τη Μίνως Μάτσας & Υιός Α.Ε.. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Εισαγωγή - Γιάγκος Νούλας (1204)",
+      "performer": "Γιάννης Μαρκόπουλος",
+      "lyricist": "Πάνος Θεοδωρίδης"
+    },
+    {
+      "pos": 2,
+      "title": "Του Χάρου",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "tou-xarou",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Η μάνα του Αλέξανδρου",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "i-mana-tou-alexandrou",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Οι Κατελάνοι",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "oi-katelanoi",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ο Μαυρογένης",
+      "performer": "Γιούλη Τσίρου",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "o-mayrogenis",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Το πετρέλαιο",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Πάνος Θεοδωρίδης",
+      "song": "to-petrelaio",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Ο σκλάβος",
+      "performer": "Γιώργος Νταλάρας, Βασιλική Λαβίνα",
+      "lyricist": "Μελέτης Κυριακού",
+      "song": "o-sklavos",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Παραπονεμένα λόγια",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "paraponemena-logia",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Τη ζωή μου μη διαβάζεις",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "ti-zoi-mou-mi-diavazeis",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Της ορφάνιας γιος",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "tis-orfanias-gios",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Ένας άπονος αέρας",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "enas-aponos-aeras",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Αν ήταν άστρα τα φιλιά σου",
+      "performer": "Γιώργος Νταλάρας, Γιούλη Τσίρου",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "an-itan-astra-ta-filia-sou",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Όλοι θα συναντηθούμε",
+      "performer": "Γιώργος Νταλάρας",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "oloi-tha-synantithoume",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Όλα μοιάζουν μαγικά",
+      "performer": "Γιώργος Νταλάρας, Γιάννης Μαρκόπουλος",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "ola-moiazoun-magika",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σεργιάνι στον κόσμο (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/8d4cb0d6-a744-41c0-aa02-3776bb2ecb2a"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 14 tracks, released in 1979 on Μίνως Μάτσας & Υιός Α.Ε.. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

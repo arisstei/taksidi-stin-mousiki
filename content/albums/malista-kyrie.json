@@ -1,0 +1,110 @@
+{
+  "slug": "malista-kyrie",
+  "composer": "zambetas",
+  "title": "Μάλιστα κύριε",
+  "year": 1973,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Olympic",
+  "catalog": "SBL 1906",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1973 με τον ίδιο τον Ζαμπέτα στο τραγούδι και στο μπουζούκι, με τίτλο το «Μάλιστα κύριε».",
+    "Στη δισκογραφία του Ζαμπέτα το τραγούδι «Μάλιστα κύριε» (1973) αναφέρεται στη Βικιπαίδεια με στίχους του «Αλέξανδρου Καγιάντα», ψευδωνύμου του συγγραφέα Γιάννη Καλαμίτση."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Μάλιστα κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Οι καινούργιες οι γυναίκες",
+      "song": "oi-kainourgies-oi-gynaikes",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Μαύρη συντροφιά",
+      "song": "mayri-syntrofia",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Η παληοπαρέα",
+      "song": "i-palioparea",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Πούσαι Θανάση",
+      "song": "pousai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Οι φαντάροι",
+      "song": "oi-fantaroi",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ο απόγονος",
+      "song": "o-apogonos",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Αποσπάσματα από έρωτες",
+      "song": "apospasmata-apo-erotes",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Ωραία Πειραιώτισσα",
+      "song": "oraia-peiraiotissa",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Μάλιστα κύριε (oρχηστρικό)",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Η τσιγγάνα",
+      "song": "i-tsiggana",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Ο τελευταίος μάγκας",
+      "song": "o-teleytaios-magkas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάλιστα κύριε (1973, Olympic SBL 1906)",
+      "url": "https://musicbrainz.org/release/ebe3bd54-7316-4fee-abba-5fefea658ec8"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1973 record on which Zampetas himself sings and plays the bouzouki, named after the song “Malista kyrie”.",
+      "Greek Wikipedia lists the song “Malista kyrie” (1973) with lyrics credited to “Alexandros Kagiantas”, a pseudonym of the writer Giannis Kalamitsis."
+    ]
+  }
+}

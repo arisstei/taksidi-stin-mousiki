@@ -1,0 +1,32 @@
+{
+  "slug": "mia-galanomata",
+  "title": "Μια Γαλανομάτα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1966",
+  "performer": "Μάρκος Βαμβακάρης · Βασίλης Ζαφειρόπουλος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «40 Χρόνια Βαμβακάρης Νο 2» (1983), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης Νο 2 (1983)",
+      "url": "https://www.discogs.com/release/4743332"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “40 Χρόνια Βαμβακάρης Νο 2” (1983), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992).",
+    "story": []
+  }
+}

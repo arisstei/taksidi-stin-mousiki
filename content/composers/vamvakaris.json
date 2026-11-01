@@ -1,0 +1,48 @@
+{
+  "slug": "vamvakaris",
+  "name": "Μάρκος Βαμβακάρης",
+  "fileNo": "009",
+  "born": "1905-05-10",
+  "died": "1972-02-08",
+  "lifespan": "Άνω Σύρος, 10 Μαΐου 1905 — Νίκαια, 8 Φεβρουαρίου 1972",
+  "tagline": "Ο «Πατριάρχης» του ρεμπέτικου — από τα καπνιστήρια του Πειραιά και την Τετράδα την Ξακουστή ως τα 78άρια που έστησαν το μπουζούκι στη δισκογραφία.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Μάρκος_Βαμβακάρης",
+    "https://en.wikipedia.org/wiki/Markos_Vamvakaris",
+    "https://www.discogs.com/artist/854009"
+  ],
+  "bio": [
+    "Γεννήθηκε στις 10 Μαΐου 1905 στην Άνω Σύρο (κατά ορισμένες πηγές στον Δανάκο) σε φτωχή καθολική οικογένεια και πέθανε στη Νίκαια της Αττικής στις 8 Φεβρουαρίου 1972. Σε νεαρή ηλικία έφυγε για τον Πειραιά, όπου δούλεψε σε λιμάνι και σφαγεία, έμαθε μπουζούκι και άρχισε να γράφει τραγούδια. Ονομάστηκε «Πατριάρχης» του ρεμπέτικου.",
+    "Το 1932–1933, με την προτροπή του Σπύρου Περιστέρη, ηχογράφησε τα πρώτα του τραγούδια, με το «Καραντουζένι» να θεωρείται το πρώτο εμπορικά επιτυχημένο τραγούδι με μπουζούκι. Το 1934 μπήκε στην «Τετράδα την Ξακουστή του Πειραιά» (με Μπάτη, Παγιουμτζή, Δελιά), που καθιέρωσε τη σύνθεση με μπουζούκι και μπαγλαμά. Ηχογράφησε πάνω από 200 τραγούδια, κυρίως σε δίσκους 78 στροφών ανάμεσα στο 1933 και το 1956.",
+    "Μετά τον πόλεμο το ρεμπέτικο έπεσε σε δυσμένεια και η υγεία του κλονίστηκε. Στα τέλη της δεκαετίας του '50 η Columbia, με πρωτοβουλία του Τσιτσάνη, ξαναεξέδωσε παλιά και νέα τραγούδια του, και από το 1960 ξεκίνησε η «δεύτερη καριέρα» του, με ερμηνείες από τον Μπιθικώτση, την Καίτη Γκρέυ και την Άντζελα Γκρέκα. Ο Μίκης Θεοδωράκης είπε ότι οι έλληνες συνθέτες ήταν «κλαδιά ενός δέντρου» και ο Μάρκος το ίδιο το δέντρο."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάρκος Βαμβακάρης",
+      "url": "https://el.wikipedia.org/wiki/Μάρκος_Βαμβακάρης"
+    },
+    {
+      "label": "Wikipedia — Markos Vamvakaris",
+      "url": "https://en.wikipedia.org/wiki/Markos_Vamvakaris"
+    },
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (δισκογραφία)",
+      "url": "https://www.discogs.com/artist/854009"
+    },
+    {
+      "label": "Ogdoo — Το πρώτο LP και μια ιστορική μαρτυρία του Μάρκου Βαμβακάρη",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/to-proto-lp-kai-mia-istoriki-martyria-tou-markou-vamvakari"
+    }
+  ],
+  "en": {
+    "lifespan": "Ano Syros, 10 May 1905 — Nikaia, 8 February 1972",
+    "tagline": "The “Patriarch” of rebetiko — from the hash dens of Piraeus and the Famous Quartet to the 78s that put the bouzouki on record.",
+    "bio": [
+      "Born on 10 May 1905 in Ano Syros (some sources say Danakos) to a poor Catholic family, he died in Nikaia, Attica on 8 February 1972. As a young man he moved to Piraeus, worked in the port and the slaughterhouses, learned the bouzouki and began writing songs. He became known as the “Patriarch” of rebetiko.",
+      "In 1932–1933, encouraged by Spyros Peristeris, he made his first recordings, with “Karantouzeni” regarded as the first commercially successful bouzouki song. In 1934 he joined the “Famous Quartet of Piraeus” (with Batis, Pagioumtzis and Delias), which popularised the bouzouki-and-baglamas line-up. He recorded over 200 songs, mostly on 78 rpm records between 1933 and 1956.",
+      "After the war rebetiko fell out of favour and his health suffered. In the late 1950s Columbia, at Tsitsanis's initiative, reissued old and new songs of his, and from 1960 his “second career” began, with interpretations by Bithikotsis, Kaiti Grey and Angela Grekka. Mikis Theodorakis said Greek composers were “branches of a tree”, and Markos was the tree itself."
+    ],
+    "interviews": []
+  }
+}

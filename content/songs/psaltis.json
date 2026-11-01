@@ -1,0 +1,28 @@
+{
+  "slug": "psaltis",
+  "title": "Ψάλτης",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Κ.Χ. Μύρης",
+  "year": "1983",
+  "performer": "Θεόδωρος Βασιλικός",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σειρήνες» (1983), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σειρήνες (κυκλοφορία 1983)",
+      "url": "https://musicbrainz.org/release/b7867674-6ab5-4417-b456-2135219f09ae"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σειρήνες” (1983), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

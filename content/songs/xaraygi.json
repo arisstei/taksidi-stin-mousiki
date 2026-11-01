@@ -1,0 +1,24 @@
+{
+  "slug": "xaraygi",
+  "title": "Χαραυγή",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1989",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα τραγούδια μου» (1989).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα τραγούδια μου (1989, Philips 842180-1)",
+      "url": "https://musicbrainz.org/release/563f0f33-c82c-4dd7-bf10-eed964251593"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα τραγούδια μου” (1989).",
+    "story": []
+  }
+}

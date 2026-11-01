@@ -1,0 +1,36 @@
+{
+  "slug": "o-kavouras",
+  "title": "Ο Κάβουρας",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Μάρκος Βαμβακάρης",
+  "year": "1968",
+  "performer": "Γρηγόρης Μπιθικώτσης · Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος ο δάσκαλός μας» (1968), «40 Χρόνια Βαμβακάρης» (1980), «Ζωντανή Ηχογράφηση Στου \"Βρανά\" Την Άνοιξη Του 1961» (1982) και 4 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Ζωντανή Ηχογράφηση Στου Βρανά Την Άνοιξη Του 1961 (1982)",
+      "url": "https://www.discogs.com/release/3652591"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος ο δάσκαλός μας” (1968), “40 Χρόνια Βαμβακάρης” (1980), “Ζωντανή Ηχογράφηση Στου \"Βρανά\" Την Άνοιξη Του 1961” (1982) and 4 more.",
+    "story": []
+  }
+}

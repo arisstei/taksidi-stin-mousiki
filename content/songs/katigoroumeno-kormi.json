@@ -1,0 +1,24 @@
+{
+  "slug": "katigoroumeno-kormi",
+  "title": "Κατηγορούμενο Κορμί",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1994",
+  "performer": "Στέλιος Καζαντζίδης, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Δισκογραφία Τσιτσάνη Νο 10» (1994).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Δισκογραφία Τσιτσάνη Νο 10 (1994)",
+      "url": "https://musicbrainz.org/release/c49791f1-28e6-41f8-965e-794265459b0f"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Δισκογραφία Τσιτσάνη Νο 10” (1994).",
+    "story": []
+  }
+}

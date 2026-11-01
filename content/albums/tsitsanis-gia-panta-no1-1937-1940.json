@@ -1,0 +1,120 @@
+{
+  "slug": "tsitsanis-gia-panta-no1-1937-1940",
+  "composer": "vassilis-tsitsanis",
+  "title": "Βασίλης Τσιτσάνης για πάντα Νο1 - Αυθεντικές εκτελέσεις 1937-1940",
+  "year": 1985,
+  "type": "anthology",
+  "kind": "Συλλογή αυθεντικών ηχογραφήσεων",
+  "format": "LP",
+  "performers": [
+    "Γεωργία Μηττάκη",
+    "Στράτος Παγιουμτζής",
+    "Στελλάκης Περπινιάδης",
+    "Δημήτρης Περδικόπουλος",
+    "Βασίλης Τσιτσάνης",
+    "Νταίζη Σταυροπούλου",
+    "Στέλιος Κερομύτης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος «Βασίλης Τσιτσάνης για πάντα Νο1» με αυθεντικές εκτελέσεις 1937–1940, 12 κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Σ' έναν τεκέ σκαρώσανε",
+      "performer": "Γεωργία Μηττάκη",
+      "song": "s-enan-teke-skarosane",
+      "stub": true
+    },
+    {
+      "pos": "Α2",
+      "title": "Ο Τσιτσάνης στο Μόντε-Κάρλο",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "o-tsitsanis-sto-monte-karlo",
+      "stub": true
+    },
+    {
+      "pos": "Α3",
+      "title": "Στο τάγμα τηλεγραφητών",
+      "performer": "Δημήτρης Περδικόπουλος, Βασίλης Τσιτσάνης",
+      "song": "sto-tagma-tilegrafiton",
+      "stub": true
+    },
+    {
+      "pos": "Α4",
+      "title": "Τα παντρεμενάδικα",
+      "performer": "Νταίζη Σταυροπούλου, Βασίλης Τσιτσάνης",
+      "song": "ta-pantremenadika",
+      "stub": true
+    },
+    {
+      "pos": "Α5",
+      "title": "Στα Τρίκαλα στα δυο στενά",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "sta-trikala-sta-dyo-stena",
+      "stub": true
+    },
+    {
+      "pos": "Α6",
+      "title": "Σόλο Σέρβικο",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "solo-serviko",
+      "stub": true
+    },
+    {
+      "pos": "Β1",
+      "title": "Μια Κυριακή σε γνώρισα",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "mia-kyriaki-se-gnorisa",
+      "stub": true
+    },
+    {
+      "pos": "Β2",
+      "title": "Μαζί μου δεν ταιριάζεις",
+      "performer": "Νταίζη Σταυροπούλου",
+      "song": "mazi-mou-den-tairiazeis",
+      "stub": true
+    },
+    {
+      "pos": "Β3",
+      "title": "Προξενεύουν τον Σταμάτη",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "proxeneyoun-ton-stamati",
+      "stub": true
+    },
+    {
+      "pos": "Β4",
+      "title": "Για αυτά τα μαύρα μάτια σου",
+      "performer": "Στέλιος Κερομύτης, Βασίλης Τσιτσάνης",
+      "song": "gia-ayta-ta-mayra-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "Β5",
+      "title": "Ο κόσμος απ' την ζήλεια του",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης, Στέλιος Κερομύτης",
+      "song": "o-kosmos-ap-tin-zileia-tou",
+      "stub": true
+    },
+    {
+      "pos": "Β6",
+      "title": "Στον Άγιο Κωνσταντίνο",
+      "performer": "Νταίζη Σταυροπούλου, Βασίλης Τσιτσάνης",
+      "song": "ston-agio-konstantino",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Βασίλης Τσιτσάνης για πάντα Νο1 - Αυθεντικές εκτελέσεις 1937-1940 (1985)",
+      "url": "https://musicbrainz.org/release/f55a90ff-a0f6-4139-8680-175ca0e2c243"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of original recordings",
+    "about": [
+      "The LP \"Vassilis Tsitsanis forever No. 1\" with original performances from 1937–1940, 12 tracks."
+    ]
+  }
+}

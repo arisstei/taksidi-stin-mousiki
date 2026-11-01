@@ -1,0 +1,100 @@
+{
+  "slug": "oi-sfaires-den-gyrizoun-pisw",
+  "composer": "plessas",
+  "title": "Οι σφαίρες δεν γυρίζουν πίσω",
+  "year": 1967,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "Lyra",
+  "catalog": "XLP 3555",
+  "format": "LP",
+  "performers": [
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Μίμη Πλέσσα για την ταινία «Οι σφαίρες δεν γυρίζουν πίσω», σε έκδοση της Lyra με τους τίτλους των θεμάτων στα ελληνικά και στα αγγλικά στο οπισθόφυλλο."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Θέμα - τίτλοι"
+    },
+    {
+      "pos": "2",
+      "title": "Βουκολικό"
+    },
+    {
+      "pos": "3",
+      "title": "Πορεία στα χιόνια"
+    },
+    {
+      "pos": "4",
+      "title": "Ερωτικό του Τσάκου"
+    },
+    {
+      "pos": "5",
+      "title": "Ο γενναίος"
+    },
+    {
+      "pos": "6",
+      "title": "Νυχτερινή περιπέτεια"
+    },
+    {
+      "pos": "7",
+      "title": "Ξεχασμένη αγάπη"
+    },
+    {
+      "pos": "8",
+      "title": "Φωτιά στο βάλτο"
+    },
+    {
+      "pos": "9",
+      "title": "Αποχαιρετισμός"
+    },
+    {
+      "pos": "10",
+      "title": "Ξεκίνημα για δράση"
+    },
+    {
+      "pos": "11",
+      "title": "Απαγορευμένη αγάπη"
+    },
+    {
+      "pos": "12",
+      "title": "Οι ληστές"
+    },
+    {
+      "pos": "13",
+      "title": "Το παραμύθι του Τσάκου"
+    },
+    {
+      "pos": "14",
+      "title": "Θα μετρηθούμε οι δυο μας"
+    },
+    {
+      "pos": "15",
+      "title": "Δύσκολα νειάτα"
+    },
+    {
+      "pos": "16",
+      "title": "Η φυγή στην άδεια καλύβα"
+    },
+    {
+      "pos": "17",
+      "title": "Φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Οι σφαίρες δεν γυρίζουν πίσω, Lyra XLP 3555 (1967)",
+      "url": "https://www.discogs.com/release/3199429"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "Mimis Plessas’s score for the film “Oi sfaires den gyrizoun pisw”, issued by Lyra with the theme titles in Greek and English on the back sleeve."
+    ]
+  }
+}

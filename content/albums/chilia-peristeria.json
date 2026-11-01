@@ -1,0 +1,124 @@
+{
+  "slug": "chilia-peristeria",
+  "composer": "zambetas",
+  "title": "Χίλια περιστέρια",
+  "year": 1991,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Philips",
+  "catalog": "510166-1",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Μιχάλης Ζαμπέτας",
+    "Ελένη Καρουσάκη",
+    "Δούκισσα",
+    "Τάσος Γετίμης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1991, της τελευταίας περιόδου της ζωής του Ζαμπέτα, όπου τραγουδούν μαζί του ο γιος του Μιχάλης Ζαμπέτας, η Ελένη Καρουσάκη, η Δούκισσα και ο Τάσος Γετίμης. Η Βικιπαίδεια σημειώνει ότι η δημοτικότητά του ανέκαμψε από το 1990."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Χίλια περιστέρια",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Κι όλο καλάραμε ζωή",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "ki-olo-kalarame-zoi",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ταξίδι μακρινό",
+      "performer": "Ελένη Καρουσάκη",
+      "song": "taxidi-makrino",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Τι να πω",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "ti-na-po",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Με τα μάτια κλαμένα",
+      "performer": "Μιχάλης Ζαμπέτας",
+      "song": "me-ta-matia-klamena",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Έρημος μόνος και βαρύς",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "erimos-monos-kai-varys",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ο πρωταγωνιστής",
+      "performer": "Δούκισσα",
+      "song": "o-protagonistis",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Συγνώμη σου ζητώ",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "sygnomi-sou-zito",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Μα η κυρία",
+      "performer": "Τάσος Γετίμης",
+      "song": "ma-i-kyria",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Δεν θυμάμαι",
+      "performer": "Ελένη Καρουσάκη",
+      "song": "den-thymamai",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Ποια είσαι εσύ",
+      "performer": "Τάσος Γετίμης",
+      "song": "poia-eisai-esy",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Σαφάρι στην Αθήνα",
+      "performer": "Μιχάλης Ζαμπέτας",
+      "song": "safari-stin-athina",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Χίλια περιστέρια (1991, Philips 510166-1)",
+      "url": "https://musicbrainz.org/release/110bab91-5367-4636-846c-6606467576fb"
+    },
+    {
+      "label": "Βικιπαίδεια — Γιώργος Ζαμπέτας",
+      "url": "https://el.wikipedia.org/wiki/Γιώργος_Ζαμπέτας"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1991 record from the last period of Zampetas's life, on which he is joined by his son Michalis Zampetas, Eleni Karousaki, Doukissa and Tasos Getimis. Wikipedia notes that his popularity revived from 1990."
+    ]
+  }
+}

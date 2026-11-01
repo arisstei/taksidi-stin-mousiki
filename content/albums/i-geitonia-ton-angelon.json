@@ -1,0 +1,97 @@
+{
+  "slug": "i-geitonia-ton-angelon",
+  "composer": "theodorakis",
+  "title": "Η γειτονιά των αγγέλων",
+  "year": 1963,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "His Master's Voice",
+  "catalog": "GCLP 7",
+  "format": "LP, 12\"",
+  "performers": [],
+  "lyricists": [
+    "Ιάκωβος Καμπανέλλης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1963 (HMV GCLP 7) με μουσική και τραγούδια σε στίχους του Ιάκωβου Καμπανέλλη· περιλαμβάνει τραγούδια και ορχηστρικά."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Στρώσε το στρώμα σου",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "strose-to-stroma-sou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πενιά",
+      "song": "penia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Οι χαρταετοί",
+      "song": "oi-xartaetoi",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο χασαποσέρβικος",
+      "song": "o-xasaposervikos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το ψωμί είναι στο τραπέζι",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "to-psomi-einai-sto-trapezi",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Από το παράθυρό σου",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "apo-to-parathyro-sou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Στης γειτονιάς τον ουρανό",
+      "song": "stis-geitonias-ton-ourano",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ερωτική σκηνή",
+      "song": "erotiki-skini",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ζεϊμπέκικος",
+      "song": "zeimpekikos",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Δόξα το Θεό",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "doxa-to-theo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/0d828ce9-6f3d-46a8-af7e-a1498b3bcff6"
+    }
+  ],
+  "en": {
+    "kind": "Music for the theatre",
+    "about": [
+      "A 1963 release (HMV GCLP 7) with songs to lyrics by Iakovos Kambanellis, alongside instrumental pieces."
+    ]
+  }
+}

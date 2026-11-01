@@ -1,0 +1,76 @@
+{
+  "slug": "greece-goes-modern",
+  "composer": "plessas",
+  "title": "Greece Goes Modern",
+  "year": 1967,
+  "type": "instrumental",
+  "kind": "Οργανικός δίσκος",
+  "label": "Pan-Vox",
+  "catalog": "X 33 PV 10101",
+  "format": "LP, 12\"",
+  "performers": [
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δέκα παραδοσιακοί χοροί από διάφορες περιοχές της Ελλάδας (Πελοπόννησος, Θράκη, Ζάκυνθος, Θεσσαλία, Χίος, Βόλος, Κέρκυρα, Ήπειρος, Καλαμάτα, Κρήτη) σε σύγχρονη ενορχήστρωση, με δίγλωσσους τίτλους στο βινύλιο. Επανεκδόθηκε ψηφιακά από τη Veego Records."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Lemonaki (Peloponesian Dance) / Λεμονάκι (Πελοποννησιακός Χορός)"
+    },
+    {
+      "pos": "A2",
+      "title": "O Menoussis (Dance Of Thrace) / Ο Μενούσης (Θρακικός Χορός)"
+    },
+    {
+      "pos": "A3",
+      "title": "Yalo Na Pas (Dance Of Zante) / Γυαλό Να Πας (Ζακυνθινός Χορός)"
+    },
+    {
+      "pos": "A4",
+      "title": "Karagouna (Thessalian Dance) / Καραγκούνα (Θεσσαλικός Χορός)"
+    },
+    {
+      "pos": "A5",
+      "title": "Karavi Ap' Ti Hio (Dance Of Chios) / Καράβι Απ' Τη Χίο (Χιώτικος Χορός)"
+    },
+    {
+      "pos": "B1",
+      "title": "Tria Pedia (Dance Of Volos) / Τρία Παιδιά (Βολιώτικος Χορός)"
+    },
+    {
+      "pos": "B2",
+      "title": "I Perdika (Dance Of Corfu) / Η Πέρδικα (Κερκυραϊκός Χορός)"
+    },
+    {
+      "pos": "B3",
+      "title": "Vassilikos (Dance Of Epirus) / Βασσιλικός (Ηπειρώτικος Χορός)"
+    },
+    {
+      "pos": "B4",
+      "title": "Kalamatiano (Dance Of Kalamata) / Καλαματιανό (Καλαματιανός Χορός)"
+    },
+    {
+      "pos": "B5",
+      "title": "Kritikos (Cretan Dance) / Κρητικός (Κρητικός Χορός)"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Greece Goes Modern, Pan-Vox X 33 PV 10101 (1967)",
+      "url": "https://musicbrainz.org/release/7abf926b-91ea-414d-8cd6-96fb767ff849"
+    },
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental album",
+    "about": [
+      "Ten traditional dances from across Greece (Peloponnese, Thrace, Zakynthos, Thessaly, Chios, Volos, Corfu, Epirus, Kalamata, Crete) in modern arrangements, with bilingual titles on the LP. Reissued digitally by Veego Records."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ena-deilino",
+  "title": "Ένα δειλινό",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Μίκης Θεοδωράκης",
+  "year": "1962",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Πασχαλιές μέσα από τη νεκρή γη» (1962), «Το τραγούδι του νεκρού αδελφού» (1962).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Πασχαλιές μέσα από τη νεκρή γη (1962)",
+      "url": "https://www.discogs.com/master/303460"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/a83bdfd9-7911-407c-9fe4-7bbd6e2a7a0e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Πασχαλιές μέσα από τη νεκρή γη” (1962), “Το τραγούδι του νεκρού αδελφού” (1962).",
+    "story": []
+  }
+}

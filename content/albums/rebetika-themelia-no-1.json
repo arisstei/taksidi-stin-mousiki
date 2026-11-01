@@ -1,0 +1,104 @@
+{
+  "slug": "rebetika-themelia-no-1",
+  "composer": "vamvakaris",
+  "title": "Ρεμπέτικα Θεμέλια Νο 1",
+  "year": 1979,
+  "type": "anthology",
+  "kind": "Συλλογή 33 στροφών",
+  "label": "Venus",
+  "catalog": "V-1027",
+  "format": "LP, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Πρώτος δίσκος της σειράς «Ρεμπέτικα Θεμέλια» της Venus (1979), αφιερωμένος στον Βαμβακάρη, με έντεκα τραγούδια και λαϊκή ορχήστρα."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Χρόνια Τώρα Στον Περαία",
+      "song": "xronia-tora-ston-peraia",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Σαν Με Δης Και Σου Σφυρίζω",
+      "song": "san-me-dis-kai-sou-sfyrizo",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Μπουζούκι Μου Διπλόχορδο",
+      "song": "mpouzouki-mou-diploxordo",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Μαριγούλα Μανταλένα",
+      "song": "marigoula-mantalena",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Μαύρα Μάτια Μαύρα Φρύδια",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Όσοι Έχουν Πολλά Λεφτά",
+      "song": "osoi-exoun-polla-lefta",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Καλόγηρος",
+      "song": "kalogiros",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Κάποιο Βράδυ Με Φεγγάρι",
+      "song": "kapoio-vrady-me-feggari",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Ματσάκια Πεντοχίλιαρα",
+      "song": "matsakia-pentoxiliara",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Τα Δυο Σου Μάτια",
+      "song": "ta-dyo-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Νόστιμη Μαυροματού",
+      "song": "nostimi-mayromatou",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Τότε Που Τάχα Τα Λεφτά",
+      "song": "tote-pou-taxa-ta-lefta",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ρεμπέτικα Θεμέλια Νο 1 (1979)",
+      "url": "https://www.discogs.com/release/4266094"
+    }
+  ],
+  "en": {
+    "kind": "LP compilation",
+    "about": [
+      "First record in Venus's “Rebetika Themelia” (Rebetiko Foundations) series (1979), devoted to Vamvakaris, with eleven songs and a popular-music orchestra."
+    ]
+  }
+}

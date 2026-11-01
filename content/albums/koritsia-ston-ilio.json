@@ -1,0 +1,115 @@
+{
+  "slug": "koritsia-ston-ilio",
+  "composer": "xarchakos",
+  "title": "Κορίτσια στον ήλιο",
+  "year": 1968,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "format": "LP",
+  "performers": [
+    "Μαρία Δημητριάδη",
+    "Fefe Aliberti"
+  ],
+  "lyricists": [
+    "Γιώργος Παπαστεφάνου"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική της ταινίας «Κορίτσια στον ήλιο» (1968) του Βασίλη Γεωργιάδη, με στίχους Γιώργου Παπαστεφάνου. Η ταινία απέσπασε τέσσερα βραβεία στο Φεστιβάλ Κινηματογράφου Θεσσαλονίκης, μεταξύ των οποίων και αυτό της καλύτερης μουσικής (Βικιπαίδεια)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Χωρισμός",
+      "performer": "Μαρία Δημητριάδη",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "xorismos",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πρώτη γνωριμία"
+    },
+    {
+      "pos": "3",
+      "title": "Καλοκαίρι"
+    },
+    {
+      "pos": "4",
+      "title": "Ηλιοβασίλεμα",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "iliovasilema",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Σκιές στην αγάπη"
+    },
+    {
+      "pos": "6",
+      "title": "Άνναμπελ",
+      "performer": "Μαρία Δημητριάδη",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "annampel",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Σε ζητώ",
+      "performer": "Fefe Aliberti",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "se-zito",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στην Αθήνα",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "stin-athina",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Παρεξήγηση"
+    },
+    {
+      "pos": "10",
+      "title": "Έλα κοντά μου",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "ela-konta-mou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Περίπατος"
+    },
+    {
+      "pos": "12",
+      "title": "Πριν το τέλος"
+    },
+    {
+      "pos": "13",
+      "title": "Τι να θυμηθώ",
+      "performer": "Fefe Aliberti & Μαρία Δημητριάδη",
+      "lyricist": "Γιώργος Παπαστεφάνου",
+      "song": "ti-na-thymitho",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κορίτσια στον ήλιο (1968)",
+      "url": "https://musicbrainz.org/release-group/1e62736c-1099-4544-b7b6-10b51bbd67cc"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The score of Vasilis Georgiadis's film Koritsia ston ilio (Girls in the Sun, 1968), with lyrics by Giorgos Papastefanou. The film won four awards at the Thessaloniki Film Festival, including best music (Wikipedia)."
+    ]
+  }
+}

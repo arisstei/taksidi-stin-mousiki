@@ -1,0 +1,28 @@
+{
+  "slug": "tsifteteli",
+  "title": "Τσιφτετέλι",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": "Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ένα μεσημέρι» (1966), «Ευδοκία» (1971).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ένα μεσημέρι (1966)",
+      "url": "https://musicbrainz.org/release-group/7a133af8-be5f-4b44-9ca7-3e59cfe9e393"
+    },
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ένα μεσημέρι” (1966), “Ευδοκία” (1971).",
+    "story": []
+  }
+}

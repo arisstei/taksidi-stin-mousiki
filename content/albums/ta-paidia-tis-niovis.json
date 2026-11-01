@@ -1,0 +1,170 @@
+{
+  "slug": "ta-paidia-tis-niovis",
+  "composer": "plessas",
+  "title": "Τα παιδιά της Νιόβης",
+  "year": 2004,
+  "type": "film",
+  "kind": "Μουσική για την τηλεόραση",
+  "label": "Epic",
+  "catalog": "EPC 519269 2",
+  "format": "CD",
+  "performers": [
+    "Μανώλης Λιδάκης",
+    "Ελένη Τσαλιγοπούλου",
+    "Κωνσταντίνος Ζαχουρίδης",
+    "Μελίνα Κανά",
+    "Αντώνης Ρέμος"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική και τα τραγούδια της τηλεοπτικής σειράς «Τα παιδιά της Νιόβης», σε έκδοση του 2004 με φωνές όπως ο Μανώλης Λιδάκης, η Ελένη Τσαλιγοπούλου, η Μελίνα Κανά και ο Αντώνης Ρέμος."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αν βουληθώ",
+      "performer": "Μανώλης Λιδάκης",
+      "song": "an-voulitho",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Στη νύχτα"
+    },
+    {
+      "pos": "3",
+      "title": "Καρτερώ",
+      "performer": "Ελένη Τσαλιγοπούλου",
+      "song": "kartero",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Έκαψα και την καρδιά μου",
+      "performer": "Κωνσταντίνος Ζαχουρίδης",
+      "song": "ekapsa-kai-tin-kardia-mou",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Νύχτες αγωνίας"
+    },
+    {
+      "pos": "6",
+      "title": "Χωρίς φιλί",
+      "performer": "Ελένη Τσαλιγοπούλου",
+      "song": "xoris-fili",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το άγιο αίμα",
+      "performer": "Κωνσταντίνος Ζαχουρίδης",
+      "song": "to-agio-aima",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Αντηχούν τα καλντερίμια"
+    },
+    {
+      "pos": "9",
+      "title": "Χωρίς φιλί",
+      "performer": "Ελένη Τσαλιγοπούλου",
+      "song": "xoris-fili",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Αλησμόνητη πατρίδα",
+      "performer": "Μελίνα Κανά",
+      "song": "alismoniti-patrida",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Άδειες νύχτες"
+    },
+    {
+      "pos": "12",
+      "title": "Στου ουρανού τις γειτονιές",
+      "performer": "Αντώνης Ρέμος",
+      "song": "stou-ouranou-tis-geitonies",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Αναμονή",
+      "song": "anamoni"
+    },
+    {
+      "pos": "14",
+      "title": "Έτσι και εγώ σε αγάπησα",
+      "performer": "Μελίνα Κανά",
+      "song": "etsi-kai-ego-se-agapisa",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Ανατολικά μεράκια"
+    },
+    {
+      "pos": "16",
+      "title": "Πώς καίγονται τα όνειρα",
+      "performer": "Μανώλης Λιδάκης",
+      "song": "pos-kaigontai-ta-oneira",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Βαρύς σεβντάς"
+    },
+    {
+      "pos": "18",
+      "title": "Ποιος ζει και ποιος πεθαίνει",
+      "performer": "Κωνσταντίνος Ζαχουρίδης",
+      "song": "poios-zei-kai-poios-pethainei",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Της μοναξιάς"
+    },
+    {
+      "pos": "20",
+      "title": "Τεβερίμ"
+    },
+    {
+      "pos": "21",
+      "title": "Ερωτικό"
+    },
+    {
+      "pos": "22",
+      "title": "Μη φεύγεις"
+    },
+    {
+      "pos": "23",
+      "title": "Στη γειτονιά"
+    },
+    {
+      "pos": "24",
+      "title": "Βυζαντινό"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα παιδιά της Νιόβης, Epic EPC 519269 2 (2004)",
+      "url": "https://musicbrainz.org/release/ec1b9ff1-afde-4203-bd37-84b96dae81ff"
+    },
+    {
+      "label": "ertnews.gr — Πέθανε σε ηλικία 100 ετών ο σπουδαίος συνθέτης Μίμης Πλέσσας (2024)",
+      "url": "https://www.ertnews.gr/eidiseis/politismos/pethane-se-ilikia-100-eton-o-spoudaios-synthetis-mimis-plessas/"
+    }
+  ],
+  "en": {
+    "kind": "Television music",
+    "about": [
+      "Music and songs from the television series Ta paidia tis Niovis, issued in 2004, with voices including Manolis Lidakis, Eleni Tsaligopoulou, Melina Kana and Antonis Remos."
+    ]
+  }
+}

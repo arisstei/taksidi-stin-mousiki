@@ -1,0 +1,133 @@
+{
+  "slug": "ilios-o-protos",
+  "composer": "markopoulos",
+  "title": "Ήλιος ο πρώτος",
+  "year": 1969,
+  "type": "cycle",
+  "kind": "Κοσμική καντάτα",
+  "performers": [],
+  "lyricists": [
+    "Οδυσσέας Ελύτης"
+  ],
+  "grade": "C",
+  "about": [
+    "Καντάτα σε ποίηση Οδυσσέα Ελύτη για φωνές, αφηγητή, γυναικεία χορωδία και ορχήστρα, γραμμένη στο Λονδίνο μετά το 1967 και αφετηρία της μελοποιημένης ποίησης του Μαρκόπουλου."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": 2,
+      "title": "Δεν Ξέρω Πια Τη Νύχτα",
+      "song": "den-xero-pia-ti-nyxta",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Δίνω Το Χέρι Στη Δικαιοσύνη",
+      "song": "dino-to-xeri-sti-dikaiosyni",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Ω, Να Σωπάσουν Οι Πέτρες",
+      "song": "o-na-sopasoun-oi-petres",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Σώμα Του Καλοκαιριού",
+      "song": "soma-tou-kalokairiou",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Ω, Αμάραντο Πέλαγο",
+      "song": "o-amaranto-pelago",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Κάτω Στης Μαργαρίτας Το Αλωνάκι",
+      "song": "kato-stis-margaritas-to-alonaki",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Τα Παιδιά",
+      "song": "ta-paidia",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Παιδί Με Το Γρατσουνισμένο Γόνατο",
+      "song": "paidi-me-to-gratsounismeno-gonato",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Πίνω Νερό, Κόβω Καρπό",
+      "song": "pino-nero-kovo-karpo",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Φωτιά, Ωραία Φωτιά",
+      "song": "fotia-oraia-fotia",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Μισοβουλιαγμένες Βάρκες",
+      "song": "misovouliagmenes-varkes",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Ναυτάκι Του Περιβολιού",
+      "song": "naytaki-tou-perivoliou",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Ζωγραφιές Ηράκλειες",
+      "song": "zografies-irakleies",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Πατριωτάκια Του Ήλιου",
+      "song": "patriotakia-tou-iliou",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "Wikipedia — Yannis Markopoulos",
+      "url": "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "MusicBrainz — Ήλιος Ο Πρώτος (κυκλοφορία 1969)",
+      "url": "https://musicbrainz.org/release/4961238a-f195-40bc-9e4d-e4715380d71d"
+    }
+  ],
+  "en": {
+    "kind": "Secular cantata",
+    "about": [
+      "A cantata on poetry by Odysseas Elytis for voices, narrator, women's choir and orchestra, composed in London after 1967 and the start of Markopoulos's settings of poetry."
+    ]
+  },
+  "label": "Philips",
+  "catalog": "843 624 PY",
+  "format": "12\" Vinyl"
+}

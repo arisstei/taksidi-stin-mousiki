@@ -1,0 +1,24 @@
+{
+  "slug": "doxastiko",
+  "title": "Δοξαστικό",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Μίκης Θεοδωράκης",
+  "year": "1962",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Το τραγούδι του νεκρού αδελφού» (1962), «Το τραγούδι του νεκρού αδελφού» (1962).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/a83bdfd9-7911-407c-9fe4-7bbd6e2a7a0e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Το τραγούδι του νεκρού αδελφού” (1962), “Το τραγούδι του νεκρού αδελφού” (1962).",
+    "story": []
+  }
+}

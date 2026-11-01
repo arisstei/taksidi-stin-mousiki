@@ -1,0 +1,46 @@
+{
+  "slug": "nyktosee-horis-fengari",
+  "composer": "zambetas",
+  "title": "Nyktosee Horis Fengari / Hathikis",
+  "year": 1966,
+  "type": "rebetiko",
+  "kind": "Δίσκος 45 στροφών",
+  "label": "Columbia Records",
+  "catalog": "DB 7903",
+  "format": "7\"",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος 45 στροφών της Columbia του 1966 με δύο κομμάτια, «Nyktosee horis fengari» (Α) και «Hathikis» (Β), όπως καταχωρούνται στη MusicBrainz με λατινικούς τίτλους."
+  ],
+  "tracks": [
+    {
+      "pos": "A",
+      "title": "Nyktosee horis fengari",
+      "performer": "George Zambetas",
+      "song": "nyktosee-horis-fengari",
+      "stub": true
+    },
+    {
+      "pos": "B",
+      "title": "Hathikis",
+      "performer": "George Zambetas",
+      "song": "hathikis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Nyktosee Horis Fengari / Hathikis (1966, Columbia DB 7903)",
+      "url": "https://musicbrainz.org/release/420f214f-f96b-48ea-b6df-bf5a72452947"
+    }
+  ],
+  "en": {
+    "kind": "7\" single",
+    "about": [
+      "A 1966 Columbia 7\" single with two tracks, “Nyktosee horis fengari” (A) and “Hathikis” (B), listed on MusicBrainz with Latin-script titles."
+    ]
+  }
+}

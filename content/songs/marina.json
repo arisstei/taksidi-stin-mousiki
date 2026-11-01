@@ -1,0 +1,24 @@
+{
+  "slug": "marina",
+  "title": "Μαρίνα",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Οδυσσέας Ελύτης",
+  "year": "1974",
+  "performer": "Ντόρα Γιαννακοπούλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μικρές Κυκλάδες / Λιποτάκτες» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/acb8ce1a-63f9-41bc-9036-b4e57156c840"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μικρές Κυκλάδες / Λιποτάκτες” (1974).",
+    "story": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "safari-stin-athina",
+  "title": "Σαφάρι στην Αθήνα",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1991",
+  "performer": "Μιχάλης Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Χίλια περιστέρια» (1991).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Χίλια περιστέρια (1991, Philips 510166-1)",
+      "url": "https://musicbrainz.org/release/110bab91-5367-4636-846c-6606467576fb"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Χίλια περιστέρια” (1991).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sourlanta-ntagianta",
+  "title": "Σουρλάντα Νταγιάντα",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1972",
+  "performer": "Μέμη Σπυράτου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Διάλειμμα» (1972), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Διάλειμμα (κυκλοφορία 1972)",
+      "url": "https://musicbrainz.org/release/373f9f07-94d9-4336-a005-321bfd4bd803"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Διάλειμμα” (1972), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

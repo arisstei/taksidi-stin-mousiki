@@ -1,0 +1,163 @@
+{
+  "slug": "o-magos-tou-oz",
+  "composer": "plessas",
+  "title": "Ο μάγος του Οζ",
+  "year": 1982,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο (παιδική παράσταση)",
+  "label": "Ρυθμός",
+  "catalog": "RLPS 2002",
+  "format": "LP",
+  "performers": [
+    "Βασιλάκης Καΐλας",
+    "Τάκης Χρυσούλης",
+    "Αλέκος Αλεξανδράκης",
+    "Αλίκη Αλεξανδράκη",
+    "Νανά Νικολάου"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος με τη μουσική και τα τραγούδια του Μίμη Πλέσσα για το θεατρικό «Ο μάγος του Οζ», με συν-καταχωρημένο τον Δημήτρη Ραβάνη στο Discogs και τους ηθοποιούς της παράστασης στα φωνητικά."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μουσική εισαγωγή α",
+      "performer": "Μίμης Πλέσσας"
+    },
+    {
+      "pos": "2",
+      "title": "Μια φορά σε κάποια χώρα",
+      "performer": "Βασιλάκης Καΐλας",
+      "song": "mia-fora-se-kapoia-xora",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μασουλήδες",
+      "performer": "Τάκης Χρυσούλης & Βασιλάκης Καΐλας",
+      "song": "masoulides",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Η καλή μάγισσα",
+      "performer": "Αλέκος Αλεξανδράκης & Νίκος Νικολάου",
+      "song": "i-kali-magissa",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο αχυροκέφαλος",
+      "performer": "Γ. Μιχαλάκης",
+      "song": "o-axyrokefalos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Πάμε στο δάσος"
+    },
+    {
+      "pos": "7",
+      "title": "Ο λαμαρινόκαρδος",
+      "performer": "Ν. Δάφνης",
+      "song": "o-lamarinokardos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ξεκινήσαμε",
+      "performer": "Βασιλάκης Καΐλας",
+      "song": "xekinisame",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Λιοντάρι",
+      "performer": "Χρ. Κελαντώνης",
+      "song": "liontari",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Χρειάζεται καρδιά",
+      "performer": "Νανά Νικολάου",
+      "song": "xreiazetai-kardia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μουσική εισαγωγή β΄",
+      "performer": "Μίμης Πλέσσας"
+    },
+    {
+      "pos": "12",
+      "title": "Τραγούδι της παπαρούνας",
+      "performer": "Αλίκη Αλεξανδράκη",
+      "song": "tragoudi-tis-paparounas",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Η ώρα πια μας έχει πάρει",
+      "performer": "Βασιλάκης Καΐλας",
+      "song": "i-ora-pia-mas-exei-parei",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Στη χώρα των μυιγιάγκιχτων",
+      "performer": "Αλίκη Αλεξανδράκη & Τάκης Χρυσούλης & Δάφνης",
+      "song": "sti-xora-ton-myigiagkixton",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Η ποντικομεραρχία",
+      "performer": "Αλίκη Αλεξανδράκη",
+      "song": "i-pontikomerarxia",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Βγες στη ζωή"
+    },
+    {
+      "pos": "17",
+      "title": "Οι τέσσερις μας φίλοι - ο τετραγωνοκέφαλος",
+      "performer": "Βασιλάκης Καΐλας",
+      "song": "oi-tesseris-mas-filoi-o-tetragonokefalos",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Με τα γυαλιά"
+    },
+    {
+      "pos": "19",
+      "title": "Οι πονηροί",
+      "performer": "Αλίκη Αλεξανδράκη & Τάκης Χρυσούλης",
+      "song": "oi-poniroi",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Ο μάγος",
+      "performer": "Τάκης Χρυσούλης",
+      "song": "o-magos",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ο μάγος του Οζ, Ρυθμός RLPS 2002 (1982)",
+      "url": "https://www.discogs.com/release/22926797"
+    }
+  ],
+  "en": {
+    "kind": "Music for the theatre (children’s show)",
+    "about": [
+      "A record of Mimis Plessas’s music and songs for the stage work “O magos tou Oz”, with Dimitris Ravanis co-credited on Discogs and the production’s actors on vocals."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "koritsi-mou-ola-gia-sena",
+  "title": "Κορίτσι Μου Όλα Για Σένα",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1977",
+  "performer": "Βασίλης Τσιτσάνης · Χαρούλα Λαμπράκη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Βασίλης Τσιτσάνης Τραγουδά Μεγάλες Επιτυχίες Του (1966-1977)» (1977), «Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη» (2001).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Βασίλης Τσιτσάνης Τραγουδά Μεγάλες Επιτυχίες Του (1966-1977) (1977)",
+      "url": "https://musicbrainz.org/release/8fa03381-a5d7-41ce-a105-d4a82a39cbfc"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη (2001)",
+      "url": "https://musicbrainz.org/release/fbd91989-dbce-4eaa-b135-eed07e7fab13"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Βασίλης Τσιτσάνης Τραγουδά Μεγάλες Επιτυχίες Του (1966-1977)” (1977), “Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη” (2001).",
+    "story": []
+  }
+}

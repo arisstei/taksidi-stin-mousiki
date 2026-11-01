@@ -1,0 +1,24 @@
+{
+  "slug": "sto-tetarto-patoma",
+  "title": "Στο Τέταρτο Πάτωμα",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Μίκης Θεοδωράκης",
+  "year": "1974",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο ήλιος και ο χρόνος» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 57)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο ήλιος και ο χρόνος” (1974).",
+    "story": []
+  }
+}

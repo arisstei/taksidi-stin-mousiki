@@ -1,0 +1,24 @@
+{
+  "slug": "mia-apli-alitheia",
+  "title": "Μια απλή αλήθεια",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "Βασίλης Παπακωνσταντίνου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κάτω από ένα κουνουπίδι» (1995).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κάτω από ένα κουνουπίδι, κυκλοφορία (1995)",
+      "url": "https://musicbrainz.org/release/9a3dc332-ed13-4a25-9293-c3b2dde48efb"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κάτω από ένα κουνουπίδι” (1995).",
+    "story": []
+  }
+}

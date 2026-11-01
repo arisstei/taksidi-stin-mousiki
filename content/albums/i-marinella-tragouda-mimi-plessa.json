@@ -1,0 +1,116 @@
+{
+  "slug": "i-marinella-tragouda-mimi-plessa",
+  "composer": "plessas",
+  "title": "Η Μαρινέλλα τραγουδά Μίμη Πλέσσα",
+  "year": 1992,
+  "type": "anthology",
+  "kind": "Συλλογή τραγουδιών",
+  "label": "Philips",
+  "catalog": "512465-1",
+  "format": "LP",
+  "performers": [
+    "Μαρινέλλα"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή με τραγούδια του Μίμη Πλέσσα στην ερμηνεία της Μαρινέλλας, σε έκδοση της PolyGram Greece (1992), με θέματα όπως το «Έκλαψα χθες» και το «Άνοιξε πέτρα»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Απόψε σε θέλω",
+      "performer": "Μαρινέλλα",
+      "song": "apopse-se-thelo",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Άμα δείτε το φεγγάρι",
+      "performer": "Μαρινέλλα",
+      "song": "ama-deite-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Άνοιξε πέτρα",
+      "performer": "Μαρινέλλα",
+      "song": "anoixe-petra",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το μάνταλο",
+      "performer": "Μαρινέλλα",
+      "song": "to-mantalo",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Έκλαψα χθες",
+      "performer": "Μαρινέλλα",
+      "song": "eklapsa-xthes",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ζωγραφισμένα στο χαρτί",
+      "performer": "Μαρινέλλα",
+      "song": "zografismena-sto-xarti",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Το αθάνατο νερό",
+      "performer": "Μαρινέλλα",
+      "song": "to-athanato-nero",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το βελουδένιο σου γελεκάκι",
+      "performer": "Μαρινέλλα",
+      "song": "to-veloudenio-sou-gelekaki",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Θάλασσά μου",
+      "performer": "Μαρινέλλα",
+      "song": "thalassa-mou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Την ώρα που σταμάτησε η βροχή",
+      "performer": "Μαρινέλλα",
+      "song": "tin-ora-pou-stamatise-i-vroxi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Δεν βαριέσαι δεν πειράζει",
+      "performer": "Μαρινέλλα",
+      "song": "den-variesai-den-peirazei",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Και τώρα",
+      "performer": "Μαρινέλλα",
+      "song": "kai-tora",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Η Μαρινέλλα τραγουδά Μίμη Πλέσσα, Philips 512465-1 (1992)",
+      "url": "https://www.discogs.com/release/3567711"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A compilation of Mimis Plessas songs performed by Marinella, issued by PolyGram Greece in 1992, including “Eklapsa chthes” and “Anoixe petra”."
+    ]
+  }
+}

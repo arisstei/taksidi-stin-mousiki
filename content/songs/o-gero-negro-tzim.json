@@ -1,0 +1,36 @@
+{
+  "slug": "o-gero-negro-tzim",
+  "title": "Ο γέρο νέγρο Τζιμ",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Γιάννης Νεγρεπόντης",
+  "year": "1975",
+  "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη · Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα Νέγρικα» (1975), «Ενθύμιο τρυφερότητας» (1997), «Τα τραγούδια του Σεβάχ» (2003) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 24: Ενθύμιο τρυφερότητας, κυκλοφορία (1997)",
+      "url": "https://musicbrainz.org/release/0e93952a-f9ab-4f16-b6c4-8db6f2360c87"
+    },
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του Σεβάχ (40 Ηχογραφήσεις 1966-1981), κυκλοφορία (2003)",
+      "url": "https://musicbrainz.org/release/ab9856b2-5e37-4bb6-a676-dc788d1720cb"
+    },
+    {
+      "label": "MusicBrainz — Όλα θυμίζουν τον Μάνο Λοΐζο, κυκλοφορία (2009)",
+      "url": "https://musicbrainz.org/release/6e8436f3-66c9-4c9b-9423-3603324e1bf7"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα Νέγρικα” (1975), “Ενθύμιο τρυφερότητας” (1997), “Τα τραγούδια του Σεβάχ” (2003) and 1 more.",
+    "story": []
+  }
+}

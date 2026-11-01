@@ -1,0 +1,143 @@
+{
+  "slug": "theatrika",
+  "composer": "xarchakos",
+  "title": "Θεατρικά",
+  "year": 1975,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο και τον κινηματογράφο",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "format": "LP",
+  "performers": [
+    "Πόλυ Πάνου",
+    "Γρηγόρης Μπιθικώτσης",
+    "Κώστας Καρράς",
+    "Αντώνης Κλειδωνιάρης"
+  ],
+  "lyricists": [
+    "Αλέκος Γαλανός",
+    "Λευτέρης Παπαδόπουλος",
+    "Βασίλης Ανδρεόπουλος",
+    "Βαγγέλης Γκούφας",
+    "Γιώργος Σκούρτης",
+    "Παύλος Μάτεσις"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος του 1975 που συγκεντρώνει μουσική και τραγούδια του Ξαρχάκου, όπως τα «Κόκκινα φανάρια», «Τα τραίνα που φύγαν» και «Φως της αυγής», μαζί με θεατρική μουσική σε στίχους Γιώργου Σκούρτη και Παύλου Μάτεσι."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τι να την κάνεις τη ζωή",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Αλέκος Γαλανός",
+      "song": "ti-na-tin-kaneis-ti-zoi",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Το τραγούδι της περασμένης μέρας",
+      "song": "to-tragoudi-tis-perasmenis-meras",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Κόκκινα φανάρια",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Αλέκος Γαλανός, Λευτέρης Παπαδόπουλος",
+      "song": "kokkina-fanaria",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Κόκκινα φανάρια: Φινάλε"
+    },
+    {
+      "pos": "5",
+      "title": "Φως της αυγής (ορχηστρικό)",
+      "lyricist": "Βασίλης Ανδρεόπουλος, Βαγγέλης Γκούφας",
+      "song": "fos-tis-aygis",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Από βυθό σ' άλλο βυθό",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Βασίλης Ανδρεόπουλος, Βαγγέλης Γκούφας",
+      "song": "apo-vytho-s-allo-vytho",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τα τραίνα που φύγαν...",
+      "lyricist": "Βασίλης Ανδρεόπουλος, Βαγγέλης Γκούφας",
+      "song": "ta-traina-pou-fygan",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Φως της αυγής",
+      "performer": "Γρηγόρης Μπιθικώτσης & Αντώνης Κλειδωνιάρης",
+      "lyricist": "Βασίλης Ανδρεόπουλος, Βαγγέλης Γκούφας",
+      "song": "fos-tis-aygis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Κομμεντία: Εισαγωγή"
+    },
+    {
+      "pos": "10",
+      "title": "Ο χορός των γυναικών",
+      "lyricist": "Γιώργος Σκούρτης",
+      "song": "o-xoros-ton-gynaikon",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Τραγούδι των χωρικών",
+      "performer": "Σταύρος Ξαρχάκος",
+      "lyricist": "Γιώργος Σκούρτης",
+      "song": "tragoudi-ton-xorikon",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Κόκκινα τριαντάφυλλα για μένα: Εισαγωγή"
+    },
+    {
+      "pos": "13",
+      "title": "Κόκκινα τριαντάφυλλα για μένα",
+      "performer": "Κώστας Καρράς",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "kokkina-triantafylla-gia-mena",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Τη σπάθα σήκωσε και πάλι",
+      "song": "ti-spatha-sikose-kai-pali",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Πατρίδα χιλιονικημένη",
+      "performer": "Κώστας Καρράς",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "patrida-xilionikimeni",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θεατρικά (1975)",
+      "url": "https://musicbrainz.org/release-group/d1ecf4f3-c21c-4220-aa1a-3b97faffd492"
+    }
+  ],
+  "en": {
+    "kind": "Music for stage and screen",
+    "about": [
+      "A 1975 album gathering music and songs by Xarchakos, such as \"Kokkina fanaria\", \"Ta traina pou fygan\" and \"Fos tis avgis\", together with theatre music to lyrics by Giorgos Skourtis and Pavlos Matesis."
+    ]
+  }
+}

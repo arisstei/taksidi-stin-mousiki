@@ -1,0 +1,116 @@
+{
+  "slug": "na-xame-ti-na-xame",
+  "composer": "loizos",
+  "title": "Να 'χαμε τι να 'χαμε",
+  "year": 1972,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 167",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Νταλάρας",
+    "Γιάννης Καλατζής",
+    "Μάνος Λοΐζος",
+    "Χαρούλα Αλεξίου"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1972 με στίχους του Λευτέρη Παπαδόπουλου. Τραγουδούν οι Νταλάρας, Καλατζής και ο ίδιος ο Λοΐζος, ενώ η Χαρούλα Αλεξίου συμμετέχει στα φωνητικά."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Να 'χαμε τι να 'χαμε",
+      "performer": "Μάνος Λοΐζος",
+      "song": "na-xame-ti-na-xame",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Τζίμης ο τίγρης (Ο Κουταλιανός)",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "tzimis-o-tigris",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Το ζεϊμπέκικο της Ευδοκίας",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-zeimpekiko-tis-eydokias",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Ο Λιόντας",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "o-liontas",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Πάνε να πεις",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "pane-na-peis",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ελισσώ",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "elisso",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Μια πάπια, μια χήνα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "mia-papia-mia-xina",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Παποράκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "paporaki",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ήλιε μου σε παρακαλώ",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ilie-mou-se-parakalo",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Πιάσε το ζουρνά",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "piase-to-zourna",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Να 'χαμε τι να 'χαμε, κυκλοφορία (1972)",
+      "url": "https://musicbrainz.org/release/d638e6fb-e0da-41af-b98a-5ccd4f20133c"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "A 1972 album with lyrics by Lefteris Papadopoulos, sung by Dalaras, Kalatzis and Loizos himself, with Haris Alexiou on backing vocals."
+    ]
+  }
+}

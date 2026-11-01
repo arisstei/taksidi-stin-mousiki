@@ -1,0 +1,120 @@
+{
+  "slug": "atheatos-sfygmos",
+  "composer": "markopoulos",
+  "title": "Αθέατος Σφυγμός",
+  "year": 1997,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "COL 489173-2",
+  "format": "CD",
+  "performers": [
+    "Βασίλης Λέκκας"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 12 κομμάτια, που κυκλοφόρησε το 1997 από τη Columbia. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Ένας Αθέατος Σφυγμός",
+      "performer": "Βασίλης Λέκκας",
+      "song": "enas-atheatos-sfygmos",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Θα Σε Βρω Όπου Και Νά 'σαι",
+      "performer": "Βασίλης Λέκκας",
+      "song": "tha-se-vro-opou-kai-na-sai",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Η Χώρα",
+      "performer": "Βασίλης Λέκκας",
+      "song": "i-xora",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Οι Πρώτες Μας Αλήθειες",
+      "performer": "Βασίλης Λέκκας",
+      "song": "oi-protes-mas-alitheies",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Δίας Ουράνιος",
+      "performer": "Βασίλης Λέκκας",
+      "song": "dias-ouranios",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Προσανατολισμένη",
+      "performer": "Βασίλης Λέκκας",
+      "song": "prosanatolismeni",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Τετάρτη Βράδυ",
+      "performer": "Βασίλης Λέκκας",
+      "song": "tetarti-vrady",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Ποταμοί Και Καταράχτες",
+      "performer": "Βασίλης Λέκκας",
+      "song": "potamoi-kai-kataraxtes",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Σφίγγε Με Πάνω Σου",
+      "performer": "Βασίλης Λέκκας",
+      "song": "sfigge-me-pano-sou",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Ποιό Χέρι",
+      "performer": "Βασίλης Λέκκας",
+      "song": "poio-xeri",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Η Φυσαρμόνικα",
+      "performer": "Βασίλης Λέκκας",
+      "song": "i-fysarmonika",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Πότε Θα Ξαναμιλήσεις",
+      "performer": "Βασίλης Λέκκας",
+      "song": "pote-tha-xanamiliseis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αθέατος Σφυγμός (κυκλοφορία 1997)",
+      "url": "https://musicbrainz.org/release/c9d406e1-e552-4237-b09d-e45686832369"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 12 tracks, released in 1997 on Columbia. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

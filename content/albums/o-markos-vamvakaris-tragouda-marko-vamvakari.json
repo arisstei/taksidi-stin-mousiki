@@ -1,0 +1,106 @@
+{
+  "slug": "o-markos-vamvakaris-tragouda-marko-vamvakari",
+  "composer": "vamvakaris",
+  "title": "Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη",
+  "year": 1969,
+  "type": "rebetiko",
+  "kind": "Δίσκος 33 στροφών (στερεοφωνικός)",
+  "label": "MeloPhone",
+  "catalog": "SMEL 5",
+  "format": "LP, Album, Stereo",
+  "performers": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος 33 στροφών της MeloPhone του 1969 με δώδεκα τραγούδια του Βαμβακάρη, από τη «Φραγκοσυριανή» και την «Άτακτη» ως «Τα ματόκλαδά σου λάμπουν». Η πρώτη έκδοση κυκλοφόρησε από εταιρεία διανομής· οι μεταγενέστερες επανεκδόσεις έγιναν από τη Phonogram (δεκαετία του '70) και την Polygram (δεκαετία του '80).",
+    "Στο οπισθόφυλλο, όπως σε κάθε έκδοση, η λίστα των τραγουδιών ξεκινά από την πλευρά Β."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Φραγκοσυριανή",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Μαύρη Ζωή Μικρούλα Μου",
+      "song": "mayri-zoi-mikroula-mou",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Η Γκρινιάρα",
+      "song": "i-gkriniara",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Τι Με Ωφελούν Οι Άνοιξες",
+      "song": "ti-me-ofeloun-oi-anoixes",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Φόρα Τα Μαύρα Φόρα Τα",
+      "song": "fora-ta-mayra-fora-ta",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Τ' Όμορφα Γαλανά Σου Μάτια",
+      "song": "t-omorfa-galana-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Άτακτη",
+      "song": "atakti",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Ήμουνα Μάγκας Μια Φορά",
+      "song": "imouna-magkas-mia-fora",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Μια Μικροπαντρεμένη",
+      "song": "mia-mikropantremeni",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ψεύτικος Είναι Ο Ντουνιάς",
+      "song": "pseytikos-einai-o-ntounias",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Δύο Γυφτοπούλες",
+      "song": "dyo-gyftopoules",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Τα Ματόκλαδά Σου Λάμπουν",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ο Μάρκος Βαμβακάρης Τραγουδά Μάρκο Βαμβακάρη (1969)",
+      "url": "https://www.discogs.com/release/29346406"
+    }
+  ],
+  "en": {
+    "kind": "LP (stereo)",
+    "about": [
+      "A 1969 MeloPhone LP of twelve Vamvakaris songs, from “Fragosyriani” and “Atakti” to “Ta matoklada sou lampoun”. The first pressing came out through a distribution company; later represses were by Phonogram (1970s) and Polygram (1980s).",
+      "On the back cover, as on every pressing, the tracklist begins with side B."
+    ]
+  }
+}

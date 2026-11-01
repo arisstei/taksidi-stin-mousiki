@@ -1,0 +1,28 @@
+{
+  "slug": "de-tha-xanagapiso",
+  "title": "Δε Θα Ξαναγαπήσω",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "2003",
+  "performer": "Μάνος Λοΐζος · Μάνος Λοΐζος & Στέλιος Καζαντζίδης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα τραγούδια του Σεβάχ» (2003), «Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις» (2012).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του Σεβάχ (40 Ηχογραφήσεις 1966-1981), κυκλοφορία (2003)",
+      "url": "https://musicbrainz.org/release/ab9856b2-5e37-4bb6-a676-dc788d1720cb"
+    },
+    {
+      "label": "MusicBrainz — Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις, κυκλοφορία (2012)",
+      "url": "https://musicbrainz.org/release/b20145be-1ef5-4493-98c4-05dfbac3d99e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα τραγούδια του Σεβάχ” (2003), “Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις” (2012).",
+    "story": []
+  }
+}

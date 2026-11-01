@@ -1,0 +1,24 @@
+{
+  "slug": "i-xora",
+  "title": "Η Χώρα",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1997",
+  "performer": "Βασίλης Λέκκας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Αθέατος Σφυγμός» (1997).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αθέατος Σφυγμός (κυκλοφορία 1997)",
+      "url": "https://musicbrainz.org/release/c9d406e1-e552-4237-b09d-e45686832369"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Αθέατος Σφυγμός” (1997).",
+    "story": []
+  }
+}

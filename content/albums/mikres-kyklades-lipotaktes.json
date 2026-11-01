@@ -1,0 +1,113 @@
+{
+  "slug": "mikres-kyklades-lipotaktes",
+  "composer": "theodorakis",
+  "title": "Μικρές Κυκλάδες / Λιποτάκτες",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "2J 062-70210",
+  "format": "LP, 12\"",
+  "performers": [
+    "Ντόρα Γιαννακοπούλου"
+  ],
+  "lyricists": [
+    "Οδυσσέας Ελύτης",
+    "Γιάννης Θεοδωράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1974 (Columbia 2J 062-70210): οι «Μικρές Κυκλάδες» σε ποίηση Οδυσσέα Ελύτη με την Ντόρα Γιαννακοπούλου, και τέσσερα τραγούδια σε στίχους Γιάννη Θεοδωράκη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μαρίνα",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "marina",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Η Μάγια",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "i-magia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Το τριζόνι",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "to-trizoni",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Του μικρού βορηά",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "tou-mikrou-voria",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τα Ελληνάκια",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "ta-ellinakia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τάδατε τα μάθατε",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "tadate-ta-mathate",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο κήπος έμπαινε στη θάλασσα",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "o-kipos-empaine-sti-thalassa",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Θα γίνεις δικιά μου",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "tha-gineis-dikia-mou",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Δακρυσμένα μάτια",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "dakrysmena-matia",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Σκέπασε ατμός τον έρωτά μας",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "skepase-atmos-ton-erota-mas",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Χάθηκα",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "xathika",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/acb8ce1a-63f9-41bc-9036-b4e57156c840"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1974 release (Columbia 2J 062-70210): \"Mikres Kyklades\" to poetry by Odysseas Elytis with Dora Giannakopoulou, plus four songs to lyrics by Giannis Theodorakis."
+    ]
+  }
+}

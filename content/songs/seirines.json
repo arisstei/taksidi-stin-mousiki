@@ -1,0 +1,24 @@
+{
+  "slug": "seirines",
+  "title": "Σειρήνες",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Κ.Χ. Μύρης",
+  "year": "1983",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Σειρήνες» (1983).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σειρήνες (κυκλοφορία 1983)",
+      "url": "https://musicbrainz.org/release/b7867674-6ab5-4417-b456-2135219f09ae"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Σειρήνες” (1983).",
+    "story": []
+  }
+}

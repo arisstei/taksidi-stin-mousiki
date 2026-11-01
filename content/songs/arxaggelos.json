@@ -1,0 +1,24 @@
+{
+  "slug": "arxaggelos",
+  "title": "ΑρΧάγγελος",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Κ.Χ. Μύρης (Κώστας Γεωργουσόπουλος)",
+  "year": "1970",
+  "performer": "Μαρία Δημητριάδη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Χρονικό» (1970).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Τα Νέα — Ένας δίσκος, μια ιστορία: 1970 Χρονικό (2013)",
+      "url": "https://www.tanea.gr/2013/07/30/lifearts/enas-diskos-mia-istoria-1970-xroniko/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Χρονικό” (1970).",
+    "story": []
+  }
+}

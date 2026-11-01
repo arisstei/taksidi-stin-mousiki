@@ -1,0 +1,24 @@
+{
+  "slug": "epivatis",
+  "title": "Επιβάτης",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Κώστας Τριπολίτης",
+  "year": "1981",
+  "performer": "Μαρία Φαραντούρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο επιβάτης» (1981).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/b7497dd5-69b5-44b8-8f8a-981d0be62677"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο επιβάτης” (1981).",
+    "story": []
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "stin-anatoli",
+  "composer": "theodorakis",
+  "title": "Στην ανατολή",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Μίνως Μάτσας & Υιός",
+  "catalog": "MSM 218",
+  "format": "LP, 12\"",
+  "performers": [
+    "Στέλιος Καζαντζίδης"
+  ],
+  "lyricists": [
+    "Μιχάλης Κακογιάννης",
+    "Γιάννης Καλαμίτσης",
+    "Κώστας Στυλιάτης",
+    "Μίκης Θεοδωράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1974 (Μίνως Μάτσας, MSM 218) με τον Στέλιο Καζαντζίδη, σε στίχους Μιχάλη Κακογιάννη, Γιάννη Καλαμίτση, Κώστα Στυλιάτη και του ίδιου του Θεοδωράκη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τα πατροπαράδοτα (α)",
+      "lyricist": "Μιχάλης Κακογιάννης",
+      "song": "ta-patroparadota",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα παραθύρια ορθάνοιχτα",
+      "lyricist": "Μιχάλης Κακογιάννης",
+      "song": "ta-parathyria-orthanoixta",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Στην ανατολή",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "stin-anatoli",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μες στην ταβέρνα",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "mes-stin-taverna",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Άστατο πουλί",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "astato-pouli",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Και δεν μίλησε κανείς",
+      "lyricist": "Γιάννης Καλαμίτσης",
+      "song": "kai-den-milise-kaneis",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τα πατροπαράδοτα (β)",
+      "lyricist": "Μιχάλης Κακογιάννης",
+      "song": "ta-patroparadota",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Άπονες εξουσίες",
+      "lyricist": "Μιχάλης Κακογιάννης",
+      "song": "apones-exousies",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μ' ένα καράβι όνειρα",
+      "lyricist": "Κώστας Στυλιάτης",
+      "song": "m-ena-karavi-oneira",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Φωτιές φωτιές",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "foties-foties",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Δέκα παλικάρια",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "deka-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Βουνά σας χαιρετώ",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "vouna-sas-xaireto",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/a948f5ac-5557-4af6-9a65-44b5a60e33c6"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1974 release (Minos Matsas, MSM 218) featuring Stelios Kazantzidis, with lyrics by Michalis Kakogiannis, Giannis Kalamitsis, Kostas Styliatis and Theodorakis himself."
+    ]
+  }
+}

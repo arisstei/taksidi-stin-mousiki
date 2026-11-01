@@ -1,0 +1,36 @@
+{
+  "slug": "ta-omorfa-ta-galana-sou-matia",
+  "title": "Τα Όμορφα Τα Γαλανά Σου Μάτια",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1966",
+  "performer": "Δημήτρης Ευσταθίου · Μάρκος Βαμβακάρης · Λουκάς Νταράλας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Βαμβακάρης» (1974), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992) και 4 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Discogs — Βαμβακάρης (1974)",
+      "url": "https://www.discogs.com/release/6038014"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Τα Τελευταία Χρόνια Του Μάρκου 1963-1969 (2005)",
+      "url": "https://www.discogs.com/release/3214433"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Βαμβακάρης” (1974), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992) and 4 more.",
+    "story": []
+  }
+}

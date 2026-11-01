@@ -1,0 +1,36 @@
+{
+  "slug": "ores-me-threfei-o-loulas",
+  "title": "Ώρες Με Θρέφει Ο Λουλάς",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1982",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982)» (1982), «Αυθεντικές Εκτελέσεις» (1987), «ΙΙ» (1995) και 3 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982) (1982)",
+      "url": "https://www.discogs.com/release/8319087"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Discogs — Τετράς Η Ξακουστή Του Πειραιώς (1997)",
+      "url": "https://www.discogs.com/release/14021756"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982)” (1982), “Αυθεντικές Εκτελέσεις” (1987), “ΙΙ” (1995) and 3 more.",
+    "story": []
+  }
+}

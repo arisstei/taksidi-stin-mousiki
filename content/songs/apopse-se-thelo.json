@@ -1,0 +1,28 @@
+{
+  "slug": "apopse-se-thelo",
+  "title": "Απόψε σε θέλω",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": null,
+  "year": "1992",
+  "performer": "Μαρινέλλα",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Μαρινέλλα τραγουδά Μίμη Πλέσσα» (1992), «Ιωβηλαίον» (2002).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Η Μαρινέλλα τραγουδά Μίμη Πλέσσα, Philips 512465-1 (1992)",
+      "url": "https://www.discogs.com/release/3567711"
+    },
+    {
+      "label": "MusicBrainz — Ιωβηλαίον, Minos-EMI (2002)",
+      "url": "https://musicbrainz.org/release/6bcedeb9-0e57-4dc7-9d2e-a8a6bb14bddd"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Μαρινέλλα τραγουδά Μίμη Πλέσσα” (1992), “Ιωβηλαίον” (2002).",
+    "story": []
+  }
+}

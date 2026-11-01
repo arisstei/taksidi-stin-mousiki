@@ -1,0 +1,28 @@
+{
+  "slug": "o-tsolias",
+  "title": "Ο τσολιάς (Γεια σου τσολιά μου)",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "Άννα Χρυσάφη · Γρηγόρης Μπιθικώτσης, Γεωργία Τζόυ",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Συλλογή Δίφωνο, 1: Συνέβη στα… πέριξ» (1995), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 1: Συνέβη στα… πέριξ (1995)",
+      "url": "https://musicbrainz.org/release/ae0f3e7b-4867-415f-8025-2a6fffbb89ee"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Συλλογή Δίφωνο, 1: Συνέβη στα… πέριξ” (1995), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "thiseas",
+  "composer": "markopoulos",
+  "title": "Θησέας",
+  "year": 1963,
+  "type": "cycle",
+  "kind": "Μουσική δίσκου",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 6 κομμάτια, που κυκλοφόρησε το 1963. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Ο Ήλιος Σαν Εφάνηκε/Ερχομός (Ορχήστρα)"
+    },
+    {
+      "pos": 2,
+      "title": "Αυγερινός/Η Υποδοχή (Ορχήστρα)"
+    },
+    {
+      "pos": 3,
+      "title": "Ο Ανδρειωμένος/Χορός Λαού - Συνάντησις Με Αριάδνη - Εμβατήριο",
+      "song": "o-andreiomenos-xoros-laou-synantisis-me-ariadni-emvatirio",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Ποιος Είδε Νιο Να Μάχεται/Μινώταυρος - Μάχη - Μετά Την Μάχη (Ορχήστρα)"
+    },
+    {
+      "pos": 5,
+      "title": "Ο Ανδρειωμένος/Επινίκια - Χορός (Ορχήστρα)"
+    },
+    {
+      "pos": 6,
+      "title": "Αλοίμονο/Αριάδνη - Μοναξιά",
+      "song": "aloimono-ariadni-monaxia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θησέας (κυκλοφορία 1963)",
+      "url": "https://musicbrainz.org/release/e07f7e16-1397-449f-ac38-47743763f13c"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Album of music",
+    "about": [
+      "Album with music by Yannis Markopoulos, 6 tracks, released in 1963. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

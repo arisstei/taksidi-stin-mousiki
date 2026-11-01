@@ -1,0 +1,28 @@
+{
+  "slug": "xtypisan-arga",
+  "title": "Χτύπησαν αργά",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Δημήτρης Χριστοδούλου",
+  "year": "1974",
+  "performer": "Μάνος Λοΐζος & Κώστας Σμοκοβίτης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Καλημέρα ήλιε» (1974), «Ενθύμιο τρυφερότητας» (1997).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 24: Ενθύμιο τρυφερότητας, κυκλοφορία (1997)",
+      "url": "https://musicbrainz.org/release/0e93952a-f9ab-4f16-b6c4-8db6f2360c87"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Καλημέρα ήλιε” (1974), “Ενθύμιο τρυφερότητας” (1997).",
+    "story": []
+  }
+}

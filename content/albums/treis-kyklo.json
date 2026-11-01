@@ -1,0 +1,120 @@
+{
+  "slug": "treis-kyklo",
+  "composer": "theodorakis",
+  "title": "Τρεις κύκλοι",
+  "year": 1979,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "3743",
+  "format": "LP, 12\"",
+  "performers": [
+    "Μαργαρίτα Ζορμπαλά"
+  ],
+  "lyricists": [
+    "Γιώργος Σεφέρης",
+    "Γιάννης Θεοδωράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1979 (Lyra 3743) με τη Μαργαρίτα Ζορμπαλά, σε ποίηση Γιώργου Σεφέρη και στίχους Γιάννη Θεοδωράκη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τώρα που θα φύγεις",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "tora-pou-tha-fygeis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Στο στήθος μου η πληγή",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "sto-stithos-mou-i-pligi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο ύπνος σε τύλιξε",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "o-ypnos-se-tylixe",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Λίγο ακόμα",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "ligo-akoma",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Θα γίνεις δικιά μου",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "tha-gineis-dikia-mou",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Δακρυσμένα μάτια",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "dakrysmena-matia",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Σκέπασε ατμός τον έρωτά μας",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "skepase-atmos-ton-erota-mas",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Χάθηκα",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "xathika",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Στο περιγιάλι το κρυφό",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "sto-perigiali-to-kryfo",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Κράτησα τη ζωή μου",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "kratisa-ti-zoi-mou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Άνθη της πέτρας",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "anthi-tis-petras",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μέσα στις θαλασσινές σπηλιές",
+      "lyricist": "Γιώργος Σεφέρης",
+      "song": "mesa-stis-thalassines-spilies",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/ff1b1dc5-8ece-45f6-b7f6-95b308e67fb1"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1979 release (Lyra 3743) with Margarita Zorbala, to poetry by George Seferis and lyrics by Giannis Theodorakis."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "apelpistika",
+  "title": "Απελπίστικα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Γρηγόρης Μπιθικώτσης · Μάρκος Βαμβακάρης · Δημήτρης Κοντογιάννης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης» (1980), «Αυθεντικές Εκτελέσεις» (1987), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992) και 2 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης” (1980), “Αυθεντικές Εκτελέσεις” (1987), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992) and 2 more.",
+    "story": []
+  }
+}

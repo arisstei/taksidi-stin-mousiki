@@ -1,0 +1,145 @@
+{
+  "slug": "tis-agapis-chromata",
+  "composer": "zambetas",
+  "title": "Της αγάπης χρώματα",
+  "year": 2001,
+  "type": "anthology",
+  "kind": "Συλλογή / συνεργασία με τον Μανώλη Μητσιά",
+  "label": "Legend Recordings",
+  "catalog": "LEGEND 2201150882",
+  "format": "CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Μανώλης Μητσιάς"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος του 2001 που η MusicBrainz καταχωρεί με συντελεστές τους Γιώργο Ζαμπέτα και Μανώλη Μητσιά, με 16 κομμάτια.",
+    "Ανάμεσα στους τίτλους: «Σαν φεγγάρι θα 'ρθώ», «Της αγάπης χρώματα», «Σήκω, ψυχή μου» και «Εξόριστος στον τόπο μου»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Εισαγωγή",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς"
+    },
+    {
+      "pos": "2",
+      "title": "Ο Ζαμπέτας στην πενιά",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "o-zampetas-stin-penia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Σαν φεγγάρι θα 'ρθώ",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "san-feggari-tha-rtho",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τα μάτια θέλουνε φιλιά",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "ta-matia-theloune-filia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Της αγάπης χρώματα",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "tis-agapis-xromata",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μόνο μια νύχτα",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "mono-mia-nyxta",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Σήκω, ψυχή μου",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "siko-psyxi-mou",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το καπέλο στραβά",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "to-kapelo-strava",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Βαρύς καιρός",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "varys-kairos",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Δε θα φύγω ποτέ",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "de-tha-fygo-pote",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ο πόθος μάγος",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "o-pothos-magos",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Αξία έχει να αγαπάς",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "axia-exei-na-agapas",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Παρασκευή και δεκατρείς",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "paraskeyi-kai-dekatreis",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Τι ωραίο ν' αγαπάς",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "ti-oraio-n-agapas",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Της αμαρτίας τα φιλιά",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "tis-amartias-ta-filia",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Εξόριστος στον τόπο μου",
+      "performer": "Γιώργος Ζαμπέτας & Μανώλης Μητσιάς",
+      "song": "exoristos-ston-topo-mou",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Της αγάπης χρώματα (2001, Legend Recordings LEGEND 2201150882)",
+      "url": "https://musicbrainz.org/release/d25caba0-5a43-4eef-a36d-9354177046f0"
+    }
+  ],
+  "en": {
+    "kind": "Compilation / collaboration with Manolis Mitsias",
+    "about": [
+      "A 2001 release that MusicBrainz credits to Giorgos Zampetas and Manolis Mitsias, with 16 tracks.",
+      "Titles include “San fegari tha ’rtho”, “Tis agapis chromata”, “Siko, psychi mou” and “Exoristos ston topo mou”."
+    ]
+  }
+}

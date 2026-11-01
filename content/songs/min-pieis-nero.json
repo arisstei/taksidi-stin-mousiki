@@ -1,0 +1,24 @@
+{
+  "slug": "min-pieis-nero",
+  "title": "Μην πιείς νερό",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1969",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κόσμε αγάπη μου» (1969).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κόσμε αγάπη μου (1969)",
+      "url": "https://musicbrainz.org/release-group/a384ec6b-f47f-47ca-ab88-05f576403867"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κόσμε αγάπη μου” (1969).",
+    "story": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "to-choma-vaftike-kokkino",
+  "composer": "plessas",
+  "title": "Το χώμα βάφτηκε κόκκινο",
+  "year": 1966,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "Philips",
+  "catalog": "630125",
+  "format": "LP",
+  "performers": [
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Η ορχηστρική μουσική του Μίμη Πλέσσα για την ταινία «Το χώμα βάφτηκε κόκκινο», σε έκδοση της Philips, με θέματα όπως το «Μοιρολόι του κλαρίνου» και η «Πορεία των ξωμάχων»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Θέμα τίτλων"
+    },
+    {
+      "pos": "2",
+      "title": "Γέννηση του ανθρώπου"
+    },
+    {
+      "pos": "3",
+      "title": "Στα μετέωρα"
+    },
+    {
+      "pos": "4",
+      "title": "Τραγούδι του θερισμού"
+    },
+    {
+      "pos": "5",
+      "title": "Ερωτικό"
+    },
+    {
+      "pos": "6",
+      "title": "Μοιρολόϊ του κλαρίνου"
+    },
+    {
+      "pos": "7",
+      "title": "Πορεία των ξωμάχων"
+    },
+    {
+      "pos": "8",
+      "title": "Αητέ και παληκάρι",
+      "song": "aite-kai-palikari",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Γυρισμός του ασώτου"
+    },
+    {
+      "pos": "10",
+      "title": "Καλπασμός των γενναίων"
+    },
+    {
+      "pos": "11",
+      "title": "Ψάχνωντας στα μετέωρα"
+    },
+    {
+      "pos": "12",
+      "title": "Κυνήγι"
+    },
+    {
+      "pos": "13",
+      "title": "Περιπλάνηση του παλικαριού"
+    },
+    {
+      "pos": "14",
+      "title": "Αίμα αδελφικό"
+    },
+    {
+      "pos": "15",
+      "title": "Πένθος"
+    },
+    {
+      "pos": "16",
+      "title": "Ελεγείο φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Το χώμα βάφτηκε κόκκινο, Philips 630125 (1966)",
+      "url": "https://www.discogs.com/release/11782945"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "Mimis Plessas’s instrumental score for the film “To choma vaftike kokkino”, issued by Philips, with themes such as the “Lament of the clarinet” and the “March of the countrymen”."
+    ]
+  }
+}

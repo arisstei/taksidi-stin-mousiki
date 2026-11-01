@@ -1,0 +1,128 @@
+{
+  "slug": "i-symfonia-tis-gialtas",
+  "composer": "xarchakos",
+  "title": "Η συμφωνία της Γιάλτας και της πικρής αγάπης τα τραγούδια",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "format": "LP",
+  "performers": [
+    "Νίκος Ξυλούρης",
+    "Δήμητρα Γαλάνη",
+    "Σταύρος Παράβας"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Παύλος Μάτεσις",
+    "Γιώργος Σκούρτης",
+    "Βαγγέλης Γκούφας",
+    "Ματθαίος Μουντές"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος του 1976 με τραγούδια του Ξαρχάκου σε στίχους Νίκου Γκάτσου, Παύλου Μάτεσι, Γιώργου Σκούρτη, Βαγγέλη Γκούφα και Ματθαίου Μουντέ, σε ερμηνείες των Νίκου Ξυλούρη και Δήμητρας Γαλάνη. Ανάμεσα στα τραγούδια, τα «Ο Σαμ ο Τζώνη και ο Ιβάν» και «Πατρίδα χιλιονικημένη»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο Σαμ ο Τζώνη και ο Ιβάν",
+      "performer": "Σταύρος Παράβας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-sam-o-tzoni-kai-o-ivan",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πουλημένοι",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "poulimenoi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τη σπάθα σήκωσε και πάλι",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "ti-spatha-sikose-kai-pali",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πατρίδα χιλιονικημένη",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "patrida-xilionikimeni",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Μπροστά πηγαίνει ο λαός",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Γιώργος Σκούρτης",
+      "song": "mprosta-pigainei-o-laos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τριάντα χρόνια",
+      "performer": "Νίκος Ξυλούρης",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "trianta-xronia",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αγάπη αγάπη",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "agapi-agapi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Θρήνος για ένα παλληκάρι",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "thrinos-gia-ena-pallikari",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Κόκκινα τριαντάφυλλα",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Παύλος Μάτεσις",
+      "song": "kokkina-triantafylla",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Κορίτσι στ' όνειρο",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Ματθαίος Μουντές",
+      "song": "koritsi-st-oneiro",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ταξιδεύουμε αδέρφια",
+      "performer": "Δήμητρα Γαλάνη",
+      "lyricist": "Ματθαίος Μουντές",
+      "song": "taxideyoume-aderfia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η συμφωνία της Γιάλτας και της πικρής αγάπης τα τραγούδια (1976)",
+      "url": "https://musicbrainz.org/release-group/926d3aa0-bf44-4c90-ab4e-7c0d32b3d412"
+    }
+  ],
+  "en": {
+    "kind": "Album of songs",
+    "about": [
+      "A 1976 album of songs by Xarchakos to lyrics by Nikos Gatsos, Pavlos Matesis, Giorgos Skourtis, Vangelis Goufas and Matthaios Mountes, sung by Nikos Xylouris and Dimitra Galani. The songs include \"O Sam o Tzoni kai o Ivan\" and \"Patrida chilionikimeni\"."
+    ]
+  }
+}

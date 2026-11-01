@@ -1,0 +1,28 @@
+{
+  "slug": "o-loukas",
+  "title": "Ο Λουκάς",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1972",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Περιπέτειες» (1972), «Γιώργος Ζαμπέτας (Universal, 2 CD)» (2010).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περιπέτειες (1972, Olympic SBL 1083)",
+      "url": "https://musicbrainz.org/release/cce2d89f-e03a-4595-ba88-69ff449a1a77"
+    },
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Universal, 2 CD) (2010, Universal Music)",
+      "url": "https://musicbrainz.org/release/f82a6023-7d4a-4a4c-ba11-5d4028d8630e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Περιπέτειες” (1972), “Γιώργος Ζαμπέτας (Universal, 2 CD)” (2010).",
+    "story": []
+  }
+}

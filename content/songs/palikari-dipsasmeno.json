@@ -1,0 +1,24 @@
+{
+  "slug": "palikari-dipsasmeno",
+  "title": "Παλικάρι διψασμένο",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ντίνος Δημόπουλος",
+  "year": "1979",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Όνειρα στις γειτονιές» (1979).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Όνειρα στις γειτονιές (1979)",
+      "url": "https://musicbrainz.org/release-group/f2f4de7b-769f-41cf-b089-2cb00af52069"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Όνειρα στις γειτονιές” (1979).",
+    "story": []
+  }
+}

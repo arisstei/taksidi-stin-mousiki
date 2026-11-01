@@ -1,0 +1,32 @@
+{
+  "slug": "adiexodo",
+  "title": "Αδιέξοδο",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1986",
+  "performer": "Γιάννης Πάριος · Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ξαρχάκος / Πάριος» (1986), «16 Σπάνιες Ηχογραφήσεις / 1964-1972» (1996), «Το φιλοσόφησε πολύ!» (1997).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ξαρχάκος / Πάριος (1986)",
+      "url": "https://musicbrainz.org/release-group/97d65226-55f1-44c8-89be-b8189a2f0b04"
+    },
+    {
+      "label": "MusicBrainz — 16 Σπάνιες Ηχογραφήσεις / 1964-1972 (1996, Mercury 532 614-2)",
+      "url": "https://musicbrainz.org/release/3e428920-979f-41c5-ab79-fb8d99c3ad6a"
+    },
+    {
+      "label": "MusicBrainz — Το φιλοσόφησε πολύ! (1997, PolyGram 377-2 / ΜΕΤΡΟ 16)",
+      "url": "https://musicbrainz.org/release/663aa925-7119-42db-ac5d-0c56761bca13"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ξαρχάκος / Πάριος” (1986), “16 Σπάνιες Ηχογραφήσεις / 1964-1972” (1996), “Το φιλοσόφησε πολύ!” (1997).",
+    "story": []
+  }
+}

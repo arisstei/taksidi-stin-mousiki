@@ -1,0 +1,105 @@
+{
+  "slug": "metanastes",
+  "composer": "markopoulos",
+  "title": "Μετανάστες",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "performers": [
+    "Λάκης Χαλκιάς"
+  ],
+  "lyricists": [
+    "Γιώργος Σκούρτης"
+  ],
+  "grade": "C",
+  "about": [
+    "Κύκλος τραγουδιών σε στίχους του Γιώργου Σκούρτη."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Οι Οχτώ Χωριάτες",
+      "song": "oi-oxto-xoriates",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Η Μπαλλάντα Του Μετανάστη",
+      "song": "i-mpallanta-tou-metanasti",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Η Αντάρα, Το Λενάκι Κι Η Ρηνιώ",
+      "song": "i-antara-to-lenaki-ki-i-rinio",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Η Φάμπρικα",
+      "song": "i-famprika",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Είπες Απρίλη Πως Θαρθείς",
+      "song": "eipes-aprili-pos-thartheis",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Μιλώ Για Τα Παιδιά Μου",
+      "song": "milo-gia-ta-paidia-mou",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Εδώ Στην Ξένη Χώρα",
+      "performer": "Λάκης Χαλκιάς",
+      "lyricist": "Γιώργος Σκούρτης",
+      "song": "edo-stin-xeni-xora",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Κλείσε Την Πόρτα",
+      "song": "kleise-tin-porta",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Ο Ρόκο Και Οι Άλλοι",
+      "song": "o-roko-kai-oi-alloi",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Μη Μου Μιλήσης Πάλι Για Ταξίδια",
+      "song": "mi-mou-milisis-pali-gia-taxidia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "MusicBrainz — Μετανάστες (κυκλοφορία 1974)",
+      "url": "https://musicbrainz.org/release/1c98a9e4-b71b-480b-8054-7805f0fa694f"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle to words by Giorgos Skourtis."
+    ]
+  },
+  "label": "Columbia",
+  "catalog": "SCXG 135",
+  "format": "12\" Vinyl"
+}

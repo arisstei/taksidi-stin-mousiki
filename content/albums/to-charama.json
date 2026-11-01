@@ -1,0 +1,179 @@
+{
+  "slug": "to-charama",
+  "composer": "vassilis-tsitsanis",
+  "title": "Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη",
+  "year": 1991,
+  "type": "anthology",
+  "kind": "Συλλογή τραγουδιών και ταξιμιών",
+  "label": "DPI",
+  "catalog": "DR 024",
+  "format": "CD",
+  "performers": [
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 21 κομματιών με τραγούδια και μπουζουκίστικα ταξίμια, που κυκλοφόρησε από την DPI."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Να Γιατί Γυρνώ",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "na-giati-gyrno",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Μπαξέ Τσιφλίκι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "mpaxe-tsifliki",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πήρα Τη Στράτα Κι Έρχομαι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "pira-ti-strata-ki-erxomai",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Παίξε Χρήστο Το Μπουζούκι",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "paixe-xristo-to-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Σόλο Σε Ρυθμό 5/8 Λα Μινόρε",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "solo-se-rythmo-5-8-la-minore",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Μη Μου Ξαναφύγεις Πια",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "mi-mou-xanafygeis-pia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Όταν Πίνεις Στην Ταβέρνα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "otan-pineis-stin-taverna",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Πέφτεις Σε Λάθη",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "pefteis-se-lathi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Το Παράπονο Του Ξενητεμένου",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-parapono-tou-xenitemenou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Το Γράμμα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-gramma",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ταξίμι Μινόρε",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taximi-minore",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ταξίμι Πειραιώτικο",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taximi-peiraiotiko",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Ο Σακαφλιάς",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "sakaflias",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Δεν Ξαναπιάνω Γκόμενα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "den-xanapiano-gkomena",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Τρελλή Που Θέλεις Να Με Στεφανώσεις",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "trelli-pou-theleis-na-me-stefanoseis",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Σε Μάζεψα Σε Σύμασα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "se-mazepsa-se-symasa",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Ταξίμι Χετζάς - Πειραιώτικο - Αλέγκρο 9/8",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "taximi-xetzas-peiraiotiko-alegkro-9-8",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Τα Λερωμένα Τ' Άπλυτα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "ta-leromena-t-aplyta",
+      "stub": true
+    },
+    {
+      "pos": "20",
+      "title": "Την Μοίρα Μου Την Είδα",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "tin-moira-mou-tin-eida",
+      "stub": true
+    },
+    {
+      "pos": "21",
+      "title": "Το Μινόρε Του Τσιτσάνη",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-minore-tou-tsitsani",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το Χάραμα - Τραγούδια Και Ταξίμια Του Βασίλη Τσιτσάνη (1991)",
+      "url": "https://musicbrainz.org/release/f99754d3-d8ee-45ee-a929-8324121e0d27"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of songs and taximia",
+    "about": [
+      "A 21-track compilation of songs and bouzouki improvisations (taximia), released by DPI."
+    ]
+  }
+}

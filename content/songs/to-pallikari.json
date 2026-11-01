@@ -1,0 +1,28 @@
+{
+  "slug": "to-pallikari",
+  "title": "Το παλληκάρι",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Μίκης Θεοδωράκης",
+  "year": "1960",
+  "performer": "Ρένα Κουμιώτη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αρχιπέλαγος» (1960), «Θάλασσα, πικροθάλασσα…» (1973).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Μίκης Θεοδωράκης: Αρχιπέλαγος (1960/1976)",
+      "url": "https://diskovolos58.blogspot.com/2020/10/19601976.html"
+    },
+    {
+      "label": "Discogs — Θάλασσα, πικροθάλασσα…, Lyra SYLP 3581 (1973)",
+      "url": "https://www.discogs.com/release/6327716"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αρχιπέλαγος” (1960), “Θάλασσα, πικροθάλασσα…” (1973).",
+    "story": []
+  }
+}

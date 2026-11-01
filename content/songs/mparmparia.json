@@ -1,0 +1,24 @@
+{
+  "slug": "mparmparia",
+  "title": "Μπαρμπαριά",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "2015",
+  "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μαρίκα Νίνου-Βασίλης Τσιτσάνης» (2015).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μαρίκα Νίνου-Βασίλης Τσιτσάνης (2015)",
+      "url": "https://musicbrainz.org/release/47ec93ea-0274-4af9-b523-9d8b1eb74ffc"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μαρίκα Νίνου-Βασίλης Τσιτσάνης” (2015).",
+    "story": []
+  }
+}

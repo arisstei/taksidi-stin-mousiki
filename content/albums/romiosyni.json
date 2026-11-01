@@ -1,0 +1,106 @@
+{
+  "slug": "romiosyni",
+  "composer": "theodorakis",
+  "title": "Ρωμιοσύνη",
+  "year": 1966,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "His Master's Voice",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης"
+  ],
+  "lyricists": [
+    "Γιάννης Ρίτσος"
+  ],
+  "grade": "A",
+  "about": [
+    "Κύκλος τραγουδιών πάνω σε ποίηση του Γιάννη Ρίτσου, με τον Γρηγόρη Μπιθικώτση στη φωνή. Σύμφωνα με την εργογραφία, παρουσιάστηκε στην Αθήνα στις 25 Φεβρουαρίου 1966.",
+    "Ο δίσκος έχει εννέα τραγούδια και ανοίγει με το «Αυτά τα δέντρα». Η σχέση του Θεοδωράκη με την ποίηση του Ρίτσου, από τον «Επιτάφιο» ως τη «Ρωμιοσύνη», είναι από τις πιο γνωστές στην ελληνική μουσική του 20ού αιώνα."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αυτά τα δέντρα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ayta-ta-dentra",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Όλοι διψάνε",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "oloi-dipsane",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Όταν σφίγγουν το χέρι",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "otan-sfiggoun-to-xeri",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τόσα χρόνια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "tosa-xronia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Μπήκαν στα σίδερα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "mpikan-sta-sidera",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Δέντρο το δέντρο",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "dentro-to-dentro",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ποιος να το πει",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "poios-na-to-pei",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Θα σημάνουν οι καμπάνες",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "tha-simanoun-oi-kampanes",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τραβήξανε ψηλά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "travixane-psila",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Ρωμιοσύνη (1966, κατάλογος κομματιών)",
+      "url": "https://www.mikistheodorakis.gr/el/music/listen/byalbum/?albumid=254"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 51)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Χρονολόγιο 1961–1970 (1966)",
+      "url": "https://mikisguide.gr/xronologio-1961-1970/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle on poetry by Yannis Ritsos, with Grigoris Bithikotsis singing. According to the composer's catalogue it was first presented in Athens on 25 February 1966.",
+      "The record has nine songs and opens with “Afta ta dentra”. Theodorakis's relationship with Ritsos's poetry, from Epitaphios to Romiosini, is one of the best-known in twentieth-century Greek music."
+    ]
+  }
+}

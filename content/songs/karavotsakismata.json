@@ -1,0 +1,36 @@
+{
+  "slug": "karavotsakismata",
+  "title": "Καραβοτσακίσματα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1966",
+  "performer": "Δημήτρης Ευσταθίου, Πόπη Ρίνα · Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Σαράντα Χρόνια» (1966), «Αυθεντικές Εκτελέσεις» (1987), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992) και 4 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — IV (1995)",
+      "url": "https://www.discogs.com/release/7105479"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Σαράντα Χρόνια” (1966), “Αυθεντικές Εκτελέσεις” (1987), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992) and 4 more.",
+    "story": []
+  }
+}

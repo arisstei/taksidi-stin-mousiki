@@ -1,0 +1,120 @@
+{
+  "slug": "tis-exorias",
+  "composer": "theodorakis",
+  "title": "Της εξορίας",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "performers": [
+    "Βασίλης Παπακωνσταντίνου"
+  ],
+  "lyricists": [
+    "Μίκης Θεοδωράκης",
+    "Πάνος Λαμψίδης",
+    "Γιάννης Νεγρεπόντης",
+    "Μανόλης Αναγνωστάκης",
+    "Τάσος Λειβαδίτης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1976 με τον Βασίλη Παπακωνσταντίνου, σε στίχους των Θεοδωράκη, Λαμψίδη, Νεγρεπόντη, Αναγνωστάκη και Λειβαδίτη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Της εξορίας (Θάλασσες μας ζώνουν)",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "tis-exorias",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Χτύπα χτύπα",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "xtypa-xtypa",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ύμνος του ΕΛΑΝ",
+      "lyricist": "Πάνος Λαμψίδης",
+      "song": "ymnos-tou-elan",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ελ Ζαατάρ",
+      "lyricist": "Γιάννης Νεγρεπόντης",
+      "song": "el-zaatar",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Της φυλακής",
+      "lyricist": "Γιάννης Νεγρεπόντης",
+      "song": "tis-fylakis",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Πέτρουλας",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "petroulas",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Έφτασες αργά",
+      "lyricist": "Μανόλης Αναγνωστάκης",
+      "song": "eftases-arga",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Δεν έφταιγε ο ίδιος",
+      "lyricist": "Μανόλης Αναγνωστάκης",
+      "song": "den-eftaige-o-idios",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ήτανε νέοι",
+      "lyricist": "Μανόλης Αναγνωστάκης",
+      "song": "itane-neoi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Κάθε πρωί",
+      "lyricist": "Μανόλης Αναγνωστάκης",
+      "song": "kathe-proi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μου μιλάτε για κείνον",
+      "lyricist": "Γιάννης Νεγρεπόντης",
+      "song": "mou-milate-gia-keinon",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μη χάνεις το θάρρος σου",
+      "lyricist": "Τάσος Λειβαδίτης",
+      "song": "mi-xaneis-to-tharros-sou",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/7f9d44a5-ca13-46fb-badb-473bb68fbc95"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1976 release with Vasilis Papakonstantinou, with lyrics by Theodorakis, Lampsidis, Negrepontis, Anagnostakis and Leivaditis."
+    ]
+  }
+}

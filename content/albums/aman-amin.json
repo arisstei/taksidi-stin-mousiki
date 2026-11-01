@@ -1,0 +1,260 @@
+{
+  "slug": "aman-amin",
+  "composer": "xarchakos",
+  "title": "Αμάν αμήν",
+  "year": 1995,
+  "type": "rebetiko",
+  "kind": "Μουσική για το θέατρο — η ιστορία του ρεμπέτικου",
+  "label": "Minos-EMI",
+  "catalog": "7243 4 80639 2 2",
+  "format": "2×CD",
+  "performers": [
+    "Πόλυ Πάνου",
+    "Κώστας Μαντζόπουλος",
+    "Κώστας Τσίγκος",
+    "Νίκος Μαραγκόπουλος",
+    "Μαρία Σουλτάτου",
+    "Σωτηρία Λεονάρδου",
+    "Σπύρος Λιόσης"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Ευάγγελος Πρέκας",
+    "Ευτυχία Παπαγιαννοπούλου",
+    "Κώστας Μάνεσης",
+    "Βασίλης Τσιτσάνης",
+    "Μάρκος Βαμβακάρης",
+    "Μίνως Μάτσας",
+    "Παραδοσιακό"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική της παράστασης «Αμάν-Αμήν» (1994), που παρουσιάζει την ιστορία του ρεμπέτικου τραγουδιού και την οποία ο Ξαρχάκος σκηνοθέτησε ο ίδιος (Βικιπαίδεια). Ο διπλός δίσκος περιέχει ρεμπέτικα και τραγούδια του ίδιου, με τους Πόλυ Πάνου, Μαρία Σουλτάτου, Σωτηρία Λεονάρδου, Κώστα Τσίγκο, Κώστα Μαντζόπουλο και Νίκο Μαραγκόπουλο."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μάνα μου Ελλάς",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mana-mou-ellas",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Το βουνό",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Ευάγγελος Πρέκας",
+      "song": "to-vouno",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Βγήκε ο χάρος να ψαρέψει",
+      "performer": "Κώστας Μαντζόπουλος",
+      "lyricist": "Ευτυχία Παπαγιαννοπούλου",
+      "song": "vgike-o-xaros-na-psarepsei",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πέντε Έλληνες στον Άδη",
+      "performer": "Κώστας Τσίγκος",
+      "lyricist": "Κώστας Μάνεσης",
+      "song": "pente-ellines-ston-adi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Όταν συμβεί στα πέριξ",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Βασίλης Τσιτσάνης",
+      "song": "otan-symvi-sta-perix",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Λιτανεία του μάγκα",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Βασίλης Τσιτσάνης",
+      "song": "litaneia-tou-magka",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Χτες το βράδυ στο σκοτάδι (Οι μπάτσοι)",
+      "performer": "Κώστας Μαντζόπουλος",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "xtes-to-vrady-sto-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Οι πρωθυπουργοί",
+      "performer": "Νίκος Μαραγκόπουλος",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "oi-prothypourgoi",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μες στον οντά ενός πασά",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Μίνως Μάτσας",
+      "song": "mes-ston-onta-enos-pasa",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Η Σεράχ",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Βασίλης Τσιτσάνης",
+      "song": "i-serax",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Γκιούλ Μπαχάρ",
+      "performer": "Μαρία Σουλτάτου",
+      "lyricist": "Βασίλης Τσιτσάνης",
+      "song": "gkioul-mpaxar",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μανάκι μου",
+      "performer": "Μαρία Σουλτάτου",
+      "lyricist": "Παραδοσιακό",
+      "song": "manaki-mou",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Μπουρνοβαλιά",
+      "performer": "Σωτηρία Λεονάρδου",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "mpournovalia",
+      "stub": true
+    },
+    {
+      "pos": "1",
+      "title": "Ξαβεριώτισσα",
+      "performer": "Κώστας Τσίγκος",
+      "lyricist": "Δημήτρης Γκόγκος (Μπαγιαντέρας)",
+      "song": "xaveriotissa",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Καπριτσιόζα (Αλανιάρα)",
+      "performer": "Σπύρος Λιόσης",
+      "lyricist": "Γιάννης Ογδοντάκης",
+      "song": "kapritsioza",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ζούσα μονάχος χωρίς αγάπη",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Δημήτρης Γκόγκος (Μπαγιαντέρας)",
+      "song": "zousa-monaxos-xoris-agapi",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το δίχτυ",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Καίγομαι, καίγομαι",
+      "performer": "Σωτηρία Λεονάρδου",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "kaigomai-kaigomai",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Τα μάνταλα",
+      "performer": "Κώστας Μαντζόπουλος",
+      "lyricist": "Βασίλης Τσιτσάνης",
+      "song": "ta-mantala",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Της γερακίνας γιος",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Κώστας Βίρβος",
+      "song": "tis-gerakinas-gios",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Σακαφλιάς",
+      "performer": "Κώστας Μαντζόπουλος",
+      "lyricist": "Παραδοσιακό",
+      "song": "sakaflias",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ιμιτλερίμ (Ελπίζω)",
+      "performer": "Νίκος Μαραγκόπουλος",
+      "lyricist": "Παραδοσιακό",
+      "song": "imitlerim",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τα γερόντια",
+      "performer": "Νίκος Μαραγκόπουλος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "ta-gerontia",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Στου Θωμά",
+      "performer": "Κώστας Τσίγκος",
+      "lyricist": "Κώστας Φέρρης",
+      "song": "stou-thoma",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Κόκκινα φανάρια",
+      "performer": "Πόλυ Πάνου",
+      "lyricist": "Αλέκος Γαλανός, Λευτέρης Παπαδόπουλος",
+      "song": "kokkina-fanaria",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τα παιδιά της άμυνας",
+      "performer": "Κώστας Μαντζόπουλος",
+      "lyricist": "Παραδοσιακό",
+      "song": "ta-paidia-tis-amynas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Αμάν αμήν (1995)",
+      "url": "https://musicbrainz.org/release-group/a80acbfa-2a58-445e-bc4c-c143ab286f48"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage - the story of rebetiko",
+    "about": [
+      "The music of the production Aman-Amin (1994), which presents the history of rebetiko song and which Xarchakos himself directed (Wikipedia). The double album contains rebetika and his own songs, with Poly Panou, Maria Soultatou, Sotiria Leonardou, Kostas Tsigkos, Kostas Mantzopoulos and Nikos Maragkopoulos."
+    ]
+  }
+}

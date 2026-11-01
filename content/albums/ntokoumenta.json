@@ -1,0 +1,103 @@
+{
+  "slug": "ntokoumenta",
+  "composer": "zambetas",
+  "title": "Ντοκουμέντα",
+  "year": 1975,
+  "type": "rebetiko",
+  "kind": "Λαϊκά τραγούδια",
+  "label": "Olympic",
+  "catalog": "SBL 1106",
+  "performers": [
+    "Γιώργος Ζαμπέτας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1975 με δώδεκα τραγούδια του Ζαμπέτα, ανάμεσά τους τα «Σ' αυτές τις στράτες», «Το φιλοσόφησα πολύ» και «Στο Λευκό Πύργο»."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Σ' αυτές τις στράτες",
+      "song": "s-aytes-tis-strates",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Βαράτε βιολιτζήδες",
+      "song": "varate-violitzides",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Το φιλοσόφησα πολύ",
+      "song": "to-filosofisa-poly",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Πολυξένη",
+      "song": "polyxeni",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Στο Λευκό Πύργο",
+      "song": "sto-leyko-pyrgo",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Ομολογώ",
+      "song": "omologo",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "1001 νύχτες",
+      "song": "1001-nyxtes",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Το πιτσιρίκι",
+      "song": "to-pitsiriki",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Ο Φιφίκος",
+      "song": "o-fifikos",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Η κομμαντατούρα",
+      "song": "i-kommantatoura",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Μάνα ήρθανε ληστές",
+      "song": "mana-irthane-listes",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Άντε να σαλτάρω",
+      "song": "ante-na-saltaro",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ντοκουμέντα (1975, Olympic SBL 1106)",
+      "url": "https://musicbrainz.org/release/e4f84bd2-57b8-4779-b734-b6b3b1ce6452"
+    }
+  ],
+  "en": {
+    "kind": "Popular songs",
+    "about": [
+      "A 1975 record of twelve songs by Zampetas, including “S' aftes tis strates”, “To filosofisa poly” and “Sto Lefko Pyrgo”."
+    ]
+  }
+}

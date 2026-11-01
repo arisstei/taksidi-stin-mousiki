@@ -1,0 +1,129 @@
+{
+  "slug": "omorfi-poli",
+  "composer": "theodorakis",
+  "title": "Όμορφη πόλη",
+  "year": 1962,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "His Master's Voice",
+  "catalog": "GCLP 4",
+  "format": "LP, 12\"",
+  "performers": [],
+  "lyricists": [
+    "Μποστ",
+    "Δημήτρης Χριστοδούλου",
+    "Ερρίκος Θαλασσινός",
+    "Άκος Δασκαλόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "«Όμορφη πόλη», δίσκος του 1962 από την ΗΜV με στίχους των Μποστ, Δημήτρη Χριστοδούλου, Ερρίκου Θαλασσινού και Άκου Δασκαλόπουλου. Ο κατάλογος κομματιών είναι της πρώτης έκδοσης (GCLP 4) όπως τον καταγράφει το MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Εισαγωγή"
+    },
+    {
+      "pos": "2",
+      "title": "Σερενάτα",
+      "lyricist": "Μποστ",
+      "song": "serenata",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Όταν με δείτε να μιλώ",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "otan-me-deite-na-milo",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Του σπιτιού",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "tou-spitiou",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το τραγούδι της ξενιτιάς",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "to-tragoudi-tis-xenitias",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Νανούρισμα",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "nanourisma"
+    },
+    {
+      "pos": "7",
+      "title": "Μέσα στα μαύρα σου μαλλιά",
+      "lyricist": "Άκος Δασκαλόπουλος",
+      "song": "mesa-sta-mayra-sou-mallia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Καημός",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "kaymos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Εκείνος που μας χάθηκε",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "ekeinos-pou-mas-xathike",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Του γάμου",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "tou-gamou",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Του Χάρου",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "tou-xarou",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Θλιμμένη ματιά",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "thlimmeni-matia",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Της δουλειάς",
+      "lyricist": "Ερρίκος Θαλασσινός",
+      "song": "tis-douleias",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Κρητικός χορός",
+      "song": "kritikos-xoros",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/2a643d8d-a16d-420c-b253-757b75417d9f"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "\"Omorfi poli\" is a 1962 HMV release with lyrics by Bost, Dimitris Christodoulou, Errikos Thalassinos and Akos Daskalopoulos. The track list is that of the first edition (GCLP 4) as recorded by MusicBrainz."
+    ]
+  }
+}

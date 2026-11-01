@@ -1,0 +1,83 @@
+{
+  "slug": "rantebou-ston-aera",
+  "composer": "plessas",
+  "title": "Ραντεβού στον αέρα",
+  "year": 1965,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Philips",
+  "catalog": "630124",
+  "format": "Vinyl",
+  "performers": [
+    "Γιάννης Βογιατζής"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική της ταινίας «Ραντεβού στον αέρα» του Γιάννη Δαλιανίδη, σε έκδοση της Philips. Το ΕΡΤ News το αναφέρει ως την πρώτη δισκογραφική εμφάνιση του Πλέσσα· το 2016 ο «Διάφανος σταυρός» κυκλοφόρησε για τα 50 χρόνια από την ταινία."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": "2",
+      "title": "Η Μάρθα στα μπουζούκια"
+    },
+    {
+      "pos": "3",
+      "title": "Press Conference"
+    },
+    {
+      "pos": "4",
+      "title": "Πόνο στον πόνο τα σκαλιά"
+    },
+    {
+      "pos": "5",
+      "title": "Ερωτική ιστορία στο Παρίσι"
+    },
+    {
+      "pos": "6",
+      "title": "Ένας ουρανός μ' αστέρια",
+      "performer": "Γιάννης Βογιατζής",
+      "song": "enas-ouranos-m-asteria",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Νύχτα καλοκαιριού"
+    },
+    {
+      "pos": "8",
+      "title": "Γραμμόφωνο - ραδιόφωνο - τηλεόραση"
+    },
+    {
+      "pos": "9",
+      "title": "Φεύγουν τα χρόνια"
+    },
+    {
+      "pos": "10",
+      "title": "Φινάλε"
+    },
+    {
+      "pos": "11",
+      "title": "Φεύγουν τα χρόνια"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ραντεβού στον αέρα, Philips 630124 (1965)",
+      "url": "https://musicbrainz.org/release/b1150ddf-911c-4de5-a09e-9743540c1513"
+    },
+    {
+      "label": "ertnews.gr — Πέθανε σε ηλικία 100 ετών ο σπουδαίος συνθέτης Μίμης Πλέσσας (2024)",
+      "url": "https://www.ertnews.gr/eidiseis/politismos/pethane-se-ilikia-100-eton-o-spoudaios-synthetis-mimis-plessas/"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The score for Yannis Dalianidis's film Rendezvous in the Air, issued by Philips. ERT News cites it as Plessas's recording debut; in 2016 the album Diafanos Stavros appeared to mark 50 years since the film."
+    ]
+  }
+}

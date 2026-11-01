@@ -1,0 +1,24 @@
+{
+  "slug": "odysseas-85",
+  "title": "Οδυσσέας ΄85",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1985",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ρεπορτάζ» (1985).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ρεπορτάζ (κυκλοφορία 1985)",
+      "url": "https://musicbrainz.org/release/eb8e5e84-ba98-4e63-a0c7-60e3a0757e37"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ρεπορτάζ” (1985).",
+    "story": []
+  }
+}

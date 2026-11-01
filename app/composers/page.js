@@ -3,6 +3,9 @@ import { getAllComposers, getAlbumsByComposer, localizeComposer } from "@/lib/al
 import { getDiscDict } from "@/lib/discDict";
 import { SITE_URL } from "@/lib/site";
 import ComposersIndex from "@/components/ComposersIndex";
+import ComposersTabs from "@/components/ComposersTabs";
+import PerformersIndex from "@/components/PerformersIndex";
+import { getAllPerformers } from "@/lib/performers";
 
 const LANG = "el";
 
@@ -40,7 +43,15 @@ export default function ComposersPage() {
       <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-gold mb-3">{t.discographiesKicker}</p>
       <h1 className="font-serif font-bold uppercase tracking-tight text-4xl sm:text-5xl text-ink">{t.discographies}</h1>
       <p className="text-ink/70 mt-4 mb-12 max-w-2xl leading-relaxed">{t.discographiesIntro}</p>
-      <ComposersIndex composers={[...composers, ...lyricistCards(LANG)]} lang={LANG} />
+      <ComposersTabs
+        ariaLabel={t.tabsLabel}
+        labels={{ composers: t.tabComposers, lyricists: t.tabLyricists, performers: t.tabPerformers }}
+        panels={{
+          composers: <ComposersIndex composers={composers} lang={LANG} filterable />,
+          lyricists: <ComposersIndex composers={lyricistCards(LANG)} lang={LANG} filterable />,
+          performers: <PerformersIndex performers={getAllPerformers()} lang={LANG} />,
+        }}
+      />
     </div>
   );
 }

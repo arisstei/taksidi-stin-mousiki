@@ -1,0 +1,24 @@
+{
+  "slug": "vegetaciones",
+  "title": "Vegetaciones (Βλαστήσεις)",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Pablo Neruda",
+  "year": "1975",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Canto General» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Wikipedia — Canto General (Theodorakis)",
+      "url": "https://en.wikipedia.org/wiki/Canto_General_(Theodorakis)"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Canto General” (1975).",
+    "story": []
+  }
+}

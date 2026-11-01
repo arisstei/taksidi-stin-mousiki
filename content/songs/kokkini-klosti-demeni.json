@@ -1,0 +1,24 @@
+{
+  "slug": "kokkini-klosti-demeni",
+  "title": "Κόκκινη κλωστή δεμένη",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": null,
+  "year": "2006",
+  "performer": "Τζένη Καρέζη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Λυσιστράτη» (2006).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Λυσιστράτη (2006)",
+      "url": "https://musicbrainz.org/release-group/7ac29514-4bd5-4054-bee1-4b24d05d117d"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Λυσιστράτη” (2006).",
+    "story": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "i-palioparea",
+  "title": "Η παληοπαρέα",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1973",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάλιστα κύριε» (1973), «Gold — Ορχηστρικά / Instrumental» (2002), «Συλλογή Δίφωνο, 136: Διάταξη ψυχής» (2006) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάλιστα κύριε (1973, Olympic SBL 1906)",
+      "url": "https://musicbrainz.org/release/ebe3bd54-7316-4fee-abba-5fefea658ec8"
+    },
+    {
+      "label": "MusicBrainz — Gold — Ορχηστρικά / Instrumental (2002, Music Box International MMB 10904)",
+      "url": "https://musicbrainz.org/release/1fa49999-ccd8-47c8-9a43-f46a4597c243"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 136: Διάταξη ψυχής (2006, Δίφωνο 136)",
+      "url": "https://musicbrainz.org/release/efa130ac-d5c1-421f-98b5-daddc935ce23"
+    },
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Universal, 2 CD) (2010, Universal Music)",
+      "url": "https://musicbrainz.org/release/f82a6023-7d4a-4a4c-ba11-5d4028d8630e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάλιστα κύριε” (1973), “Gold — Ορχηστρικά / Instrumental” (2002), “Συλλογή Δίφωνο, 136: Διάταξη ψυχής” (2006) and 1 more.",
+    "story": []
+  }
+}

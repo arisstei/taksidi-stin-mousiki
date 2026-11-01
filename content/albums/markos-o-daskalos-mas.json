@@ -1,0 +1,141 @@
+{
+  "slug": "markos-o-daskalos-mas",
+  "composer": "xarchakos",
+  "title": "Μάρκος ο δάσκαλός μας",
+  "year": 1968,
+  "type": "rebetiko",
+  "kind": "Ρεμπέτικο — τραγούδια του Μάρκου Βαμβακάρη",
+  "label": "Columbia Records",
+  "catalog": "33 GSX 26",
+  "format": "LP",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Γιώργος Ζαμπέτας",
+    "Βίκυ Μοσχολιού",
+    "Γιώτα Λύδια",
+    "Σταμάτης Κόκοτας"
+  ],
+  "lyricists": [
+    "Μάρκος Βαμβακάρης",
+    "Αργύρης Βαμβακάρης",
+    "Γιώργος Φωτίδας"
+  ],
+  "grade": "B",
+  "about": [
+    "Η πρώτη δουλειά του Ξαρχάκου στο ρεμπέτικο: δώδεκα τραγούδια του Μάρκου Βαμβακάρη, ειδωμένα από τη δική του οπτική (Βικιπαίδεια). Ο Ξαρχάκος υπογράφει τις ενορχηστρώσεις και τη διεύθυνση της ορχήστρας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Φραγκοσυριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα ματόκλαδά σου λάμπουν",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Το συμφέρον",
+      "performer": "Γιώτα Λύδια",
+      "lyricist": "Αργύρης Βαμβακάρης, Μάρκος Βαμβακάρης",
+      "song": "to-symferon",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Τα δυο σου χέρια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "ta-dyo-sou-xeria",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Σ' αυτό τον κόσμο",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "s-ayto-ton-kosmo",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ήθελα να 'μουν Ηρακλής",
+      "performer": "Γιώργος Ζαμπέτας",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "ithela-na-moun-iraklis",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αλεξανδριανή",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "alexandriani",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Φοράς φουστάνι βυσσινί",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Γιώργος Φωτίδας",
+      "song": "foras-foustani-vyssini",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αντιλαλούν οι φυλακές",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "antilaloun-oi-fylakes",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Σου 'δωσα διαζύγιο",
+      "performer": "Γιώργος Ζαμπέτας",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "sou-dosa-diazygio",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ο Κάβουρας",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "o-kavouras",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Να μ' αξιώσει ο Θεός",
+      "performer": "Γιώργος Ζαμπέτας",
+      "lyricist": "Μάρκος Βαμβακάρης",
+      "song": "na-m-axiosei-o-theos",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Rebetiko - songs of Markos Vamvakaris",
+    "about": [
+      "Xarchakos's first work in rebetiko: twelve songs by Markos Vamvakaris, seen from his own point of view (Wikipedia). Xarchakos is credited with the arrangements and the conducting."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "thrinos-gia-ton-ignatio",
+  "composer": "xarchakos",
+  "title": "Θρήνος για τον Ιγνάθιο Σάντσιεθ Μέχιας",
+  "year": 1969,
+  "type": "instrumental",
+  "kind": "Δίσκος με τέσσερα μέρη",
+  "label": "Μίνως Μάτσας & Υιός Α.Ε.",
+  "format": "LP",
+  "grade": "C",
+  "about": [
+    "Δίσκος του 1969 σε τέσσερα μέρη («Το χτύπημα και ο θάνατος», «Το σκόρπιο αίμα», «Σώμα στην πέτρα», «Ψυχή φευγάτη»), με πρώτη έκδοση από τη Minos, όπως τον καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Το χτύπημα και ο θάνατος"
+    },
+    {
+      "pos": "2",
+      "title": "Το σκόρπιο αίμα"
+    },
+    {
+      "pos": "3",
+      "title": "Σώμα στην πέτρα"
+    },
+    {
+      "pos": "4",
+      "title": "Ψυχή φευγάτη"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θρήνος για τον Ιγνάθιο Σάντσιεθ Μέχιας (1969)",
+      "url": "https://musicbrainz.org/release-group/55280b37-c005-4552-833e-4b8628aaa63f"
+    }
+  ],
+  "en": {
+    "kind": "Four-part record",
+    "about": [
+      "A 1969 record in four parts (the blow and the death, the scattered blood, body on the stone, the fled soul), first issued by Minos, as listed on MusicBrainz."
+    ]
+  }
+}

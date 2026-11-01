@@ -1,0 +1,190 @@
+{
+  "slug": "sirines",
+  "composer": "markopoulos",
+  "title": "Σειρήνες",
+  "year": 1983,
+  "type": "cycle",
+  "kind": "Διπλός δίσκος σε ποίηση Κ.Χ. Μύρη",
+  "label": "Columbia",
+  "catalog": "162-170009/10",
+  "format": "12\" Vinyl ×2",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 22 κομμάτια, που κυκλοφόρησε το 1983 από τη Columbia. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Ραψωδός",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "rapsodos",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Σειρήνες",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "seirines",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Σύντροφοι Α' Εποχής",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "syntrofoi-a-epoxis",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Τραγούδι Της Μήδειας",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "tragoudi-tis-mideias",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Αργοναύτης",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "argonaytis",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Ψάλτης",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "psaltis",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Σειρήνες Άγγελοι",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "seirines-aggeloi",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Σύντροφοι Β' Εποχής",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "syntrofoi-v-epoxis",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Τραγούδι Της Μαξιμώς",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "tragoudi-tis-maximos",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Ακρίτας",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "akritas",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Κοσμάς",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "kosmas",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Σειρήνες Ανατολίτισσες",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "seirines-anatolitisses",
+      "stub": true
+    },
+    {
+      "pos": 13,
+      "title": "Σύντροφοι Γ' Εποχής, Κλέφτες",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "syntrofoi-g-epoxis-kleftes",
+      "stub": true
+    },
+    {
+      "pos": 14,
+      "title": "Αυλικός Περίγυρος",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "aylikos-perigyros",
+      "stub": true
+    },
+    {
+      "pos": 15,
+      "title": "Καπετάνιος",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "kapetanios",
+      "stub": true
+    },
+    {
+      "pos": 16,
+      "title": "Σημάδι (Ορχηστρικό)",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "simadi",
+      "stub": true
+    },
+    {
+      "pos": 17,
+      "title": "Πρόσφυγας",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "prosfygas",
+      "stub": true
+    },
+    {
+      "pos": 18,
+      "title": "Σειρήνες Νανουρίστρες",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "seirines-nanouristres",
+      "stub": true
+    },
+    {
+      "pos": 19,
+      "title": "Φιλικός Χορός (Ορχηστρικό)",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "filikos-xoros",
+      "stub": true
+    },
+    {
+      "pos": 20,
+      "title": "Ξένη Φωνή",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "xeni-foni",
+      "stub": true
+    },
+    {
+      "pos": 21,
+      "title": "Ταξιδευτής",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "taxideytis",
+      "stub": true
+    },
+    {
+      "pos": 22,
+      "title": "Σύντροφοι Δ' Εποχής",
+      "lyricist": "Κ.Χ. Μύρης",
+      "song": "syntrofoi-d-epoxis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σειρήνες (κυκλοφορία 1983)",
+      "url": "https://musicbrainz.org/release/b7867674-6ab5-4417-b456-2135219f09ae"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Double album on poetry by K.Ch. Myris",
+    "about": [
+      "Album with music by Yannis Markopoulos, 22 tracks, released in 1983 on Columbia. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  },
+  "lyricists": [
+    "Κ.Χ. Μύρης"
+  ]
+}

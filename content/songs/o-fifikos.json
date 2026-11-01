@@ -1,0 +1,24 @@
+{
+  "slug": "o-fifikos",
+  "title": "Ο Φιφίκος",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1975",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ντοκουμέντα» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ντοκουμέντα (1975, Olympic SBL 1106)",
+      "url": "https://musicbrainz.org/release/e4f84bd2-57b8-4779-b734-b6b3b1ce6452"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ντοκουμέντα” (1975).",
+    "story": []
+  }
+}

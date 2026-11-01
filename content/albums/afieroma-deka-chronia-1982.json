@@ -1,0 +1,121 @@
+{
+  "slug": "afieroma-deka-chronia-1982",
+  "composer": "vamvakaris",
+  "title": "Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982)",
+  "year": 1982,
+  "type": "anthology",
+  "kind": "LP συλλογή για τα δέκα χρόνια από τον θάνατό του",
+  "label": "Margophone",
+  "catalog": "MARGO 8252",
+  "format": "Vinyl, LP, Compilation, Stereo",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Απόστολος Χατζηχρήστος"
+  ],
+  "grade": "B",
+  "about": [
+    "Τιμητικό LP της Margophone για τα δέκα χρόνια από τον θάνατο του Βαμβακάρη (1972–1982), με 12 τραγούδια του και κείμενα στο εξώφυλλο από τους Τσιτσάνη, Παπαϊωάννου, Μπαγιαντέρα και άλλους."
+  ],
+  "tracks": [
+    {
+      "pos": "Α1",
+      "title": "Το Διαζύγιο",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "to-diazygio",
+      "stub": true
+    },
+    {
+      "pos": "Α2",
+      "title": "Θέλω Μαστούρης Να Γινώ",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "thelo-mastouris-na-gino",
+      "stub": true
+    },
+    {
+      "pos": "Α3",
+      "title": "Άδικα Με Κατακρίνουν",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "adika-me-katakrinoun",
+      "stub": true
+    },
+    {
+      "pos": "Α4",
+      "title": "Ο Μάρκος Υπουργός",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-markos-ypourgos",
+      "stub": true
+    },
+    {
+      "pos": "Α5",
+      "title": "Ματσάκια Πεντοχίλιαρα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "matsakia-pentoxiliara",
+      "stub": true
+    },
+    {
+      "pos": "Α6",
+      "title": "Πολίτισσα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "politissa",
+      "stub": true
+    },
+    {
+      "pos": "Β1",
+      "title": "Όσοι Έχουνε Πολλά Λεφτά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "osoi-exoune-polla-lefta",
+      "stub": true
+    },
+    {
+      "pos": "Β2",
+      "title": "Ώρες Με Θρέφει Ο Λουλάς",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ores-me-threfei-o-loulas",
+      "stub": true
+    },
+    {
+      "pos": "Β3",
+      "title": "Αράπ (Οργανικό)",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "arap",
+      "stub": true
+    },
+    {
+      "pos": "Β4",
+      "title": "Κάφτονε Σταύρο",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kaftone-stayro",
+      "stub": true
+    },
+    {
+      "pos": "Β5",
+      "title": "Είσαι Αφράτη Σα Φρατζόλα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "eisai-afrati-sa-fratzola",
+      "stub": true
+    },
+    {
+      "pos": "Β6",
+      "title": "Σκύλα Μ’ Έκανες Και Λειώνω",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "skyla-m-ekanes-kai-leiono",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982) (1982)",
+      "url": "https://www.discogs.com/release/8319087"
+    },
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982) (master)",
+      "url": "https://www.discogs.com/master/1511604"
+    }
+  ],
+  "en": {
+    "kind": "LP compilation marking ten years since his death",
+    "about": [
+      "LP compilation issued by Margophone ten years after Vamvakaris’s death (1972–1982), with 12 of his songs and sleeve notes by Tsitsanis, Papaioannou, Bayianteras and others."
+    ]
+  }
+}

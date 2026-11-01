@@ -1,0 +1,32 @@
+{
+  "slug": "to-paidi-ap-to-limani",
+  "title": "Το Παιδί Απ' Το Λιμάνι",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1983",
+  "performer": "Βασίλης Τσιτσάνης · Σταμάτης Κόκοτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης» (1983), «40 χρόνια: 1938-1978» (2008), «Η Ελλάδα Του Βασίλη Τσιτσάνη» (2014).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης (1983)",
+      "url": "https://musicbrainz.org/release/a23ca4e9-2168-42a8-a6a0-2e009a5927f4"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    },
+    {
+      "label": "MusicBrainz — Η Ελλάδα Του Βασίλη Τσιτσάνη (2014)",
+      "url": "https://musicbrainz.org/release/10cbdfd3-218f-42bb-9ac3-12c9e02d14a8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης” (1983), “40 χρόνια: 1938-1978” (2008), “Η Ελλάδα Του Βασίλη Τσιτσάνη” (2014).",
+    "story": []
+  }
+}

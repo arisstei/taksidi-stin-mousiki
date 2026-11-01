@@ -1,0 +1,24 @@
+{
+  "slug": "koimisou-palikari",
+  "title": "Κοιμήσου παλικάρι",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1974",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Θαλασσινά φεγγάρια» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Ogdoo.gr — Τα «Θαλασσινά φεγγάρια» του Μίκη και του Γκάτσου",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/ta-thalassina-feggaria-tou-miki-kai-tou-gatsou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Θαλασσινά φεγγάρια” (1974).",
+    "story": []
+  }
+}

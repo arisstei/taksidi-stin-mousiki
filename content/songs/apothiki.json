@@ -1,0 +1,24 @@
+{
+  "slug": "apothiki",
+  "title": "Αποθήκη",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1980",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ντενεκεδούπολη» (1980).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ντενεκεδούπολη (κυκλοφορία 1980)",
+      "url": "https://musicbrainz.org/release/5ec527b7-48fb-4960-abb3-c11c1d2dfcd8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ντενεκεδούπολη” (1980).",
+    "story": []
+  }
+}

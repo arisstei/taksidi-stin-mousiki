@@ -1,0 +1,36 @@
+{
+  "slug": "foras-foustani-vyssini",
+  "title": "Φοράς φουστάνι βυσσινί",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Γιώργος Φωτίδας",
+  "year": "1968",
+  "performer": "Σταμάτης Κόκοτας · Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης · Απόστολος Χατζηχρήστος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος ο δάσκαλός μας» (1968), «Ι» (1994), «Bouzouki Pioneer, 1932-1940» (1998) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — Ι (1994)",
+      "url": "https://www.discogs.com/release/10043161"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος ο δάσκαλός μας” (1968), “Ι” (1994), “Bouzouki Pioneer, 1932-1940” (1998) and 1 more.",
+    "story": []
+  }
+}

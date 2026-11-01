@@ -1,0 +1,36 @@
+{
+  "slug": "prepei-na-xereis-mixani",
+  "title": "Πρέπει Να Ξέρεις Μηχανή",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1983",
+  "performer": "Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης, Σούλα Σταύρου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης Νο 2» (1983), «Αυθεντικές Εκτελέσεις» (1987), «Μάρκος Ο Συριανός» (1997) και 3 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης Νο 2 (1983)",
+      "url": "https://www.discogs.com/release/4743332"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης Νο 2” (1983), “Αυθεντικές Εκτελέσεις” (1987), “Μάρκος Ο Συριανός” (1997) and 3 more.",
+    "story": []
+  }
+}

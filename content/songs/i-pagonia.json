@@ -1,0 +1,24 @@
+{
+  "slug": "i-pagonia",
+  "title": "Η Παγωνιά",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1997",
+  "performer": "Δημήτρης Μητροπάνος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Το φιλοσόφησε πολύ!» (1997).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το φιλοσόφησε πολύ! (1997, PolyGram 377-2 / ΜΕΤΡΟ 16)",
+      "url": "https://musicbrainz.org/release/663aa925-7119-42db-ac5d-0c56761bca13"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Το φιλοσόφησε πολύ!” (1997).",
+    "story": []
+  }
+}

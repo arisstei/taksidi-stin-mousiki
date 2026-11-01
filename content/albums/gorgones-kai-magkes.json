@@ -1,0 +1,113 @@
+{
+  "slug": "gorgones-kai-magkes",
+  "composer": "plessas",
+  "title": "Γοργόνες και μάγκες",
+  "year": 1968,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Lyra",
+  "catalog": "3560",
+  "format": "LP, 12\"",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Μάρθα Καραγιάννη",
+    "Πέτρη Σαλπέα",
+    "Μαίρη Χρονοπούλου"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική της ομώνυμης ταινίας του 1968, σε έκδοση της Lyra. Περιλαμβάνει τραγούδια όπως η «Καμαρούλα» και το «Θα πιω απόψε το φεγγάρι», δίπλα σε οργανικά θέματα της ταινίας."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": "2",
+      "title": "Καμαρούλα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "kamaroula",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Το μεράκι"
+    },
+    {
+      "pos": "4",
+      "title": "Ο άντρας που θα παντρευτώ",
+      "performer": "Μάρθα Καραγιάννη",
+      "song": "o-antras-pou-tha-pantreyto",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Θα πιω απόψε το φεγγάρι",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "tha-pio-apopse-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το νησί μας"
+    },
+    {
+      "pos": "7",
+      "title": "Άνοιξε πέτρα",
+      "performer": "Πέτρη Σαλπέα",
+      "song": "anoixe-petra",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Καμαρούλα",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "kamaroula",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Oriental Soul"
+    },
+    {
+      "pos": "10",
+      "title": "Ο νικητής"
+    },
+    {
+      "pos": "11",
+      "title": "Η Φλώρα",
+      "performer": "Μαίρη Χρονοπούλου",
+      "song": "i-flora",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Κουρσάρικος χορός"
+    },
+    {
+      "pos": "13",
+      "title": "Χαμένο καλοκαίρι"
+    },
+    {
+      "pos": "14",
+      "title": "Φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Γοργόνες και μάγκες, Lyra 3560 (1968)",
+      "url": "https://musicbrainz.org/release/9e9c007e-5c54-463a-a5bd-e3435c9f9d62"
+    },
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "The music from the 1968 film of the same name, issued by Lyra. It pairs songs such as “Kamaroula” and “Tha pio apopse to feggari” with the film's instrumental themes."
+    ]
+  }
+}

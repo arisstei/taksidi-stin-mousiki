@@ -1,0 +1,24 @@
+{
+  "slug": "pos-kaigontai-ta-oneira",
+  "title": "Πώς καίγονται τα όνειρα",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": null,
+  "year": "2004",
+  "performer": "Μανώλης Λιδάκης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα παιδιά της Νιόβης» (2004).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα παιδιά της Νιόβης, Epic EPC 519269 2 (2004)",
+      "url": "https://musicbrainz.org/release/ec1b9ff1-afde-4203-bd37-84b96dae81ff"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα παιδιά της Νιόβης” (2004).",
+    "story": []
+  }
+}

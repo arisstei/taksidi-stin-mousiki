@@ -1,0 +1,24 @@
+{
+  "slug": "na-min-akougetai-ixos",
+  "title": "Να Μην Ακούγεται Ήχος",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1976",
+  "performer": "Λάκης Χαλκιάς, Χ. Γαργανουράκης, Λιζέττα Νικολάου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Οροπέδιο» (1976).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Οροπέδιο (κυκλοφορία 1976)",
+      "url": "https://musicbrainz.org/release/2e54c9d1-6c26-4520-bb28-99090a254b7d"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Οροπέδιο” (1976).",
+    "story": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sti-diadilosi",
+  "title": "Στη διαδήλωση",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "2012",
+  "performer": "Μάνος Λοΐζος & Μπάμπης Αντωνίου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις» (2012).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις, κυκλοφορία (2012)",
+      "url": "https://musicbrainz.org/release/b20145be-1ef5-4493-98c4-05dfbac3d99e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Εκτός σειράς: 40 σκόρπιες ηχογραφήσεις” (2012).",
+    "story": []
+  }
+}

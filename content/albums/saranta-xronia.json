@@ -1,0 +1,132 @@
+{
+  "slug": "saranta-xronia",
+  "composer": "vamvakaris",
+  "title": "Σαράντα Χρόνια",
+  "year": 1966,
+  "type": "rebetiko",
+  "kind": "Δίσκος 33 στροφών με επανεκτελέσεις",
+  "label": "Odeon",
+  "catalog": "OMCG 47",
+  "format": "LP",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Δημήτρης Ευσταθίου",
+    "Βαγγέλης Περπινιάδης",
+    "Πρόδρομος Τσαουσάκης",
+    "Μάνος Παπαδάκης",
+    "Πόπη Ρίνα"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Odeon (Μίνως Μάτσας) με τον Βαμβακάρη να ανοίγει με μια εισαγωγή και μια σειρά από παλιές του επιτυχίες σε νέες ενορχηστρώσεις του Θεόδωρου Δερβενιώτη, ερμηνευμένες από τους Δημήτρη Ευσταθίου, Βαγγέλη Περπινιάδη, Πρόδρομο Τσαουσάκη, Μάνο Παπαδάκη και Πόπη Ρίνα. Στο Discogs καταχωρείται με έτος 1966· το άρθρο του Ogdoo τον τοποθετεί στο φθινόπωρο του 1967.",
+    "Σύμφωνα με τη μαρτυρία του Μάκη Μάτσα (βιβλίο «Πίσω απ' τη Μαρκίζα», 2014), ο Βαμβακάρης ζήτησε σε διάλειμμα της ηχογράφησης να μιλήσει πρώτος στον δίσκο και να καταθέσει τα παράπονά του, θυμίζοντας ότι πρωτοτραγούδησε στο φωνογράφο περίπου σαράντα χρόνια νωρίτερα."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Εισαγωγή",
+      "performer": "Μάρκος Βαμβακάρης"
+    },
+    {
+      "pos": "A2",
+      "title": "Φραγκοσυριανή",
+      "performer": "Δημήτρης Ευσταθίου, Μάνος Παπαδάκης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Μαύρα Μάτια Μαύρα Φρύδια",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "mayra-matia-mayra-frydia",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Τα Ματόκλαδά Σου Λάμπουν",
+      "performer": "Δημήτρης Ευσταθίου",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Αν Μ' Αξιώση Ο Θεός",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "an-m-axiosi-o-theos",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Μπουζούκι Γλέντι Του Ντουνιά",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "mpouzouki-glenti-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "A7",
+      "title": "Χασαποσέρβικος Χορός",
+      "performer": "\"Σαράντα Χρόνια\" Orchestra",
+      "song": "xasaposervikos-xoros",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Μια Γαλανομάτα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mia-galanomata",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Καραβοτσακίσματα",
+      "performer": "Δημήτρης Ευσταθίου, Πόπη Ρίνα",
+      "song": "karavotsakismata",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Τα Δυο Σου Χέρια",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "ta-dyo-sou-xeria",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Τα Όμορφα Τα Γαλανά Σου Μάτια",
+      "performer": "Δημήτρης Ευσταθίου",
+      "song": "ta-omorfa-ta-galana-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Κάθε Βράδυ Θα Σε Περιμένω",
+      "performer": "Βαγγέλης Περπινιάδης",
+      "song": "kathe-vrady-tha-se-perimeno",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Σαράντα Χρόνια (1966)",
+      "url": "https://www.discogs.com/release/8663521"
+    },
+    {
+      "label": "Ogdoo — Το πρώτο LP και μια ιστορική μαρτυρία του Μάρκου Βαμβακάρη",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/to-proto-lp-kai-mia-istoriki-martyria-tou-markou-vamvakari"
+    }
+  ],
+  "en": {
+    "kind": "LP of re-recordings",
+    "about": [
+      "An Odeon (Minos Matsas) LP in which Vamvakaris opens with a spoken introduction, followed by a run of his old hits in new arrangements by Thodoros Dervenioti, sung by Dimitris Efstathiou, Vangelis Perpiniadis, Prodromos Tsaousakis, Manos Papadakis and Popi Rina. Discogs dates it to 1966; the Ogdoo article places it in autumn 1967.",
+      "According to Makis Matsas's account (book “Pisw ap' ti Markiza”, 2014), Vamvakaris asked during a break in the session to speak first on the record and air his grievances, recalling that he first sang for the phonograph about forty years earlier."
+    ]
+  }
+}

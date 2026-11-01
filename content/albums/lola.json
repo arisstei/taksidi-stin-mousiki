@@ -1,0 +1,107 @@
+{
+  "slug": "lola",
+  "composer": "xarchakos",
+  "title": "Λόλα — Η μουσική και τα τραγούδια από την ομώνυμη ταινία",
+  "year": 2006,
+  "type": "film",
+  "kind": "Μουσική και τραγούδια από την ταινία",
+  "label": "Legend Recordings",
+  "catalog": "2201154782",
+  "format": "CD",
+  "grade": "C",
+  "about": [
+    "Έκδοση του 2006 της Legend Recordings με τη μουσική του Ξαρχάκου για την ταινία «Λόλα»: 19 κομμάτια με τίτλους, θέματα και τραγούδια όπως «Ο χορός του Σάκαινα» και «Χάθηκε το φεγγάρι», σύμφωνα με τη MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Τίτλοι"
+    },
+    {
+      "pos": "2",
+      "title": "Καλή Τύχη, Παλληκαρά Μου"
+    },
+    {
+      "pos": "3",
+      "title": "Το Blues Της Ίρμα"
+    },
+    {
+      "pos": "4",
+      "title": "Για Κείνη Ξαναγύρισα"
+    },
+    {
+      "pos": "5",
+      "title": "Ήταν Η Φοβερότερη Τιμή"
+    },
+    {
+      "pos": "6",
+      "title": "Βγήκε... Ο Άρης"
+    },
+    {
+      "pos": "7",
+      "title": "Είχα Να Τον Δω Τρία Χρόνια"
+    },
+    {
+      "pos": "8",
+      "title": "...Σε Ζάλισε Η Ομορφιά Της;"
+    },
+    {
+      "pos": "9",
+      "title": "Ήρθα... Για Τη Λόλα"
+    },
+    {
+      "pos": "10",
+      "title": "Φοβάμαι Το Πρόσωπό Σου"
+    },
+    {
+      "pos": "11",
+      "title": "Φεύγα, Φεύγα, Παλληκαρά Μου"
+    },
+    {
+      "pos": "12",
+      "title": "Σεκλέτια Πρόσωπο;"
+    },
+    {
+      "pos": "13",
+      "title": "Θα Γυρίσω, Λόλα"
+    },
+    {
+      "pos": "14",
+      "title": "Στην Ταβέρνα Του Φαρέα"
+    },
+    {
+      "pos": "15",
+      "title": "Τούτο Το Χάραμα Είναι Το Τελευταίο"
+    },
+    {
+      "pos": "16",
+      "title": "Γεια Μας Και Ψυχή Βαθιά"
+    },
+    {
+      "pos": "17",
+      "title": "Ο Χορός Του Σάκαινα"
+    },
+    {
+      "pos": "18",
+      "title": "Χάθηκε Το Φεγγάρι",
+      "song": "xathike-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "19",
+      "title": "Φινάλε"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Λόλα — Η μουσική και τα τραγούδια από την ομώνυμη ταινία (2006)",
+      "url": "https://musicbrainz.org/release-group/44eebf50-3a53-4fc9-a61f-43d3412d3ac8"
+    }
+  ],
+  "en": {
+    "kind": "Music and songs from the film",
+    "about": [
+      "A 2006 Legend Recordings release of Xarchakos's music for the film Lola: 19 tracks of titles, themes and songs, as listed on MusicBrainz."
+    ]
+  }
+}

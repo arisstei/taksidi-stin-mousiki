@@ -1,0 +1,105 @@
+{
+  "slug": "to-pio-lampro-asteri",
+  "composer": "markopoulos",
+  "title": "Το Πιο Λαμπρό Αστέρι",
+  "year": 1967,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Philips",
+  "catalog": "630 145 PL",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 12 κομμάτια, που κυκλοφόρησε το 1967 από τη Philips. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Αγορά",
+      "song": "agora",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Ας Το Πείσμα Σου",
+      "song": "as-to-peisma-sou",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Ήλιος Πάνω Ήλιος Κάτω",
+      "song": "ilios-pano-ilios-kato",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Φωτιές",
+      "song": "foties",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Το Αγόρι Μίσεψε",
+      "song": "to-agori-misepse",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Χάραζε",
+      "song": "xaraze",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Παράπονα",
+      "song": "parapona",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Ξανθομαλλού",
+      "song": "xanthomallou",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Τραγούδι Του Πατέρα",
+      "song": "tragoudi-tou-patera",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Φωτιές",
+      "song": "foties",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Χασαποσέρβικο",
+      "song": "xasaposerviko",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Κατερίνα",
+      "song": "katerina",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το Πιο Λαμπρό Αστέρι (κυκλοφορία 1967)",
+      "url": "https://musicbrainz.org/release/90ff9fa6-b3a6-4840-bb75-50ba72f8f7cc"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 12 tracks, released in 1967 on Philips. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

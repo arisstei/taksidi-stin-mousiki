@@ -1,0 +1,47 @@
+{
+  "slug": "markopoulos",
+  "name": "Γιάννης Μαρκόπουλος",
+  "fileNo": "005",
+  "born": "1939-03-18",
+  "died": "2023-06-10",
+  "lifespan": "Ηράκλειο, 18 Μαρτίου 1939 — Αθήνα, 10 Ιουνίου 2023",
+  "tagline": "Ο συνθέτης που έστρεψε τη δεκαετία του 1970 στις ρίζες — από το Χρονικό και τα Ριζίτικα ως τον «Βαρκάρη» του BBC και τη Λειτουργία του Ορφέα.",
+  "sameAs": [
+    "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος",
+    "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+  ],
+  "bio": [
+    "Γεννήθηκε στο Ηράκλειο της Κρήτης στις 18 Μαρτίου 1939 και πέθανε στην Αθήνα στις 10 Ιουνίου 2023. Σπούδασε στο Ωδείο Αθηνών από το 1956· με την επιβολή της δικτατορίας το 1967 εγκαταστάθηκε στο Λονδίνο και επέστρεψε στην Αθήνα το 1969.",
+    "Στη δεκαετία του 1970 δημιούργησε έργα που συνδύασαν παραδοσιακά όργανα και συμφωνική γραφή, όπως το Χρονικό (1970), τα Ριζίτικα με τον Νίκο Ξυλούρη (1971), την Ιθαγένεια και τη Θητεία, καθώς και μελοποιήσεις των Ελύτη, Σεφέρη και Σολωμού.",
+    "Η μουσική του για τη σειρά του BBC «Who Pays the Ferryman?» του έφερε διεθνή αναγνώριση. Έγραψε επίσης για θέατρο και κινηματογράφο, συνεργαζόμενος με τους Νίκο Κούνδουρο και Ζυλ Ντασέν, και το 1994 ολοκλήρωσε τη Λειτουργία του Ορφέα."
+  ],
+  "interviews": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "Wikipedia — Yannis Markopoulos",
+      "url": "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "Τα Νέα — Ένας δίσκος, μια ιστορία: 1970 Χρονικό (2013)",
+      "url": "https://www.tanea.gr/2013/07/30/lifearts/enas-diskos-mia-istoria-1970-xroniko/"
+    }
+  ],
+  "en": {
+    "lifespan": "Heraklion, 18 March 1939 — Athens, 10 June 2023",
+    "tagline": "The composer who turned the 1970s toward Greek roots — from Chronicle and Rizitika to the BBC's Ferryman and the Liturgy of Orpheus.",
+    "bio": [
+      "Born in Heraklion, Crete, on 18 March 1939, he died in Athens on 10 June 2023. He studied at the Athens Conservatoire from 1956; after the junta took power in 1967 he moved to London, returning to Athens in 1969.",
+      "In the 1970s he created works combining traditional instruments with symphonic writing, such as Chronicle (1970), Rizitika with Nikos Xylouris (1971), Ithageneia and Thiteia, as well as settings of Elytis, Seferis and Solomos.",
+      "His music for the BBC series Who Pays the Ferryman? brought him international recognition. He also wrote for theatre and film, working with Nikos Koundouros and Jules Dassin, and completed the Liturgy of Orpheus in 1994."
+    ],
+    "interviews": []
+  }
+}

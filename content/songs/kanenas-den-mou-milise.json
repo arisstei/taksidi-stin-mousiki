@@ -1,0 +1,24 @@
+{
+  "slug": "kanenas-den-mou-milise",
+  "title": "Κανένας δεν μου μίλησε",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "2009",
+  "performer": "Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Όλα θυμίζουν τον Μάνο Λοΐζο» (2009).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Όλα θυμίζουν τον Μάνο Λοΐζο, κυκλοφορία (2009)",
+      "url": "https://musicbrainz.org/release/6e8436f3-66c9-4c9b-9423-3603324e1bf7"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Όλα θυμίζουν τον Μάνο Λοΐζο” (2009).",
+    "story": []
+  }
+}

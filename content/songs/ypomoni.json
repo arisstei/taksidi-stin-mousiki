@@ -1,0 +1,24 @@
+{
+  "slug": "ypomoni",
+  "title": "Υπομονή",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Αλέκος Σακελλάριος",
+  "year": "1966",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ελλήσποντος» (1966).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ελλήσποντος (1966)",
+      "url": "https://musicbrainz.org/release-group/11e7a57a-dc02-4fd8-a1b7-9f4c182c39c9"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ελλήσποντος” (1966).",
+    "story": []
+  }
+}

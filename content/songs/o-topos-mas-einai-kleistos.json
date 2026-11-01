@@ -1,0 +1,28 @@
+{
+  "slug": "o-topos-mas-einai-kleistos",
+  "title": "Ο Τόπος Μας Είναι Κλειστός",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Γιώργος Σεφέρης",
+  "year": "1973",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ο Στράτης ο θαλασσινός ανάμεσα στους αγάπανθους» (1973), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ο Στράτης ο θαλασσινός ανάμεσα στους αγάπανθους” (1973), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

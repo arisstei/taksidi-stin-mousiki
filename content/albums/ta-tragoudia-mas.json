@@ -1,0 +1,127 @@
+{
+  "slug": "ta-tragoudia-mas",
+  "composer": "loizos",
+  "title": "Τα τραγούδια μας",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 279",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Νταλάρας"
+  ],
+  "lyricists": [
+    "Φώντας Λάδης"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος με στίχους του Φώντα Λάδη, τραγουδισμένος από τον Γιώργο Νταλάρα."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Λιώνουν τα νιάτα μας",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "lionoun-ta-niata-mas",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Πάγωσε η τσιμινιέρα",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "pagose-i-tsiminiera",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Στη δουλειά και στον αγώνα",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "sti-douleia-kai-ston-agona",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Ο Στράτος",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "o-stratos",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Το δέντρο",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "to-dentro",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Μετανάστες",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "metanastes",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Αχ πατρίδα μου καημένη",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ax-patrida-mou-kaimeni",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Άλλο τίποτα δε μένει",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "allo-tipota-de-menei",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Μέγαρα",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "megara",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ρήμαξαν τα χωριά μας",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "rimaxan-ta-xoria-mas",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Απ' τη συνοικία",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ap-ti-synoikia",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Πάγωσε η τσιμινιέρα (χορωδία)",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "pagose-i-tsiminiera",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Τα τραγούδια μας, κυκλοφορία (1976)",
+      "url": "https://musicbrainz.org/release/0d786df1-926d-423d-8b96-08e6ebc29c30"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "An album with lyrics by Fontas Ladis, sung by Giorgos Dalaras."
+    ]
+  }
+}

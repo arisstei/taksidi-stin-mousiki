@@ -1,0 +1,28 @@
+{
+  "slug": "antilaloune-oi-fylakes",
+  "title": "Αντιλαλούνε Οι Φυλακές",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1992",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992), «Δυο Εποχές, Απ' Το '30 Στο '60» (2003).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Δυο Εποχές, Απ' Το '30 Στο '60 (2003)",
+      "url": "https://www.discogs.com/release/2620102"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992), “Δυο Εποχές, Απ' Το '30 Στο '60” (2003).",
+    "story": []
+  }
+}

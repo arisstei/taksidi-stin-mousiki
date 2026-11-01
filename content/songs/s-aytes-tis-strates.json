@@ -1,0 +1,32 @@
+{
+  "slug": "s-aytes-tis-strates",
+  "title": "Σ' αυτές τις στράτες",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1975",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ντοκουμέντα» (1975), «Τα τραγούδια μου» (1989), «Γιώργος Ζαμπέτας (Universal, 2 CD)» (2010).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ντοκουμέντα (1975, Olympic SBL 1106)",
+      "url": "https://musicbrainz.org/release/e4f84bd2-57b8-4779-b734-b6b3b1ce6452"
+    },
+    {
+      "label": "MusicBrainz — Τα τραγούδια μου (1989, Philips 842180-1)",
+      "url": "https://musicbrainz.org/release/563f0f33-c82c-4dd7-bf10-eed964251593"
+    },
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Universal, 2 CD) (2010, Universal Music)",
+      "url": "https://musicbrainz.org/release/f82a6023-7d4a-4a4c-ba11-5d4028d8630e"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ντοκουμέντα” (1975), “Τα τραγούδια μου” (1989), “Γιώργος Ζαμπέτας (Universal, 2 CD)” (2010).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "gia-koita-kosme-ena-kormi",
+  "title": "Για κοίτα, κόσμε, ένα κορμί",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "2001",
+  "performer": "Καίτη Γκρέυ",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη» (2001), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη (2001)",
+      "url": "https://musicbrainz.org/release/fbd91989-dbce-4eaa-b135-eed07e7fab13"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Συλλογή Δίφωνο, 65: Άρωμα Τσιτσάνη” (2001), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "oneira-stis-geitonies",
+  "composer": "xarchakos",
+  "title": "Όνειρα στις γειτονιές",
+  "year": 1979,
+  "type": "anthology",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Polydor",
+  "catalog": "2486 121",
+  "format": "LP",
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος",
+    "Ντίνος Δημόπουλος",
+    "Χρήστος Στίπας",
+    "Βαγγέλης Γκούφας",
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος της Polydor (1979) με τραγούδια του Ξαρχάκου σε στίχους Λευτέρη Παπαδόπουλου, Βαγγέλη Γκούφα, Χρήστου Στίπα, Ντίνου Δημόπουλου και Νίκου Γκάτσου — «Άπονη ζωή», «Όνειρο δεμένο», «Άσπρη μέρα», «Τα δάκρυά μου είναι καυτά»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Φτωχολογιά",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "ftoxologia",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Άπονη ζωή",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "aponi-zoi"
+    },
+    {
+      "pos": "3",
+      "title": "Καισαριανή",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "kaisariani",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Παλικάρι διψασμένο",
+      "lyricist": "Ντίνος Δημόπουλος",
+      "song": "palikari-dipsasmeno",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Έχω μια δεκάρα τρύπια",
+      "lyricist": "Χρήστος Στίπας",
+      "song": "exo-mia-dekara-trypia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Χορός του Σάκαινα"
+    },
+    {
+      "pos": "7",
+      "title": "Όνειρο δεμένο",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "oneiro-demeno",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Άσπρη μέρα",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "aspri-mera",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Γιουσουρούμ",
+      "song": "giousouroum",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Βάλε κι άλλο πιάτο στο τραπέζι",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "vale-ki-allo-piato-sto-trapezi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Τρεις μάγκες, τρεις γερόμαγκες",
+      "lyricist": "Χρήστος Στίπας",
+      "song": "treis-magkes-treis-geromagkes",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Τα δάκρυά μου είναι καυτά",
+      "lyricist": "Βαγγέλης Γκούφας",
+      "song": "ta-dakrya-mou-einai-kayta",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Όνειρα στις γειτονιές (1979)",
+      "url": "https://musicbrainz.org/release-group/f2f4de7b-769f-41cf-b089-2cb00af52069"
+    }
+  ],
+  "en": {
+    "kind": "Album of songs",
+    "about": [
+      "A 1979 Polydor album of songs by Xarchakos to lyrics by Lefteris Papadopoulos, Vangelis Goufas, Christos Stipas, Dinos Dimopoulos and Nikos Gatsos - \"Aponi zoi\", \"Oneiro demeno\", \"Aspri mera\", \"Ta dakrya mou einai kauta\"."
+    ]
+  }
+}

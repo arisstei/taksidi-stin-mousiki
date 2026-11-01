@@ -1,0 +1,75 @@
+{
+  "slug": "o-mimis-plessas-paizei-philicorda",
+  "composer": "plessas",
+  "title": "Ο Μίμης Πλέσσας παίζει Philicorda",
+  "year": 1965,
+  "type": "instrumental",
+  "kind": "Οργανικός δίσκος",
+  "label": "Philips",
+  "format": "Vinyl",
+  "performers": [
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Οργανικός δίσκος στον οποίο ο Πλέσσας παίζει μελωδίες του στο ηλεκτρονικό όργανο Philicorda της Philips. Περιλαμβάνει θέματα όπως «Εδώ τελειώνει ο ουρανός», «Οι χάντρες» και «Τι κρίμα»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Θα κλέψω τα τριαντάφυλλα"
+    },
+    {
+      "pos": "2",
+      "title": "Εδώ τελειώνει ο ουρανός"
+    },
+    {
+      "pos": "3",
+      "title": "Σερενάτα (Serenata)",
+      "song": "serenata",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πέταξε ένα πουλί"
+    },
+    {
+      "pos": "5",
+      "title": "Οι χάντρες"
+    },
+    {
+      "pos": "6",
+      "title": "Αν σ' αρνηθώ"
+    },
+    {
+      "pos": "7",
+      "title": "Ξύπνα αγάπη μου"
+    },
+    {
+      "pos": "8",
+      "title": "Τα χέρια"
+    },
+    {
+      "pos": "9",
+      "title": "Δυο πουλιά"
+    },
+    {
+      "pos": "10",
+      "title": "Τι κρίμα",
+      "song": "ti-krima",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Μίμης Πλέσσας παίζει Philicorda, Philips (1965)",
+      "url": "https://musicbrainz.org/release/3b24baaa-2619-48ba-bd3e-3380f9ef8cc7"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental album",
+    "about": [
+      "An instrumental album on which Plessas plays his melodies on the Philips Philicorda electronic organ, including themes such as “Edo teleioni o ouranos”, “Oi chantres” and “Ti krima”."
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "oropedio",
+  "composer": "markopoulos",
+  "title": "Οροπέδιο",
+  "year": 1976,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "2J 064-70255",
+  "format": "12\" Vinyl",
+  "performers": [
+    "Λάκης Χαλκιάς",
+    "Χ. Γαργανουράκης",
+    "Λιζέττα Νικολάου",
+    "Παύλος Σιδηρόπουλος",
+    "Χαράλαμπος Γαργανουράκης",
+    "Βασ. Λαβίνα",
+    "Βασιλική Λαβίνα"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 12 κομμάτια, που κυκλοφόρησε το 1976 από τη Columbia. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Εισαγωγή Έργου"
+    },
+    {
+      "pos": 2,
+      "title": "Να Μην Ακούγεται Ήχος",
+      "performer": "Λάκης Χαλκιάς, Χ. Γαργανουράκης, Λιζέττα Νικολάου",
+      "song": "na-min-akougetai-ixos",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Τρέχω Με Το Άλογό Μου",
+      "performer": "Λιζέττα Νικολάου",
+      "song": "trexo-me-to-alogo-mou",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Μέσα Στο Δέντρο",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "mesa-sto-dentro",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Δεν Ήρθα Σαν Ξένος",
+      "performer": "Παύλος Σιδηρόπουλος",
+      "song": "den-irtha-san-xenos",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Τα Οράματά Μου",
+      "performer": "Χαράλαμπος Γαργανουράκης, Χορωδία",
+      "song": "ta-oramata-mou",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Τύμπανα Παίζω",
+      "performer": "Λάκης Χαλκιάς, Χ. Γαργανουράκης, Λιζέττα Νικολάου, Βασ. Λαβίνα",
+      "song": "tympana-paizo",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Δεν Ακούς Τη Φωνή Μου",
+      "performer": "Λάκης Χαλκιάς",
+      "song": "den-akous-ti-foni-mou",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Νάμαι Ιησού, Κρίσνα, Μωυσή",
+      "performer": "Χαράλαμπος Γαργανουράκης",
+      "song": "namai-iisou-krisna-moysi",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Μάχομαι",
+      "performer": "Βασιλική Λαβίνα",
+      "song": "maxomai",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Θα Κτίσω Τη Νέα Σας Πόλη",
+      "performer": "Λιζέττα Νικολάου, Χορωδία",
+      "song": "tha-ktiso-ti-nea-sas-poli",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Άνεμος, Νερό, Φωτιά",
+      "performer": "Λάκης Χαλκιάς Και Χορωδία",
+      "song": "anemos-nero-fotia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Οροπέδιο (κυκλοφορία 1976)",
+      "url": "https://musicbrainz.org/release/2e54c9d1-6c26-4520-bb28-99090a254b7d"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 12 tracks, released in 1976 on Columbia. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

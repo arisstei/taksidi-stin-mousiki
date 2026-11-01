@@ -1,0 +1,122 @@
+{
+  "slug": "12-epitychies",
+  "composer": "vamvakaris",
+  "title": "12 Επιτυχίες",
+  "year": 1969,
+  "type": "anthology",
+  "kind": "Συλλογή με τραγούδια του Βαμβακάρη από διάφορους ερμηνευτές",
+  "label": "Pan-Vox",
+  "catalog": "X 33 SPV 10107",
+  "format": "LP, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Γιώργος Τότης",
+    "Σοφία Σιδέρη",
+    "Μανώλης Μπαρμπεράκης"
+  ],
+  "lyricists": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή της Pan-Vox με δώδεκα τραγούδια του Βαμβακάρη: δύο τα τραγουδά ο ίδιος και τα υπόλοιπα οι Γιώργος Τότης, Σοφία Σιδέρη και Μανώλης Μπαρμπεράκης, με διεύθυνση ορχήστρας του Στέλιου Βαμβακάρη. Πρώτη έκδοση με ετικέτες Pan-Vox της δεκαετίας του '60."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ελληνοαμερικάνα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "ellinoamerikana",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Προίκα Εγώ Δεν Σου Γυρεύω",
+      "performer": "Γιώργος Τότης",
+      "song": "proika-ego-den-sou-gyreyo",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Να Φύγης Από Μένα",
+      "performer": "Σοφία Σιδέρη",
+      "song": "na-fygis-apo-mena",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Από Ξένο Τόπο Κι' Από Μακρυνό",
+      "performer": "Μανώλης Μπαρμπεράκης",
+      "song": "apo-xeno-topo-ki-apo-makryno",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Σαν Δεν Με Θέλεις Να Περνώ",
+      "performer": "Γιώργος Τότης",
+      "song": "san-den-me-theleis-na-perno",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Αγγελοκαμωμένη",
+      "performer": "Μανώλης Μπαρμπεράκης",
+      "song": "aggelokamomeni",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ο Γρουσούζης",
+      "performer": "Σοφία Σιδέρη",
+      "song": "o-grousouzis",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Καλέ Μάννα Δεν Μπορώ",
+      "performer": "Μανώλης Μπαρμπεράκης",
+      "song": "kale-manna-den-mporo",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Μ' Έχουν Φάει Τα Ξενύχτια",
+      "performer": "Γιώργος Τότης",
+      "song": "m-exoun-faei-ta-xenyxtia",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Σάββατο Μέσ' Στην Αγορά",
+      "performer": "Σοφία Σιδέρη",
+      "song": "savvato-mes-stin-agora",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Μ' Έκαψες Τσαχπίνα Μου Ωραία",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "m-ekapses-tsaxpina-mou-oraia",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Ήταν Της Μοίρας Μου Γραφτό",
+      "performer": "Μανώλης Μπαρμπεράκης",
+      "song": "itan-tis-moiras-mou-grafto",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — 12 Επιτυχίες (1969)",
+      "url": "https://www.discogs.com/release/21435271"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of Vamvakaris songs by various singers",
+    "about": [
+      "A Pan-Vox compilation of twelve Vamvakaris songs: he sings two himself, the rest by Giorgos Totis, Sofia Sideri and Manolis Barberakis, with Stelios Vamvakaris conducting. First edition with 1960s Pan-Vox labels."
+    ]
+  }
+}

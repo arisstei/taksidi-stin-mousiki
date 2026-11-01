@@ -1,0 +1,24 @@
+{
+  "slug": "to-tragoudi-tis-perasmenis-meras",
+  "title": "Το τραγούδι της περασμένης μέρας",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": null,
+  "year": "1975",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Θεατρικά» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θεατρικά (1975)",
+      "url": "https://musicbrainz.org/release-group/d1ecf4f3-c21c-4220-aa1a-3b97faffd492"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Θεατρικά” (1975).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "arap-zeimpekiko",
+  "title": "Αράπ-Ζεϊμπέκικο",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "\"Αράπ-Ζεϊμπέκικο\" Orchestra",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «ΙΙ» (1995), «Είναι Πικρός Ο Θάνατος = Death Is Bitter» (2022).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Discogs — Είναι Πικρός Ο Θάνατος = Death Is Bitter (2022)",
+      "url": "https://www.discogs.com/release/25071406"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “ΙΙ” (1995), “Είναι Πικρός Ο Θάνατος = Death Is Bitter” (2022).",
+    "story": []
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "kokkina-fanaria",
+  "composer": "xarchakos",
+  "title": "Κόκκινα φανάρια",
+  "year": 1963,
+  "type": "film",
+  "kind": "Μουσική για τον κινηματογράφο",
+  "label": "Columbia Records",
+  "catalog": "33GSX 2",
+  "format": "LP",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Ρία Κούρτη",
+    "Τζένη Καρέζη",
+    "Κατερίνα Χέλμη"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος",
+    "Αλέκος Γαλανός"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Ξαρχάκου για την ταινία «Κόκκινα φανάρια» (1963) του Βασίλη Γεωργιάδη, όταν ήταν μόλις 24 ετών. Σύμφωνα με τη Βικιπαίδεια, ο ομότιτλος δίσκος κυκλοφόρησε την ίδια χρονιά και εμπλουτίστηκε με νέα τραγούδια.",
+    "Οι στίχοι που καταγράφονται εδώ ανήκουν κυρίως στον Λευτέρη Παπαδόπουλο· το τραγούδι «Κόκκινα φανάρια» φέρει και την υπογραφή του Αλέκου Γαλανού."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Στον Πειραιά"
+    },
+    {
+      "pos": "A2",
+      "title": "Στο λούνα παρκ"
+    },
+    {
+      "pos": "A3",
+      "title": "Στα χέρια σου μεγάλωσαν",
+      "performer": "Γρηγόρης Μπιθικώτσης & Ρία Κούρτη",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "sta-xeria-sou-megalosan",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Ταξίμι",
+      "song": "taximi",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Όμορφη πουν' η ζωή"
+    },
+    {
+      "pos": "A6",
+      "title": "Αποχωρισμός στο λιμάνι"
+    },
+    {
+      "pos": "A7",
+      "title": "Ούτε ένα ευχαριστώ",
+      "performer": "Τζένη Καρέζη",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "oute-ena-eyxaristo",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Άπονη ζωή",
+      "performer": "Γρηγόρης Μπιθικώτσης & Ρία Κούρτη",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "aponi-zoi"
+    },
+    {
+      "pos": "B2",
+      "title": "Τ' οργανάκι της οδού Φρύνης"
+    },
+    {
+      "pos": "B3",
+      "title": "Οργή"
+    },
+    {
+      "pos": "B4",
+      "title": "Το τραγούδι της περασμένης ημέρας"
+    },
+    {
+      "pos": "B5",
+      "title": "Ξεσπίτωμα"
+    },
+    {
+      "pos": "B6",
+      "title": "Σέβντας"
+    },
+    {
+      "pos": "B7",
+      "title": "Κόκκινα φανάρια",
+      "performer": "Κατερίνα Χέλμη",
+      "lyricist": "Αλέκος Γαλανός, Λευτέρης Παπαδόπουλος",
+      "song": "kokkina-fanaria",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κόκκινα φανάρια (1963)",
+      "url": "https://musicbrainz.org/release-group/5c290b6e-1c7d-4df1-bcb3-384433b82026"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Film music",
+    "about": [
+      "Stavros Xarchakos's score for Vasilis Georgiadis's film Kokkina fanaria (1963), written when he was only 24. According to Wikipedia, the title album came out the same year and was enriched with new songs.",
+      "The lyrics credited here are mostly by Lefteris Papadopoulos; the song \"Kokkina fanaria\" also carries the name of Alekos Galanos."
+    ]
+  }
+}

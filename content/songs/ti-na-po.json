@@ -1,0 +1,28 @@
+{
+  "slug": "ti-na-po",
+  "title": "Τι να πω",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "1979",
+  "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου · Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα τραγούδια της Χαρούλας» (1979), «Χίλια περιστέρια» (1991).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Χίλια περιστέρια (1991, Philips 510166-1)",
+      "url": "https://musicbrainz.org/release/110bab91-5367-4636-846c-6606467576fb"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα τραγούδια της Χαρούλας” (1979), “Χίλια περιστέρια” (1991).",
+    "story": []
+  }
+}

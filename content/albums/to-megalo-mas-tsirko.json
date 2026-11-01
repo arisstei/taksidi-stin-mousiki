@@ -1,0 +1,201 @@
+{
+  "slug": "to-megalo-mas-tsirko",
+  "composer": "xarchakos",
+  "title": "Το μεγάλο μας τσίρκο",
+  "year": 1974,
+  "type": "theatre",
+  "kind": "Μουσική για το θέατρο",
+  "label": "Columbia Records",
+  "format": "3×LP",
+  "performers": [
+    "Νίκος Ξυλούρης",
+    "Κώστας Καζάκος",
+    "Τζένη Καρέζη",
+    "Σπύρος Κωνσταντόπουλος",
+    "Τίμος Περλέγκας",
+    "Νίκος Κούρος",
+    "Χρήστος Καλαβρούζος",
+    "Διονύσης Παπαγιαννόπουλος"
+  ],
+  "lyricists": [
+    "Ιάκωβος Καμπανέλλης"
+  ],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Ξαρχάκου για την παράσταση «Το μεγάλο μας τσίρκο» του Ιάκωβου Καμπανέλλη (1973), σε ηχογράφηση με τον θίασο: Τζένη Καρέζη, Κώστας Καζάκος, Νίκος Ξυλούρης, Σπύρος Κωνσταντόπουλος και άλλοι. Μετά την αποκατάσταση της δημοκρατίας ο Ξαρχάκος έγραψε για την παράσταση και το «Προσκύνημα», για να τιμήσει τα θύματα του Πολυτεχνείου (Βικιπαίδεια)."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Έναρξις",
+      "performer": "Τζένη Καρέζη - Κώστας Καζάκος",
+      "song": "enarxis",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Καλήν Εσπέραν",
+      "performer": "Νίκος Ξυλούρης και ο θίασος",
+      "song": "kalin-esperan",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ερχομός του Όθωνα",
+      "performer": "Τζένη Καρέζη - Κώστας Καζάκος",
+      "song": "erxomos-tou-othona",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Τ' Ανάπλι",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "t-anapli",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Περί γκιλοτίνας",
+      "performer": "Κώστας Καζάκος",
+      "song": "peri-gkilotinas",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Τραγούδι γκιλοτίνας",
+      "performer": "Σπύρος Κωνσταντόπουλος, Τίμος Περλέγκας, Νίκος Ξυλούρης και ο θίασος",
+      "song": "tragoudi-gkilotinas",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "3η Σεπτεμβρίου",
+      "performer": "Κώστας Καζάκος, Τζένη Καρέζη",
+      "song": "3i-septemvriou",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Φίλοι κι' αδέλφια",
+      "performer": "Νίκος Ξυλούρης και ο θίασος, Σπύρος Κωνσταντόπουλος, Νίκος Κούρος, Τίμος Περλέγκας, Χρήστος Καλαβρούζος",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "filoi-ki-adelfia",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Τα του Κολοκοτρώνη",
+      "performer": "Διονύσης Παπαγιαννόπουλος",
+      "song": "ta-tou-kolokotroni",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Το μεγάλο μας τσίρκο",
+      "performer": "Τζένη Καρέζη - Νίκος Ξυλούρης και ο θίασος",
+      "song": "to-megalo-mas-tsirko",
+      "stub": true
+    },
+    {
+      "pos": "C1",
+      "title": "Τελάλημα",
+      "performer": "Σπύρος Κωνσταντόπουλος",
+      "song": "telalima",
+      "stub": true
+    },
+    {
+      "pos": "C2",
+      "title": "Μελούνα",
+      "performer": "Κώστας Καζάκος",
+      "song": "melouna",
+      "stub": true
+    },
+    {
+      "pos": "C3",
+      "title": "Γυαλίσαν τα κουμπιά",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "gyalisan-ta-koumpia",
+      "stub": true
+    },
+    {
+      "pos": "C4",
+      "title": "Βενιζελικά",
+      "performer": "Κώστας Καζάκος",
+      "song": "venizelika",
+      "stub": true
+    },
+    {
+      "pos": "C5",
+      "title": "Ο μπροστάρης",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "o-mprostaris",
+      "stub": true
+    },
+    {
+      "pos": "C6",
+      "title": "Μικρά Ασία",
+      "performer": "Κώστας Καζάκος",
+      "song": "mikra-asia",
+      "stub": true
+    },
+    {
+      "pos": "C7",
+      "title": "Ο ξεριζωμός",
+      "performer": "Τζένη Καρέζη, Νίκος Ξυλούρης",
+      "song": "o-xerizomos",
+      "stub": true
+    },
+    {
+      "pos": "D1",
+      "title": "Κατοχή",
+      "performer": "Κώστας Καζάκος",
+      "song": "katoxi",
+      "stub": true
+    },
+    {
+      "pos": "D2",
+      "title": "Και Παν Και Πάνε",
+      "performer": "Νίκος Ξυλούρης και ο θίασος",
+      "song": "kai-pan-kai-pane",
+      "stub": true
+    },
+    {
+      "pos": "D3",
+      "title": "Επινίκεια",
+      "performer": "Τζένη Καρέζη, Κώστας Καζάκος, Σταύρος Ξαρχάκος, Νίκος Ξυλούρης και ο θίασος",
+      "song": "epinikeia",
+      "stub": true
+    },
+    {
+      "pos": "Ε",
+      "title": "Ο άσωτος",
+      "performer": "Τζένη Καρέζη και ο θίασος",
+      "song": "o-asotos",
+      "stub": true
+    },
+    {
+      "pos": "F",
+      "title": "Προσκύνημα",
+      "performer": "Νίκος Δημητράτος και ο θίασος",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "proskynima",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το μεγάλο μας τσίρκο (1974)",
+      "url": "https://musicbrainz.org/release-group/9e4e4721-03fe-4e49-8627-c2006d2f6c34"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Music for the stage",
+    "about": [
+      "Xarchakos's music for Iakovos Kambanellis's stage show To megalo mas tsirko (1973), recorded with the cast: Jenny Karezi, Kostas Kazakos, Nikos Xylouris, Spyros Konstantopoulos and others. After the restoration of democracy Xarchakos wrote \"Proskynima\" for the production, to honour the victims of the Polytechnic uprising (Wikipedia)."
+    ]
+  }
+}

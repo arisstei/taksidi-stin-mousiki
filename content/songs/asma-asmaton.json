@@ -1,0 +1,24 @@
+{
+  "slug": "asma-asmaton",
+  "title": "Άσμα Ασμάτων",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": null,
+  "year": "1966",
+  "performer": "Μαρία Φαραντούρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη» (1966).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη (κατάλογος κομματιών)",
+      "url": "https://www.mikistheodorakis.gr/el/music/listen/byalbum/?albumid=291"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη” (1966).",
+    "story": []
+  }
+}

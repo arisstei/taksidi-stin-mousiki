@@ -1,0 +1,742 @@
+{
+  "slug": "40-chronia-1938-1978",
+  "composer": "vassilis-tsitsanis",
+  "title": "40 χρόνια: 1938-1978",
+  "year": 2008,
+  "type": "anthology",
+  "kind": "Συλλογή 8 CD",
+  "label": "Minos-EMI",
+  "format": "CD",
+  "performers": [
+    "Βασίλης Τσιτσάνης",
+    "Λιζέττα Νικολάου",
+    "Δήμητρα Γαλάνη",
+    "Γρηγόρης Μπιθικώτσης",
+    "Μανώλης Μητσιάς",
+    "Βούλα Γκίκα",
+    "Στράτος Διονυσίου",
+    "Χαρούλα Λαμπράκη",
+    "Σταμάτης Κόκοτας",
+    "Βίκυ Μοσχολιού",
+    "Δημήτρης Ευσταθίου",
+    "Πόλυ Πάνου"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή οκτώ CD με τίτλο «40 χρόνια: 1938–1978», που κυκλοφόρησε το 2008 από τη Minos-EMI σε συνεργασία με την εφημερίδα Το Βήμα."
+  ],
+  "tracks": [
+    {
+      "pos": "1.1",
+      "title": "Της γερακίνας γιος",
+      "performer": "Βασίλης Τσιτσάνης, Λιζέττα Νικολάου",
+      "song": "tis-gerakinas-gios",
+      "stub": true
+    },
+    {
+      "pos": "1.2",
+      "title": "Ακρογιαλιές, δειλινά",
+      "performer": "Δήμητρα Γαλάνη, Βασίλης Τσιτσάνης",
+      "song": "akrogialies-deilina",
+      "stub": true
+    },
+    {
+      "pos": "1.3",
+      "title": "Βάρκα γιαλό",
+      "performer": "Γρηγόρης Μπιθικώτσης, Λιζέττα Νικολάου, Βασίλης Τσιτσάνης",
+      "song": "varka-gialo",
+      "stub": true
+    },
+    {
+      "pos": "1.4",
+      "title": "Το φιλί δεν είναι κρίμα",
+      "performer": "Μανώλης Μητσιάς, Βούλα Γκίκα, Βασίλης Τσιτσάνης",
+      "song": "to-fili-den-einai-krima",
+      "stub": true
+    },
+    {
+      "pos": "1.5",
+      "title": "Όταν πίνεις στην ταβέρνα",
+      "performer": "Στράτος Διονυσίου, Βούλα Γκίκα",
+      "song": "otan-pineis-stin-taverna",
+      "stub": true
+    },
+    {
+      "pos": "1.6",
+      "title": "Με παρέσυρε το ρέμα",
+      "performer": "Βασίλης Τσιτσάνης, Χαρούλα Λαμπράκη",
+      "song": "me-paresyre-to-rema",
+      "stub": true
+    },
+    {
+      "pos": "1.7",
+      "title": "Το παιδί απ’ το λιμάνι",
+      "performer": "Σταμάτης Κόκοτας",
+      "song": "to-paidi-ap-to-limani",
+      "stub": true
+    },
+    {
+      "pos": "1.8",
+      "title": "Δεν είναι όνειρο η ζωή",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "den-einai-oneiro-i-zoi",
+      "stub": true
+    },
+    {
+      "pos": "1.9",
+      "title": "Δε ρωτώ ποια εισαι",
+      "performer": "Δημήτρης Ευσταθίου, Χαρούλα Λαμπράκη, Βασίλης Τσιτσάνης",
+      "song": "de-roto-poia-eisai",
+      "stub": true
+    },
+    {
+      "pos": "1.10",
+      "title": "Απόψε στις ακρογιαλιές",
+      "performer": "Βασίλης Τσιτσάνης, Χαρούλα Λαμπράκη",
+      "song": "apopse-stis-akrogialies",
+      "stub": true
+    },
+    {
+      "pos": "1.11",
+      "title": "Στην απάνω σκάλα της ζωής",
+      "performer": "Βασίλης Τσιτσάνης, Χαρούλα Λαμπράκη",
+      "song": "stin-apano-skala-tis-zois",
+      "stub": true
+    },
+    {
+      "pos": "1.12",
+      "title": "Η σκιά μου κι εγώ",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "i-skia-mou-ki-ego",
+      "stub": true
+    },
+    {
+      "pos": "1.13",
+      "title": "Νοσταλγία",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "nostalgia",
+      "stub": true
+    },
+    {
+      "pos": "2.1",
+      "title": "Της ταβέρνας το ρολόι",
+      "performer": "Πόλυ Πάνου",
+      "song": "tis-tavernas-to-roloi",
+      "stub": true
+    },
+    {
+      "pos": "2.2",
+      "title": "Το καράβι",
+      "performer": "Λάουρα, Βασίλης Τσιτσάνης",
+      "song": "to-karavi",
+      "stub": true
+    },
+    {
+      "pos": "2.3",
+      "title": "Παίξε Χρήστο το μπουζούκι",
+      "performer": "Πόλυ Πάνου",
+      "song": "paixe-xristo-to-mpouzouki",
+      "stub": true
+    },
+    {
+      "pos": "2.4",
+      "title": "Στρώσε μου να κοιμηθώ",
+      "performer": "Καίτη Γκρέυ, Βασίλης Τσιτσάνης, Αντώνης Ρεπάνης",
+      "song": "strose-mou-na-koimitho",
+      "stub": true
+    },
+    {
+      "pos": "2.5",
+      "title": "Μ’ έχουν γελάσει δυο μαύρα μάτια",
+      "performer": "Καίτη Γκρέυ",
+      "song": "m-exoun-gelasei-dyo-mayra-matia",
+      "stub": true
+    },
+    {
+      "pos": "2.6",
+      "title": "Όσο με μαλώνεις",
+      "performer": "Πάνος Γαβαλάς, Μπέμπα Φινέτη, Βασίλης Τσιτσάνης",
+      "song": "oso-me-maloneis",
+      "stub": true
+    },
+    {
+      "pos": "2.7",
+      "title": "Μείνε αγάπη μου κοντά μου",
+      "performer": "Πάνος Γαβαλάς, Βούλα Γκίκα",
+      "song": "meine-agapi-mou-konta-mou",
+      "stub": true
+    },
+    {
+      "pos": "2.8",
+      "title": "Το ’ξερα πως θα μου φύγεις",
+      "performer": "Στέλιος Καζαντζίδης, Μπέμπα Φινέτη, Βασίλης Τσιτσάνης",
+      "song": "to-xera-pos-tha-mou-fygeis",
+      "stub": true
+    },
+    {
+      "pos": "2.9",
+      "title": "Για να σε κάνω άνθρωπο",
+      "performer": "Βασίλης Τσιτσάνης, Καίτη Γκρέυ",
+      "song": "gia-na-se-kano-anthropo",
+      "stub": true
+    },
+    {
+      "pos": "2.10",
+      "title": "Η γκρινιάρα",
+      "performer": "Μανώλης Αγγελόπουλος, Αννούλα Βασιλείου",
+      "song": "i-gkriniara",
+      "stub": true
+    },
+    {
+      "pos": "2.11",
+      "title": "Η γυναίκα μου η μουρμούρα",
+      "performer": "Μανώλης Αγγελόπουλος, Αννούλα Βασιλείου",
+      "song": "i-gynaika-mou-i-mourmoura",
+      "stub": true
+    },
+    {
+      "pos": "2.12",
+      "title": "Φαρμακωμένα χείλη",
+      "performer": "Γιώργος Χατζηαντωνίου",
+      "song": "farmakomena-xeili",
+      "stub": true
+    },
+    {
+      "pos": "2.13",
+      "title": "Μέσα στην καταστροφή μου",
+      "performer": "Γιώτα Λύδια",
+      "song": "mesa-stin-katastrofi-mou",
+      "stub": true
+    },
+    {
+      "pos": "3.1",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Στέλιος Καζαντζίδης, Γιώτα Λύδια, Μαρινέλλα",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "3.2",
+      "title": "Ό,τι κι αν πω δεν σε ξεχνώ",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βούλα Γκίκα",
+      "song": "o-ti-ki-an-po-den-se-xexno",
+      "stub": true
+    },
+    {
+      "pos": "3.3",
+      "title": "Το πουκάμισο",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "to-poukamiso",
+      "stub": true
+    },
+    {
+      "pos": "3.4",
+      "title": "Ο τσολιάς",
+      "performer": "Γρηγόρης Μπιθικώτσης, Γεωργία Τζόυ",
+      "song": "o-tsolias",
+      "stub": true
+    },
+    {
+      "pos": "3.5",
+      "title": "Ίσως αύριο",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "isos-ayrio",
+      "stub": true
+    },
+    {
+      "pos": "3.6",
+      "title": "Εγώ είμαι το μπεγλέρι σου",
+      "performer": "Γρηγόρης Μπιθικώτσης, Νίκος Καλλέργης",
+      "song": "ego-eimai-to-mpegleri-sou",
+      "stub": true
+    },
+    {
+      "pos": "3.7",
+      "title": "Πάρε το δάκρυ μου βοριά",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "pare-to-dakry-mou-voria",
+      "stub": true
+    },
+    {
+      "pos": "3.8",
+      "title": "Βάλε τώρα που γυρίζει",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "vale-tora-pou-gyrizei",
+      "stub": true
+    },
+    {
+      "pos": "3.9",
+      "title": "Το κόκκινο μαντίλι",
+      "performer": "Στέλιος Καζαντζίδης",
+      "song": "to-kokkino-mantili",
+      "stub": true
+    },
+    {
+      "pos": "3.10",
+      "title": "Στα Τρίκαλα στα δυο στενά",
+      "performer": "Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+      "song": "sta-trikala-sta-dyo-stena",
+      "stub": true
+    },
+    {
+      "pos": "3.11",
+      "title": "Μπαξέ τσιφλίκι",
+      "performer": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+      "song": "mpaxe-tsifliki",
+      "stub": true
+    },
+    {
+      "pos": "3.12",
+      "title": "Πέφτεις σε λάθη",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "pefteis-se-lathi",
+      "stub": true
+    },
+    {
+      "pos": "4.1",
+      "title": "Το μινόρε του Τσιτσάνη",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "to-minore-tou-tsitsani",
+      "stub": true
+    },
+    {
+      "pos": "4.2",
+      "title": "Αργοσβήνεις μόνη",
+      "performer": "Ιωάννα Γεωργακοπούλου, Στελλάκης Περπινιάδης",
+      "song": "argosvineis-moni",
+      "stub": true
+    },
+    {
+      "pos": "4.3",
+      "title": "Αχάριστη",
+      "performer": "Ιωάννα Γεωργακοπούλου, Στελλάκης Περπινιάδης, Βασίλης Τσιτσάνης",
+      "song": "i-axaristi",
+      "stub": true
+    },
+    {
+      "pos": "4.4",
+      "title": "Σε τούτο το παλιόσπιτο",
+      "performer": "Στράτος Παγιουμτζής, Στέλλα Χασκήλ",
+      "song": "se-touto-to-paliospito",
+      "stub": true
+    },
+    {
+      "pos": "4.5",
+      "title": "Τα νιάτα τα μπερμπάντικα",
+      "performer": "Θανάσης Ευγενικός, Στέλλα Χασκήλ",
+      "song": "ta-niata-ta-mpermpantika",
+      "stub": true
+    },
+    {
+      "pos": "4.6",
+      "title": "Το σκαλοπάτι σου",
+      "performer": "Φώτης Πολυμέρης, Έλσα Λάμπο, Τότης Στεφανίδης",
+      "song": "to-skalopati-sou",
+      "stub": true
+    },
+    {
+      "pos": "4.7",
+      "title": "Στο Τούνεζι στην Μπαρμπαριά",
+      "performer": "Άννα Χρυσάφη, Μαίρη Λίντα, Βασίλης Τσιτσάνης, Θανάσης Γιαννόπουλος",
+      "song": "sto-tounezi-stin-mparmparia",
+      "stub": true
+    },
+    {
+      "pos": "4.8",
+      "title": "Αντιλαλούνε τα βουνά",
+      "performer": "Στέλλα Χασκήλ, Τάκης Μπίνης, Θανάσης Ευγενικός, Γιάννης Τατασόπουλος",
+      "song": "antilaloune-ta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "4.9",
+      "title": "Τα λερωμένα τ’ άπλυτα",
+      "performer": "Δημήτρης Χρήστου, Ευαγγελία Μαρκοπούλου",
+      "song": "ta-leromena-t-aplyta",
+      "stub": true
+    },
+    {
+      "pos": "4.10",
+      "title": "Της φτώχειας τα κουρέλια",
+      "performer": "Στέλλα Χασκήλ, Βασίλης Τσιτσάνης, Θανάσης Γιαννόπουλος",
+      "song": "tis-ftoxeias-ta-kourelia",
+      "stub": true
+    },
+    {
+      "pos": "4.11",
+      "title": "Ρίξε μου μια γλυκιά πενιά",
+      "performer": "Σταύρος Καμπάνης",
+      "song": "rixe-mou-mia-glykia-penia",
+      "stub": true
+    },
+    {
+      "pos": "4.12",
+      "title": "Κοινωνία και γυναίκα",
+      "performer": "Πόλυ Πάνου, Αντώνης Κλειδωνιάρης",
+      "song": "koinonia-kai-gynaika",
+      "stub": true
+    },
+    {
+      "pos": "4.13",
+      "title": "Για κοίτα κόσμε ένα κορμί",
+      "performer": "Καίτη Γκρέυ",
+      "song": "gia-koita-kosme-ena-kormi",
+      "stub": true
+    },
+    {
+      "pos": "5.1",
+      "title": "Κάνε λιγάκι υπομονή",
+      "performer": "Σωτηρία Μπέλλου, Βασίλης Τσιτσάνης",
+      "song": "kane-ligaki-ypomoni",
+      "stub": true
+    },
+    {
+      "pos": "5.2",
+      "title": "Για τα μάτια π’ αγαπώ",
+      "performer": "Μαρίκα Νίνου, Πρόδρομος Τσαουσάκης, Βασίλης Τσιτσάνης",
+      "song": "gia-ta-matia-p-agapo",
+      "stub": true
+    },
+    {
+      "pos": "5.3",
+      "title": "Με πήρε το ξημέρωμα στους δρόμους",
+      "performer": "Σωτηρία Μπέλλου",
+      "song": "me-pire-to-ximeroma-stous-dromous",
+      "stub": true
+    },
+    {
+      "pos": "5.4",
+      "title": "Κι αν πάθεις και καμιά ζημιά",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "ki-an-patheis-kai-kamia-zimia",
+      "stub": true
+    },
+    {
+      "pos": "5.5",
+      "title": "Ποια καρδιά δε θα ραΐσει",
+      "performer": "Σωτηρία Μπέλλου, Τάκης Μπίνης",
+      "song": "poia-kardia-de-tha-raisei",
+      "stub": true
+    },
+    {
+      "pos": "5.6",
+      "title": "Τα διαλεχτά παιδιά",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης, Σπύρος Ευσταθίου",
+      "song": "ta-dialexta-paidia",
+      "stub": true
+    },
+    {
+      "pos": "5.7",
+      "title": "Φτωχέ διαβάτη",
+      "performer": "Σωτηρία Μπέλλου, Βασίλης Τσιτσάνης",
+      "song": "ftoxe-diavati",
+      "stub": true
+    },
+    {
+      "pos": "5.8",
+      "title": "Τι σήμερα, τι αύριο, τι τώρα",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "ti-simera-ti-ayrio-ti-tora",
+      "stub": true
+    },
+    {
+      "pos": "5.9",
+      "title": "Περιπλανώμενη ζωή",
+      "performer": "Σωτηρία Μπέλλου",
+      "song": "periplanomeni-zoi",
+      "stub": true
+    },
+    {
+      "pos": "5.10",
+      "title": "Γεννήθηκα για να πονώ",
+      "performer": "Μαρίκα Νίνου, Τάκης Μπίνης",
+      "song": "gennithika-gia-na-pono",
+      "stub": true
+    },
+    {
+      "pos": "5.11",
+      "title": "Σε παλάτια, σε τσαντίρια",
+      "performer": "Σωτηρία Μπέλλου, Βασίλης Τσιτσάνης, Θανάσης Γιαννόπουλος",
+      "song": "se-palatia-se-tsantiria",
+      "stub": true
+    },
+    {
+      "pos": "5.12",
+      "title": "Κάθε βράδυ λυπημένη",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "kathe-vrady-lypimeni",
+      "stub": true
+    },
+    {
+      "pos": "6.1",
+      "title": "Αρχόντισσα",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "arxontissa",
+      "stub": true
+    },
+    {
+      "pos": "6.2",
+      "title": "Μες στην πολλή σκοτούρα μου",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "mes-stin-polli-skotoura-mou",
+      "stub": true
+    },
+    {
+      "pos": "6.3",
+      "title": "Καλαμπακιώτισσα",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "kalampakiotissa",
+      "stub": true
+    },
+    {
+      "pos": "6.4",
+      "title": "Μια νύχτα στο Πασαλιμάνι",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "mia-nyxta-sto-pasalimani",
+      "stub": true
+    },
+    {
+      "pos": "6.5",
+      "title": "Όταν στα κέντρα σε πηγαίνω",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "otan-sta-kentra-se-pigaino",
+      "stub": true
+    },
+    {
+      "pos": "6.6",
+      "title": "Γλυκοχαράζουν τα βουνά",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "glykoxarazoun-ta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "6.7",
+      "title": "Χωρίσαμε ένα δειλινό",
+      "performer": "Πρόδρομος Τσαουσάκης, Ιωάννα Γεωργακοπούλου",
+      "song": "xorisame-ena-deilino",
+      "stub": true
+    },
+    {
+      "pos": "6.8",
+      "title": "Γύρνα μόνος μες στη νύχτα",
+      "performer": "Πρόδρομος Τσαουσάκης, Βασίλης Τσιτσάνης",
+      "song": "gyrna-monos-mes-sti-nyxta",
+      "stub": true
+    },
+    {
+      "pos": "6.9",
+      "title": "Πέφτουν της βροχής οι στάλες",
+      "performer": "Πρόδρομος Τσαουσάκης, Ιωάννα Γεωργακοπούλου",
+      "song": "peftoun-tis-vroxis-oi-stales",
+      "stub": true
+    },
+    {
+      "pos": "6.10",
+      "title": "Για μια κόρη ξελογιάστρα",
+      "performer": "Πρόδρομος Τσαουσάκης, Βασίλης Τσιτσάνης",
+      "song": "gia-mia-kori-xelogiastra",
+      "stub": true
+    },
+    {
+      "pos": "6.11",
+      "title": "Οι φάμπρικες",
+      "performer": "Πρόδρομος Τσαουσάκης, Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "oi-famprikes",
+      "stub": true
+    },
+    {
+      "pos": "6.12",
+      "title": "Μη μου ξαναφύγεις πια",
+      "performer": "Πρόδρομος Τσαουσάκης, Ρένα Ντάλλια",
+      "song": "mi-mou-xanafygeis-pia",
+      "stub": true
+    },
+    {
+      "pos": "7.1",
+      "title": "Να γιατί περνώ",
+      "performer": "Σοφία Καρίβαλη, Μάρκος Βαμβακάρης",
+      "song": "na-giati-perno",
+      "stub": true
+    },
+    {
+      "pos": "7.2",
+      "title": "Η ξενιτιά",
+      "performer": "Απόστολος Χατζηχρήστος, Βασίλης Τσιτσάνης",
+      "song": "i-xenitia",
+      "stub": true
+    },
+    {
+      "pos": "7.3",
+      "title": "Το τρελοκόριτσο",
+      "performer": "Απόστολος Χατζηχρήστος, Βασίλης Τσιτσάνης",
+      "song": "to-trelokoritso",
+      "stub": true
+    },
+    {
+      "pos": "7.4",
+      "title": "Φάνταζες σαν πριγκιπέσα",
+      "performer": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "fantazes-san-prigkipessa",
+      "stub": true
+    },
+    {
+      "pos": "7.5",
+      "title": "Βάρκα γιαλό",
+      "performer": "Γιάννης Παπαϊωάννου, Μάρκος Βαμβακάρης, Οδυσσέας Μοσχονάς",
+      "song": "varka-gialo",
+      "stub": true
+    },
+    {
+      "pos": "7.6",
+      "title": "Μόρτισσα",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "mortissa",
+      "stub": true
+    },
+    {
+      "pos": "7.7",
+      "title": "Μαγκιώρα",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης, Γιάννης Τατασόπουλος",
+      "song": "magkiora",
+      "stub": true
+    },
+    {
+      "pos": "7.8",
+      "title": "Της μπαμπέσας το γλυκό φιλί",
+      "performer": "Απόστολος Χατζηχρήστος, Βασίλης Τσιτσάνης",
+      "song": "tis-mpampesas-to-glyko-fili",
+      "stub": true
+    },
+    {
+      "pos": "7.9",
+      "title": "Δροσούλα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος, Γιάννης Παπαϊωάννου",
+      "song": "i-drosoula",
+      "stub": true
+    },
+    {
+      "pos": "7.10",
+      "title": "Τρεις θα ’ναι οι ώρες σου",
+      "performer": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "treis-tha-nai-oi-ores-sou",
+      "stub": true
+    },
+    {
+      "pos": "7.11",
+      "title": "Αραμπάς περνά",
+      "performer": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνης",
+      "song": "arampas-perna",
+      "stub": true
+    },
+    {
+      "pos": "7.12",
+      "title": "Μάγκας του γλυκού νερού",
+      "performer": "Έλσα Λάμπο, Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "magkas-tou-glykou-nerou",
+      "stub": true
+    },
+    {
+      "pos": "8.1",
+      "title": "Νύχτες μαγικές",
+      "performer": "Ιωάννα Γεωργακοπούλου, Στελλάκης Περπινιάδης",
+      "song": "nyxtes-magikes",
+      "stub": true
+    },
+    {
+      "pos": "8.2",
+      "title": "Αράπικο λουλούδι",
+      "performer": "Στέλλα Χασκήλ, Βασίλης Τσιτσάνης",
+      "song": "arapiko-louloudi",
+      "stub": true
+    },
+    {
+      "pos": "8.3",
+      "title": "Γκιουλμπαχάρ",
+      "performer": "Ρένα Ντάλλια",
+      "song": "gkioulmpaxar",
+      "stub": true
+    },
+    {
+      "pos": "8.4",
+      "title": "Σεράχ",
+      "performer": "Μαρίκα Νίνου",
+      "song": "i-serax",
+      "stub": true
+    },
+    {
+      "pos": "8.5",
+      "title": "Σε φίνο ακρογιάλι",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "se-fino-akrogiali",
+      "stub": true
+    },
+    {
+      "pos": "8.6",
+      "title": "Ο Τσιτσάνης στη ζούγκλα",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "o-tsitsanis-sti-zougkla",
+      "stub": true
+    },
+    {
+      "pos": "8.7",
+      "title": "Ο Τσιτσάνης στο Μόντε Κάρλο",
+      "performer": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+      "song": "o-tsitsanis-sto-monte-karlo",
+      "stub": true
+    },
+    {
+      "pos": "8.8",
+      "title": "Η μάγισσα της Αραπιάς",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "i-magissa-tis-arapias",
+      "stub": true
+    },
+    {
+      "pos": "8.9",
+      "title": "Έλα μικρό μου να φύγουμε",
+      "performer": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+      "song": "ela-mikro-mou-na-fygoume",
+      "stub": true
+    },
+    {
+      "pos": "8.10",
+      "title": "Η Μαρίτσα στο χαρέμι",
+      "performer": "Πρόδρομος Τσαουσάκης, Ιωάννα Γεωργακοπούλου, Βασίλης Τσιτσάνης",
+      "song": "i-maritsa-sto-xaremi",
+      "stub": true
+    },
+    {
+      "pos": "8.11",
+      "title": "Ζαΐρα",
+      "performer": "Μαρίκα Νίνου, Γιάννης Σαλασίδης, Θανάσης Γιαννόπουλος",
+      "song": "zaira-2",
+      "stub": true
+    },
+    {
+      "pos": "8.12",
+      "title": "Φελάχες γλυκές",
+      "performer": "Καίτη Γκρέυ",
+      "song": "felaxes-glykes",
+      "stub": true
+    },
+    {
+      "pos": "8.13",
+      "title": "Φαρίντα",
+      "performer": "Μανώλης Αγγελόπουλος",
+      "song": "farinta",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "en": {
+    "kind": "8-CD compilation",
+    "about": [
+      "An eight-CD compilation titled \"40 Years: 1938–1978\", released in 2008 by Minos-EMI together with the newspaper To Vima."
+    ]
+  }
+}

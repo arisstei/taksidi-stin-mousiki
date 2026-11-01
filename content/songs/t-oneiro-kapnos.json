@@ -1,0 +1,28 @@
+{
+  "slug": "t-oneiro-kapnos",
+  "title": "Τ' όνειρο καπνός (Στης νύχτας το μπαλκόνι)",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1966",
+  "performer": "Μαρία Φαραντούρη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη» (1966), «Θαλασσινά φεγγάρια» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη (κατάλογος κομματιών)",
+      "url": "https://www.mikistheodorakis.gr/el/music/listen/byalbum/?albumid=291"
+    },
+    {
+      "label": "Ogdoo.gr — Τα «Θαλασσινά φεγγάρια» του Μίκη και του Γκάτσου",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/ta-thalassina-feggaria-tou-miki-kai-tou-gatsou/"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Η Μπαλάντα του Μαουτχάουζεν και Κύκλος Φαραντούρη” (1966), “Θαλασσινά φεγγάρια” (1974).",
+    "story": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "to-panorama",
+  "composer": "plessas",
+  "title": "Το πανόραμα",
+  "year": 1971,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 130",
+  "format": "LP",
+  "performers": [
+    "Δώρος Γεωργιάδης"
+  ],
+  "lyricists": [
+    "Κώστας Βίρβος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών σε στίχους Κώστα Βίρβου, με ερμηνευτή τον Δώρο Γεωργιάδη και εξώφυλλο του Μποστ. Σύμφωνα με το σημείωμα του οπισθόφυλλου, τα τραγούδια παρουσιάζουν τύπους των παλιών πανηγυριών."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Το πανόραμα",
+      "song": "to-panorama",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Δεν είναι βόας",
+      "song": "den-einai-voas",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο φωτογράφος",
+      "song": "o-fotografos",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Σακουλές",
+      "song": "o-sakoules",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Μιμίκος και η Μαίρη",
+      "song": "o-mimikos-kai-i-mairi",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το θηρίο της Κηφισιάς",
+      "song": "to-thirio-tis-kifisias",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο Δελαπατρίδης",
+      "song": "o-delapatridis",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Γιακουμής",
+      "song": "o-giakoumis",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Η γκαμήλα",
+      "song": "i-gkamila",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο Τζίμης ο πρωταθλητής",
+      "song": "o-tzimis-o-protathlitis",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Η κοιμωμένη",
+      "song": "i-koimomeni",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μάρκος, Μπάτης και  Αρτέμης",
+      "song": "markos-mpatis-kai-artemis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Το πανόραμα, Minos MSM 130 (1971)",
+      "url": "https://www.discogs.com/release/4094915"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle to lyrics by Kostas Virvos, performed by Doros Georgiadis, with a cover by Bost. According to the back-cover note, the songs portray characters of old village fairs."
+    ]
+  }
+}

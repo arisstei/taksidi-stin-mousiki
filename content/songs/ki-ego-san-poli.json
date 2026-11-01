@@ -1,0 +1,28 @@
+{
+  "slug": "ki-ego-san-poli",
+  "title": "Κι εγώ σαν πόλη",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "1979",
+  "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου · Χάρις Αλεξίου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα τραγούδια της Χαρούλας» (1979), «Πρώτες εκτελέσεις» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "MusicBrainz — Πρώτες Εκτελέσεις, κυκλοφορία (1987)",
+      "url": "https://musicbrainz.org/release/f28bff71-d8e1-427e-a75c-f9cd64232722"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα τραγούδια της Χαρούλας” (1979), “Πρώτες εκτελέσεις” (1987).",
+    "story": []
+  }
+}

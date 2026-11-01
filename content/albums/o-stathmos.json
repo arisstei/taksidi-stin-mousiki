@@ -1,0 +1,128 @@
+{
+  "slug": "o-stathmos",
+  "composer": "loizos",
+  "title": "Ο Σταθμός",
+  "year": 1968,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 101",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Καλατζής",
+    "Γιώργος Νταλάρας",
+    "Λίτσα Διαμάντη",
+    "Δημήτρης Ευσταθίου"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "B",
+  "about": [
+    "Ο πρώτος δίσκος του Λοΐζου, από τους πρώτους με το λογότυπο MINOS στην ελληνική αγορά, με στίχους του Λευτέρη Παπαδόπουλου.",
+    "Περιλαμβάνει, σύμφωνα με τη Βικιπαίδεια, τόσο τραγούδια όσο και οργανικά κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Δελφίνι δελφινάκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "delfini-delfinaki",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Το παλιό ρολόι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-palio-roloi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο σταθμός",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-stathmos",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Όποιος δει το παλικάρι",
+      "performer": "Μάνος Λοΐζος & Λίτσα Διαμάντη",
+      "song": "opoios-dei-to-palikari",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ήταν οχτώ-εννιά",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "itan-oxto-ennia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Φινάλε πρώτου μέρους",
+      "performer": "Μάνος Λοΐζος"
+    },
+    {
+      "pos": "7",
+      "title": "Το μελαχρινάκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "to-melaxrinaki",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Η δουλειά κάνει τους άντρες",
+      "performer": "Μάνος Λοΐζος & Δημήτρης Ευσταθίου",
+      "song": "i-douleia-kanei-tous-antres",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Σ' αποθύμησα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "s-apothymisa",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Πίσω απ' την πόρτα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "piso-ap-tin-porta",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Επιστροφή",
+      "performer": "Μάνος Λοΐζος",
+      "song": "i-epistrofi",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Φινάλε δεύτερου μέρους",
+      "performer": "Μάνος Λοΐζος"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Ο σταθμός, κυκλοφορία (1968)",
+      "url": "https://musicbrainz.org/release/08eeecce-a235-4602-afc9-41ef1e67354c"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "His debut album, among the first on the Greek market to carry the MINOS logo, with lyrics by Lefteris Papadopoulos.",
+      "According to Wikipedia it includes both songs and instrumental pieces."
+    ]
+  }
+}

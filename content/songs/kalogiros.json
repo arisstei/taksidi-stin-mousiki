@@ -1,0 +1,32 @@
+{
+  "slug": "kalogiros",
+  "title": "Καλόγηρος",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1979",
+  "performer": "Μάρκος Βαμβακάρης · Σταμάτης Κόκοτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ρεμπέτικα Θεμέλια Νο 1» (1979), «40 Χρόνια Βαμβακάρης» (1980), «Μάρκος Ο Συριανός» (1997).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ρεμπέτικα Θεμέλια Νο 1 (1979)",
+      "url": "https://www.discogs.com/release/4266094"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ρεμπέτικα Θεμέλια Νο 1” (1979), “40 Χρόνια Βαμβακάρης” (1980), “Μάρκος Ο Συριανός” (1997).",
+    "story": []
+  }
+}

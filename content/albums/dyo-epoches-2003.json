@@ -1,0 +1,121 @@
+{
+  "slug": "dyo-epoches-2003",
+  "composer": "vamvakaris",
+  "title": "Δυο Εποχές, Απ' Το '30 Στο '60",
+  "year": 2003,
+  "type": "anthology",
+  "kind": "CD συλλογή της Minos-EMI (εκτός εμπορίου)",
+  "label": "Echo & Artis, Minos-EMI, EMI Premium",
+  "catalog": "7243 583454 2 1",
+  "format": "CD, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Ρόζα Εσκενάζυ",
+    "Έλλη Πετρίδου",
+    "Γρηγόρης Μπιθικώτσης",
+    "Καίτη Γκρέυ",
+    "Άντζελα Γκρέκα"
+  ],
+  "grade": "C",
+  "about": [
+    "Ειδικό project της Minos-EMI (2003, «Not for sale») με 12 ηχογραφήσεις: από 78άρια του 1935–1937 και του 1946 ώς ηχογραφήσεις του 1959–1961 και των αρχών της δεκαετίας του ’60, όπως δίνονται στις σημειώσεις της έκδοσης."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Χρόνια Στον Περαία",
+      "performer": "Μάρκος Βαμβακάρης, Ρόζα Εσκενάζυ",
+      "song": "xronia-ston-peraia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χαράματα Η Ώρα Τρεις (Θα 'ρθώ Να Σε Ξυπνήσω)",
+      "performer": "Μάρκος Βαμβακάρης, Έλλη Πετρίδου",
+      "song": "xaramata-i-ora-treis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μικρός Αρραβωνιάστηκα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "mikros-arravoniastika",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Κάν' Τονε Σταύρο Κάν' Τονε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "kan-tone-stayro-kan-tone",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Αντιλαλούνε Οι Φυλακές",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "antilaloune-oi-fylakes",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Φραγκοσυριανή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Τα Δυο Σου Χέρια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-dyo-sou-xeria",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τα Ματόκλαδά Σου Λάμπουν",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Καλέ Μάνα Δεν Μπορώ",
+      "performer": "Καίτη Γκρέυ",
+      "song": "kale-manna-den-mporo",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Να Πεθάνεις",
+      "performer": "Μάρκος Βαμβακάρης, Άντζελα Γκρέκα",
+      "song": "na-pethaneis",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Φεγγάρι Αν Είσαι Λαμπερό",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "feggari-an-eisai-lampero",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Δυο Εποχές, Απ' Το '30 Στο '60 (2003)",
+      "url": "https://www.discogs.com/release/2620102"
+    }
+  ],
+  "en": {
+    "kind": "Promotional CD compilation by Minos-EMI",
+    "about": [
+      "A Minos-EMI special project (2003, marked “Not for sale”) with 12 recordings: from 78s of 1935–1937 and 1946 to recordings of 1959–1961 and the early 1960s, as listed in the release notes."
+    ]
+  }
+}

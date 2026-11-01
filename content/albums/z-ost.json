@@ -1,0 +1,90 @@
+{
+  "slug": "z-ost",
+  "composer": "theodorakis",
+  "title": "Z",
+  "year": 1969,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "CBS",
+  "catalog": "S 70057",
+  "format": "LP, 12\"",
+  "performers": [],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Θεοδωράκη για την ταινία «Ζ» του Κώστα Γαβρά (1969), όπως κυκλοφόρησε από τη CBS (S 70057)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Main Title (O Adonis)"
+    },
+    {
+      "pos": "2",
+      "title": "To Yelasto Pedi",
+      "song": "to-yelasto-pedi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "La Course De Manuel"
+    },
+    {
+      "pos": "4",
+      "title": "To Palikari Echi Kaimo"
+    },
+    {
+      "pos": "5",
+      "title": "Cafe Rock"
+    },
+    {
+      "pos": "6",
+      "title": "Arrival of Helen"
+    },
+    {
+      "pos": "7",
+      "title": "Batucada"
+    },
+    {
+      "pos": "8",
+      "title": "To Yelasto Pedi (Bouzouki version)",
+      "song": "to-yelasto-pedi",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "To Yelasto Pedi",
+      "lyricist": "Βασίλης Ρώτας",
+      "song": "to-yelasto-pedi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Pios Den Mila Yia Ti Lambri"
+    },
+    {
+      "pos": "11",
+      "title": "Finale"
+    },
+    {
+      "pos": "12",
+      "title": "To Palikari Echi Kaimo"
+    },
+    {
+      "pos": "13",
+      "title": "Safti Ti Gitonia"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/abc9b51a-9aa3-4bb0-a3e0-ef3fd152b131"
+    }
+  ],
+  "en": {
+    "kind": "Film soundtrack",
+    "about": [
+      "Theodorakis's score for Costa-Gavras's film \"Z\" (1969), as released by CBS (S 70057)."
+    ]
+  }
+}

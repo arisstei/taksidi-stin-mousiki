@@ -1,0 +1,133 @@
+{
+  "slug": "ta-tragoudia-tou-dromou",
+  "composer": "loizos",
+  "title": "Τα τραγούδια του δρόμου",
+  "year": 1974,
+  "type": "anthology",
+  "kind": "Συλλογή τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 225",
+  "format": "LP",
+  "performers": [
+    "Μάνος Λοΐζος",
+    "Βασίλης Παπακωνσταντίνου",
+    "Αλέκα Αλιμπέρτη"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος",
+    "Δημήτρης Χριστοδούλου",
+    "Φεντερίκο Γκαρθία Λόρκα",
+    "Κωστούλα Μητροπούλου",
+    "Μάνος Λοΐζος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος με στίχους πολλών δημιουργών: του Λοΐζου, των Παπαδόπουλου και Χριστοδούλου, του Λόρκα και της Κωστούλας Μητροπούλου. Ερμηνεύουν ο Λοΐζος, ο Βασίλης Παπακωνσταντίνου και η Αλέκα Αλιμπέρτη.",
+    "Η Βικιπαίδεια αναφέρει ότι το πρώτο του σινγκλ, «Το τραγούδι του δρόμου» (1962), είχε στίχους Λόρκα και τραγουδούσε ο Γιώργος Μούτσιος."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ο δρόμος",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-dromos"
+    },
+    {
+      "pos": "A2",
+      "title": "Ο αρχηγός",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "o-arxigos",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ο μέρμηγκας",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-mermigkas",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Μη με ρωτάς",
+      "performer": "Μάνος Λοΐζος",
+      "song": "mi-me-rotas",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Συρματοπλέγματα",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "syrmatoplegmata",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Ο στρατιώτης",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "o-stratiotis",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Τσε",
+      "performer": "Μάνος Λοΐζος",
+      "song": "tse",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Θα κλείσω το παράθυρο",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "tha-kleiso-to-parathyro",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Τ' ακορντεόν",
+      "performer": "Μάνος Λοΐζος",
+      "song": "t-akornteon",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Δώδεκα παιδιά",
+      "performer": "Μάνος Λοΐζος",
+      "song": "dodeka-paidia",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Τραγούδι του δρόμου",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-tragoudi-tou-dromou"
+    },
+    {
+      "pos": "B6",
+      "title": "Τρίτος παγκόσμιος",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "tritos-pagkosmios",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Τραγούδια του δρόμου, κυκλοφορία (1974)",
+      "url": "https://musicbrainz.org/release/ec4bf6b0-c9dd-4c60-8858-c1cf17bf9bc8"
+    }
+  ],
+  "en": {
+    "kind": "Collection of songs",
+    "about": [
+      "An album with lyrics by several writers: Loizos himself, Papadopoulos and Christodoulou, Lorca and Kostoula Mitropoulou. Sung by Loizos, Vasilis Papakonstantinou and Aleka Aliberti.",
+      "Wikipedia notes that his first single, “To tragoudi tou dromou” (1962), used lyrics by Lorca and was sung by Giorgos Moutsios."
+    ]
+  }
+}

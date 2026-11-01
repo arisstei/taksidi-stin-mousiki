@@ -1,0 +1,32 @@
+{
+  "slug": "afierwma-apo-to-olympiako-stadio",
+  "composer": "loizos",
+  "title": "Αφιέρωμα από το Ολυμπιακό στάδιο",
+  "year": 1985,
+  "type": "anthology",
+  "kind": "Ζωντανή ηχογράφηση (αφιέρωμα)",
+  "performers": [
+    "Γιάννης Καλατζής",
+    "Γιώργος Νταλάρας",
+    "Βασίλης Παπακωνσταντίνου",
+    "Χαρούλα Αλεξίου",
+    "Δήμητρα Γαλάνη"
+  ],
+  "grade": "C",
+  "about": [
+    "Μεταθανάτιο αφιέρωμα του 1985 με ερμηνευτές τους Γιάννη Καλατζή, Γιώργο Νταλάρα, Βασίλη Παπακωνσταντίνου, Χαρούλα Αλεξίου και Δήμητρα Γαλάνη, όπως το δίνει η Βικιπαίδεια."
+  ],
+  "tracks": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "en": {
+    "kind": "Live tribute recording",
+    "about": [
+      "A 1985 posthumous tribute with Giannis Kalatzis, Giorgos Dalaras, Vasilis Papakonstantinou, Haroula Alexiou and Dimitra Galani, as listed on Greek Wikipedia."
+    ]
+  }
+}

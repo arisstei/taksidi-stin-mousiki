@@ -1,0 +1,24 @@
+{
+  "slug": "tis-orfanias-gios",
+  "title": "Της ορφάνιας γιος",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Μάνος Ελευθερίου",
+  "year": "1979",
+  "performer": "Γιώργος Νταλάρας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Σεργιάνι στον κόσμο» (1979).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Σεργιάνι στον κόσμο (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/8d4cb0d6-a744-41c0-aa02-3776bb2ecb2a"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Σεργιάνι στον κόσμο” (1979).",
+    "story": []
+  }
+}

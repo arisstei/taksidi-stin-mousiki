@@ -1,0 +1,28 @@
+{
+  "slug": "o-arkoudiaris",
+  "title": "Ο Αρκουδιάρης",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": "Κώστας Βίρβος",
+  "year": "1979",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Θεσσαλικός Κύκλος» (1979), «Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση» (1984).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Θεσσαλικός Κύκλος (κυκλοφορία 1979)",
+      "url": "https://musicbrainz.org/release/865c7517-a0db-4157-a91b-e10a961a3fd0"
+    },
+    {
+      "label": "MusicBrainz — Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση (κυκλοφορία 1984)",
+      "url": "https://musicbrainz.org/release/93a7a736-5a79-4373-9226-a36287f66fb7"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Θεσσαλικός Κύκλος” (1979), “Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση” (1984).",
+    "story": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "doxa-to-theo",
+  "title": "Δόξα το Θεό",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1963",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Η γειτονιά των αγγέλων» (1963).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/0d828ce9-6f3d-46a8-af7e-a1498b3bcff6"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Η γειτονιά των αγγέλων” (1963).",
+    "story": []
+  }
+}

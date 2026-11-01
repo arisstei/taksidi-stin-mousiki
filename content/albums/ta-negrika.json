@@ -1,0 +1,113 @@
+{
+  "slug": "ta-negrika",
+  "composer": "loizos",
+  "title": "Τα Νέγρικα",
+  "year": 1975,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 261",
+  "format": "LP",
+  "performers": [
+    "Μαρία Φαραντούρη"
+  ],
+  "lyricists": [
+    "Γιάννης Νεγρεπόντης"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών σε στίχους του Γιάννη Νεγρεπόντη, με ερμηνεύτρια τη Μαρία Φαραντούρη."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Ο νέγρος ο ζωγράφος",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "o-negros-o-zografos",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Ο γέρο νέγρο Τζιμ",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "o-gero-negro-tzim",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Τι έχουν να χωρίσουνε",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "ti-exoun-na-xorisoune",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Προσευχή",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "proseyxi",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Στον πόλεμο ο Τζο",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "ston-polemo-o-tzo",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Κρίμα σε σένα νέγρο Μπιγκ",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "krima-se-sena-negro-mpigk",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Για δυο δολλάρια",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "gia-dyo-dollaria",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Η πόρνη η Τζαίην",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "i-porni-i-tzaiin",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Ο δικαστής ο Μπερντ",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "o-dikastis-o-mpernt",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Κι αν 'συ λευκός - νέγρος εγώ",
+      "performer": "Μάνος Λοΐζος & Μανώλης Ρασούλης",
+      "song": "ki-an-sy-leykos-negros-ego",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Τα νέγρικα, κυκλοφορία (1975)",
+      "url": "https://musicbrainz.org/release/fdb4fa8b-8e81-47cb-9122-ecb25ad8a2bc"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "A song cycle to lyrics by Yiannis Negrepontis, sung by Maria Farantouri."
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "tragoudoun-tsitsani",
+  "composer": "vassilis-tsitsanis",
+  "title": "Τραγουδούν Τσιτσάνη",
+  "year": 2013,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "format": "CD",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Βασίλης Τσιτσάνης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή 13 τραγουδιών του Τσιτσάνη από διάφορους ερμηνευτές, που κυκλοφόρησε το 2013."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Πρόλογος (1979)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης"
+    },
+    {
+      "pos": "2",
+      "title": "Φάνταζες Σαν Πριγκηπέσσα (1940)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "fantazes-san-prigkipessa",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Να Γιατί Γυρνώ (1936)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "na-giati-gyrno",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το Πρωί Με Την Δροσούλα (1946)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "to-proi-me-tin-drosoula",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Σατράπισσα (1948)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "satrapissa",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Απ' Την Μάνα Μου Διωγμένος (1948)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "ap-tin-mana-mou-diogmenos",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Βάρκα Γιαλό (1946)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "varka-gialo",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ντερμπεντέρισα (1947)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "ntermpenterissa",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Βράσε Την Ρούμπα Τα Σουϊγκ (1946)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "vrase-tin-roumpa-ta-souigk",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μαγκιόρα (1947)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "magkiora",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Για Τα Μάτια Π' Αγαπώ (1949)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "gia-ta-matia-p-agapo",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μέσα Στον Όντα (1946)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "mesa-ston-onta",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Μόρτισσα (1947)",
+      "performer": "Μάρκος Βαμβακάρης, Βασίλης Τσιτσάνης",
+      "song": "mortissa",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τραγουδούν Τσιτσάνη (2013)",
+      "url": "https://musicbrainz.org/release/4325b7bd-c17b-494d-afeb-311e1e1b5fdd"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A 2013 compilation of 13 Tsitsanis songs sung by various performers."
+    ]
+  }
+}

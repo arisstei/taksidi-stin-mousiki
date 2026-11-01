@@ -1,0 +1,32 @@
+{
+  "slug": "mia-omorfi-melaxroini",
+  "title": "Μια Όμορφη Μελαχροινή",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1995",
+  "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «ΙΙ» (1995), «Μάρκος Ο Συριανός» (1997), «Μουσική Αυτοβιογραφία 1932-1968» (2016).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — ΙΙ (1995)",
+      "url": "https://www.discogs.com/release/7104763"
+    },
+    {
+      "label": "Discogs — Μάρκος Ο Συριανός (1997)",
+      "url": "https://www.discogs.com/release/16034648"
+    },
+    {
+      "label": "Discogs — Μουσική Αυτοβιογραφία 1932-1968 (2016)",
+      "url": "https://www.discogs.com/release/14223431"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “ΙΙ” (1995), “Μάρκος Ο Συριανός” (1997), “Μουσική Αυτοβιογραφία 1932-1968” (2016).",
+    "story": []
+  }
+}

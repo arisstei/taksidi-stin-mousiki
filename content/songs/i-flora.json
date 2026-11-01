@@ -1,0 +1,24 @@
+{
+  "slug": "i-flora",
+  "title": "Η Φλώρα",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": null,
+  "year": "1968",
+  "performer": "Μαίρη Χρονοπούλου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Γοργόνες και μάγκες» (1968).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Γοργόνες και μάγκες, Lyra 3560 (1968)",
+      "url": "https://musicbrainz.org/release/9e9c007e-5c54-463a-a5bd-e3435c9f9d62"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Γοργόνες και μάγκες” (1968).",
+    "story": []
+  }
+}

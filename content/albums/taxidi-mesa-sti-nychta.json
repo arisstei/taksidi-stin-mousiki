@@ -1,0 +1,108 @@
+{
+  "slug": "taxidi-mesa-sti-nychta",
+  "composer": "theodorakis",
+  "title": "Ταξίδι μέσα στη νύχτα",
+  "year": 1978,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "3311",
+  "format": "LP, 12\"",
+  "performers": [
+    "Μαργαρίτα Ζορμπαλά"
+  ],
+  "lyricists": [
+    "Γιάννης Θεοδωράκης",
+    "Μίκης Θεοδωράκης",
+    "Μάνος Ελευθερίου",
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1978 (Lyra 3311) με τη Μαργαρίτα Ζορμπαλά, σε στίχους Γιάννη Θεοδωράκη, Μάνου Ελευθερίου, Νίκου Γκάτσου και άλλων."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μενεξεδένια τα βουνά",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "menexedenia-ta-vouna",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Ανατολή σε λέγανε",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "anatoli-se-legane",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Στο παζάρι του φονιά",
+      "lyricist": "Μάνος Ελευθερίου",
+      "song": "sto-pazari-tou-fonia",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Εκεί στην ξενητειά που ζεις",
+      "lyricist": "Νίκος Μπότσαρης",
+      "song": "ekei-stin-xeniteia-pou-zeis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Νύχτα μέσα στα μάτια σου",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "nyxta-mesa-sta-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Αγάπη δίχως άκρη",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "agapi-dixos-akri",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Όλα σαν όνειρο περνούν",
+      "lyricist": "Δημήτρης Κεσίσογλου",
+      "song": "ola-san-oneiro-pernoun",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Τώρα που πεθαίνουν τα λουλούδια",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "tora-pou-pethainoun-ta-louloudia",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ευανθία",
+      "lyricist": "Δημήτρης Κεσίσογλου",
+      "song": "eyanthia",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Μην κλαις",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "min-klais",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/77a27449-19e2-457a-97a9-495f1b3419c5"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A 1978 release (Lyra 3311) with Margarita Zorbala, with lyrics by Giannis Theodorakis, Manos Eleftheriou, Nikos Gatsos and others."
+    ]
+  }
+}

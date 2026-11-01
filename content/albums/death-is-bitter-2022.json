@@ -1,0 +1,110 @@
+{
+  "slug": "death-is-bitter-2022",
+  "composer": "vamvakaris",
+  "title": "Είναι Πικρός Ο Θάνατος = Death Is Bitter",
+  "year": 2022,
+  "type": "anthology",
+  "kind": "Επανέκδοση σε βινύλιο ηχογραφήσεων από 78άρια",
+  "label": "Mississippi Records",
+  "catalog": "MRI-133",
+  "format": "LP, Compilation, Mono, 160g",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Σπύρος Περιστέρης",
+    "Κώστας Σκαρβέλης",
+    "Στράτος Παγιουμτζής",
+    "Κώστας Καρίπης",
+    "Γιώργος Μπάτης",
+    "Παναγιώτης Τούντας"
+  ],
+  "grade": "B",
+  "about": [
+    "Επανέκδοση σε βινύλιο 160 γραμμαρίων από σπάνια 78άρια, σε συνεργασία των Mississippi Records και Olvido Records (OLV-10), με οκτασέλιδο ένθετο με ιστορικά σημειώματα, φωτογραφίες και μεταφράσεις των στίχων. Αφιερωμένη στον Βαμβακάρη (1905–1972)."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Εφουμέρναμ’ Ένα Βράδυ",
+      "song": "efoumernam-ena-vrady",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Μόρτισσα Χασικλού",
+      "song": "mortissa-xasiklou",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Σκύλα Μ’ Έκανες Και Λιώνω",
+      "song": "skyla-m-ekanes-kai-leiono",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Η Κλωστηρού",
+      "song": "klostirou",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Αράπ Ζεϊμπέκικο",
+      "song": "arap-zeimpekiko",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Ο Χασάπης",
+      "song": "o-xasapis",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ταξίμ Σερφ",
+      "song": "taxim-serf",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Τα Μάτια Σου Τ'Αράπικα",
+      "song": "ta-matia-sou-t-arapika",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Η Γυναίκα Μου Ζηλεύει",
+      "song": "i-gynaika-mou-zileyei",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Χθες Το Βράδυ Στο Σκοτάδι",
+      "song": "xthes-to-vrady-sto-skotadi",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Ο Μάρκος Ο Συριανός",
+      "song": "markos-o-syrianos",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Πειραιώτικος Μανές (Είναι Πικρός Ο Θάνατος)",
+      "song": "peiraiotikos-manes",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Είναι Πικρός Ο Θάνατος = Death Is Bitter (2022)",
+      "url": "https://www.discogs.com/release/25071406"
+    }
+  ],
+  "en": {
+    "kind": "Vinyl reissue of 78 rpm recordings",
+    "about": [
+      "A 160 g vinyl reissue from rare 78 rpm records, by Mississippi Records with Olvido Records (OLV-10), with an eight-page booklet of historical notes, photographs and lyric translations. Dedicated to Vamvakaris (1905–1972)."
+    ]
+  }
+}

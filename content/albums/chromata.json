@@ -1,0 +1,114 @@
+{
+  "slug": "chromata",
+  "composer": "xarchakos",
+  "title": "Χρώματα",
+  "year": 1968,
+  "type": "anthology",
+  "kind": "Δίσκος με τραγούδια και ορχηστρικά",
+  "format": "LP",
+  "performers": [
+    "Βίκυ Μοσχολιού",
+    "Γρηγόρης Μπιθικώτσης",
+    "Σταμάτης Κόκοτας"
+  ],
+  "lyricists": [
+    "Ντίνος Δημόπουλος",
+    "Νίκος Γκάτσος",
+    "Λευτέρης Παπαδόπουλος"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος του 1968 με τραγούδια και ορχηστρικά του Ξαρχάκου, σε στίχους Ντίνου Δημόπουλου, Νίκου Γκάτσου και Λευτέρη Παπαδόπουλου. Περιλαμβάνει τα «Παλληκάρι διαψασμένο», «Βαρκαρόλα» και «Κλάψτε ουρανοί κι αστέρια»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μια βόλτα για το φίλο μου",
+      "song": "mia-volta-gia-to-filo-mou",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Παλληκάρι διαψασμένο",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ντίνος Δημόπουλος",
+      "song": "pallikari-diapsasmeno",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Παβάνα για μια Κυριακή",
+      "song": "pavana-gia-mia-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Έσβησε το τραγούδι",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Ντίνος Δημόπουλος",
+      "song": "esvise-to-tragoudi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Βαρκαρόλα",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "varkarola",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κλάψτε ουρανοί κι αστέρια",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "klapste-ouranoi-ki-asteria",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τέσσερις εποχές",
+      "song": "tesseris-epoxes",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στου Δεληβοριά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "stou-delivoria",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Απέναντι",
+      "song": "apenanti",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Έξω φυσσάει και βρέχει",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "exo-fyssaei-kai-vrexei",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Στη μνήμη της κυρά-Τούλας",
+      "song": "sti-mnimi-tis-kyra-toulas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Χρώματα (1968)",
+      "url": "https://musicbrainz.org/release-group/264a19bc-1aaf-4e8d-956c-5068b9c15eaf"
+    }
+  ],
+  "en": {
+    "kind": "Songs and instrumentals",
+    "about": [
+      "A 1968 album of songs and instrumentals by Xarchakos, with lyrics by Dinos Dimopoulos, Nikos Gatsos and Lefteris Papadopoulos. It includes \"Barkarola\" and \"Klapste ouranoi ki asteria\"."
+    ]
+  }
+}

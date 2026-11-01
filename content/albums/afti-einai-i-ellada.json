@@ -1,0 +1,86 @@
+{
+  "slug": "afti-einai-i-ellada",
+  "composer": "plessas",
+  "title": "Αυτή είναι η Ελλάδα",
+  "year": 1971,
+  "type": "instrumental",
+  "kind": "Ορχηστρικό άλμπουμ",
+  "label": "Rally / MeloPhone",
+  "catalog": "333003 / SMEL 15",
+  "format": "LP",
+  "performers": [
+    "Μίμης Πλέσσας"
+  ],
+  "grade": "B",
+  "about": [
+    "Ορχηστρικός δίσκος με την Ορχήστρα Μίμη Πλέσσα, με χορούς και λαϊκά θέματα όπως το «Συρτάκι Νο 7», ο «Χορός της Ικαρίας» και ο «Κρητικός χορός». Στη δεύτερη πλευρά, σύμφωνα με το Discogs, συμμετέχει επιπλέον καλλιτέχνης."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Χόρεψε αγάπη μου"
+    },
+    {
+      "pos": "2",
+      "title": "Χαμένη αγάπη",
+      "song": "xameni-agapi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Χαρά και ξεγνοιασιά"
+    },
+    {
+      "pos": "4",
+      "title": "Το κορίτσι της γωνίας"
+    },
+    {
+      "pos": "5",
+      "title": "Ο μάγκας",
+      "song": "o-magkas",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Συρτάκι Νο 7"
+    },
+    {
+      "pos": "7",
+      "title": "Αριστείδης"
+    },
+    {
+      "pos": "8",
+      "title": "Χορός της Ικαρίας"
+    },
+    {
+      "pos": "9",
+      "title": "Αητόπουλα"
+    },
+    {
+      "pos": "10",
+      "title": "Κρητικός χορός",
+      "song": "kritikos-xoros",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ζοναρίτικος"
+    },
+    {
+      "pos": "12",
+      "title": "Ο μηχανικός"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αυτή είναι η Ελλάδα, Rally 333003 / MeloPhone SMEL 15 (1971)",
+      "url": "https://www.discogs.com/release/22577888"
+    }
+  ],
+  "en": {
+    "kind": "Instrumental album",
+    "about": [
+      "Instrumental record by the Mimis Plessas Orchestra featuring dances and popular themes such as “Syrtaki No 7”, the “Dance of Ikaria” and the “Cretan dance”. According to Discogs, a further artist appears on side B."
+    ]
+  }
+}

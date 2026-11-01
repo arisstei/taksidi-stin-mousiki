@@ -1,0 +1,28 @@
+{
+  "slug": "nostalgia",
+  "title": "Νοσταλγία",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1968",
+  "performer": "Δήμητρα Γαλάνη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Επιχείρησις Απόλλων» (1968), «40 χρόνια: 1938-1978» (2008).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Επιχείρησις Απόλλων (κυκλοφορία 1968)",
+      "url": "https://musicbrainz.org/release/60f2cf30-1955-41ce-ad46-dd3688264cc7"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Επιχείρησις Απόλλων” (1968), “40 χρόνια: 1938-1978” (2008).",
+    "story": []
+  }
+}

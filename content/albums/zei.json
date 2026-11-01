@@ -1,0 +1,138 @@
+{
+  "slug": "zei",
+  "composer": "plessas",
+  "title": "Ζει;",
+  "year": 1971,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos",
+  "catalog": "MSM 141",
+  "format": "LP",
+  "performers": [
+    "Γιώργος Νταλάρας",
+    "Γιάννης Καλατζής",
+    "Ανέστης Βλάχος",
+    "Πρόδρομος Τσαουσάκης",
+    "Χορωδία Μίμη Πλέσσα"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος σε συνεργασία με τον Κώστα Βίρβο, με τίτλους που παραπέμπουν σε πρόσωπα του Καραγκιόζη. Σύμφωνα με το Discogs, κυκλοφόρησε αρχικά το 1971 σε LP της Minos (MSM 141)· η Minos-EMI τον επανέκδωσε σε CD το 1995."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο Καραγκιόζης (Εισαγωγή)",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "o-karagkiozis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Το σεράι κι η καλύβα",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "to-serai-ki-i-kalyva",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο Χατζηαβάτης",
+      "performer": "Γιάννης Καλατζής",
+      "song": "o-xatziavatis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Το καταραμένο φίδι",
+      "performer": "Χορωδία Μίμη Πλέσσα",
+      "song": "to-katarameno-fidi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Σιορ Διονύσιος",
+      "performer": "Χορωδία Μίμη Πλέσσα",
+      "song": "o-sior-dionysios",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Η κυρά Φροσύνη",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "i-kyra-frosyni",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Μικροί ήρωες (Τα κολλητήρια της ζωής)",
+      "performer": "Γιάννης Καλατζής",
+      "song": "mikroi-iroes",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Μεγαλέξαντρος",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "o-megalexantros",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Η Βεζυροπούλα",
+      "performer": "Γιάννης Καλατζής",
+      "song": "i-vezyropoula",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο Μορφονιός",
+      "performer": "Ανέστης Βλάχος",
+      "song": "o-morfonios",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Ο Σταύρακας",
+      "performer": "Πρόδρομος Τσαουσάκης",
+      "song": "o-stayrakas",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Ο Μπάρμπα Γιώργος",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "o-mparmpa-giorgos",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Ο Καραγκιόζης (Φινάλε)",
+      "performer": "Χορωδία Μίμη Πλέσσα",
+      "song": "o-karagkiozis",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ζει;, Minos MSM 141, LP (1971)",
+      "url": "https://www.discogs.com/release/3540666"
+    },
+    {
+      "label": "MusicBrainz — Ζει;, Minos-EMI (1995)",
+      "url": "https://musicbrainz.org/release/7854d1d9-3311-4139-9163-57c506e96d81"
+    },
+    {
+      "label": "Βικιπαίδεια — Μίμης Πλέσσας",
+      "url": "https://el.wikipedia.org/wiki/Μίμης_Πλέσσας"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "An album made with Kostas Virvos, whose titles point to Karagiozis shadow-theatre characters. According to Discogs it first appeared in 1971 as a Minos LP (MSM 141); Minos-EMI reissued it on CD in 1995."
+    ]
+  },
+  "lyricists": [
+    "Κώστας Βίρβος"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "o-mpalomatis-o-xronos",
+  "title": "Ο μπαλωματής ο χρόνος",
+  "composer": "Μίμης Πλέσσας",
+  "lyricist": null,
+  "year": "1975",
+  "performer": "Γιάννης Ντουνιάς",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα μόρτικα» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Τα μόρτικα, Polydor 2421 053 (1975)",
+      "url": "https://www.discogs.com/release/5679233"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα μόρτικα” (1975).",
+    "story": []
+  }
+}

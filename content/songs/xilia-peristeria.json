@@ -1,0 +1,36 @@
+{
+  "slug": "xilia-peristeria",
+  "title": "Χίλια περιστέρια",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1991",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Χίλια περιστέρια» (1991), «Ο πιο καλός ο μαθητής…» (1992), «Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες» (1996) και 3 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Χίλια περιστέρια (1991, Philips 510166-1)",
+      "url": "https://musicbrainz.org/release/110bab91-5367-4636-846c-6606467576fb"
+    },
+    {
+      "label": "MusicBrainz — Ο πιο καλός ο μαθητής… (1992, EMI 14C 145 1704602/12)",
+      "url": "https://musicbrainz.org/release/178ee38e-c3ca-49b8-ab26-e50aff62adf1"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες (1996, PolyGram 298-2 / Δίφωνο 7)",
+      "url": "https://musicbrainz.org/release/90fc4cae-05b6-4b88-a594-6f9b1a720145"
+    },
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 136: Διάταξη ψυχής (2006, Δίφωνο 136)",
+      "url": "https://musicbrainz.org/release/efa130ac-d5c1-421f-98b5-daddc935ce23"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Χίλια περιστέρια” (1991), “Ο πιο καλός ο μαθητής…” (1992), “Συλλογή Δίφωνο, 7: Μια γυναίκα, δυο άντρες” (1996) and 3 more.",
+    "story": []
+  }
+}

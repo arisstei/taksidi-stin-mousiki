@@ -1,0 +1,32 @@
+{
+  "slug": "imitlerim",
+  "title": "Ιμιτλερίμ",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Παραδοσιακό",
+  "year": "1983",
+  "performer": "Γιώργος Νταλάρας · Νίκος Μαραγκόπουλος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ρεμπέτικο» (1983), «Συναυλία» (1988), «Αμάν αμήν» (1995).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ρεμπέτικο (1983)",
+      "url": "https://musicbrainz.org/release-group/f533bcc7-88cf-4ca7-b8ae-a1fcdc9c30b7"
+    },
+    {
+      "label": "MusicBrainz — Συναυλία (1988)",
+      "url": "https://musicbrainz.org/release-group/ecf671cb-793c-47d4-afe0-da0f399566b1"
+    },
+    {
+      "label": "MusicBrainz — Αμάν αμήν (1995)",
+      "url": "https://musicbrainz.org/release-group/a80acbfa-2a58-445e-bc4c-c143ab286f48"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ρεμπέτικο” (1983), “Συναυλία” (1988), “Αμάν αμήν” (1995).",
+    "story": []
+  }
+}

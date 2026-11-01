@@ -1,0 +1,118 @@
+{
+  "slug": "nyn-kai-aei",
+  "composer": "xarchakos",
+  "title": "Νυν και αεί",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "format": "LP",
+  "performers": [
+    "Βίκυ Μοσχολιού",
+    "Νίκος Δημητράτος"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών του Ξαρχάκου σε στίχους Νίκου Γκάτσου, σε ερμηνεία Βίκυς Μοσχολιού και Νίκου Δημητράτου (1974, Βικιπαίδεια). Περιλαμβάνει τα «Μεγάλη Παρασκευή», «Ο μαύρος ήλιος» και «Εμείς που μείναμε»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Νυν και αεί",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "nyn-kai-aei",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Στον κάτω δρόμο",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "ston-kato-dromo",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τα δόκανα",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "ta-dokana",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Μεγάλη Παρασκευή",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "megali-paraskeyi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ήρθε ο καιρός",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "irthe-o-kairos",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ο μαύρος ήλιος",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-mayros-ilios",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Η λιόστρα",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "i-liostra",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο δράκος",
+      "performer": "Νίκος Δημητράτος",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-drakos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ανώνυμον",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "anonymon",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Εμείς που μείναμε",
+      "performer": "Βίκυ Μοσχολιού",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "emeis-pou-meiname",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Νυν και αεί (1974)",
+      "url": "https://musicbrainz.org/release-group/ac439175-875e-4b9b-873b-ea52d81e7572"
+    },
+    {
+      "label": "Βικιπαίδεια — Σταύρος Ξαρχάκος",
+      "url": "https://el.wikipedia.org/wiki/Σταύρος_Ξαρχάκος"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle by Xarchakos to lyrics by Nikos Gatsos, performed by Viki Mosholiou and Nikos Dimitratos (1974, Wikipedia). It includes \"Megali Paraskevi\", \"O mavros ilios\" and \"Emeis pou meiname\"."
+    ]
+  }
+}

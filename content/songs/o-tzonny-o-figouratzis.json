@@ -1,0 +1,24 @@
+{
+  "slug": "o-tzonny-o-figouratzis",
+  "title": "Ο Τζώννυ ο φιγουρατζής",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1975",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Κουλτούρα… & Σία» (1975).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κουλτούρα… & Σία (1975, Μίνως Μάτσας & Υιός MSM 258)",
+      "url": "https://musicbrainz.org/release/6cd07f43-9ab2-453d-ba96-387f1b6eb86c"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Κουλτούρα… & Σία” (1975).",
+    "story": []
+  }
+}

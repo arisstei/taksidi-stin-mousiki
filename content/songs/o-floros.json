@@ -1,0 +1,24 @@
+{
+  "slug": "o-floros",
+  "title": "Ο φλώρος",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1987",
+  "performer": "Γρηγόρης Μπιθικώτσης, Γιώτα Λύδια, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο Γρηγόρης Μπιθικώτσης τραγουδά Βασίλη Τσιτσάνη» (1987).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ο Γρηγόρης Μπιθικώτσης τραγουδά Βασίλη Τσιτσάνη (1987)",
+      "url": "https://musicbrainz.org/release/990b288b-36d8-44a2-a0f4-2261b53ae8c7"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο Γρηγόρης Μπιθικώτσης τραγουδά Βασίλη Τσιτσάνη” (1987).",
+    "story": []
+  }
+}

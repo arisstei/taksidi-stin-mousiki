@@ -1,0 +1,28 @@
+{
+  "slug": "o-koumparos-o-psaras",
+  "title": "Ο Κουμπάρος Ο Ψαράς",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1981",
+  "performer": "Σοφία Καρίβαλη",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος Βαμβακάρης» (1981), «Bouzouki Pioneer, 1932-1940» (1998).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    },
+    {
+      "label": "Discogs — Bouzouki Pioneer, 1932-1940 (1998)",
+      "url": "https://www.discogs.com/release/7678236"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος Βαμβακάρης” (1981), “Bouzouki Pioneer, 1932-1940” (1998).",
+    "story": []
+  }
+}

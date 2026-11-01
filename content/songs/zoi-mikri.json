@@ -1,0 +1,24 @@
+{
+  "slug": "zoi-mikri",
+  "title": "Ζωή μικρή (Το σπίτι μου είναι μικρό)",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Μάνος Ελευθερίου",
+  "year": "1974",
+  "performer": "Μανώλης Μητσιάς",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα λαϊκά» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/b7791ec6-07e9-4c7a-9089-020070041f1b"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα λαϊκά” (1974).",
+    "story": []
+  }
+}

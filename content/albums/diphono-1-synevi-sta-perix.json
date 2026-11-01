@@ -1,0 +1,146 @@
+{
+  "slug": "diphono-1-synevi-sta-perix",
+  "composer": "vassilis-tsitsanis",
+  "title": "Συλλογή Δίφωνο, 1: Συνέβη στα… πέριξ",
+  "year": 1995,
+  "type": "anthology",
+  "kind": "Συλλογή Δίφωνο",
+  "label": "Δίφωνο",
+  "format": "CD",
+  "performers": [
+    "Βασίλης Τσιτσάνης",
+    "Μαρίκα Νίνου",
+    "Γιάννης Κυριαζής",
+    "Άννα Χρυσάφη",
+    "Νίκος Ξανθόπουλος",
+    "Μαρινέλλα",
+    "Χαρούλα Λαμπράκη",
+    "Γιώργος Ζαμπέτας",
+    "Μελίνα Μερκούρη",
+    "Χορωδία Καλαμάτας \"Ορφεύς\"",
+    "Αρλέτα"
+  ],
+  "grade": "B",
+  "about": [
+    "Το πρώτο τεύχος της σειράς συλλογών Δίφωνο, «Συνέβη στα… πέριξ», με 15 κομμάτια."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Σόλο μινόρε",
+      "performer": "Βασίλης Τσιτσάνης",
+      "song": "solo-minore",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Απόψε κάνεις μπαμ",
+      "performer": "Βασίλης Τσιτσάνης, Μαρίκα Νίνου",
+      "song": "apopse-kaneis-mpam",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Γεννήθηκα για να πονώ",
+      "performer": "Μαρίκα Νίνου",
+      "song": "gennithika-gia-na-pono",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ζαΐρα",
+      "performer": "Μαρίκα Νίνου",
+      "song": "zaira-2",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τα καβουράκια",
+      "performer": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "song": "ta-kavourakia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Μποέμισσα",
+      "performer": "Γιάννης Κυριαζής",
+      "song": "mpoemissa",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ο τσολιάς (Γεια σου τσολιά μου)",
+      "performer": "Άννα Χρυσάφη",
+      "song": "o-tsolias",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στα Τρίκαλα στα δυο στενά (Σακαφλιάς)",
+      "performer": "Νίκος Ξανθόπουλος",
+      "song": "sta-trikala-sta-dyo-stena",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μες την πολλή σκοτούρα μου",
+      "performer": "Μαρινέλλα",
+      "song": "mes-tin-polli-skotoura-mou",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Της ταβέρνας το ρολόι (Παράξενα απόψε με κοιτάζεις)",
+      "performer": "Χαρούλα Λαμπράκη",
+      "song": "tis-tavernas-to-roloi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Όταν συμβεί στα πέριξ",
+      "performer": "Γιώργος Ζαμπέτας",
+      "song": "otan-symvi-sta-perix",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "La fumée des cigarettes (Όταν συμβεί στα πέριξ)",
+      "performer": "Μελίνα Μερκούρη",
+      "song": "la-fumee-des-cigarettes",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Συννεφιασμένη Κυριακή",
+      "performer": "Μελίνα Μερκούρη",
+      "song": "synnefiasmeni-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Η αχάριστη",
+      "performer": "Χορωδία Καλαμάτας \"Ορφεύς\"",
+      "song": "i-axaristi",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Νύχτες μαγικές",
+      "performer": "Αρλέτα",
+      "song": "nyxtes-magikes",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Συλλογή Δίφωνο, 1: Συνέβη στα… πέριξ (1995)",
+      "url": "https://musicbrainz.org/release/ae0f3e7b-4867-415f-8025-2a6fffbb89ee"
+    }
+  ],
+  "en": {
+    "kind": "Diphono compilation",
+    "about": [
+      "The first issue of the Diphono compilation series, \"Syneve sta… perix\", with 15 tracks."
+    ]
+  }
+}

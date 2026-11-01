@@ -1,0 +1,117 @@
+{
+  "slug": "thalassina-feggaria",
+  "composer": "theodorakis",
+  "title": "Θαλασσινά φεγγάρια",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Βίκυ Μοσχολιού",
+    "Μαρία Φαραντούρη"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών με στίχους του Νίκου Γκάτσου, που σχεδιαζόταν για το 1967 με τον τίτλο «Έξι φεγγάρια της θάλασσας»· τα πρώτα τραγούδια βγήκαν σε 45άρια λίγο πριν τη δικτατορία και αποσύρθηκαν σχεδόν αμέσως. Ο δίσκος κυκλοφόρησε τελικά το 1974.",
+    "Στην έκδοση του 1974 χρησιμοποιήθηκαν οι ηχογραφήσεις του Μπιθικώτση, ενώ της Βίκυς Μοσχολιού ξαναγυρίστηκαν. Τα τελευταία πέντε τραγούδια (7–11) είναι παλιότερα, των ετών 1962–66. Ο Θεοδωράκης έκανε την ενορχήστρωση και διηύθυνε· εξώφυλλο του Μίνωα Αργυράκη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Θα ρίξω πέτρα στη ζωή",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "tha-rixo-petra-sti-zoi",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Κοιμήσου παλικάρι",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "koimisou-palikari",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Φέρτε μου τη θάλασσα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "ferte-mou-ti-thalassa",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Νύχτα δίχως άκρη",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "nyxta-dixos-akri",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το πανηγύρι των άστρων",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "to-panigyri-ton-astron",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Σήμερα βράδιασε νωρίς",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "simera-vradiase-noris",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τ' όνειρο καπνός",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "t-oneiro-kapnos",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Στου κόσμου την ανηφοριά",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "stou-kosmou-tin-aniforia",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Το εκκρεμές",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "to-ekkremes",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Στράτα τη στράτα",
+      "performer": "Γρηγόρης Μπιθικώτσης",
+      "song": "strata-ti-strata",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Το ματωμένο φεγγάρι",
+      "performer": "Μαρία Φαραντούρη",
+      "song": "matomeno-feggari",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ogdoo.gr — Τα «Θαλασσινά φεγγάρια» του Μίκη και του Γκάτσου",
+      "url": "https://www.ogdoo.gr/diskografia/diskoi-pou-den-ksexasa/ta-thalassina-feggaria-tou-miki-kai-tou-gatsou/"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 53)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle to lyrics by Nikos Gatsos, planned for 1967 under the title “Exi feggaria tis thalassas”; the first songs came out on 45s shortly before the dictatorship and were withdrawn almost at once. The album was finally released in 1974.",
+      "The 1974 edition used Bithikotsis's recordings while Vicky Moscholiou's were re-recorded. The last five songs (7–11) are older, from 1962–66. Theodorakis did the orchestration and conducted; the cover is by Minos Argyrakis."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "s-ayto-ton-kosmo",
+  "title": "Σ' αυτό τον κόσμο",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Μάρκος Βαμβακάρης",
+  "year": "1968",
+  "performer": "Βίκυ Μοσχολιού",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μάρκος ο δάσκαλός μας» (1968).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μάρκος ο δάσκαλός μας” (1968).",
+    "story": []
+  }
+}

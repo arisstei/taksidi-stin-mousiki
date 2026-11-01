@@ -1,0 +1,121 @@
+{
+  "slug": "thalassa-pikrothalassa",
+  "composer": "plessas",
+  "title": "Θάλασσα, πικροθάλασσα…",
+  "year": 1973,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Lyra",
+  "catalog": "SYLP 3581",
+  "format": "LP",
+  "performers": [
+    "Γιάννης Πουλόπουλος",
+    "Ρένα Κουμιώτη",
+    "Καίτη Αμπάβη"
+  ],
+  "lyricists": [
+    "Κώστας Βίρβος"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών με θαλασσινά θέματα σε στίχους Κώστα Βίρβου, με τον Γιάννη Πουλόπουλο, τη Ρένα Κουμιώτη και την Καίτη Αμπάβη. Το εξώφυλλο φιλοτέχνησε ο Μποστ."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Η γυναίκα που μου κέντησαν στο χέρι",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "i-gynaika-pou-mou-kentisan-sto-xeri",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Η Ριρή του λιμανιού",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "i-riri-tou-limaniou",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο Γεράσιμος",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "o-gerasimos",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Πρόσω ολοταχώς",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "proso-olotaxos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Του ναυτικού η μοίρα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "tou-naytikou-i-moira",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Θάλασσα πικροθάλασσα",
+      "performer": "Καίτη Αμπάβη",
+      "song": "thalassa-pikrothalassa",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Άγια Κυριακή",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "agia-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ο Φουρτούνας κι ο Μπουνάτσας",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "o-fourtounas-ki-o-mpounatsas",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τιμονιέρη μαουνιέρη",
+      "performer": "Καίτη Αμπάβη",
+      "song": "timonieri-maounieri",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Βάρκα μας αγιά σωτήρα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "varka-mas-agia-sotira",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Το παλληκάρι",
+      "performer": "Ρένα Κουμιώτη",
+      "song": "to-pallikari",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Το παληό λιμάνι",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "to-palio-limani",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Θάλασσα, πικροθάλασσα…, Lyra SYLP 3581 (1973)",
+      "url": "https://www.discogs.com/release/6327716"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A cycle of songs on nautical themes to lyrics by Kostas Virvos, sung by Giannis Poulopoulos, Rena Koumioti and Kaiti Ampavi. The cover is by Bost."
+    ]
+  }
+}

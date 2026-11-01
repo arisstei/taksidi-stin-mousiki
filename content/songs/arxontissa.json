@@ -1,0 +1,36 @@
+{
+  "slug": "arxontissa",
+  "title": "Αρχόντισσα",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1965",
+  "performer": "Αντώνης Ρεπάνης, Βασίλης Τσιτσάνης · Βασίλης Τσιτσάνης · Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Συννεφιασμένη Κυριακή» (1965), «Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης» (1983), «40 χρόνια: 1938-1978» (2008) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Βασίλης Τσιτσάνης: Συννεφιασμένη Κυριακή (1965)",
+      "url": "https://diskovolos58.blogspot.com/2019/03/1965.html"
+    },
+    {
+      "label": "MusicBrainz — Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης (1983)",
+      "url": "https://musicbrainz.org/release/a23ca4e9-2168-42a8-a6a0-2e009a5927f4"
+    },
+    {
+      "label": "MusicBrainz — 40 χρόνια: 1938-1978 (2008)",
+      "url": "https://musicbrainz.org/release/4fe0e379-e54a-4b76-ae4c-37af89c8ca9c"
+    },
+    {
+      "label": "MusicBrainz — Η Ελλάδα Του Βασίλη Τσιτσάνη (2014)",
+      "url": "https://musicbrainz.org/release/10cbdfd3-218f-42bb-9ac3-12c9e02d14a8"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Συννεφιασμένη Κυριακή” (1965), “Η Συναυλία Του Τσιτσάνη Στο Ηράκλειο Κρήτης” (1983), “40 χρόνια: 1938-1978” (2008) and 1 more.",
+    "story": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "palikari-sta-sfakia",
+  "title": "Παλικάρι στα Σφακιά",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Νίκος Γκάτσος",
+  "year": "1978",
+  "performer": "Νίκος Ξυλούρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Στο Λυκαβηττό» (1978), «Ακούσατε ακούσατε» (1992), «Αφιέρωμα στον Νίκο Γκάτσο» (2003).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Στο Λυκαβηττό (1978)",
+      "url": "https://musicbrainz.org/release-group/0bd4e6a5-30cd-474c-be60-bf9fe8213a7d"
+    },
+    {
+      "label": "MusicBrainz — Ακούσατε ακούσατε (1992)",
+      "url": "https://musicbrainz.org/release-group/eabb6982-aeb7-40ca-b2f1-caae63813560"
+    },
+    {
+      "label": "MusicBrainz — Αφιέρωμα στον Νίκο Γκάτσο (2003)",
+      "url": "https://musicbrainz.org/release-group/cfaa06e1-ef61-4f3e-8ff1-da05d755220b"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Στο Λυκαβηττό” (1978), “Ακούσατε ακούσατε” (1992), “Αφιέρωμα στον Νίκο Γκάτσο” (2003).",
+    "story": []
+  }
+}

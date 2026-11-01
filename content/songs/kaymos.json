@@ -1,0 +1,28 @@
+{
+  "slug": "kaymos",
+  "title": "Καϋμός",
+  "composer": "Μίκης Θεοδωράκης",
+  "lyricist": "Δημήτρης Χριστοδούλου",
+  "year": "1961",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Πολιτεία» (1961), «Όμορφη πόλη» (1962).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Μίκης Θεοδωράκης: Πολιτεία (1961-64/1976)",
+      "url": "https://diskovolos58.blogspot.com/2020/10/1961-641976.html"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/2a643d8d-a16d-420c-b253-757b75417d9f"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Πολιτεία” (1961), “Όμορφη πόλη” (1962).",
+    "story": []
+  }
+}

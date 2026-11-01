@@ -1,0 +1,32 @@
+{
+  "slug": "savvatovrado-stin-kaisariani",
+  "title": "Σαββατόβραδο στην Καισαριανή",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1966",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Ελλήσποντος» (1966), «Στο Λυκαβηττό» (1978), «Ακούσατε ακούσατε» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ελλήσποντος (1966)",
+      "url": "https://musicbrainz.org/release-group/11e7a57a-dc02-4fd8-a1b7-9f4c182c39c9"
+    },
+    {
+      "label": "MusicBrainz — Στο Λυκαβηττό (1978)",
+      "url": "https://musicbrainz.org/release-group/0bd4e6a5-30cd-474c-be60-bf9fe8213a7d"
+    },
+    {
+      "label": "MusicBrainz — Ακούσατε ακούσατε (1992)",
+      "url": "https://musicbrainz.org/release-group/eabb6982-aeb7-40ca-b2f1-caae63813560"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Ελλήσποντος” (1966), “Στο Λυκαβηττό” (1978), “Ακούσατε ακούσατε” (1992).",
+    "story": []
+  }
+}

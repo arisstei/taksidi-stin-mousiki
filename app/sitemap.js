@@ -1,6 +1,8 @@
 import { getAllSongs } from "@/lib/songs";
 import { SITE_URL } from "@/lib/site";
 import { getAllAlbums, getAllComposers } from "@/lib/albums";
+import { getAllLyricists } from "@/lib/lyricists";
+import { getAllPerformers } from "@/lib/performers";
 
 export default function sitemap() {
   const songs = getAllSongs();
@@ -24,6 +26,14 @@ export default function sitemap() {
     ...getAllComposers().flatMap((c) => [
       { url: `${SITE_URL}/composer/${c.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
       { url: `${SITE_URL}/en/composer/${c.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
+    ]),
+    ...getAllLyricists().flatMap((l) => [
+      { url: `${SITE_URL}/lyricist/${l.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
+      { url: `${SITE_URL}/en/lyricist/${l.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.6 },
+    ]),
+    ...getAllPerformers().flatMap((p) => [
+      { url: `${SITE_URL}/performer/${p.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.4 },
+      { url: `${SITE_URL}/en/performer/${p.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.3 },
     ]),
     ...getAllAlbums().flatMap((a) => [
       { url: `${SITE_URL}/album/${a.slug}`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.6 },

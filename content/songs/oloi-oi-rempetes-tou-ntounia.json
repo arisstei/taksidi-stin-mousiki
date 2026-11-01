@@ -1,0 +1,36 @@
+{
+  "slug": "oloi-oi-rempetes-tou-ntounia",
+  "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1972",
+  "performer": "Γρηγόρης Μπιθικώτσης · Μάρκος Βαμβακάρης · Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αφιέρωμα Στο Μάρκο» (1972), «Τα Πέριξ» (1974), «40 Χρόνια Βαμβακάρης» (1980) και 11 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο (1972)",
+      "url": "https://www.discogs.com/release/5421260"
+    },
+    {
+      "label": "Discogs — Τα Πέριξ",
+      "url": "https://www.discogs.com/master/525759"
+    },
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αφιέρωμα Στο Μάρκο” (1972), “Τα Πέριξ” (1974), “40 Χρόνια Βαμβακάρης” (1980) and 11 more.",
+    "story": []
+  }
+}

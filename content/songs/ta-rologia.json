@@ -1,0 +1,24 @@
+{
+  "slug": "ta-rologia",
+  "title": "Τα ρολόγια",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1969",
+  "performer": "Γρηγόρης Μπιθικώτσης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Κόσμε αγάπη μου» (1969), «Κόσμε αγάπη μου» (1969).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Κόσμε αγάπη μου (1969)",
+      "url": "https://musicbrainz.org/release-group/a384ec6b-f47f-47ca-ab88-05f576403867"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Κόσμε αγάπη μου” (1969), “Κόσμε αγάπη μου” (1969).",
+    "story": []
+  }
+}

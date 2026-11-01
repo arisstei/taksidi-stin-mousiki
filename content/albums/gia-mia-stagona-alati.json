@@ -1,0 +1,120 @@
+{
+  "slug": "gia-mia-stagona-alati",
+  "composer": "plessas",
+  "title": "Για μια σταγόνα αλάτι",
+  "year": 1973,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Polydor",
+  "catalog": "2421 028",
+  "format": "LP",
+  "performers": [
+    "Αντώνης Καλογιάννης",
+    "Πετρή Σαλπέα"
+  ],
+  "lyricists": [
+    "Δημήτρης Χριστοδούλου"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών σε στίχους Δημήτρη Χριστοδούλου, με ερμηνευτές τον Αντώνη Καλογιάννη και την Πετρή Σαλπέα· παραγωγή Φίλιππου Παπαθεοδώρου."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Είμαι μικρός και σ' αγαπώ",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "eimai-mikros-kai-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τι γράμμα να σου στείλω",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "ti-gramma-na-sou-steilo",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ήπια όλο το ποτήρι",
+      "performer": "Αντώνης Καλογιάννης & Πετρή Σαλπέα",
+      "song": "ipia-olo-to-potiri",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Κράτα το φιλί",
+      "performer": "Πετρή Σαλπέα & Αντώνης Καλογιάννης",
+      "song": "krata-to-fili",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Το εξωκκλήσι στ' ανοιχτά",
+      "performer": "Πετρή Σαλπέα",
+      "song": "to-exokklisi-st-anoixta",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το ποτάμι",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "to-potami",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Αχ, ας εύρισκα τα λόγια",
+      "performer": "Αντώνης Καλογιάννης & Πετρή Σαλπέα",
+      "song": "ax-as-eyriska-ta-logia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Μην περπατάς χωρίς θεό",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "min-perpatas-xoris-theo",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Ποτέ δεν βγήκα στη βροχή",
+      "performer": "Πετρή Σαλπέα",
+      "song": "pote-den-vgika-sti-vroxi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Δε μου τα 'δωσες τα χείλη",
+      "performer": "Αντώνης Καλογιάννης & Πετρή Σαλπέα",
+      "song": "de-mou-ta-doses-ta-xeili",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Πέρα σε 'κείνα τα νερά",
+      "performer": "Πετρή Σαλπέα & Αντώνης Καλογιάννης",
+      "song": "pera-se-keina-ta-nera",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Παλιά, πολύ παλιά αγάπη μου η αγάπη",
+      "performer": "Αντώνης Καλογιάννης",
+      "song": "palia-poly-palia-agapi-mou-i-agapi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Για μια σταγόνα αλάτι, Polydor 2421 028 (1973)",
+      "url": "https://www.discogs.com/release/3394337"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle to lyrics by Dimitris Christodoulou, sung by Antonis Kalogiannis and Petri Salpea; produced by Filippos Papatheodorou."
+    ]
+  }
+}

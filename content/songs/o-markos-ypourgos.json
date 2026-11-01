@@ -1,0 +1,36 @@
+{
+  "slug": "o-markos-ypourgos",
+  "title": "Ο Μάρκος Υπουργός",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1982",
+  "performer": "Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982)» (1982), «Αυθεντικές Εκτελέσεις» (1987), «Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)» (2010) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982) (1982)",
+      "url": "https://www.discogs.com/release/8319087"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Master Of Rembetika (2010)",
+      "url": "https://www.discogs.com/release/4768730"
+    },
+    {
+      "label": "Discogs — Μουσική Αυτοβιογραφία 1932-1968 (2016)",
+      "url": "https://www.discogs.com/release/14223431"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Αφιέρωμα Στο Μάρκο Βαμβακάρη - Δέκα Χρόνια Από Το Θάνατό Του (1972-1982)” (1982), “Αυθεντικές Εκτελέσεις” (1987), “Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)” (2010) and 1 more.",
+    "story": []
+  }
+}

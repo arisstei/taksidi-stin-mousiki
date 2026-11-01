@@ -1,0 +1,245 @@
+{
+  "slug": "giorgos-zampetas-2010-universal",
+  "composer": "zambetas",
+  "title": "Γιώργος Ζαμπέτας (Universal, 2 CD)",
+  "year": 2010,
+  "type": "anthology",
+  "kind": "Συλλογή 2 CD",
+  "label": "Universal Music",
+  "format": "2×CD",
+  "performers": [
+    "Γιώργος Ζαμπέτας",
+    "Μαρινέλλα",
+    "Βίκυ Μοσχολιού",
+    "Δημήτρης Μητροπάνος",
+    "Τόλης Βοσκόπουλος",
+    "Μανταλένα",
+    "Στράτος Παγιουμτζής"
+  ],
+  "grade": "B",
+  "about": [
+    "Διπλή συλλογή του 2010 (Universal Music) με 32 τραγούδια: το πρώτο CD περιέχει ερμηνείες του ίδιου του Ζαμπέτα, το δεύτερο τραγούδια σε ερμηνεία άλλων.",
+    "Το δεύτερο CD περιλαμβάνει, μεταξύ άλλων, «Σταλιά σταλιά», «Θεσσαλονίκη», «Βαρυχειμωνιές» και «Το γράμμα κι η φωτογραφία»."
+  ],
+  "tracks": [
+    {
+      "pos": "CD1-1",
+      "title": "Χίλια περιστέρια",
+      "song": "xilia-peristeria",
+      "stub": true
+    },
+    {
+      "pos": "CD1-2",
+      "title": "Ο πενηντάρης",
+      "song": "o-penintaris",
+      "stub": true
+    },
+    {
+      "pos": "CD1-3",
+      "title": "Μάλιστα κύριε",
+      "song": "malista-kyrie",
+      "stub": true
+    },
+    {
+      "pos": "CD1-4",
+      "title": "Που 'σαι Θανάση",
+      "song": "pou-sai-thanasi",
+      "stub": true
+    },
+    {
+      "pos": "CD1-5",
+      "title": "Ο Τζακ Ο' Χάρα",
+      "song": "o-tzak-o-xara",
+      "stub": true
+    },
+    {
+      "pos": "CD1-6",
+      "title": "Έρημος, μόνος και βαρύς",
+      "song": "erimos-monos-kai-varys",
+      "stub": true
+    },
+    {
+      "pos": "CD1-7",
+      "title": "Στον Λευκό Πύργο"
+    },
+    {
+      "pos": "CD1-8",
+      "title": "Το σαραβαλάκι",
+      "song": "to-saravalaki",
+      "stub": true
+    },
+    {
+      "pos": "CD1-9",
+      "title": "Οι θαλασσινοί",
+      "song": "i-thalassini",
+      "stub": true
+    },
+    {
+      "pos": "CD1-10",
+      "title": "Αποσπάσματα από έρωτες",
+      "song": "apospasmata-apo-erotes",
+      "stub": true
+    },
+    {
+      "pos": "CD1-11",
+      "title": "Να ξανακούσω τη λατέρνα",
+      "song": "na-xanakouso-ti-laterna",
+      "stub": true
+    },
+    {
+      "pos": "CD1-12",
+      "title": "Ο Λουκάς",
+      "song": "o-loukas",
+      "stub": true
+    },
+    {
+      "pos": "CD1-13",
+      "title": "Ο απόγονος",
+      "song": "o-apogonos",
+      "stub": true
+    },
+    {
+      "pos": "CD1-14",
+      "title": "Πολυξένη",
+      "song": "polyxeni",
+      "stub": true
+    },
+    {
+      "pos": "CD1-15",
+      "title": "Σ' αυτές τις στράτες",
+      "song": "s-aytes-tis-strates",
+      "stub": true
+    },
+    {
+      "pos": "CD1-16",
+      "title": "Η παλιοπαρέα",
+      "song": "i-palioparea",
+      "stub": true
+    },
+    {
+      "pos": "CD2-1",
+      "title": "Σταλιά σταλιά",
+      "performer": "Μαρινέλλα",
+      "song": "stalia-stalia",
+      "stub": true
+    },
+    {
+      "pos": "CD2-2",
+      "title": "Θεσσαλονίκη",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "thessaloniki",
+      "stub": true
+    },
+    {
+      "pos": "CD2-3",
+      "title": "Πού πας χωρίς αγάπη",
+      "performer": "Δούκισσα",
+      "song": "pou-pas-xoris-agapi",
+      "stub": true
+    },
+    {
+      "pos": "CD2-4",
+      "title": "Αγωνία",
+      "performer": "Τόλης Βοσκόπουλος",
+      "song": "agonia",
+      "stub": true
+    },
+    {
+      "pos": "CD2-5",
+      "title": "Πού ήσουνα και χάθηκες",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "pou-isouna-kai-xathikes",
+      "stub": true
+    },
+    {
+      "pos": "CD2-6",
+      "title": "Τι σου 'κανα και μ' εγκατέλειψες",
+      "performer": "Πάνος Τζανετής",
+      "song": "ti-sou-kana-kai-m-egkateleipses",
+      "stub": true
+    },
+    {
+      "pos": "CD2-7",
+      "title": "Το καράβι",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "to-karavi",
+      "stub": true
+    },
+    {
+      "pos": "CD2-8",
+      "title": "Βαρυχειμωνιές",
+      "performer": "Μανταλένα",
+      "song": "varyxeimonies",
+      "stub": true
+    },
+    {
+      "pos": "CD2-9",
+      "title": "Ο ξενύχτης",
+      "performer": "Δημήτρης Μητροπάνος",
+      "song": "o-xenyxtis",
+      "stub": true
+    },
+    {
+      "pos": "CD2-10",
+      "title": "Τι να φταίει",
+      "performer": "Μαρινέλλα",
+      "song": "ti-na-ftaiei",
+      "stub": true
+    },
+    {
+      "pos": "CD2-11",
+      "title": "Αλήτη",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "aliti",
+      "stub": true
+    },
+    {
+      "pos": "CD2-12",
+      "title": "Ξημερώματα στη στράτα",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "ximeromata-sti-strata",
+      "stub": true
+    },
+    {
+      "pos": "CD2-13",
+      "title": "Η ψιχάλα",
+      "performer": "Άννα Χρυσάφη",
+      "song": "i-psixala",
+      "stub": true
+    },
+    {
+      "pos": "CD2-14",
+      "title": "Το γράμμα κι η φωτογραφία",
+      "performer": "Βίκυ Μοσχολιού",
+      "song": "to-gramma-kai-i-fotografia",
+      "stub": true
+    },
+    {
+      "pos": "CD2-15",
+      "title": "Νύχτα ονειρομάνα",
+      "performer": "Γιάννης Ντουνιάς",
+      "song": "nyxta-oneiromana",
+      "stub": true
+    },
+    {
+      "pos": "CD2-16",
+      "title": "Καλωσόρισες βρε Γιώργη",
+      "performer": "Μπέμπα Μπλανς",
+      "song": "kalosorises-vre-giorgi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Γιώργος Ζαμπέτας (Universal, 2 CD) (2010, Universal Music)",
+      "url": "https://musicbrainz.org/release/f82a6023-7d4a-4a4c-ba11-5d4028d8630e"
+    }
+  ],
+  "en": {
+    "kind": "2-CD compilation",
+    "about": [
+      "2010 double compilation (Universal Music) with 32 songs: the first CD collects Zampetas’s own performances, the second songs sung by others.",
+      "The second disc includes “Stalia stalia”, “Thessaloniki”, “Barycheimonies” and “To gramma ki i fotografia”."
+    ]
+  }
+}

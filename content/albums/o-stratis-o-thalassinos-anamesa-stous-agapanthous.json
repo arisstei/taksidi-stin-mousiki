@@ -1,0 +1,81 @@
+{
+  "slug": "o-stratis-o-thalassinos-anamesa-stous-agapanthous",
+  "composer": "markopoulos",
+  "title": "Ο Στράτης ο θαλασσινός ανάμεσα στους αγάπανθους",
+  "year": 1973,
+  "type": "cycle",
+  "kind": "Μελοποιημένη ποίηση",
+  "performers": [],
+  "lyricists": [
+    "Γιώργος Σεφέρης"
+  ],
+  "grade": "C",
+  "about": [
+    "Μελοποίηση ποίησης του Γιώργου Σεφέρη για φωνές, χορωδία και ορχήστρα."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Ο Στράτης Θαλασσινός Ανάμεσα Στους Αγάπανθους (Άσκηση Τροπαρίου)",
+      "song": "o-stratis-thalassinos-anamesa-stous-agapanthous",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Δημοτικό Τραγούδι",
+      "song": "dimotiko-tragoudi",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Ο Γυρισμός Του Ξενιτεμένου",
+      "song": "o-gyrismos-tou-xenitemenou",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Ανάμεσα Σε Δυο Πικρές Στιγμές",
+      "song": "anamesa-se-dyo-pikres-stigmes",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ο Τόπος Μας Είναι Κλειστός",
+      "song": "o-topos-mas-einai-kleistos",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Λίγο Ακόμα",
+      "song": "ligo-akoma",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Γιάννης Μαρκόπουλος (δισκογραφία)",
+      "url": "https://el.wikipedia.org/wiki/Γιάννης_Μαρκόπουλος"
+    },
+    {
+      "label": "Wikipedia — Yannis Markopoulos",
+      "url": "https://en.wikipedia.org/wiki/Yannis_Markopoulos"
+    },
+    {
+      "label": "protothema.gr — Γιάννης Μαρκόπουλος: Ο συνθέτης που δημιούργησε το δικό του κίνημα (2023)",
+      "url": "https://www.protothema.gr/culture/article/1367896/giannis-markopoulos-o-sunthetis-pou-dimiourgise-to-diko-tou-kinima-stin-elliniki-mousiki"
+    },
+    {
+      "label": "MusicBrainz — Ο Στράτης Ο Θαλασσινός Ανάμεσα Στους Αγάπανθους...Και Άλλα Τραγούδια (κυκλοφορία 1973)",
+      "url": "https://musicbrainz.org/release/52efeb00-ee88-4d19-9273-2cc413cc68ec"
+    }
+  ],
+  "en": {
+    "kind": "Set poetry",
+    "about": [
+      "A setting of poetry by Giorgos Seferis for voices, choir and orchestra."
+    ]
+  },
+  "label": "Odeon",
+  "catalog": "SPSCXG 96",
+  "format": "12\" Vinyl"
+}

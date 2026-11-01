@@ -1,0 +1,127 @@
+{
+  "slug": "tsitsanis-1937-1952",
+  "composer": "vassilis-tsitsanis",
+  "title": "Βασίλης Τσιτσάνης 1937-1952",
+  "year": 1976,
+  "type": "anthology",
+  "kind": "Συλλογή ιστορικών ηχογραφήσεων",
+  "label": "Margophone",
+  "catalog": "MARGO 8150",
+  "format": "LP",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Σοφία Καρίβαλη",
+    "Δημήτρης. Περδικόπουλος",
+    "Απόστολος Χατζηχρήστος",
+    "Βασίλης Τσιτσάνης",
+    "Δημήτρης Περδικόπουλος",
+    "Στέλλα Χασκήλ",
+    "Ελένη Λαμπίρη",
+    "Φώτης Πολυμέρης",
+    "Τότης Στεφανίδης",
+    "Σούλα Καλφοπούλου",
+    "Σωτηρία Μπέλλου"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Margophone με 12 κομμάτια, με ηχογραφήσεις από την περίοδο 1937–1952."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Να Γιατί Γυρνώ",
+      "performer": "Μάρκος Βαμβακάρης, Σοφία Καρίβαλη",
+      "song": "na-giati-gyrno",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Με Σπανιόλικες Χαβάγιες",
+      "performer": "Δημήτρης. Περδικόπουλος",
+      "song": "me-spaniolikes-xavagies",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Φάνταζες Σαν Πριγκιπέσσα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος, Βασίλης Τσιτσάνης",
+      "song": "fantazes-san-prigkipessa",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Είμαι Παιδάκι Με Ψυχή",
+      "performer": "Δημήτρης Περδικόπουλος, Βασίλης Τσιτσάνης",
+      "song": "eimai-paidaki-me-psyxi",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Εσύ Είσαι Αριστοκράτισσα",
+      "performer": "Απόστολος Χατζηχρήστος",
+      "song": "esy-eisai-aristokratissa",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ξελογιάστρα",
+      "performer": "Δημήτρης Περδικόπουλος, Βασίλης Τσιτσάνης",
+      "song": "xelogiastra",
+      "stub": true
+    },
+    {
+      "pos": "Β1",
+      "title": "Ντερμπεντέρισσα",
+      "performer": "Μάρκος Βαμβακάρης, Στέλλα Χασκήλ, Βασίλης Τσιτσάνης",
+      "song": "ntermpenterissa",
+      "stub": true
+    },
+    {
+      "pos": "Β2",
+      "title": "Βόλτα Στην Ελλάδα",
+      "performer": "Ελένη Λαμπίρη, Βασίλης Τσιτσάνης",
+      "song": "volta-stin-ellada",
+      "stub": true
+    },
+    {
+      "pos": "Β3",
+      "title": "Το Σκαλοπάτι Σου",
+      "performer": "Φώτης Πολυμέρης, Ελένη Λαμπίρη, Τότης Στεφανίδης",
+      "song": "to-skalopati-sou",
+      "stub": true
+    },
+    {
+      "pos": "Β4",
+      "title": "Σατράπισσα",
+      "performer": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνης",
+      "song": "satrapissa",
+      "stub": true
+    },
+    {
+      "pos": "Β5",
+      "title": "Μάγκας Του Γλυκού Νερού",
+      "performer": "Ελένη Λαμπίρη, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνης",
+      "song": "magkas-tou-glykou-nerou",
+      "stub": true
+    },
+    {
+      "pos": "Β6",
+      "title": "Περιπλανώμενη Ζωή",
+      "performer": "Σωτηρία Μπέλλου",
+      "song": "periplanomeni-zoi",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Βασίλης Τσιτσάνης 1937-1952 (1976)",
+      "url": "https://musicbrainz.org/release/c4b04006-6d9a-4f1e-87b5-b6da0ea87215"
+    }
+  ],
+  "en": {
+    "kind": "Compilation of historical recordings",
+    "about": [
+      "A Margophone LP of 12 tracks with recordings from the period 1937–1952."
+    ]
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "slug": "ola-thymizoun-ton-mano-loizo",
+  "composer": "loizos",
+  "title": "Όλα θυμίζουν τον Μάνο Λοΐζο",
+  "year": 2009,
+  "type": "anthology",
+  "kind": "Συλλογή (8 CD)",
+  "label": "Το Βήμα",
+  "format": "CD",
+  "grade": "B",
+  "about": [
+    "Οκτάδισκη συλλογή που κυκλοφόρησε με την εφημερίδα «Το Βήμα» το 2009 και παρουσιάζει τη δισκογραφία του Λοΐζου σε μια σειρά από CD: τα τραγούδια σε πρώτες εκτελέσεις και ερμηνείες άλλων καλλιτεχνών."
+  ],
+  "tracks": [
+    {
+      "pos": "1-1",
+      "title": "Έχω έναν καφενέ",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "exo-enan-kafene",
+      "stub": true
+    },
+    {
+      "pos": "1-2",
+      "title": "Μάνα δε φυτέψαμε",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "mana-de-fytepsame",
+      "stub": true
+    },
+    {
+      "pos": "1-3",
+      "title": "Σεβάχ ο θαλασσινός",
+      "performer": "Μάνος Λοΐζος",
+      "song": "sevax-o-thalassinos",
+      "stub": true
+    },
+    {
+      "pos": "1-4",
+      "title": "Το μήνυμα",
+      "performer": "Μάνος Λοΐζος & Μαρίζα Κωχ",
+      "song": "to-minyma",
+      "stub": true
+    },
+    {
+      "pos": "1-5",
+      "title": "Ένα γέρικο καράβι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Πάριος",
+      "song": "ena-geriko-karavi",
+      "stub": true
+    },
+    {
+      "pos": "1-6",
+      "title": "Ήλιε μου σε παρακαλώ",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ilie-mou-se-parakalo",
+      "stub": true
+    },
+    {
+      "pos": "1-7",
+      "title": "Ο Λιόντας",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "o-liontas",
+      "stub": true
+    },
+    {
+      "pos": "1-8",
+      "title": "Παποράκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "paporaki",
+      "stub": true
+    },
+    {
+      "pos": "1-9",
+      "title": "Ο Κουταλιανός",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "o-koutalianos",
+      "stub": true
+    },
+    {
+      "pos": "1-10",
+      "title": "Το παλιό ρολόι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-palio-roloi",
+      "stub": true
+    },
+    {
+      "pos": "1-11",
+      "title": "Όποιος δει το παλικάρι",
+      "performer": "Μάνος Λοΐζος & Λίτσα Διαμάντη",
+      "song": "opoios-dei-to-palikari",
+      "stub": true
+    },
+    {
+      "pos": "1-12",
+      "title": "Δελφινάκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "delfinaki",
+      "stub": true
+    },
+    {
+      "pos": "1-13",
+      "title": "Πίσω απ’ την πόρτα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "piso-ap-tin-porta",
+      "stub": true
+    },
+    {
+      "pos": "2-1",
+      "title": "Το ζεϊμπέκικο της Ευδοκίας",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-zeimpekiko-tis-eydokias",
+      "stub": true
+    },
+    {
+      "pos": "2-2",
+      "title": "Μάνα δε φυτέψαμε",
+      "performer": "Μάνος Λοΐζος & Γιάννης Πάριος",
+      "song": "mana-de-fytepsame",
+      "stub": true
+    },
+    {
+      "pos": "2-3",
+      "title": "Αχ χελιδόνι μου",
+      "performer": "Μάνος Λοΐζος & Λίτσα Σακελλαρίου",
+      "song": "ax-xelidoni-mou",
+      "stub": true
+    },
+    {
+      "pos": "2-4",
+      "title": "Νανούρισμα (Θα κεντήσω)",
+      "performer": "Μάνος Λοΐζος & Αλίκη Βουγιουκλάκη",
+      "song": "nanourisma"
+    },
+    {
+      "pos": "2-5",
+      "title": "Τζαμάικα",
+      "performer": "Μάνος Λοΐζος & Δημήτρης Παπαμιχαήλ",
+      "song": "tzamaika",
+      "stub": true
+    },
+    {
+      "pos": "2-6",
+      "title": "Του βαρκάρη γιός",
+      "performer": "Μάνος Λοΐζος & Δημήτρης Παπαμιχαήλ",
+      "song": "tou-varkari-gios",
+      "stub": true
+    },
+    {
+      "pos": "2-7",
+      "title": "Κουτσή κιθάρα",
+      "performer": "Μάνος Λοΐζος, Δώρα Σιτζάνη & Νίκος Δαδινόπουλος",
+      "song": "koutsi-kithara",
+      "stub": true
+    },
+    {
+      "pos": "2-8",
+      "title": "Είν’ η αγάπη μας μεγάλη",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "ein-i-agapi-mas-megali",
+      "stub": true
+    },
+    {
+      "pos": "2-9",
+      "title": "Αυτό τ' αγόρι",
+      "performer": "Μάνος Λοΐζος & Αλέκα Μαβίλη",
+      "song": "ayto-t-agori",
+      "stub": true
+    },
+    {
+      "pos": "2-10",
+      "title": "Το λεβεντόπαιδο (Λεβεντόπαιδο Αρίστο)",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "to-leventopaido",
+      "stub": true
+    },
+    {
+      "pos": "2-11",
+      "title": "Η δουλειά κάνει τους άντρες",
+      "performer": "Μάνος Λοΐζος & Ελένη Ροδά",
+      "song": "i-douleia-kanei-tous-antres",
+      "stub": true
+    },
+    {
+      "pos": "2-12",
+      "title": "Λαϊκός χορός σε 9⁄8",
+      "performer": "Μάνος Λοΐζος",
+      "song": "laikos-xoros-se-9-8",
+      "stub": true
+    },
+    {
+      "pos": "3-1",
+      "title": "Δεν θα ξαναγαπήσω",
+      "performer": "Μάνος Λοΐζος & Στέλιος Καζαντζίδης",
+      "song": "den-tha-xanagapiso",
+      "stub": true
+    },
+    {
+      "pos": "3-2",
+      "title": "Όταν βλέπετε να κλαίω",
+      "performer": "Μάνος Λοΐζος & Στέλιος Καζαντζίδης",
+      "song": "otan-vlepete-na-klaio",
+      "stub": true
+    },
+    {
+      "pos": "3-3",
+      "title": "Παραμυθάκι μου",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "paramythaki-mou",
+      "stub": true
+    },
+    {
+      "pos": "3-4",
+      "title": "Τα πλεούμενα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "ta-pleoumena",
+      "stub": true
+    },
+    {
+      "pos": "3-5",
+      "title": "Απ’ τη ζωή παράπονο δεν έχω",
+      "performer": "Μάνος Λοΐζος & Ελένη Ροδά",
+      "song": "ap-ti-zoi-parapono-den-exo",
+      "stub": true
+    },
+    {
+      "pos": "3-6",
+      "title": "Σαββατόβραδο",
+      "performer": "Μάνος Λοΐζος & Ζωή Φυτούση",
+      "song": "savvatovrado",
+      "stub": true
+    },
+    {
+      "pos": "3-7",
+      "title": "Πώς τον αγαπώ",
+      "performer": "Μάνος Λοΐζος & Ζωή Φυτούση",
+      "song": "pos-ton-agapo",
+      "stub": true
+    },
+    {
+      "pos": "3-8",
+      "title": "Η γοργόνα",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "i-gorgona",
+      "stub": true
+    },
+    {
+      "pos": "3-9",
+      "title": "Μη γαρούφαλλό μου",
+      "performer": "Γιάννης Καλατζής",
+      "song": "mi-garoufallo-mou",
+      "stub": true
+    },
+    {
+      "pos": "3-10",
+      "title": "Ένας πλάι στον άλλον",
+      "performer": "Μάνος Λοΐζος & Δημήτρης Ευσταθίου",
+      "song": "enas-plai-ston-allon",
+      "stub": true
+    },
+    {
+      "pos": "3-11",
+      "title": "Το φεγγάρι έρημο",
+      "performer": "Μάνος Λοΐζος & Γιάννης Πουλόπουλος",
+      "song": "to-feggari-erimo",
+      "stub": true
+    },
+    {
+      "pos": "3-12",
+      "title": "Πρωτομαγιά",
+      "performer": "Μάνος Λοΐζος & Σούλα Μπιρμπίλη",
+      "song": "protomagia",
+      "stub": true
+    },
+    {
+      "pos": "4-1",
+      "title": "Το δέντρο",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "to-dentro",
+      "stub": true
+    },
+    {
+      "pos": "4-2",
+      "title": "Αχ πατρίδα μου καημένη",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ax-patrida-mou-kaimeni",
+      "stub": true
+    },
+    {
+      "pos": "4-3",
+      "title": "Ο Τρίτος Παγκόσμιος",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "tritos-pagkosmios",
+      "stub": true
+    },
+    {
+      "pos": "4-4",
+      "title": "Ο αρχηγός",
+      "performer": "Χάρις Αλεξίου",
+      "song": "o-arxigos",
+      "stub": true
+    },
+    {
+      "pos": "4-5",
+      "title": "Συρματοπλέγματα",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "syrmatoplegmata",
+      "stub": true
+    },
+    {
+      "pos": "4-6",
+      "title": "Θα κλείσω το παράθυρο",
+      "performer": "Μάνος Λοΐζος & Αλέκα Αλιμπέρτη",
+      "song": "tha-kleiso-to-parathyro",
+      "stub": true
+    },
+    {
+      "pos": "4-7",
+      "title": "Ο στρατιώτης",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "o-stratiotis",
+      "stub": true
+    },
+    {
+      "pos": "4-8",
+      "title": "Πάγωσε η τσιμινιέρα",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "pagose-i-tsiminiera",
+      "stub": true
+    },
+    {
+      "pos": "4-9",
+      "title": "Ο νέγρος ο ζωγράφος",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-negros-o-zografos",
+      "stub": true
+    },
+    {
+      "pos": "4-10",
+      "title": "Ο γέρο νέγρο Τζιμ",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "o-gero-negro-tzim",
+      "stub": true
+    },
+    {
+      "pos": "4-11",
+      "title": "Στον πόλεμο ο Τζο",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "ston-polemo-o-tzo",
+      "stub": true
+    },
+    {
+      "pos": "4-12",
+      "title": "Η πόρνη η Τζέην",
+      "performer": "Μάνος Λοΐζος & Μαρία Φαραντούρη",
+      "song": "i-porni-i-tzaiin",
+      "stub": true
+    },
+    {
+      "pos": "5-1",
+      "title": "Μια καλημέρα",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "mia-kalimera",
+      "stub": true
+    },
+    {
+      "pos": "5-2",
+      "title": "Ποιός το ξέρει",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "poios-to-xerei",
+      "stub": true
+    },
+    {
+      "pos": "5-3",
+      "title": "Αχ χελιδόνι μου",
+      "performer": "Μάνος Λοΐζος & Γιώργος Νταλάρας",
+      "song": "ax-xelidoni-mou",
+      "stub": true
+    },
+    {
+      "pos": "5-4",
+      "title": "Καλημέρα ήλιε",
+      "performer": "Μάνος Λοΐζος",
+      "song": "kalimera-ilie",
+      "stub": true
+    },
+    {
+      "pos": "5-5",
+      "title": "Ας μην είχες τόσα λάθη",
+      "performer": "Μάνος Λοΐζος",
+      "song": "as-min-eixes-tosa-lathi",
+      "stub": true
+    },
+    {
+      "pos": "5-6",
+      "title": "Με φάρο το φεγγάρι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "me-faro-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "5-7",
+      "title": "Κανένας δεν μου μίλησε",
+      "performer": "Μάνος Λοΐζος",
+      "song": "kanenas-den-mou-milise",
+      "stub": true
+    },
+    {
+      "pos": "5-8",
+      "title": "Εγώ είμαι ένα μορτάκι",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "ego-eimai-ena-mortaki",
+      "stub": true
+    },
+    {
+      "pos": "5-9",
+      "title": "Τη ζωή μου σου ’χω δώσει",
+      "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+      "song": "ti-zoi-mou-sou-xo-dosei",
+      "stub": true
+    },
+    {
+      "pos": "5-10",
+      "title": "Ηλεκτρική Μαρία",
+      "performer": "Μάνος Λοΐζος & Νίκος Αντωνιάδης",
+      "song": "ilektriki-maria",
+      "stub": true
+    },
+    {
+      "pos": "5-11",
+      "title": "Είπα στον κόκορά μου",
+      "performer": "Μάνος Λοΐζος & Νίκος Αντωνιάδης",
+      "song": "eipa-ston-kokora-mou",
+      "stub": true
+    },
+    {
+      "pos": "5-12",
+      "title": "Το μεθυσμένο παπί",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-methysmeno-papi",
+      "stub": true
+    },
+    {
+      "pos": "5-13",
+      "title": "Κάτω από ένα κουνουπίδι",
+      "performer": "Μάνος Λοΐζος",
+      "song": "kato-apo-ena-kounoupidi",
+      "stub": true
+    },
+    {
+      "pos": "6-1",
+      "title": "Σ’ ακολουθώ",
+      "performer": "Μάνος Λοΐζος",
+      "song": "s-akoloutho",
+      "stub": true
+    },
+    {
+      "pos": "6-2",
+      "title": "Το τραγούδι του δρόμου",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-tragoudi-tou-dromou"
+    },
+    {
+      "pos": "6-3",
+      "title": "Μη με ρωτάς",
+      "performer": "Μάνος Λοΐζος",
+      "song": "mi-me-rotas",
+      "stub": true
+    },
+    {
+      "pos": "6-4",
+      "title": "Το ακορντεόν",
+      "performer": "Μάνος Λοΐζος",
+      "song": "to-akornteon",
+      "stub": true
+    },
+    {
+      "pos": "6-5",
+      "title": "Ο δρόμος",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-dromos"
+    },
+    {
+      "pos": "6-6",
+      "title": "Ο μέρμηγκας",
+      "performer": "Μάνος Λοΐζος",
+      "song": "o-mermigkas",
+      "stub": true
+    },
+    {
+      "pos": "6-7",
+      "title": "Λίγα γαρούφαλλα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "liga-garoufala",
+      "stub": true
+    },
+    {
+      "pos": "6-8",
+      "title": "Για τη ζωή",
+      "performer": "Μάνος Λοΐζος",
+      "song": "gia-ti-zoi",
+      "stub": true
+    },
+    {
+      "pos": "6-9",
+      "title": "Μονάκριβή μου",
+      "performer": "Μάνος Λοΐζος",
+      "song": "monakrivi-mou",
+      "stub": true
+    },
+    {
+      "pos": "6-10",
+      "title": "Η πιο όμορφη θάλασσα",
+      "performer": "Μάνος Λοΐζος",
+      "song": "i-pio-omorfi-thalassa",
+      "stub": true
+    },
+    {
+      "pos": "6-11",
+      "title": "Στηθάγχη",
+      "performer": "Μάνος Λοΐζος",
+      "song": "stithagxi",
+      "stub": true
+    },
+    {
+      "pos": "6-12",
+      "title": "Σε ψάχνω",
+      "performer": "Μάνος Λοΐζος",
+      "song": "se-psaxno",
+      "stub": true
+    },
+    {
+      "pos": "7-1",
+      "title": "Ο φαντάρος",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "o-fantaros",
+      "stub": true
+    },
+    {
+      "pos": "7-2",
+      "title": "Τέλι, τέλι, τέλι",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "teli-teli-teli",
+      "stub": true
+    },
+    {
+      "pos": "7-3",
+      "title": "Τίποτα δεν πάει χαμένο",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "tipota-den-paei-xameno",
+      "stub": true
+    },
+    {
+      "pos": "7-4",
+      "title": "Κι αν είμαι ροκ",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "ki-an-eimai-rok",
+      "stub": true
+    },
+    {
+      "pos": "7-5",
+      "title": "Η μέρα εκείνη δε θ’ αργήσει",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "i-mera-ekeini-de-th-argisei",
+      "stub": true
+    },
+    {
+      "pos": "7-6",
+      "title": "Γερνάς και σκοτεινιάζει",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "gernas-kai-skoteiniazei",
+      "stub": true
+    },
+    {
+      "pos": "7-7",
+      "title": "Σε ψάχνω",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "se-psaxno",
+      "stub": true
+    },
+    {
+      "pos": "7-8",
+      "title": "Κουτσή κιθάρα",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "koutsi-kithara",
+      "stub": true
+    },
+    {
+      "pos": "7-9",
+      "title": "Πρώτη Μαΐου",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "proti-maiou",
+      "stub": true
+    },
+    {
+      "pos": "7-10",
+      "title": "Χαράματα Ομόνοια",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "xaramata-omonoia",
+      "stub": true
+    },
+    {
+      "pos": "7-11",
+      "title": "Με φουρτουνιάζει ο έρωτας (Ροβινσώνας)",
+      "performer": "Μάνος Λοΐζος & Μανώλης Ρασούλης",
+      "song": "me-fourtouniazei-o-erotas",
+      "stub": true
+    },
+    {
+      "pos": "7-12",
+      "title": "Καρτ ποστάλ",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "kart-postal",
+      "stub": true
+    },
+    {
+      "pos": "7-13",
+      "title": "Αχ! Τα μάτια σου",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "ax-ta-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "8-1",
+      "title": "Όλα σε θυμίζουν",
+      "performer": "Χάρις Αλεξίου",
+      "song": "ola-se-thymizoun",
+      "stub": true
+    },
+    {
+      "pos": "8-2",
+      "title": "Τζαμάικα",
+      "performer": "Χάρις Αλεξίου & Δήμητρα Γαλάνη",
+      "song": "tzamaika",
+      "stub": true
+    },
+    {
+      "pos": "8-3",
+      "title": "Σ’ ακολουθώ",
+      "performer": "Θάνος Μικρούτσικος & Δήμητρα Γαλάνη",
+      "song": "s-akoloutho",
+      "stub": true
+    },
+    {
+      "pos": "8-4",
+      "title": "Πόσο σ’ αγαπώ",
+      "performer": "Δήμητρα Γαλάνη",
+      "song": "poso-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "8-5",
+      "title": "Δέκα παλικάρια",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "deka-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": "8-6",
+      "title": "Καλημέρα ήλιε",
+      "performer": "Γιώργος Νταλάρας, Χάρις Αλεξίου, Βασίλης Παπακωνσταντίνου, Δήμητρα Γαλάνη & Γιάννης Καλατζής",
+      "song": "kalimera-ilie",
+      "stub": true
+    },
+    {
+      "pos": "8-7",
+      "title": "Λιώνουν τα νιάτα μας",
+      "performer": "Γιώργος Νταλάρας",
+      "song": "lionoun-ta-niata-mas",
+      "stub": true
+    },
+    {
+      "pos": "8-8",
+      "title": "Ο Λιόντας",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "o-liontas",
+      "stub": true
+    },
+    {
+      "pos": "8-9",
+      "title": "Τσε",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "tse",
+      "stub": true
+    },
+    {
+      "pos": "8-10",
+      "title": "Κι αν τα μάτια σου",
+      "performer": "Βασίλης Παπακωνσταντίνου",
+      "song": "ki-an-ta-matia-sou",
+      "stub": true
+    },
+    {
+      "pos": "8-11",
+      "title": "Ήλιε μου σε παρακαλώ",
+      "performer": "Δημήτρης Μπάσης",
+      "song": "ilie-mou-se-parakalo",
+      "stub": true
+    },
+    {
+      "pos": "8-12",
+      "title": "Νύχτα μικρή αρχόντισα",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "nyxta-mikri-arxontisa",
+      "stub": true
+    },
+    {
+      "pos": "8-13",
+      "title": "Καράβια αλήτες",
+      "performer": "Γιάννης Πουλόπουλος",
+      "song": "karavia-alites",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Όλα θυμίζουν τον Μάνο Λοΐζο, κυκλοφορία (2009)",
+      "url": "https://musicbrainz.org/release/6e8436f3-66c9-4c9b-9423-3603324e1bf7"
+    }
+  ],
+  "en": {
+    "kind": "Compilation (8 CDs)",
+    "about": [
+      "Eight-CD compilation issued with the newspaper To Vima in 2009, surveying Loizos’s recorded work across a series of discs, including first recordings and interpretations by other artists."
+    ]
+  }
+}

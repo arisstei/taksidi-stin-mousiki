@@ -1,0 +1,24 @@
+{
+  "slug": "kalin-esperan",
+  "title": "Καλήν Εσπέραν",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1974",
+  "performer": "Νίκος Ξυλούρης και ο θίασος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Το μεγάλο μας τσίρκο» (1974).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το μεγάλο μας τσίρκο (1974)",
+      "url": "https://musicbrainz.org/release-group/9e4e4721-03fe-4e49-8627-c2006d2f6c34"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Το μεγάλο μας τσίρκο” (1974).",
+    "story": []
+  }
+}

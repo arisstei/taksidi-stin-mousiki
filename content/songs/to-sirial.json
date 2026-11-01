@@ -1,0 +1,24 @@
+{
+  "slug": "to-sirial",
+  "title": "Το σήριαλ",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Για μια μέρα ζωής» (1980).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Για μια μέρα ζωής” (1980).",
+    "story": []
+  }
+}

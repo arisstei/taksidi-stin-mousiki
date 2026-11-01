@@ -1,0 +1,162 @@
+{
+  "slug": "minos-emi-i-1994",
+  "composer": "vamvakaris",
+  "title": "Ι",
+  "year": 1994,
+  "type": "anthology",
+  "kind": "Συλλογή CD από τη σειρά «Συνθέτες του Ρεμπέτικου»",
+  "label": "Minos-EMI",
+  "catalog": "7 24348 04132 6",
+  "format": "CD, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Απόστολος Χατζηχρήστος",
+    "Σοφία Καρίβαλη",
+    "Άννα Πολίτισσα",
+    "Μαρίτσα Πανδρά"
+  ],
+  "grade": "B",
+  "about": [
+    "Πρώτο CD της σειράς του Αρχείου Ελληνικής Δισκογραφίας της Minos-EMI για τον Βαμβακάρη, με 18 ηχογραφήσεις του 1933–1940 σε επιμέλεια Παναγιώτη Κουνάδη, με ένθετο 28 σελίδων. Τα πρώτα τέσσερα τραγούδια είναι του 1933."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Ο Χασάπης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-xasapis",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Στα Σίδερα Με Βάλανε",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "sta-sidera-me-valane",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ο Χαρμάνης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-xarmanis",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ο Δερβίσης",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "o-dervisis",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Πλημμύρα",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "i-plimmyra",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Αν Είσαι Μάγκας",
+      "performer": "Άννα Πολίτισσα, Μαρίτσα Πανδρά",
+      "song": "an-eisai-magkas",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Ψηλά Τη Χτίζεις Τη Φωλιά",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "psila-ti-xtizeis-ti-folia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Ζητώ Παντού Ο Καϋμένος",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "zito-pantou-o-kaymenos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Αν Θέλεις Να Με Δης Γαμπρό",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "an-theleis-na-me-dis-gampro",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τα Δυο Σου Χέρια Πήρανε",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "ta-dyo-sou-xeria-pirane",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Φοράς Φουστάνι Βυσσινί",
+      "performer": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης",
+      "song": "foras-foustani-vyssini",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Σουλτάνα Μαυροφόρα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "soultana-mayrofora",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Σιγανοπαπαδίτσα",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "siganopapaditsa",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Αφ' Ότου Εγεννήθηκα",
+      "performer": "Μάρκος Βαμβακάρης, Σοφία Καρίβαλη",
+      "song": "af-otou-egennithika",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Με Πλάνεψες Μποέμισσα",
+      "performer": "Σοφία Καρίβαλη, Μάρκος Βαμβακάρης",
+      "song": "me-planepses-mpoemissa",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Αν Φύγουμε Στον Πόλεμο",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "an-fygoume-ston-polemo",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Μαρόκο",
+      "performer": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+      "song": "maroko",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Ταξίμι Ζεϊμπέκικο",
+      "performer": "Μάρκος Βαμβακάρης",
+      "song": "taximi-zeimpekiko",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Ι (1994)",
+      "url": "https://www.discogs.com/release/10043161"
+    }
+  ],
+  "en": {
+    "kind": "CD compilation from the series “Composers of Rebetiko”",
+    "about": [
+      "First CD in Minos-EMI's Greek Discography Archive series on Vamvakaris, with 18 recordings from 1933–1940 compiled by Panagiotis Kounadis, with a 28-page booklet. The first four songs date from 1933."
+    ]
+  }
+}

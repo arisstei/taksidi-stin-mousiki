@@ -1,0 +1,107 @@
+{
+  "slug": "afieroma-sto-marko",
+  "composer": "vamvakaris",
+  "title": "Αφιέρωμα Στο Μάρκο",
+  "year": 1972,
+  "type": "rebetiko",
+  "kind": "Δίσκος 33 στροφών (gatefold)",
+  "label": "Minos",
+  "catalog": "MSM 148",
+  "format": "LP, Gatefold",
+  "performers": [
+    "Μάρκος Βαμβακάρης",
+    "Στέλλα Χασκίλ"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος της Minos (Μίνως Μάτσας & Υιός) με δώδεκα τραγούδια του Βαμβακάρη σε εξώφυλλο gatefold. Ο ίδιος υπογράφει σημείωμα στο κείμενο του δίσκου και τραγουδά· η Στέλλα Χασκίλ ερμηνεύει τα «Μεσ' στη χασάπικη αγορά» και «Το συμφέρον» (με τον Βαμβακάρη στα φωνητικά υποστήριξης). Το σημείωμα του οπισθόφυλλου είναι του Αχιλλέα Θεοφίλου."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Όλοι Οι Ρεμπέτες Του Ντουνιά",
+      "song": "oloi-oi-rempetes-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Ήθελα Νάμουν Ηρακλής",
+      "song": "ithela-namoun-iraklis",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Ρίξε Τσιγγάνα Τα Χαρτιά",
+      "song": "rixe-tsiggana-ta-xartia",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Παιχνιδιάρα Μου",
+      "song": "paixnidiara-mou",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Μεσ' Στη Χασάπικη Αγορά",
+      "performer": "Στέλλα Χασκίλ",
+      "song": "mes-sti-xasapiki-agora",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Πολλά Είδαν Τα Μάτια Μου",
+      "song": "polla-eidan-ta-matia-mou",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Μπουζούκι Γλέντι Του Ντουνιά",
+      "song": "mpouzouki-glenti-tou-ntounia",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Άδικα Με Κατακρίνουν",
+      "song": "adika-me-katakrinoun",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Φίνα Τάχεις Καταφέρει",
+      "song": "fina-taxeis-kataferei",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Προσφυγοπούλα Μου",
+      "song": "prosfygopoula-mou",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Το Συμφέρον",
+      "performer": "Στέλλα Χασκίλ, Μάρκος Βαμβακάρης",
+      "song": "to-symferon",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Μ' Έκανες Και Χώρισα",
+      "song": "m-ekanes-kai-xorisa",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Αφιέρωμα Στο Μάρκο (1972)",
+      "url": "https://www.discogs.com/release/5421260"
+    }
+  ],
+  "en": {
+    "kind": "LP (gatefold)",
+    "about": [
+      "A Minos (Minos Matsas & Son) LP of twelve Vamvakaris songs in a gatefold sleeve. He contributes liner notes and sings; Stella Haskil sings “Mes' sti hasapiki agora” and “To symferon” (the latter with Vamvakaris on backing vocals). Further liner notes are by Achilleas Theofilou."
+    ]
+  }
+}

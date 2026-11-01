@@ -1,0 +1,28 @@
+{
+  "slug": "oi-oxthroi",
+  "title": "Οι Οχθροί",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1984",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση» (1984), «Κύκλοι» (1992).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση (κυκλοφορία 1984)",
+      "url": "https://musicbrainz.org/release/93a7a736-5a79-4373-9226-a36287f66fb7"
+    },
+    {
+      "label": "MusicBrainz — Κύκλοι (κυκλοφορία 1992)",
+      "url": "https://musicbrainz.org/release/a3b8368c-692b-47a1-beda-79eb718aa893"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση” (1984), “Κύκλοι” (1992).",
+    "story": []
+  }
+}

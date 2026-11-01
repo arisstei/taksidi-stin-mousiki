@@ -1,0 +1,144 @@
+{
+  "slug": "ta-teleftaia-xronia-tou-marku-1963-1969",
+  "composer": "vamvakaris",
+  "title": "Τα Τελευταία Χρόνια Του Μάρκου 1963-1969",
+  "year": 2005,
+  "type": "anthology",
+  "kind": "Συλλογή CD με ηχογραφήσεις των τελευταίων χρόνων",
+  "label": "Mercury",
+  "catalog": "06024 9875475 7",
+  "format": "CD, Compilation",
+  "performers": [
+    "Μάρκος Βαμβακάρης"
+  ],
+  "grade": "B",
+  "about": [
+    "Συλλογή της Mercury με 18 τραγούδια από την περίοδο 1963–1969, τα χρόνια της «δεύτερης καριέρας» του Βαμβακάρη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Η Άτακτη",
+      "song": "atakti",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Τα Όμορφα, Τα Γαλανά Σου Μάτια",
+      "song": "ta-omorfa-ta-galana-sou-matia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Τα Ματόκλαδα Σου Λάμπουν",
+      "song": "ta-matoklada-sou-lampoun",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Φραγκοσυριανή",
+      "song": "fragkosyriani",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Τικ - Τακ Κάνει Η Καρδιά Μου",
+      "song": "tik-tak-kanei-i-kardia-mou",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Ήμουν Μάγκας Μια Φορά",
+      "song": "imoun-magkas-mia-fora",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Τι Μ' Ωφελούν Οι Άνοιξες",
+      "song": "ti-m-ofeloun-oi-anoixes",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Μην Περάσεις Απ' Την Γειτονιά Μου",
+      "song": "min-peraseis-ap-tin-geitonia-mou",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Απόψε Θα Περάσω",
+      "song": "apopse-tha-peraso",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ψεύτικος Είναι Ο Ντουνιάς",
+      "song": "pseytikos-einai-o-ntounias",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Μέσα Σε Μαύρο Πέλαγος",
+      "song": "mesa-se-mayro-pelagos",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Μαύρη Ζωή Μικρούλα Μου",
+      "song": "mayri-zoi-mikroula-mou",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Φόρα Τα Μαύρα, Φόρατα",
+      "song": "fora-ta-mayra-forata",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Η Γκρινιάρα",
+      "song": "i-gkriniara",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Δυο Γυφτοπούλες",
+      "song": "dyo-gyftopoules",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Κάτσε Φρόνιμα Μάγκα",
+      "song": "katse-fronima-magka",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Μια Μικροπαντρεμένη",
+      "song": "mia-mikropantremeni",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Τα Βάσανά Μου",
+      "song": "ta-vasana-mou",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Discogs — Τα Τελευταία Χρόνια Του Μάρκου 1963-1969 (2005)",
+      "url": "https://www.discogs.com/release/3214433"
+    },
+    {
+      "label": "Βικιπαίδεια — Μάρκος Βαμβακάρης",
+      "url": "https://el.wikipedia.org/wiki/Μάρκος_Βαμβακάρης"
+    }
+  ],
+  "en": {
+    "kind": "CD of recordings from his last years",
+    "about": [
+      "A Mercury compilation of 18 songs from 1963–1969, the years of Vamvakaris's “second career”."
+    ]
+  }
+}

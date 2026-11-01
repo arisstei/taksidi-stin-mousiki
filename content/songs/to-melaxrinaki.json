@@ -1,0 +1,24 @@
+{
+  "slug": "to-melaxrinaki",
+  "title": "Το μελαχρινάκι",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Λευτέρης Παπαδόπουλος",
+  "year": "1968",
+  "performer": "Μάνος Λοΐζος & Γιάννης Καλατζής",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο Σταθμός» (1968).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο Σταθμός” (1968).",
+    "story": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "mi-fygeis",
+  "title": "Μη φύγεις",
+  "composer": "Γιάννης Μαρκόπουλος",
+  "lyricist": null,
+  "year": "1972",
+  "performer": null,
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Τα Τραγούδια Του Νέου Πατέρα» (1972).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του Νέου Πατέρα (κυκλοφορία 1972)",
+      "url": "https://musicbrainz.org/release/fd202001-0943-4915-82e7-ab6be9d237bc"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Τα Τραγούδια Του Νέου Πατέρα” (1972).",
+    "story": []
+  }
+}

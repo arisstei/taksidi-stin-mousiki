@@ -1,0 +1,80 @@
+{
+  "slug": "phaedra-ost",
+  "composer": "theodorakis",
+  "title": "Phaedra",
+  "year": 1962,
+  "type": "film",
+  "kind": "Μουσική κινηματογράφου",
+  "label": "United Artists",
+  "catalog": "UAS 5102",
+  "format": "LP, 12\"",
+  "performers": [],
+  "lyricists": [],
+  "grade": "B",
+  "about": [
+    "Η μουσική του Θεοδωράκη για την ταινία «Phaedra» (Φαίδρα) του Jules Dassin, στην αμερικανική έκδοση της United Artists (UAS 5102)."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Love Theme From Phaedra",
+      "song": "love-theme-from-phaedra",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Rendez-Vous"
+    },
+    {
+      "pos": "3",
+      "title": "Ship to Shore"
+    },
+    {
+      "pos": "4",
+      "title": "London's Fog"
+    },
+    {
+      "pos": "5",
+      "title": "One More Time"
+    },
+    {
+      "pos": "6",
+      "title": "Agapi Mou"
+    },
+    {
+      "pos": "7",
+      "title": "Only You"
+    },
+    {
+      "pos": "8",
+      "title": "The Fling"
+    },
+    {
+      "pos": "9",
+      "title": "Candlelight"
+    },
+    {
+      "pos": "10",
+      "title": "Rodostamo"
+    },
+    {
+      "pos": "11",
+      "title": "Love Theme From Phaedra",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "love-theme-from-phaedra",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/5d18b393-1ab3-42b5-97a5-af5ece34d82e"
+    }
+  ],
+  "en": {
+    "kind": "Film soundtrack",
+    "about": [
+      "Theodorakis's score for Jules Dassin's film \"Phaedra\", in the US United Artists edition (UAS 5102)."
+    ]
+  }
+}

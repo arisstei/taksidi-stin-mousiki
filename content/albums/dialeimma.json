@@ -1,0 +1,118 @@
+{
+  "slug": "dialeimma",
+  "composer": "markopoulos",
+  "title": "Διάλειμμα",
+  "year": 1972,
+  "type": "cycle",
+  "kind": "Δίσκος τραγουδιών",
+  "label": "Columbia",
+  "catalog": "SCXG 85",
+  "format": "12\" Vinyl",
+  "performers": [
+    "Θ. Ανδρεάδης - Δ. Ζούνη",
+    "Μέμη Σπυράτου",
+    "Δ. Ζούνη",
+    "Νίκος Ξυλούρης",
+    "Δάφνη Ζούνη",
+    "Θέμης Ανδρεάδης"
+  ],
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 11 κομμάτια, που κυκλοφόρησε το 1972 από τη Columbia. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Του Άνδρα Του Πολλά Βαρύ",
+      "performer": "Θ. Ανδρεάδης - Δ. Ζούνη & Μέμη Σπυράτου",
+      "song": "tou-andra-tou-polla-vary",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Ο Μύθος Λέει Τα Πολλά",
+      "performer": "Μέμη Σπυράτου & Δ. Ζούνη",
+      "song": "o-mythos-leei-ta-polla",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Πού Πας",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "pou-pas",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Τα Τέσσερα Παλληκάρια",
+      "performer": "Δάφνη Ζούνη",
+      "song": "ta-tessera-pallikaria",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Οι Πειρατές",
+      "performer": "Μέμη Σπυράτου & Δ. Ζούνη",
+      "song": "oi-peirates",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Οι Εχθροί",
+      "performer": "Νίκος Ξυλούρης",
+      "song": "oi-exthroi",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Ένας Νέος Τραγουδιστής",
+      "performer": "Μέμη Σπυράτου & Δ. Ζούνη",
+      "song": "enas-neos-tragoudistis",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Πού Πάτε Λοιπόν",
+      "performer": "Θέμης Ανδρεάδης",
+      "song": "pou-pate-loipon",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Σουρλάντα Νταγιάντα",
+      "performer": "Μέμη Σπυράτου",
+      "song": "sourlanta-ntagianta",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Δολλάριο-Δολλάριο (Ο Σερίφης)",
+      "performer": "Μέμη Σπυράτου & Δ. Ζούνη",
+      "song": "dollario-dollario",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Το Καφενείον Η Ελλάς (1950)",
+      "performer": "Νίκος Ξυλούρης & Χορωδία",
+      "song": "to-kafeneion-i-ellas",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Διάλειμμα (κυκλοφορία 1972)",
+      "url": "https://musicbrainz.org/release/373f9f07-94d9-4336-a005-321bfd4bd803"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Song album",
+    "about": [
+      "Album with music by Yannis Markopoulos, 11 tracks, released in 1972 on Columbia. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

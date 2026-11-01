@@ -1,0 +1,143 @@
+{
+  "slug": "16-tragoudia-tou-stavrou-xarchakou",
+  "composer": "xarchakos",
+  "title": "16 τραγούδια του Σταύρου Ξαρχάκου",
+  "year": 1996,
+  "type": "anthology",
+  "kind": "Συλλογή",
+  "label": "PolyGram",
+  "catalog": "310-2",
+  "format": "CD",
+  "performers": [
+    "Μαρινέλλα",
+    "Κώστας Χατζής",
+    "Αλέκα Μαβίλη",
+    "Στράτος Παγιουμτζής",
+    "Μελίνα Μερκούρη"
+  ],
+  "grade": "C",
+  "about": [
+    "Συλλογή του 1996 της PolyGram με 16 τραγούδια του Ξαρχάκου σε ερμηνείες, μεταξύ άλλων, των Μαρινέλλας, Κώστα Χατζή, Αλέκας Μαβίλη, Στράτου Παγιουμτζή και Μελίνας Μερκούρη, όπως τα καταγράφει η MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μάτια βουρκωμένα",
+      "performer": "Μαρινέλλα",
+      "song": "matia-vourkomena",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Φτωχολογιά",
+      "performer": "Κώστας Χατζής",
+      "song": "ftoxologia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Λόλα",
+      "performer": "Αλέκα Μαβίλη",
+      "song": "lola",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Χόρεψαν τ' άσπρα πουλιά",
+      "performer": "Γιοβάννα",
+      "song": "xorepsan-t-aspra-poulia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Δε σου χρωστάω τίποτα",
+      "performer": "Νίκος Ξανθόπουλος",
+      "song": "de-sou-xrostao-tipota",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Κόκκινα φανάρια",
+      "performer": "Αλέκα Μαβίλη",
+      "song": "kokkina-fanaria",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Στου Όθωνα τα χρόνια",
+      "performer": "Trio Bel Canto",
+      "song": "stou-othona-ta-xronia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το δίχτυ",
+      "performer": "Ρίτα Σακελλαρίου",
+      "song": "to-dixty",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Τρεις μάγκες, τρεις γερόμαγκες",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "treis-magkes-treis-geromagkes",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο χορός του Σακαίνα (ορχηστρικό)"
+    },
+    {
+      "pos": "11",
+      "title": "Έχω μια δεκάρα τρύπια",
+      "performer": "Στράτος Παγιουμτζής",
+      "song": "exo-mia-dekara-trypia",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Παράπονο",
+      "performer": "Δώρα Μόραλη",
+      "song": "parapono",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Χάθηκε το φεγγάρι",
+      "performer": "Χορωδία Καίτης και Διονύση Αποστολάτου",
+      "song": "xathike-to-feggari",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Παλικάρι που 'λιωσα",
+      "performer": "Trio Bel Canto",
+      "song": "palikari-pou-liosa",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Φύγαν τα παιδιά",
+      "performer": "Melina Mercouri",
+      "song": "fygan-ta-paidia",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Άπονη ζωή (ορχηστρικό)",
+      "song": "aponi-zoi"
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — 16 τραγούδια του Σταύρου Ξαρχάκου (1996)",
+      "url": "https://musicbrainz.org/release-group/3095b652-a1da-4624-86c2-59b0ddef5864"
+    }
+  ],
+  "en": {
+    "kind": "Compilation",
+    "about": [
+      "A 1996 PolyGram compilation of 16 Xarchakos songs, performed by Marinella, Kostas Hatzis, Aleka Mavili, Stratos Pagioumtzis and Melina Mercouri among others, as listed on MusicBrainz."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "ithela-na-moun-iraklis",
+  "title": "Ήθελα να 'μουν Ηρακλής",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Μάρκος Βαμβακάρης",
+  "year": "1968",
+  "performer": "Γιώργος Ζαμπέτας · Μάρκος Βαμβακάρης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Μάρκος ο δάσκαλός μας» (1968), «Αυθεντικές Εκτελέσεις» (1987), «Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)» (2010) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μάρκος ο δάσκαλός μας (1968)",
+      "url": "https://musicbrainz.org/release-group/87375fe4-d010-41e9-80de-c621978aac45"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — Master Of Rembetika (2010)",
+      "url": "https://www.discogs.com/release/4768730"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Μάρκος ο δάσκαλός μας” (1968), “Αυθεντικές Εκτελέσεις” (1987), “Master Of Rembetika (Complete Recordings 1932-1937 Plus Selected Recordings 1938)” (2010) and 1 more.",
+    "story": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "na-pethaneis",
+  "title": "Να Πεθάνεις",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Άντζελα Γκρέκα, Μάρκος Βαμβακάρης · Μάρκος Βαμβακάρης, Άντζελα Γκρέκα",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης» (1980), «Η Ελλάδα Του Μάρκου Βαμβακάρη» (1992), «Δυο Εποχές, Απ' Το '30 Στο '60» (2003) και 1 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Η Ελλάδα Του Μάρκου Βαμβακάρη (1992)",
+      "url": "https://www.discogs.com/release/6300007"
+    },
+    {
+      "label": "Discogs — Δυο Εποχές, Απ' Το '30 Στο '60 (2003)",
+      "url": "https://www.discogs.com/release/2620102"
+    },
+    {
+      "label": "Discogs — Τα Μεγάλα Τραγούδια (2016)",
+      "url": "https://www.discogs.com/release/13499605"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης” (1980), “Η Ελλάδα Του Μάρκου Βαμβακάρη” (1992), “Δυο Εποχές, Απ' Το '30 Στο '60” (2003) and 1 more.",
+    "story": []
+  }
+}

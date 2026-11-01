@@ -1,0 +1,128 @@
+{
+  "slug": "ta-tragoudia-tis-xaroulas",
+  "composer": "loizos",
+  "title": "Τα τραγούδια της Χαρούλας",
+  "year": 1979,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "catalog": "MSM 349",
+  "format": "LP",
+  "performers": [
+    "Χαρούλα Αλεξίου"
+  ],
+  "lyricists": [
+    "Μανώλης Ρασούλης",
+    "Πυθαγόρας"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος αφιερωμένος στη φωνή της Χαρούλας Αλεξίου, με στίχους των Μανώλη Ρασούλη και Πυθαγόρα."
+  ],
+  "tracks": [
+    {
+      "pos": "A1",
+      "title": "Γύφτισσα τον εβύζαξε",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "gyftissa-ton-evyzaxe",
+      "stub": true
+    },
+    {
+      "pos": "A2",
+      "title": "Την όγδοη μέρα",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "tin-ogdoi-mera",
+      "stub": true
+    },
+    {
+      "pos": "A3",
+      "title": "Σε πέντε ώρες ξημερώνει Κυριακή",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "se-pente-ores-ximeronei-kyriaki",
+      "stub": true
+    },
+    {
+      "pos": "A4",
+      "title": "Πες μου πώς γίνεται",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "pes-mou-pos-ginetai",
+      "stub": true
+    },
+    {
+      "pos": "A5",
+      "title": "Όλα σε θυμίζουν",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "ola-se-thymizoun",
+      "stub": true
+    },
+    {
+      "pos": "A6",
+      "title": "Τι να πω",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "ti-na-po",
+      "stub": true
+    },
+    {
+      "pos": "B1",
+      "title": "Ο φαντάρος",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "o-fantaros",
+      "stub": true
+    },
+    {
+      "pos": "B2",
+      "title": "Έκανα τη μοίρα φίλη",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "ekana-ti-moira-fili",
+      "stub": true
+    },
+    {
+      "pos": "B3",
+      "title": "Κι εγώ σαν πόλη",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "ki-ego-san-poli",
+      "stub": true
+    },
+    {
+      "pos": "B4",
+      "title": "Μες στο πλήθος",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "mes-sto-plithos",
+      "stub": true
+    },
+    {
+      "pos": "B5",
+      "title": "Τέλι τέλι τέλι",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "teli-teli-teli",
+      "stub": true
+    },
+    {
+      "pos": "B6",
+      "title": "Τίποτα δεν πάει χαμένο",
+      "performer": "Μάνος Λοΐζος & Χάρις Αλεξίου",
+      "song": "tipota-den-paei-xameno",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Τα τραγούδια της Χαρούλας, κυκλοφορία (1979)",
+      "url": "https://musicbrainz.org/release/56c832e3-970f-44ff-bd01-c619403ba2e4"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "An album built around the voice of Haris Alexiou, with lyrics by Manolis Rasoulis and Pythagoras."
+    ]
+  }
+}

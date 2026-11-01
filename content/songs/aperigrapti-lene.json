@@ -1,0 +1,24 @@
+{
+  "slug": "aperigrapti-lene",
+  "title": "Απερίγραπτη, λένε",
+  "composer": "Μάνος Λοΐζος",
+  "lyricist": "Ναζίμ Χικμέτ (μτφρ. Γιάννης Ρίτσος)",
+  "year": "1983",
+  "performer": "Μάνος Λοΐζος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Γράμματα στην αγαπημένη» (1983).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Γράμματα στην αγαπημένη” (1983).",
+    "story": []
+  }
+}

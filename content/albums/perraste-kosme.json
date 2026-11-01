@@ -1,0 +1,105 @@
+{
+  "slug": "perraste-kosme",
+  "composer": "markopoulos",
+  "title": "Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση",
+  "year": 1984,
+  "type": "theatre",
+  "kind": "Δίσκος τραγουδιών για παράσταση",
+  "label": "Virgin",
+  "catalog": "VG 50080",
+  "format": "12\" Vinyl",
+  "grade": "C",
+  "about": [
+    "Δίσκος με μουσική του Γιάννη Μαρκόπουλου, με 12 κομμάτια, που κυκλοφόρησε το 1984 από τη Virgin. Τα στοιχεία (κομμάτια, ερμηνευτές, στιχουργοί) προέρχονται από τη βάση MusicBrainz."
+  ],
+  "tracks": [
+    {
+      "pos": 1,
+      "title": "Τα Λόγια Και Τα Χρόνια Τα Χαμένα",
+      "song": "ta-logia-kai-ta-xronia-ta-xamena",
+      "stub": true
+    },
+    {
+      "pos": 2,
+      "title": "Η Φάμπρικα",
+      "song": "i-famprika",
+      "stub": true
+    },
+    {
+      "pos": 3,
+      "title": "Έντιμο Αίμα",
+      "song": "entimo-aima",
+      "stub": true
+    },
+    {
+      "pos": 4,
+      "title": "Κάτω Στης Μαργαρίτας Τ' Αλωνάκι",
+      "song": "kato-stis-margaritas-t-alonaki",
+      "stub": true
+    },
+    {
+      "pos": 5,
+      "title": "Ο Αρκουδιάρης",
+      "song": "o-arkoudiaris",
+      "stub": true
+    },
+    {
+      "pos": 6,
+      "title": "Καφενείο Η Ελλάς",
+      "song": "kafeneio-i-ellas",
+      "stub": true
+    },
+    {
+      "pos": 7,
+      "title": "Ζάβαρα - Κάτρα - Νέμια",
+      "song": "zavara-katra-nemia",
+      "stub": true
+    },
+    {
+      "pos": 8,
+      "title": "Σκαραμαγκάς Και Πειραιάς",
+      "song": "skaramagkas-kai-peiraias",
+      "stub": true
+    },
+    {
+      "pos": 9,
+      "title": "Η Μάνα Του Αλέξανδρου",
+      "song": "i-mana-tou-alexandrou",
+      "stub": true
+    },
+    {
+      "pos": 10,
+      "title": "Χίλια Μύρια Κύματα",
+      "song": "xilia-myria-kymata",
+      "stub": true
+    },
+    {
+      "pos": 11,
+      "title": "Οι Οχθροί",
+      "song": "oi-oxthroi",
+      "stub": true
+    },
+    {
+      "pos": 12,
+      "title": "Παραπονεμένα Λόγια",
+      "song": "paraponemena-logia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Περάστε Κόσμε - 12 Τραγούδια Για Παράσταση (κυκλοφορία 1984)",
+      "url": "https://musicbrainz.org/release/93a7a736-5a79-4373-9226-a36287f66fb7"
+    },
+    {
+      "label": "MusicBrainz — Γιάννης Μαρκόπουλος (καλλιτέχνης)",
+      "url": "https://musicbrainz.org/artist/b821562e-8dff-424f-9ea2-68d1d98cbdab"
+    }
+  ],
+  "en": {
+    "kind": "Songs for a stage show",
+    "about": [
+      "Album with music by Yannis Markopoulos, 12 tracks, released in 1984 on Virgin. Track, performer and lyricist data come from the MusicBrainz database."
+    ]
+  }
+}

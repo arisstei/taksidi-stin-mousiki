@@ -1,0 +1,24 @@
+{
+  "slug": "apopse",
+  "title": "Απόψε",
+  "composer": "Γιώργος Ζαμπέτας",
+  "lyricist": null,
+  "year": "1973",
+  "performer": "Γιώργος Ζαμπέτας",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Μουσικόραμα Ζαμπέτα» (1973).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Μουσικόραμα Ζαμπέτα (1973, Lyra 3579)",
+      "url": "https://musicbrainz.org/release/eae9ef55-4f37-4aa9-9602-8ef3e7cbdc2d"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Μουσικόραμα Ζαμπέτα” (1973).",
+    "story": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "to-ntivani",
+  "title": "Το Ντιβάνι",
+  "composer": "Βασίλης Τσιτσάνης",
+  "lyricist": null,
+  "year": "1997",
+  "performer": "Βασίλης Τσιτσάνης · Ρένα Ντάλλια",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Τα Τραγούδια Του» (1997), «Τα μεγάλα τραγούδια» (2002).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Τα Τραγούδια Του (1997)",
+      "url": "https://musicbrainz.org/release/78ff2816-f936-4ae2-971c-fbcea458040e"
+    },
+    {
+      "label": "MusicBrainz — Τα μεγάλα τραγούδια (2002)",
+      "url": "https://musicbrainz.org/release/dc75dbc6-1c14-46ce-a7f8-bc705c7ba8d1"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Τα Τραγούδια Του” (1997), “Τα μεγάλα τραγούδια” (2002).",
+    "story": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "xarchakos-kokotas",
+  "composer": "xarchakos",
+  "title": "Ξαρχάκος + Κόκοτας",
+  "year": 1970,
+  "type": "anthology",
+  "kind": "Δίσκος τραγουδιών",
+  "format": "LP",
+  "performers": [
+    "Σταμάτης Κόκοτας"
+  ],
+  "lyricists": [
+    "Λευτέρης Παπαδόπουλος",
+    "Ιάκωβος Καμπανέλλης",
+    "Νίκος Γκάτσος",
+    "Ζάχος Χατζηφωτίου"
+  ],
+  "grade": "C",
+  "about": [
+    "Κοινός δίσκος του Σταύρου Ξαρχάκου με τον Σταμάτη Κόκοτα (1970). Οι στίχοι υπογράφονται από τους Νίκο Γκάτσο, Λευτέρη Παπαδόπουλο, Ιάκωβο Καμπανέλλη και Ζάχο Χατζηφωτίου· ανάμεσα στα τραγούδια, τα «Φρύνη», «Αχερουσία» και «Οι Μεγαλέξανδροι»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Γιατί θαρρείς με κέφι",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "giati-tharreis-me-kefi",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Πόσο μικρός ο άνθρωπος",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "poso-mikros-o-anthropos",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Φρύνη",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "fryni",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Αχερουσία",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "axerousia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ο Πάρις και το μήλο",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "o-paris-kai-to-milo",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Οι Μεγαλέξανδροι",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ιάκωβος Καμπανέλλης",
+      "song": "oi-megalexandroi",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Λιγνό κορμί αράπικο",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "ligno-kormi-arapiko",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το θαμπό φανάρι",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Λευτέρης Παπαδόπουλος",
+      "song": "to-thampo-fanari",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Γλυκοχαράζει αρχόντισσα",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ζάχος Χατζηφωτίου",
+      "song": "glykoxarazei-arxontissa",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Τι μας μέλει",
+      "performer": "Σταμάτης Κόκοτας",
+      "lyricist": "Ζάχος Χατζηφωτίου",
+      "song": "ti-mas-melei",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Τι μας μέλει",
+      "lyricist": "Ζάχος Χατζηφωτίου",
+      "song": "ti-mas-melei",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "MusicBrainz — Ξαρχάκος + Κόκοτας (1970)",
+      "url": "https://musicbrainz.org/release-group/354bc259-a595-4189-93bf-27a8755b3a07"
+    }
+  ],
+  "en": {
+    "kind": "Album of songs",
+    "about": [
+      "A joint album by Stavros Xarchakos and Stamatis Kokotas (1970). The lyrics are by Nikos Gatsos, Lefteris Papadopoulos, Iakovos Kambanellis and Zachos Chatzifotiou; the songs include \"Fryni\", \"Acherousia\" and \"Oi Megalexandroi\"."
+    ]
+  }
+}

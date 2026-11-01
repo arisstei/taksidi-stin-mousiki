@@ -1,0 +1,152 @@
+{
+  "slug": "18-lianotragouda-tis-pikris-patridas",
+  "composer": "theodorakis",
+  "title": "18 Λιανοτράγουδα της Πικρής Πατρίδας",
+  "year": 1974,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos",
+  "performers": [
+    "Γιώργος Νταλάρας",
+    "Άννα Βίσση"
+  ],
+  "lyricists": [
+    "Γιάννης Ρίτσος"
+  ],
+  "grade": "A",
+  "about": [
+    "Ο Θεοδωράκης έγραψε τον κύκλο στο Παρίσι το 1971–73 πάνω σε δεκαοχτώ ποιήματα του Γιάννη Ρίτσου (τα δεκαέξι γραμμένα στη Λέρο το 1968, τα δύο τελευταία την Πρωτομαγιά του 1970). Η πρώτη εκτέλεση ήταν στο Albert Hall στις 17 Ιανουαρίου 1973, με τη Μαρία Φαραντούρη, τον Πέτρο Πάνδη, την Αφροδίτη Μάνου και τον Αχιλλέα Κωστούλη· η ηχογράφηση του Παρισιού κυκλοφόρησε το 1973 από την EMI France.",
+    "Την ελληνική εκδοχή, με τον Γιώργο Νταλάρα και δεύτερη φωνή την Άννα Βίσση, την ηχογράφησαν κρυφά στην Ελλάδα επί χούντας· κυκλοφόρησε από τη Minos τον Αύγουστο του 1974, μετά την πτώση της δικτατορίας. Είναι η πιο γνωστή μορφή του έργου."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Αναβάφτιση",
+      "song": "anavaftisi",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Αυγή",
+      "song": "aygi",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Δε φτάνει",
+      "song": "de-ftanei",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Εδώ το φως",
+      "song": "edo-to-fos",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Επιτύμβιο",
+      "song": "epitymvio",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Καρτέρεμα",
+      "song": "karterema",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Κουβέντα με ένα λουλούδι",
+      "song": "kouventa-me-ena-louloudi",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Λαός",
+      "song": "laos",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Μνημόσυνο",
+      "song": "mnimosyno",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ο ταμένος",
+      "song": "o-tamenos",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Πράσινη μέρα",
+      "song": "prasini-mera",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Συλλείτουργο",
+      "song": "sylleitourgo",
+      "stub": true
+    },
+    {
+      "pos": "13",
+      "title": "Τ' άσπρο ξωκλήσι",
+      "song": "t-aspro-xoklisi",
+      "stub": true
+    },
+    {
+      "pos": "14",
+      "title": "Τη ρωμιοσύνη μην την κλαις",
+      "song": "ti-romiosyni-min-tin-klais",
+      "stub": true
+    },
+    {
+      "pos": "15",
+      "title": "Το κυκλάμινο",
+      "song": "to-kyklamino",
+      "stub": true
+    },
+    {
+      "pos": "16",
+      "title": "Το νερό",
+      "song": "to-nero",
+      "stub": true
+    },
+    {
+      "pos": "17",
+      "title": "Το χτίσιμο",
+      "song": "to-xtisimo",
+      "stub": true
+    },
+    {
+      "pos": "18",
+      "title": "Λιγνά κορίτσια",
+      "song": "ligna-koritsia",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — 18 Λιανοτράγουδα της Πικρής Πατρίδας",
+      "url": "https://el.wikipedia.org/wiki/18_%CE%9B%CE%B9%CE%B1%CE%BD%CE%BF%CF%84%CF%81%CE%AC%CE%B3%CE%BF%CF%85%CE%B4%CE%B1_%CF%84%CE%B7%CF%82_%CE%A0%CE%B9%CE%BA%CF%81%CE%AE%CF%82_%CE%A0%CE%B1%CF%84%CF%81%CE%AF%CE%B4%CE%B1%CF%82"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 74)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Χρονολόγιο 1971–1980 (1973–74)",
+      "url": "https://mikisguide.gr/xronologio-1971-1980/"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "Theodorakis wrote the cycle in Paris in 1971–73 on eighteen poems by Yannis Ritsos (sixteen of them written on Leros in 1968, the last two on May Day 1970). It was first performed at the Albert Hall on 17 January 1973 with Maria Farantouri, Petros Pandis, Aphrodite Manou and Achilleas Kostoulis; the Paris recording was released in 1973 by EMI France.",
+      "The Greek version, with Giorgos Dalaras and Anna Vissi on second voice, was recorded secretly in Greece under the junta and released by Minos in August 1974, after the dictatorship fell. It is the best-known form of the work."
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "archipelagos",
+  "composer": "theodorakis",
+  "title": "Αρχιπέλαγος",
+  "year": 1960,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Columbia",
+  "performers": [
+    "Γρηγόρης Μπιθικώτσης",
+    "Μαίρη Λίντα",
+    "Καίτη Θύμη",
+    "Αντώνης Κλειδωνιάρης",
+    "Μανώλης Χιώτης"
+  ],
+  "lyricists": [
+    "Νίκος Γκάτσος",
+    "Οδυσσέας Ελύτης",
+    "Δημήτρης Χριστοδούλου",
+    "Πάνος Κοκκινόπουλος",
+    "Γιάννης Θεοδωράκης",
+    "Μίκης Θεοδωράκης"
+  ],
+  "grade": "B",
+  "about": [
+    "Κύκλος τραγουδιών που ο Θεοδωράκης έγραψε το 1959–61 με στίχους των Γκάτσου, Ελύτη, Χριστοδούλου, Κοκκινόπουλου και Γιάννη Θεοδωράκη (και ένα δικό του). Ηχογραφήθηκε τον Οκτώβριο του 1960 στο στούντιο Columbia, με μηχανικό τον Νίκο Κανελλόπουλο· το εξώφυλλο είναι του Μπόστ.",
+    "Υπάρχουν δύο εκδοχές: η πρώτη με τον Γρηγόρη Μπιθικώτση, τον Μανώλη Χιώτη, την Καίτη Θύμη και τον Αντώνη Κλειδωνιάρη, και η δεύτερη με τη Μαίρη Λίντα και ορχήστρα πνευστών και εγχόρδων. Το 1976 οι δύο εκδοχές συγκεντρώθηκαν σε 12 τραγούδια σε LP. Το έργο θεωρείται από τα πρώτα έντεχνα λαϊκά του συνθέτη μετά τον «Επιτάφιο»."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Μαργαρίτα - Μαργαρώ",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "margarita-margaro",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Είχα φυτέψει μια καρδιά",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "eixa-fytepsei-mia-kardia",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Ροδιά τετράκλωνη",
+      "lyricist": "Πάνος Κοκκινόπουλος",
+      "song": "rodia-tetrakloni",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Ανάμεσα Σύρο και Τζιά",
+      "lyricist": "Οδυσσέας Ελύτης",
+      "song": "anamesa-syro-kai-tzia",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Λειτουργία",
+      "lyricist": "Γιάννης Θεοδωράκης",
+      "song": "leitourgia",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Θ' αφήσω τη μανούλα μου",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "th-afiso-ti-manoula-mou",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Μυρτιά",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "myrtia",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Το παλληκάρι",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "to-pallikari",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Απαγωγή",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "apagogi",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Πάμε μια βόλτα στα Χανιά",
+      "lyricist": "Μίκης Θεοδωράκης",
+      "song": "pame-mia-volta-sta-xania",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Φεύγω μακριά πατρίδα μου",
+      "lyricist": "Δημήτρης Χριστοδούλου",
+      "song": "feygo-makria-patrida-mou",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Σε πότισα ροδόσταμο",
+      "lyricist": "Νίκος Γκάτσος",
+      "song": "se-potisa-rodostamo",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Δισκοβόλος — Μίκης Θεοδωράκης: Αρχιπέλαγος (1960/1976)",
+      "url": "https://diskovolos58.blogspot.com/2020/10/19601976.html"
+    },
+    {
+      "label": "Ίδρυμα Μίκη Θεοδωράκη — Αρχιπέλαγος (εργογραφία)",
+      "url": "https://www.mikistheodorakis.gr/el/music/ergography/beforedictatorship/?nid=4709"
+    },
+    {
+      "label": "Μίκης Θεοδωράκης Οδηγός — Εργογραφία (MT 35)",
+      "url": "https://mikisguide.gr/ergografia-miki-theodoraki/"
+    },
+    {
+      "label": "MusicBrainz — κατάλογος κομματιών της έκδοσης",
+      "url": "https://musicbrainz.org/release/1f1bb94c-4c9b-49a0-abdb-5fd262322918"
+    }
+  ],
+  "en": {
+    "kind": "Song cycle",
+    "about": [
+      "A song cycle Theodorakis wrote in 1959–61 to lyrics by Gatsos, Elytis, Christodoulou, Kokkinopoulos and Giannis Theodorakis (plus one of his own). It was recorded in October 1960 at Columbia studio with engineer Nikos Kanellopoulos; the cover is by Bost.",
+      "There are two versions: the first with Grigoris Bithikotsis, Manolis Chiotis, Kaiti Thymi and Antonis Kleidonaris, and the second with Mary Linda and an orchestra of winds and strings. In 1976 the two versions were gathered into a 12-song LP. The work is counted among the composer's first entechno popular cycles after Epitafios."
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "gia-mia-mera-zois",
+  "composer": "loizos",
+  "title": "Για μια μέρα ζωής",
+  "year": 1980,
+  "type": "cycle",
+  "kind": "Κύκλος τραγουδιών",
+  "label": "Minos EMI",
+  "format": "LP",
+  "performers": [
+    "Μάνος Λοΐζος",
+    "Βασίλης Παπακωνσταντίνου",
+    "Δήμητρα Γαλάνη"
+  ],
+  "lyricists": [
+    "Μάνος Λοΐζος",
+    "Λευτέρης Παπαδόπουλος",
+    "Μανώλης Ρασούλης",
+    "Τάσος Λειβαδίτης",
+    "Φώντας Λάδης",
+    "Ντόρα Σιτζάνη"
+  ],
+  "grade": "B",
+  "about": [
+    "Δίσκος του 1980 με στίχους πολλών δημιουργών, ανάμεσά τους ο Τάσος Λειβαδίτης και η Ντόρα Σιτζάνη. Ερμηνεύουν ο Λοΐζος, ο Βασίλης Παπακωνσταντίνου και η Δήμητρα Γαλάνη."
+  ],
+  "tracks": [
+    {
+      "pos": "1",
+      "title": "Κουτσή κιθάρα",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "koutsi-kithara",
+      "stub": true
+    },
+    {
+      "pos": "2",
+      "title": "Σ' ακολουθώ",
+      "performer": "Μάνος Λοΐζος",
+      "song": "s-akoloutho",
+      "stub": true
+    },
+    {
+      "pos": "3",
+      "title": "Το σήριαλ",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "to-sirial",
+      "stub": true
+    },
+    {
+      "pos": "4",
+      "title": "Η μπαλάντα της νοικοκυράς",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "i-mpalanta-tis-noikokyras",
+      "stub": true
+    },
+    {
+      "pos": "5",
+      "title": "Ντύθηκες Μακρυγιάννης τις απόκριες",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "ntythikes-makrygiannis-tis-apokries",
+      "stub": true
+    },
+    {
+      "pos": "6",
+      "title": "Το λαϊκό καφενείο",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "to-laiko-kafeneio",
+      "stub": true
+    },
+    {
+      "pos": "7",
+      "title": "Σε ψάχνω",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "se-psaxno",
+      "stub": true
+    },
+    {
+      "pos": "8",
+      "title": "Κι αν είμαι rock",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "ki-an-eimai-rock",
+      "stub": true
+    },
+    {
+      "pos": "9",
+      "title": "Πόσο σ' αγαπώ",
+      "performer": "Μάνος Λοΐζος & Δώρα Σιτζάνη",
+      "song": "poso-s-agapo",
+      "stub": true
+    },
+    {
+      "pos": "10",
+      "title": "Ένα καρότσι",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "ena-karotsi",
+      "stub": true
+    },
+    {
+      "pos": "11",
+      "title": "Γερνάς και σκοτεινιάζει",
+      "performer": "Μάνος Λοΐζος & Βασίλης Παπακωνσταντίνου",
+      "song": "gernas-kai-skoteiniazei",
+      "stub": true
+    },
+    {
+      "pos": "12",
+      "title": "Η μέρα εκείνη δε θ' αργήσει",
+      "performer": "Μάνος Λοΐζος & Δήμητρα Γαλάνη",
+      "song": "i-mera-ekeini-de-th-argisei",
+      "stub": true
+    }
+  ],
+  "sources": [
+    {
+      "label": "Βικιπαίδεια — Μάνος Λοΐζος, Δισκογραφία",
+      "url": "https://el.wikipedia.org/wiki/Μάνος_Λοΐζος"
+    },
+    {
+      "label": "Wikipedia — Manos Loizos, Studio albums",
+      "url": "https://en.wikipedia.org/wiki/Manos_Loizos"
+    },
+    {
+      "label": "MusicBrainz — Για μια μέρα ζωής, κυκλοφορία (1980)",
+      "url": "https://musicbrainz.org/release/33d22d77-dfac-4def-9ba7-fbf31573c5c6"
+    }
+  ],
+  "en": {
+    "kind": "Cycle of songs",
+    "about": [
+      "A 1980 album with lyrics by many writers, among them Tasos Livaditis and Dora Sitzani. Sung by Loizos, Vasilis Papakonstantinou and Dimitra Galani."
+    ]
+  }
+}

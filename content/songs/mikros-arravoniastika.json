@@ -1,0 +1,36 @@
+{
+  "slug": "mikros-arravoniastika",
+  "title": "Μικρός Αρραβωνιάστικα",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "1980",
+  "performer": "Γρηγόρης Μπιθικώτσης · Μάρκος Βαμβακάρης · Πρόδρομος Τσαουσάκης",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «40 Χρόνια Βαμβακάρης» (1980), «Μάρκος Βαμβακάρης» (1981), «Αυθεντικές Εκτελέσεις» (1987) και 9 ακόμη.",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — 40 Χρόνια Βαμβακάρης (1980)",
+      "url": "https://www.discogs.com/release/3616625"
+    },
+    {
+      "label": "Discogs — Μάρκος Βαμβακάρης (1981)",
+      "url": "https://www.discogs.com/release/8497596"
+    },
+    {
+      "label": "Discogs — Αυθεντικές Εκτελέσεις (1987)",
+      "url": "https://www.discogs.com/release/7079711"
+    },
+    {
+      "label": "Discogs — The Music Of Marcos Vamvakaris (1988)",
+      "url": "https://www.discogs.com/release/6038132"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “40 Χρόνια Βαμβακάρης” (1980), “Μάρκος Βαμβακάρης” (1981), “Αυθεντικές Εκτελέσεις” (1987) and 9 more.",
+    "story": []
+  }
+}

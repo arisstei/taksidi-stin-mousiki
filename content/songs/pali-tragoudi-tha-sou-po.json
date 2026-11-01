@@ -1,0 +1,24 @@
+{
+  "slug": "pali-tragoudi-tha-sou-po",
+  "title": "Πάλι Τραγούδι Θα Σου Πω",
+  "composer": "Μάρκος Βαμβακάρης",
+  "lyricist": null,
+  "year": "2012",
+  "performer": "Ρεμπέτικη Κομπανία",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τον δίσκο «Ο Δάσκαλός Μας» (2012).",
+  "story": [],
+  "sources": [
+    {
+      "label": "Discogs — Ο Δάσκαλός Μας (2012)",
+      "url": "https://www.discogs.com/release/18994417"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the album “Ο Δάσκαλός Μας” (2012).",
+    "story": []
+  }
+}

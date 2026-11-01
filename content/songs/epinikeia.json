@@ -1,0 +1,28 @@
+{
+  "slug": "epinikeia",
+  "title": "Επινίκεια",
+  "composer": "Σταύρος Ξαρχάκος",
+  "lyricist": "Ιάκωβος Καμπανέλλης",
+  "year": "1974",
+  "performer": "Τζένη Καρέζη, Κώστας Καζάκος, Σταύρος Ξαρχάκος, Νίκος Ξυλούρης και ο θίασος",
+  "status": "stub",
+  "grade": "C",
+  "isStub": true,
+  "teaser": "Από τους δίσκους «Το μεγάλο μας τσίρκο» (1974), «Λυσιστράτη» (2006).",
+  "story": [],
+  "sources": [
+    {
+      "label": "MusicBrainz — Το μεγάλο μας τσίρκο (1974)",
+      "url": "https://musicbrainz.org/release-group/9e4e4721-03fe-4e49-8627-c2006d2f6c34"
+    },
+    {
+      "label": "MusicBrainz — Λυσιστράτη (2006)",
+      "url": "https://musicbrainz.org/release-group/7ac29514-4bd5-4054-bee1-4b24d05d117d"
+    }
+  ],
+  "coverVideoUrl": null,
+  "en": {
+    "teaser": "From the albums “Το μεγάλο μας τσίρκο” (1974), “Λυσιστράτη” (2006).",
+    "story": []
+  }
+}
